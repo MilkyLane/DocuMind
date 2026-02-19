@@ -3,6 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.pipeline import Pipeline
+from sklearn.calibration import CalibratedClassifierCV
 import joblib
 
 from src.features.tfidf import build_vectorizer
@@ -44,10 +45,13 @@ def train():
 
     pipeline = Pipeline([
         ("tfidf", build_vectorizer()),
-        ("clf", LogisticRegression(
-            max_iter=1_000,
-            class_weight="balanced",
-            n_jobs=-1
+        ("clf", CalibratedClassifierCV(
+            LogisticRegression(
+                max_iter=1_000,
+                class_weight="balanced",
+            ),
+            method="isotonic",
+            cv=5
         ))
     ])
 
