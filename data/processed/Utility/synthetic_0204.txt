@@ -1,0 +1,32 @@
+Central Hudson Gas & Electric
+
+Utility Billing
+8244 Church St • Memphis, TN 38101 • Phone: (524) 571-3361
+WATER • SEWER • REFUSE
+
+Bill To: Kevin Garcia
+8244 Church St, Memphis, TN 38101
+
+Account Number:       8836196893135030
+Route:                80
+Cycle:                7
+Bill Date:            06/18/2021
+Due Date:             03/04/2018
+
+                                            Total Current Charges   $ 95.47
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 253.51
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+01/24/2019 - 02/23/2023  27   0650191792   55050         40817           1265 CCF
+
+Service             Consumption   Charge       Total
+Water-SINGLE UNIT   526 CCF    $ 23.47   $ 26.42
+SEWER               121 CCF    $ 38.66    $ 36.44
+REFUSE              --                  $ 15.48    $ 19.40
+
+Total Current Charges   $ 110.84
+Balance Forward         $ 0.00
+Total Amount Due        $ 204.09
+
+PAY ONLINE AT: centralhudsongasandelectric.gov

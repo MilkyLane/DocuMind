@@ -1,0 +1,32 @@
+Central Hudson Gas & Electric
+
+Utility Billing
+1778 Pine St • Columbus, OH 43215 • Phone: (311) 243-3017
+WATER & SEWER • SEWER • REFUSE
+
+Bill To: Jessica Lee
+1778 Pine St, Columbus, OH 43215
+
+Account Number:       42622189092753
+Route:                85
+Cycle:                12
+Bill Date:            11/24/2019
+Due Date:             07/20/2023
+
+                                            Total Current Charges   $ 133.69
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 290.08
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+06/26/2019 - 04/09/2023  26   8999404389   99010         65673           705 CCF
+
+Service             Consumption   Charge       Total
+Water & Sewer-SINGLE UNIT   761 CCF    $ 14.91   $ 90.81
+SEWER               172 CCF    $ 27.27    $ 10.07
+REFUSE              --                  $ 22.49    $ 25.79
+
+Total Current Charges   $ 150.94
+Balance Forward         $ 0.00
+Total Amount Due        $ 245.32
+
+PAY ONLINE AT: centralhudsongasandelectric.gov

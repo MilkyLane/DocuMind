@@ -1,0 +1,32 @@
+Atlantic Financial Bank
+
+Monthly Account Statement
+January 2018
+
+Account Holder: Ashley Garcia
+Address:        4974 2nd St, Columbus, OH - 43215
+Account Number: XXXX XXXX 7200
+IFSC Code:      TNFC0424426
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: CAD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+02/09/2019  | 10/18/2024  | ACH Credit                         |            |   1,020.91 |     2,137.52
+11/19/2023  | 02/21/2024  | Direct Deposit - Payroll           |     429.27 |            |     1,708.26
+03/06/2023  | 11/17/2019  | Grocery Store                      |   1,824.58 |            |         0.00
+05/19/2024  | 12/25/2024  | Wire Transfer                      |   1,312.21 |            |         0.00
+07/07/2022  | 11/13/2019  | Amazon Purchase                    |     602.40 |            |         0.00
+10/14/2022  | 05/09/2019  | Credit Card Payment                |     349.16 |            |         0.00
+07/09/2023  | 10/16/2018  | Check Deposit                      |            |     320.38 |       320.38
+05/23/2019  | 10/06/2024  | Savings Transfer                   |     486.00 |            |         0.00
+04/05/2023  | 01/08/2019  | Interest Credit                    |            |   2,418.26 |     2,418.26
+07/05/2019  | 05/04/2022  | Direct Deposit - Payroll           |     189.78 |            |     2,228.49
+12/01/2021  | 02/11/2019  | Gas Station                        |            |   1,795.92 |     4,024.41
+02/28/2020  | 06/14/2021  | Cash Withdrawal                    |   1,813.54 |            |     2,210.86
+11/07/2024  | 11/05/2019  | Subscription - Netflix             |            |     694.91 |     2,905.78
+-----------------------------------------------------------------------------------------------
+
+Generated on September 03, 2022. For disputes call 1858-456-5967.

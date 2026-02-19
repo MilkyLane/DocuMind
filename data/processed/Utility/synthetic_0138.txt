@@ -1,0 +1,34 @@
+Lakeside Water & Sewer
+2768 Oak Ave, Boston, MA 02101
+Customer Service: 1-800-408-5447
+
+Gas Bill
+
+Bill To:
+Emily Moore
+2768 Oak Ave
+Boston, MA 02101
+
+Account Number:   572520456504
+Bill Date:        05/17/2023
+Due Date:         02/17/2019
+Service Period:   11/06/2024 to 02/20/2024
+Service Address:  2768 Oak Ave, Boston, MA 02101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 294.67
+Payment Received - Thank You  $ -442.60
+Balance Forward:         $ 0.00
+Current Charges:         $ 339.39
+Taxes & Fees:            $ 21.19
+Total Amount Due:        $ 323.99
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    1509 therms
+Same period last year:842 therms
+Average daily usage:  17 therms
+
+Due Date: 02/17/2019
+Pay online at lakesidewaterandsewer.com

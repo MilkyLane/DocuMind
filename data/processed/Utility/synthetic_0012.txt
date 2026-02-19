@@ -1,0 +1,30 @@
+Union Gas
+WATER & SEWER BILL
+
+Bill Date:      10/08/2021
+Bill Month:     JUN-2023
+
+Customer Name:  Kevin Johnson
+Address:        3488 2nd St
+                Indianapolis, IN 46201
+Account No:     9670546688
+Meter No:       27298069
+
+METER READINGS
+Current Reading:   51902
+Previous Reading:  65484
+Units Consumed:    -13582 CCF
+Derived Load:      3.34 kW
+
+CHARGES
+Fixed Charges:             $ 13.18
+Variable Charges:          $ 96.39
+Fuel Adjustment:           $ 5.73
+State Tax:                 $ 17.83
+Local Tax:                 $ 3.50
+-------------------------------------------
+Total Current Charges:     $ 286.83
+Amount Upto 30 days:       $ 143.82
+Amount Upto 60 days:       $ 281.30
+
+Due Date:       04/09/2021

@@ -1,0 +1,35 @@
+Heritage Bank
+Emily Lee
+4606 Lake Rd
+Austin, TX 73301
+
+Account Statement
+
+Account Number:    8196001338
+Account Type:      Current Account
+Statement Period:  10/01/2022 to 04/23/2023
+Currency:          USD
+
+Opening Balance:   $ 14,175.84
+Closing Balance:   $ 8,680.64
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+03/23/2021  Car Loan Payment                                    29.43     12,225.48
+06/04/2018  Subscription - Netflix                 653.79                 11,571.69
+10/09/2024  ATM Withdrawal                       2,544.01                  9,027.68
+07/03/2022  Mortgage Payment                                 1,613.32     10,641.00
+06/19/2019  Refund Credit                                    1,859.37     12,500.38
+05/03/2024  ACH Credit                           1,987.18                 10,513.20
+08/21/2024  Insurance Premium                                1,146.58     11,659.78
+11/09/2023  Cash Withdrawal                      1,072.26                 10,587.52
+03/18/2023  ACH Credit                                       1,831.30     12,418.82
+11/23/2022  ACH Credit                           1,144.57                 11,274.25
+01/08/2024  ATM Withdrawal                                   2,530.13     13,804.38
+02/07/2022  Refund Credit                                    1,209.48     15,013.86
+07/21/2021  Bill Payment - Electricity           1,969.76                 13,044.10
+-----------------------------------------------------------
+
+For questions call 1-800-242-5040 or visit heritagebank.com

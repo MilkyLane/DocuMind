@@ -1,0 +1,34 @@
+Blue Ridge Energy
+7387 Pine St, Boston, MA 02101
+Customer Service: 1-800-808-1977
+
+Gas Bill
+
+Bill To:
+Betty Lee
+7387 Pine St
+Boston, MA 02101
+
+Account Number:   3531531363631797
+Bill Date:        01/14/2019
+Due Date:         04/20/2021
+Service Period:   03/13/2020 to 03/15/2023
+Service Address:  7387 Pine St, Boston, MA 02101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 334.41
+Payment Received - Thank You  $ -489.00
+Balance Forward:         $ 0.00
+Current Charges:         $ 120.77
+Taxes & Fees:            $ 9.86
+Total Amount Due:        $ 100.88
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    327 therms
+Same period last year:1844 therms
+Average daily usage:  64 therms
+
+Due Date: 04/20/2021
+Pay online at blueridgeenergy.com

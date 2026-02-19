@@ -1,0 +1,20 @@
+Midwest Bank
+1608 College Ave
+Baltimore, MD 21201
+
+Account Statement for Emily Garcia
+Account No: 6029914068841333
+From August 08, 2018 To March 11, 2020
+
+08/18/2018  Gas Station                           808.61 CR       4,246.58
+03/22/2018  Online Transfer                     1,700.60 DR       2,545.99
+02/08/2024  Grocery Store                          10.92 CR       2,556.91
+11/11/2019  Gas Station                         1,031.46 DR       1,525.45
+06/13/2018  Wire Transfer                       1,151.14 DR         374.32
+11/18/2020  Mortgage Payment                      157.93 DR         216.39
+03/28/2022  Car Loan Payment                      107.88 DR         108.51
+05/17/2018  Check Deposit                       1,729.60 DR           0.00
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@midwestbank.com

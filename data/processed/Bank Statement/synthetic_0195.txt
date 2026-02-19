@@ -1,0 +1,18 @@
+Heritage Bank
+9619 2nd St
+Nashville, TN 37201
+
+Account Statement for Robert Harris
+Account No: 09649668349604
+From August 17, 2020 To March 03, 2021
+
+03/12/2022  Bank Fee                              778.01 DR       1,939.75
+05/18/2022  Bill Payment - Electricity          1,264.33 DR         675.42
+04/09/2022  Subscription - Netflix              1,935.65 DR           0.00
+10/02/2021  Bill Payment - Electricity          1,008.60 CR       1,008.60
+03/25/2022  Gas Station                           796.43 CR       1,805.02
+01/20/2024  Online Transfer                       145.62 CR       1,950.64
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@heritagebank.com

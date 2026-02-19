@@ -1,0 +1,32 @@
+Sunrise Energy
+
+Utility Billing
+8542 Maple Dr • Charlotte, NC 28201 • Phone: (174) 263-7642
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Donna White
+8542 Maple Dr, Charlotte, NC 28201
+
+Account Number:       1227530463745499
+Route:                97
+Cycle:                9
+Bill Date:            01/09/2023
+Due Date:             06/23/2019
+
+                                            Total Current Charges   $ 279.24
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 269.71
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+05/23/2018 - 11/10/2020  34   3272795687   99929         56217           1493 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   710 kWh    $ 88.58   $ 17.37
+SEWER               278 kWh    $ 28.77    $ 21.28
+REFUSE              --                  $ 37.10    $ 8.93
+
+Total Current Charges   $ 214.04
+Balance Forward         $ 0.00
+Total Amount Due        $ 229.61
+
+PAY ONLINE AT: sunriseenergy.gov

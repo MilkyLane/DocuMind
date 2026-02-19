@@ -1,0 +1,32 @@
+METRO POWER CO.
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 87.26
+Payment Received:           $ -124.17
+Current Charges:            $ 43.40
+Taxes & Surcharges:         $ 36.84
+Amount Due:                 $ 115.71
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $115.71 must be received by 04/21/2018.
+
+ACCOUNT INFORMATION
+Account Number:    1159503428
+Customer Name:     Sarah Thomas
+Service Address:   7050 River Rd, Austin, TX 73301
+Billing Period:    05/03/2022 to 10/02/2022
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 98.78  $ 41.29   $ 0.48   $ 36.78
+Other Charges   $ 6.17   -           $ 4.90    $ 18.79
+Total           $ 145.05  $ 55.02  $ 4.72   $ 115.71
+
+USAGE HISTORY (therms)
+Current Period:  850
+Last Period:     1536
+Same Period Last Year: 778
+
+Pay by phone: 1-800-232-2595
+Pay online:   metropowerco..com

@@ -1,0 +1,30 @@
+Sunrise Energy
+GAS BILL
+
+Bill Date:      12/17/2022
+Bill Month:     JUL-2021
+
+Customer Name:  Jessica Brown
+Address:        4167 1st Ave
+                Nashville, TN 37201
+Account No:     909656101438
+Meter No:       50714611
+
+METER READINGS
+Current Reading:   79214
+Previous Reading:  64518
+Units Consumed:    14696 therms
+Derived Load:      5.10 kW
+
+CHARGES
+Fixed Charges:             $ 10.17
+Variable Charges:          $ 101.76
+Fuel Adjustment:           $ 7.67
+State Tax:                 $ 9.89
+Local Tax:                 $ 7.27
+-------------------------------------------
+Total Current Charges:     $ 116.11
+Amount Upto 30 days:       $ 111.07
+Amount Upto 60 days:       $ 274.00
+
+Due Date:       10/23/2022

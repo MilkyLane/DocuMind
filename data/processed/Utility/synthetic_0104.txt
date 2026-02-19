@@ -1,0 +1,32 @@
+VALLEY WATER DISTRICT
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 184.87
+Payment Received:           $ -117.59
+Current Charges:            $ 243.63
+Taxes & Surcharges:         $ 24.95
+Amount Due:                 $ 381.63
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $381.63 must be received by 09/24/2022.
+
+ACCOUNT INFORMATION
+Account Number:    09480141381138
+Customer Name:     Sarah Thomas
+Service Address:   9242 Sunset Blvd, Baltimore, MD 21201
+Billing Period:    12/04/2024 to 11/19/2020
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 70.70  $ 57.69   $ 4.27   $ 38.74
+Other Charges   $ 15.85   -           $ 2.75    $ 12.62
+Total           $ 108.90  $ 58.05  $ 9.00   $ 381.63
+
+USAGE HISTORY (CCF)
+Current Period:  1961
+Last Period:     771
+Same Period Last Year: 1898
+
+Pay by phone: 1-800-422-6319
+Pay online:   valleywaterdistrict.com

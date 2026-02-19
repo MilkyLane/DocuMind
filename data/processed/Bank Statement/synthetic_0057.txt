@@ -1,0 +1,22 @@
+Pioneer Savings
+7345 Elm St
+Boston, MA 02101
+
+Account Statement for Daniel Thomas
+Account No: 3352110392
+From May 01, 2020 To December 26, 2018
+
+09/07/2019  Rent Payment                          425.93 DR       6,599.96
+08/20/2023  Bill Payment - Electricity            524.73 CR       7,124.69
+07/19/2023  Amazon Purchase                     1,339.84 CR       8,464.53
+05/07/2024  Refund Credit                         348.94 DR       8,115.60
+11/01/2018  Subscription - Netflix                115.64 CR       8,231.24
+11/12/2024  Check Deposit                       1,329.33 CR       9,560.57
+11/13/2019  Subscription - Netflix              1,736.15 DR       7,824.42
+06/16/2024  Credit Card Payment                 1,422.28 CR       9,246.70
+09/15/2022  Refund Credit                         380.97 CR       9,627.67
+09/10/2020  Restaurant                            502.31 DR       9,125.36
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pioneersavings.com

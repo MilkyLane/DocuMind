@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Valley Water District
+Account Number: 2255794155
+Customer Number: 1202169797
+Service Address: 1998 Oak Ave, Columbus OH 43215
+Tax Invoice  Issue Date: 03/04/2021
+
+This account is based on an estimated meter reading
+Water & Sewer account summary: 12/28/2021 to 07/21/2024
+
+Plan: Time-of-Use
+Opening balance:                $ 183.41
+Payment received - thank you    $ -258.77Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 356.78
+Total amount due                $ 301.82
+
+Due Date: 07/15/2020
+Total amount if paid after due date: $ 406.71
+
+Bill To:
+Andrew White
+1998 Oak Ave
+Columbus, OH 43215
+
+Water & Sewer Usage Summary
+Meter Reading:  73318 CCF
+Previous:       73979 CCF
+Usage:          331 CCF
+Days in period: 31

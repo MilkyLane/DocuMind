@@ -1,0 +1,37 @@
+Liberty Bank
+Member FDIC
+
+Robert Johnson
+2321 College Ave
+Indianapolis, IN 46201
+
+Business Checking Statement
+Account Number: 2095799270795515
+Statement Period: 02/06/2019 through 10/10/2023
+Page 1 of 2
+
+Account Summary
+Previous Balance:    $ 64,691.91
+Deposits/Credits:    $ 4,728.46
+Withdrawals/Debits:  $ 2,417.56
+Service Charges:     $ 21.80
+Ending Balance:      $ 9,663.36
+
+Transaction Detail
+11/07/2023  Car Loan Payment                     2,805.74                 15,612.78
+02/12/2022  NSF Fee Reversal                     2,380.42                 13,232.36
+10/14/2019  Insurance Premium                    1,869.37                 11,362.99
+05/17/2018  Restaurant                                         584.15     11,947.14
+11/08/2023  Mortgage Payment                       508.98                 11,438.17
+06/02/2020  Interest Credit                      2,988.50                  8,449.67
+11/03/2020  Rent Payment                                     1,973.51     10,423.18
+10/01/2023  Utility Bill                         2,617.40                  7,805.78
+08/13/2021  ATM Withdrawal                       1,148.21                  6,657.57
+07/11/2020  NSF Fee Reversal                                   818.15      7,475.72
+07/14/2023  Car Loan Payment                                 2,981.02     10,456.74
+05/18/2019  Restaurant                           1,045.25                  9,411.49
+08/22/2018  NSF Fee Reversal                       259.09                  9,152.40
+09/04/2018  NSF Fee Reversal                                   962.66     10,115.06
+
+Overdraft Protection: Enrolled
+Next Statement Date: 02/28/2018

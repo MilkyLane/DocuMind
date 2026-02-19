@@ -1,0 +1,34 @@
+Horizon Bank
+Member FDIC
+
+Andrew Taylor
+683 Cedar Ln
+Boston, MA 02101
+
+Business Checking Statement
+Account Number: 8632181227
+Statement Period: 07/09/2020 through 08/23/2022
+Page 1 of 5
+
+Account Summary
+Previous Balance:    $ 63,430.40
+Deposits/Credits:    $ 25,576.84
+Withdrawals/Debits:  $ 3,095.00
+Service Charges:     $ 15.12
+Ending Balance:      $ 42,686.01
+
+Transaction Detail
+09/19/2021  ATM Withdrawal                                   2,797.48     21,254.20
+03/20/2023  Savings Transfer                     1,124.66                 20,129.55
+09/24/2018  Car Loan Payment                                   312.36     20,441.90
+07/13/2018  POS Purchase                                     2,250.31     22,692.21
+11/24/2018  Grocery Store                                      778.01     23,470.22
+10/09/2020  Credit Card Payment                              2,383.00     25,853.21
+04/23/2024  ATM Withdrawal                                   2,564.19     28,417.40
+07/09/2023  Refund Credit                        1,424.03                 26,993.38
+11/02/2022  Subscription - Netflix                             837.79     27,831.17
+05/01/2021  Wire Transfer                                    2,037.84     29,869.01
+03/09/2020  Gas Station                          1,248.83                 28,620.18
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 10/10/2023

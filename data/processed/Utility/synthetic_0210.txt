@@ -1,0 +1,32 @@
+National Grid
+
+Utility Billing
+7990 Church St • Seattle, WA 98101 • Phone: (027) 251-9182
+WATER • SEWER • REFUSE
+
+Bill To: Joshua White
+7990 Church St, Seattle, WA 98101
+
+Account Number:       659608931992
+Route:                50
+Cycle:                2
+Bill Date:            06/22/2024
+Due Date:             12/24/2024
+
+                                            Total Current Charges   $ 243.84
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 211.97
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+05/17/2023 - 01/15/2024  27   9103368296   74265         63841           133 CCF
+
+Service             Consumption   Charge       Total
+Water-SINGLE UNIT   409 CCF    $ 90.70   $ 55.19
+SEWER               113 CCF    $ 36.47    $ 34.20
+REFUSE              --                  $ 20.96    $ 19.36
+
+Total Current Charges   $ 113.96
+Balance Forward         $ 0.00
+Total Amount Due        $ 153.92
+
+PAY ONLINE AT: nationalgrid.gov

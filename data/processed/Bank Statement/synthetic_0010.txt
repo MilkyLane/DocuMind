@@ -1,0 +1,35 @@
+Atlantic Financial Bank
+Jessica Wilson
+9524 Main St
+Boston, MA 02101
+
+Account Statement
+
+Account Number:    90278742967175
+Account Type:      Money Market
+Statement Period:  07/11/2020 to 11/04/2024
+Currency:          USD
+
+Opening Balance:   $ 3,636.08
+Closing Balance:   $ 8,527.08
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+09/02/2021  Online Transfer                                  2,442.56      8,918.70
+07/28/2022  Direct Deposit - Payroll               976.59                  7,942.11
+07/02/2019  Amazon Purchase                                  1,632.35      9,574.47
+11/15/2024  ATM Withdrawal                       2,271.77                  7,302.70
+05/15/2023  Restaurant                           1,652.17                  5,650.54
+10/26/2019  Refund Credit                        2,919.71                  2,730.83
+09/14/2018  ACH Credit                           1,657.01                  1,073.82
+08/04/2023  Bill Payment - Electricity                       2,739.66      3,813.48
+09/23/2020  Grocery Store                        2,152.64                  1,660.83
+04/15/2022  Bill Payment - Electricity                       2,940.93      4,601.77
+09/24/2019  Online Transfer                      2,766.39                  1,835.38
+07/11/2024  Amazon Purchase                      2,372.12                      0.00
+12/10/2024  Utility Bill                            17.67                      0.00
+-----------------------------------------------------------
+
+For questions call 1-800-986-3434 or visit atlanticfinancialbank.com

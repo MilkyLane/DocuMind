@@ -1,0 +1,31 @@
+Gas Bill
+
+Central Hudson Gas & Electric
+Account Number: 684577600490
+Customer Number: 1075224593
+Service Address: 5399 Lake Rd, Boston MA 02101
+Tax Invoice  Issue Date: 09/05/2020
+
+This account is based on an actual meter reading
+Gas account summary: 06/01/2024 to 12/27/2020
+
+Plan: Standard Rate
+Opening balance:                $ 171.15
+Payment received - thank you    $ -170.72Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 118.28
+Total amount due                $ 67.79
+
+Due Date: 01/10/2019
+Total amount if paid after due date: $ 179.88
+
+Bill To:
+Carol Lee
+5399 Lake Rd
+Boston, MA 02101
+
+Gas Usage Summary
+Meter Reading:  73246 therms
+Previous:       32662 therms
+Usage:          1099 therms
+Days in period: 33

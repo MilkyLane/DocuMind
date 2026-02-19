@@ -1,0 +1,27 @@
+Summit Bank
+4354 Church St
+Portland, OR 97201
+
+Account Statement for Kimberly Robinson
+Account No: 479552763655
+From July 09, 2021 To March 19, 2019
+
+04/18/2021  Subscription - Netflix              1,444.42 CR      11,891.60
+12/05/2021  NSF Fee Reversal                    1,602.07 DR      10,289.52
+03/28/2023  Amazon Purchase                       848.83 DR       9,440.69
+08/10/2020  Rent Payment                          638.30 CR      10,078.99
+02/23/2019  ATM Withdrawal                        104.94 CR      10,183.93
+11/04/2021  Interest Credit                       516.04 DR       9,667.90
+09/18/2024  Mobile Deposit                        728.31 DR       8,939.58
+06/28/2023  Credit Card Payment                   829.40 DR       8,110.18
+11/18/2019  Bank Fee                            1,156.03 DR       6,954.15
+09/16/2024  Interest Credit                       656.93 DR       6,297.22
+10/10/2021  Savings Transfer                      166.03 DR       6,131.19
+11/26/2020  Grocery Store                       1,737.83 CR       7,869.02
+02/03/2019  Car Loan Payment                    1,147.56 CR       9,016.58
+05/23/2020  Credit Card Payment                   640.59 DR       8,375.99
+08/25/2024  Insurance Premium                     549.78 CR       8,925.78
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@summitbank.com

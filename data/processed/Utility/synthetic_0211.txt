@@ -1,0 +1,30 @@
+Valley Water District
+WATER & SEWER BILL
+
+Bill Date:      02/21/2018
+Bill Month:     OCT-2022
+
+Customer Name:  Dorothy Brown
+Address:        2980 Sunset Blvd
+                Seattle, WA 98101
+Account No:     28928664649111
+Meter No:       78904633
+
+METER READINGS
+Current Reading:   99148
+Previous Reading:  89265
+Units Consumed:    9883 CCF
+Derived Load:      4.43 kW
+
+CHARGES
+Fixed Charges:             $ 9.89
+Variable Charges:          $ 99.22
+Fuel Adjustment:           $ 2.74
+State Tax:                 $ 19.42
+Local Tax:                 $ 9.23
+-------------------------------------------
+Total Current Charges:     $ 141.49
+Amount Upto 30 days:       $ 251.51
+Amount Upto 60 days:       $ 242.63
+
+Due Date:       10/14/2018

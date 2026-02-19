@@ -1,0 +1,29 @@
+Cornerstone Bank
+
+Monthly Account Statement
+October 2023
+
+Account Holder: Sandra Thompson
+Address:        1660 Sunset Blvd, Portland, OR - 97201
+Account Number: XXXX XXXX 1115
+IFSC Code:      JHJV0221890
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+02/13/2022  | 12/09/2023  | Insurance Premium                  |     198.04 |            |     9,405.25
+10/01/2024  | 12/03/2023  | Gas Station                        |   1,225.23 |            |     8,180.02
+02/26/2022  | 07/07/2021  | Wire Transfer                      |            |   1,746.25 |     9,926.27
+05/11/2022  | 10/05/2022  | Restaurant                         |     813.93 |            |     9,112.33
+01/02/2018  | 11/26/2024  | Gas Station                        |            |   2,236.45 |    11,348.78
+03/15/2021  | 01/14/2019  | Refund Credit                      |   2,324.29 |            |     9,024.49
+05/06/2024  | 05/03/2023  | Insurance Premium                  |            |   2,206.55 |    11,231.04
+11/06/2018  | 07/21/2020  | Interest Credit                    |     935.89 |            |    10,295.15
+11/03/2023  | 02/01/2019  | Restaurant                         |            |     593.02 |    10,888.17
+09/22/2021  | 01/01/2023  | Car Loan Payment                   |   1,488.26 |            |     9,399.91
+-----------------------------------------------------------------------------------------------
+
+Generated on August 12, 2023. For disputes call 1827-743-3480.

@@ -1,0 +1,31 @@
+Electric Bill
+
+Blue Ridge Energy
+Account Number: 54110825559895
+Customer Number: 9337118954
+Service Address: 3128 College Ave, Denver CO 80201
+Tax Invoice  Issue Date: 04/21/2020
+
+This account is based on an actual meter reading
+Electric account summary: 02/05/2023 to 12/20/2018
+
+Plan: Flat Rate
+Opening balance:                $ 160.07
+Payment received - thank you    $ -46.10Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 86.02
+Total amount due                $ 190.56
+
+Due Date: 04/19/2021
+Total amount if paid after due date: $ 334.64
+
+Bill To:
+Robert White
+3128 College Ave
+Denver, CO 80201
+
+Electric Usage Summary
+Meter Reading:  83445 kWh
+Previous:       55526 kWh
+Usage:          1932 kWh
+Days in period: 30

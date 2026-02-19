@@ -1,0 +1,31 @@
+Electric Bill
+
+Central Hudson Gas & Electric
+Account Number: 1111615280988516
+Customer Number: 2731585149
+Service Address: 4276 Elm St, Charlotte NC 28201
+Tax Invoice  Issue Date: 06/28/2023
+
+This account is based on an actual meter reading
+Electric account summary: 05/20/2020 to 06/04/2022
+
+Plan: Fixed Rate
+Opening balance:                $ 184.07
+Payment received - thank you    $ -192.81Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 49.45
+Total amount due                $ 374.47
+
+Due Date: 07/28/2023
+Total amount if paid after due date: $ 381.78
+
+Bill To:
+Andrew Rodriguez
+4276 Elm St
+Charlotte, NC 28201
+
+Electric Usage Summary
+Meter Reading:  45054 kWh
+Previous:       13794 kWh
+Usage:          469 kWh
+Days in period: 30

@@ -1,0 +1,32 @@
+CLEARWATER UTILITIES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 226.59
+Payment Received:           $ -183.33
+Current Charges:            $ 343.03
+Taxes & Surcharges:         $ 28.49
+Amount Due:                 $ 96.28
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $96.28 must be received by 09/02/2022.
+
+ACCOUNT INFORMATION
+Account Number:    11800537599004
+Customer Name:     Nancy Lewis
+Service Address:   6383 Sunset Blvd, Baltimore, MD 21201
+Billing Period:    05/06/2022 to 08/11/2021
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 21.87  $ 28.80   $ 5.30   $ 45.52
+Other Charges   $ 2.34   -           $ 0.22    $ 3.20
+Total           $ 134.60  $ 85.13  $ 11.22   $ 96.28
+
+USAGE HISTORY (therms)
+Current Period:  1946
+Last Period:     930
+Same Period Last Year: 629
+
+Pay by phone: 1-800-997-5312
+Pay online:   clearwaterutilities.com

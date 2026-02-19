@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 166.42
+Payment Received:           $ -395.32
+Current Charges:            $ 137.16
+Taxes & Surcharges:         $ 7.03
+Amount Due:                 $ 208.22
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $208.22 must be received by 04/25/2024.
+
+ACCOUNT INFORMATION
+Account Number:    8460223569725217
+Customer Name:     David Martin
+Service Address:   3287 Cedar Ln, Memphis, TN 38101
+Billing Period:    10/25/2019 to 08/26/2024
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 80.18  $ 14.71   $ 4.34   $ 97.29
+Other Charges   $ 8.58   -           $ 2.39    $ 0.12
+Total           $ 94.05  $ 75.76  $ 14.25   $ 208.22
+
+USAGE HISTORY (therms)
+Current Period:  1876
+Last Period:     709
+Same Period Last Year: 1600
+
+Pay by phone: 1-800-953-9700
+Pay online:   pacificgasandelectric.com

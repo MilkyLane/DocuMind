@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 273.17
+Payment Received:           $ -357.48
+Current Charges:            $ 265.67
+Taxes & Surcharges:         $ 33.75
+Amount Due:                 $ 381.54
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $381.54 must be received by 04/15/2022.
+
+ACCOUNT INFORMATION
+Account Number:    809202428699
+Customer Name:     Betty Johnson
+Service Address:   2195 Park Blvd, Boston, MA 02101
+Billing Period:    08/06/2019 to 07/20/2019
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 81.52  $ 66.53   $ 1.82   $ 138.74
+Other Charges   $ 5.29   -           $ 3.62    $ 8.57
+Total           $ 84.42  $ 63.15  $ 3.45   $ 381.54
+
+USAGE HISTORY (CCF)
+Current Period:  839
+Last Period:     320
+Same Period Last Year: 272
+
+Pay by phone: 1-800-116-4315
+Pay online:   pacificgasandelectric.com

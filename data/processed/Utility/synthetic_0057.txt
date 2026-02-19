@@ -1,0 +1,31 @@
+Water Bill
+
+Lakeside Water & Sewer
+Account Number: 1701277063
+Customer Number: 0643611037
+Service Address: 8051 Oak Ave, Charlotte NC 28201
+Tax Invoice  Issue Date: 12/05/2023
+
+This account is based on an actual meter reading
+Water account summary: 02/21/2020 to 05/03/2020
+
+Plan: Fixed Rate
+Opening balance:                $ 203.99
+Payment received - thank you    $ -2.79Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 290.41
+Total amount due                $ 334.16
+
+Due Date: 05/06/2024
+Total amount if paid after due date: $ 445.26
+
+Bill To:
+William Martinez
+8051 Oak Ave
+Charlotte, NC 28201
+
+Water Usage Summary
+Meter Reading:  65353 CCF
+Previous:       27324 CCF
+Usage:          1078 CCF
+Days in period: 28

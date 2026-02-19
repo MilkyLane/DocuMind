@@ -1,0 +1,32 @@
+Pacific Gas & Electric
+
+Utility Billing
+740 Elm St • Nashville, TN 37201 • Phone: (005) 324-5582
+WATER • SEWER • REFUSE
+
+Bill To: Betty Taylor
+740 Elm St, Nashville, TN 37201
+
+Account Number:       24033810595518
+Route:                32
+Cycle:                5
+Bill Date:            05/24/2019
+Due Date:             07/20/2020
+
+                                            Total Current Charges   $ 292.33
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 175.09
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+10/04/2023 - 12/23/2021  35   9837354396   74159         49721           1081 CCF
+
+Service             Consumption   Charge       Total
+Water-SINGLE UNIT   195 CCF    $ 54.64   $ 51.35
+SEWER               140 CCF    $ 13.50    $ 27.07
+REFUSE              --                  $ 30.53    $ 27.66
+
+Total Current Charges   $ 44.42
+Balance Forward         $ 0.00
+Total Amount Due        $ 74.21
+
+PAY ONLINE AT: pacificgasandelectric.gov

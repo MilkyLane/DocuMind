@@ -1,0 +1,41 @@
+Valley National Bank
+Member FDIC
+
+Emily Thompson
+4845 Main St
+Seattle, WA 98101
+
+Business Checking Statement
+Account Number: 8103903397051958
+Statement Period: 03/13/2019 through 03/18/2018
+Page 1 of 1
+
+Account Summary
+Previous Balance:    $ 70,542.95
+Deposits/Credits:    $ 37,315.71
+Withdrawals/Debits:  $ 5,402.52
+Service Charges:     $ 10.07
+Ending Balance:      $ 43,626.14
+
+Transaction Detail
+09/13/2019  Wire Transfer                        1,673.23                 13,467.60
+04/11/2020  Subscription - Netflix                             776.27     14,243.87
+01/15/2022  Savings Transfer                       863.29                 13,380.58
+04/06/2018  ATM Withdrawal                                   2,312.35     15,692.93
+04/07/2024  Utility Bill                           329.12                 15,363.81
+12/22/2019  Utility Bill                                       902.84     16,266.65
+01/21/2023  ACH Credit                                       1,089.21     17,355.86
+05/07/2022  Direct Deposit - Payroll                         2,654.30     20,010.15
+03/28/2020  Wire Transfer                          657.11                 19,353.05
+12/11/2021  Subscription - Netflix               2,162.63                 17,190.42
+08/16/2022  Credit Card Payment                                504.12     17,694.54
+04/03/2022  Check Deposit                        2,960.48                 14,734.06
+10/02/2024  Direct Deposit - Payroll                         2,559.52     17,293.58
+05/15/2021  Interest Credit                                  2,791.18     20,084.76
+01/12/2019  Savings Transfer                                   486.87     20,571.62
+06/03/2020  Grocery Store                        1,275.27                 19,296.36
+01/04/2020  Bill Payment - Electricity                         899.44     20,195.79
+04/04/2023  Interest Credit                      2,791.08                 17,404.72
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 10/23/2022

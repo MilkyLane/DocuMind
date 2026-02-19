@@ -1,0 +1,28 @@
+Pacific Trust Bank
+
+Monthly Account Statement
+December 2019
+
+Account Holder: Kevin Jones
+Address:        8941 Pine St, Nashville, TN - 37201
+Account Number: XXXX XXXX 4415
+IFSC Code:      RPEC0392957
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+03/27/2019  | 01/21/2021  | Interest Credit                    |            |   1,899.46 |     6,007.06
+07/19/2023  | 11/13/2024  | Grocery Store                      |     231.87 |            |     5,775.18
+06/06/2018  | 05/12/2019  | Refund Credit                      |   1,191.27 |            |     4,583.91
+02/06/2020  | 07/07/2019  | Insurance Premium                  |     637.52 |            |     3,946.39
+06/15/2024  | 02/17/2020  | Direct Deposit - Payroll           |            |   1,586.19 |     5,532.58
+09/02/2023  | 06/04/2019  | Direct Deposit - Payroll           |            |     161.64 |     5,694.23
+01/11/2021  | 05/01/2024  | Utility Bill                       |            |   1,327.51 |     7,021.74
+03/07/2023  | 10/16/2019  | Rent Payment                       |            |   2,149.80 |     9,171.54
+11/05/2022  | 06/19/2019  | Gas Station                        |     869.67 |            |     8,301.87
+-----------------------------------------------------------------------------------------------
+
+Generated on July 26, 2021. For disputes call 1814-784-2072.

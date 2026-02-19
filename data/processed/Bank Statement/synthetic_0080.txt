@@ -1,0 +1,25 @@
+First National Bank
+
+Monthly Account Statement
+March 2022
+
+Account Holder: Mark Williams
+Address:        1661 Oak Ave, Memphis, TN - 38101
+Account Number: XXXX XXXX 4993
+IFSC Code:      PZNO0613715
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+06/15/2019  | 02/11/2023  | Amazon Purchase                    |   1,264.33 |            |     7,652.73
+06/02/2019  | 08/28/2024  | Mobile Deposit                     |     658.41 |            |     6,994.32
+05/09/2022  | 05/17/2020  | Grocery Store                      |            |   2,316.33 |     9,310.65
+08/25/2019  | 09/28/2023  | Savings Transfer                   |            |     795.70 |    10,106.35
+03/02/2019  | 03/02/2021  | Mobile Deposit                     |            |     142.52 |    10,248.88
+02/16/2018  | 08/12/2023  | Rent Payment                       |   1,173.16 |            |     9,075.71
+-----------------------------------------------------------------------------------------------
+
+Generated on November 22, 2018. For disputes call 1850-482-2737.

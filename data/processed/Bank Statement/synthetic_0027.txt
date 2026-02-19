@@ -1,0 +1,19 @@
+City Savings Bank
+3143 2nd St
+Nashville, TN 37201
+
+Account Statement for Kenneth White
+Account No: 31142626551104
+From August 12, 2024 To May 04, 2019
+
+07/04/2018  Online Transfer                     1,113.93 DR       2,103.25
+10/26/2020  Subscription - Netflix                195.20 DR       1,908.05
+02/24/2022  ACH Credit                            833.48 DR       1,074.57
+07/06/2019  Mobile Deposit                        347.47 CR       1,422.04
+02/06/2021  Mobile Deposit                        991.32 DR         430.72
+02/12/2020  ACH Credit                            973.62 DR           0.00
+10/07/2021  Check Deposit                         996.65 CR         996.65
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@citysavingsbank.com

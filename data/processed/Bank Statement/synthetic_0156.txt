@@ -1,0 +1,29 @@
+Horizon Bank
+Andrew Garcia
+7916 Elm St
+Charlotte, NC 28201
+
+Account Statement
+
+Account Number:    8065625904599080
+Account Type:      Current Account
+Statement Period:  12/23/2023 to 03/16/2018
+Currency:          USD
+
+Opening Balance:   $ 18,575.50
+Closing Balance:   $ 3,228.27
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+06/12/2020  Online Transfer                                    712.69     11,645.52
+08/13/2022  ATM Withdrawal                       2,255.04                  9,390.48
+07/23/2019  Rent Payment                                     1,929.04     11,319.52
+08/06/2018  Bank Fee                                         2,444.95     13,764.46
+04/02/2023  Cash Withdrawal                                    789.66     14,554.12
+12/08/2021  ATM Withdrawal                                     166.92     14,721.05
+03/28/2019  Amazon Purchase                      2,278.00                 12,443.05
+-----------------------------------------------------------
+
+For questions call 1-800-430-7349 or visit horizonbank.com

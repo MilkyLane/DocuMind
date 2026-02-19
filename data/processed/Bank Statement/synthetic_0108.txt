@@ -1,0 +1,36 @@
+PIONEER SAVINGS
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Ashley Martin
+Customer ID:     845964
+Address:         6842 Pine St, Baltimore, MD 21201
+Account Number:  4120092820
+Account Type:    Checking
+Statement Date:  December 12, 2019
+Period Covered:  07/27/2021 to 11/15/2022
+
+Opening Balance:        41,646.39
+Total Credit Amount:    27,614.93
+Total Debit Amount:     10,286.51
+Closing Balance:        21,425.91
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+07/05/2023  Wire Transfer                          284.89                 18,412.66
+07/06/2024  Interest Credit                        177.43                 18,235.23
+02/27/2023  Gas Station                                      1,819.20     20,054.43
+07/27/2021  POS Purchase                         1,961.57                 18,092.86
+07/07/2020  Check Deposit                        1,120.72                 16,972.14
+06/01/2019  Mortgage Payment                     1,094.48                 15,877.66
+04/20/2018  Bank Fee                               328.33                 15,549.33
+04/21/2018  ACH Credit                                         571.35     16,120.69
+10/02/2022  NSF Fee Reversal                     2,930.22                 13,190.46
+02/10/2018  Insurance Premium                      153.67                 13,036.80
+09/07/2020  Bank Fee                                         2,876.63     15,913.43
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: IXNNUS1A

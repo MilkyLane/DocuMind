@@ -1,0 +1,31 @@
+Midwest Bank
+Member FDIC
+
+Paul Rodriguez
+7267 Hill St
+Nashville, TN 37201
+
+Business Checking Statement
+Account Number: 1110961798
+Statement Period: 02/21/2021 through 09/19/2024
+Page 1 of 2
+
+Account Summary
+Previous Balance:    $ 49,685.17
+Deposits/Credits:    $ 16,036.05
+Withdrawals/Debits:  $ 1,737.11
+Service Charges:     $ 46.94
+Ending Balance:      $ 26,031.60
+
+Transaction Detail
+08/18/2021  Check Deposit                                      643.49     14,329.99
+02/12/2024  Gas Station                          1,414.03                 12,915.96
+12/26/2023  Subscription - Netflix               2,463.05                 10,452.91
+04/17/2020  Mobile Deposit                       1,130.18                  9,322.73
+07/22/2019  Direct Deposit - Payroll                           800.85     10,123.58
+01/01/2019  NSF Fee Reversal                                 1,249.52     11,373.10
+12/20/2020  Car Loan Payment                     2,451.95                  8,921.15
+07/08/2022  Subscription - Netflix               1,720.84                  7,200.31
+
+Overdraft Protection: Enrolled
+Next Statement Date: 07/24/2019

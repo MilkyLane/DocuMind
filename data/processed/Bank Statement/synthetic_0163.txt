@@ -1,0 +1,31 @@
+Atlantic Financial Bank
+
+Monthly Account Statement
+July 2022
+
+Account Holder: Emily Miller
+Address:        1593 River Rd, Boston, MA - 02101
+Account Number: XXXX XXXX 9092
+IFSC Code:      HMLE0039111
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+07/23/2021  | 08/05/2023  | Subscription - Netflix             |   2,119.73 |            |     4,849.66
+01/18/2024  | 05/07/2023  | Restaurant                         |            |   1,879.23 |     6,728.89
+06/11/2018  | 08/17/2022  | Subscription - Netflix             |   2,189.12 |            |     4,539.78
+06/05/2023  | 02/20/2024  | Refund Credit                      |            |   1,520.32 |     6,060.10
+07/07/2019  | 06/12/2021  | Mobile Deposit                     |            |     429.27 |     6,489.37
+04/13/2022  | 08/01/2023  | Utility Bill                       |     733.79 |            |     5,755.58
+08/23/2024  | 01/13/2022  | Insurance Premium                  |   1,746.98 |            |     4,008.60
+07/24/2021  | 07/03/2021  | Mobile Deposit                     |      61.03 |            |     3,947.57
+05/16/2019  | 03/08/2024  | Utility Bill                       |     680.11 |            |     3,267.46
+04/28/2018  | 07/12/2018  | Bank Fee                           |            |   1,501.77 |     4,769.23
+03/03/2022  | 12/18/2018  | Mobile Deposit                     |   1,770.69 |            |     2,998.54
+08/05/2020  | 03/28/2021  | Mobile Deposit                     |   2,330.71 |            |       667.83
+-----------------------------------------------------------------------------------------------
+
+Generated on September 04, 2024. For disputes call 1859-666-7044.

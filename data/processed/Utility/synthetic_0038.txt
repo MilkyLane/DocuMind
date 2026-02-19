@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+National Grid
+Account Number: 104696325953
+Customer Number: 9500479748
+Service Address: 4482 Lake Rd, Seattle WA 98101
+Tax Invoice  Issue Date: 03/16/2022
+
+This account is based on an estimated meter reading
+Water & Sewer account summary: 01/03/2021 to 09/15/2019
+
+Plan: Time-of-Use
+Opening balance:                $ 218.25
+Payment received - thank you    $ -229.16Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 171.74
+Total amount due                $ 184.21
+
+Due Date: 08/16/2020
+Total amount if paid after due date: $ 278.11
+
+Bill To:
+Michelle Brown
+4482 Lake Rd
+Seattle, WA 98101
+
+Water & Sewer Usage Summary
+Meter Reading:  35513 CCF
+Previous:       57516 CCF
+Usage:          1233 CCF
+Days in period: 30

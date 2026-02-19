@@ -1,0 +1,30 @@
+CITY SAVINGS BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Anthony Taylor
+Customer ID:     148823
+Address:         1420 Oak Ave, Nashville, TN 37201
+Account Number:  6687002176591803
+Account Type:    Checking
+Statement Date:  October 25, 2022
+Period Covered:  04/28/2023 to 10/16/2020
+
+Opening Balance:        46,283.80
+Total Credit Amount:    20,690.65
+Total Debit Amount:     5,967.27
+Closing Balance:        16,519.41
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+04/19/2019  Bank Fee                                            56.82      4,464.55
+02/10/2019  Utility Bill                                     2,464.50      6,929.05
+07/22/2022  Car Loan Payment                     2,505.61                  4,423.45
+12/24/2018  Amazon Purchase                      2,221.84                  2,201.61
+02/14/2019  Online Transfer                                  1,044.12      3,245.73
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: KUAHUS9R

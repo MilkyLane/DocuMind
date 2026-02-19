@@ -1,0 +1,32 @@
+SOUTHERN ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 374.73
+Payment Received:           $ -104.62
+Current Charges:            $ 340.75
+Taxes & Surcharges:         $ 24.12
+Amount Due:                 $ 227.59
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $227.59 must be received by 11/23/2020.
+
+ACCOUNT INFORMATION
+Account Number:    52578284106727
+Customer Name:     Kimberly Miller
+Service Address:   3461 Oak Ave, Memphis, TN 38101
+Billing Period:    05/25/2022 to 11/05/2024
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 60.87  $ 73.02   $ 4.42   $ 144.05
+Other Charges   $ 14.63   -           $ 4.50    $ 3.49
+Total           $ 96.12  $ 37.73  $ 6.02   $ 227.59
+
+USAGE HISTORY (CCF)
+Current Period:  1772
+Last Period:     501
+Same Period Last Year: 963
+
+Pay by phone: 1-800-465-2515
+Pay online:   southernelectric.com

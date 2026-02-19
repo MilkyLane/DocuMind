@@ -1,0 +1,31 @@
+Electric Bill
+
+Municipal Gas Authority
+Account Number: 14967393852580
+Customer Number: 4300910939
+Service Address: 4566 River Rd, Charlotte NC 28201
+Tax Invoice  Issue Date: 11/01/2024
+
+This account is based on an estimated meter reading
+Electric account summary: 09/04/2023 to 08/12/2019
+
+Plan: Fixed Rate
+Opening balance:                $ 240.96
+Payment received - thank you    $ -55.43Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 79.90
+Total amount due                $ 106.33
+
+Due Date: 02/01/2021
+Total amount if paid after due date: $ 167.83
+
+Bill To:
+Carol Robinson
+4566 River Rd
+Charlotte, NC 28201
+
+Electric Usage Summary
+Meter Reading:  96570 kWh
+Previous:       19924 kWh
+Usage:          1408 kWh
+Days in period: 31

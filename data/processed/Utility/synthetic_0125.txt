@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Valley Water District
+Account Number: 4066504427
+Customer Number: 7410119470
+Service Address: 5398 Park Blvd, Denver CO 80201
+Tax Invoice  Issue Date: 02/16/2019
+
+This account is based on an actual meter reading
+Water & Sewer account summary: 02/05/2022 to 07/07/2022
+
+Plan: Flat Rate
+Opening balance:                $ 195.86
+Payment received - thank you    $ -0.26Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 53.62
+Total amount due                $ 180.57
+
+Due Date: 10/13/2019
+Total amount if paid after due date: $ 110.64
+
+Bill To:
+Carol Lewis
+5398 Park Blvd
+Denver, CO 80201
+
+Water & Sewer Usage Summary
+Meter Reading:  53231 CCF
+Previous:       61292 CCF
+Usage:          1276 CCF
+Days in period: 28

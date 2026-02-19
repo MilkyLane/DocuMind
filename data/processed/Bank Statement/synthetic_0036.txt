@@ -1,0 +1,32 @@
+CORNERSTONE BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Betty Martinez
+Customer ID:     329437
+Address:         5310 1st Ave, Baltimore, MD 21201
+Account Number:  5992937842
+Account Type:    Savings
+Statement Date:  December 01, 2023
+Period Covered:  08/02/2018 to 01/08/2022
+
+Opening Balance:        1,976.47
+Total Credit Amount:    14,600.68
+Total Debit Amount:     6,968.81
+Closing Balance:        18,616.98
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+06/02/2018  Bill Payment - Electricity           2,409.25                  5,065.17
+02/28/2022  Insurance Premium                                2,752.50      7,817.67
+11/13/2022  Check Deposit                                    1,127.04      8,944.71
+03/24/2021  NSF Fee Reversal                       974.58                  7,970.13
+06/06/2023  Rent Payment                                     1,466.73      9,436.85
+06/08/2023  Utility Bill                                     2,787.25     12,224.10
+12/23/2020  Bill Payment - Electricity                       1,141.37     13,365.47
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: KZZAUSV7

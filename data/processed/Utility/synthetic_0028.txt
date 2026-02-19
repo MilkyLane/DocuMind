@@ -1,0 +1,32 @@
+WESTERN POWER SERVICES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 200.25
+Payment Received:           $ -191.55
+Current Charges:            $ 238.44
+Taxes & Surcharges:         $ 15.13
+Amount Due:                 $ 191.76
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $191.76 must be received by 06/06/2024.
+
+ACCOUNT INFORMATION
+Account Number:    885160607159
+Customer Name:     Carol Miller
+Service Address:   2216 Church St, Indianapolis, IN 46201
+Billing Period:    08/27/2023 to 06/03/2021
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric & Gas Service   $ 86.00  $ 23.25   $ 5.89   $ 114.31
+Other Charges   $ 7.92   -           $ 1.55    $ 8.49
+Total           $ 69.97  $ 25.13  $ 7.66   $ 191.76
+
+USAGE HISTORY (kWh / therms)
+Current Period:  283
+Last Period:     1136
+Same Period Last Year: 1094
+
+Pay by phone: 1-800-298-6724
+Pay online:   westernpowerservices.com

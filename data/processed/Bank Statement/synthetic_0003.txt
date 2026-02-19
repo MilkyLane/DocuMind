@@ -1,0 +1,30 @@
+Cornerstone Bank
+Daniel Jackson
+135 River Rd
+Indianapolis, IN 46201
+
+Account Statement
+
+Account Number:    4687234309805009
+Account Type:      Checking
+Statement Period:  08/17/2024 to 09/06/2018
+Currency:          USD
+
+Opening Balance:   $ 19,235.19
+Closing Balance:   $ 2,062.17
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+07/04/2022  ACH Credit                           2,586.84                      0.00
+02/14/2023  Utility Bill                                       128.83        128.83
+05/07/2023  Refund Credit                                      955.95      1,084.77
+03/22/2023  Mortgage Payment                       804.19                    280.59
+02/01/2021  Credit Card Payment                  2,787.76                      0.00
+02/18/2019  Amazon Purchase                                  2,988.33      2,988.33
+02/08/2020  Mortgage Payment                     2,800.45                    187.88
+12/10/2022  NSF Fee Reversal                     2,502.90                      0.00
+-----------------------------------------------------------
+
+For questions call 1-800-783-5905 or visit cornerstonebank.com

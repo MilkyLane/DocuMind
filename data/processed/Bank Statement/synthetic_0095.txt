@@ -1,0 +1,19 @@
+Apex Bank
+5302 Oak Ave
+Nashville, TN 37201
+
+Account Statement for William Moore
+Account No: 4035533803396852
+From August 21, 2018 To February 28, 2021
+
+04/05/2018  POS Purchase                        1,984.11 DR      12,343.98
+04/08/2022  Online Transfer                     1,664.13 CR      14,008.11
+03/24/2019  ACH Credit                            939.48 DR      13,068.63
+05/10/2022  Gas Station                         1,215.64 DR      11,852.99
+08/03/2020  Subscription - Netflix                410.79 CR      12,263.78
+07/17/2022  Interest Credit                       946.72 DR      11,317.06
+08/01/2024  Subscription - Netflix                320.20 DR      10,996.86
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@apexbank.com

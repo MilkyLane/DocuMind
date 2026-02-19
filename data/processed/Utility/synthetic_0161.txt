@@ -1,0 +1,32 @@
+Tri-County Electric
+
+Utility Billing
+1620 Church St • Memphis, TN 38101 • Phone: (174) 686-1085
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Paul Davis
+1620 Church St, Memphis, TN 38101
+
+Account Number:       85200894346810
+Route:                68
+Cycle:                6
+Bill Date:            06/09/2023
+Due Date:             09/12/2018
+
+                                            Total Current Charges   $ 295.40
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 247.45
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+10/19/2023 - 11/22/2022  34   5449268315   62619         63676           1030 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   200 kWh    $ 23.19   $ 48.31
+SEWER               260 kWh    $ 8.69    $ 7.80
+REFUSE              --                  $ 36.10    $ 21.67
+
+Total Current Charges   $ 133.69
+Balance Forward         $ 0.00
+Total Amount Due        $ 117.55
+
+PAY ONLINE AT: tri-countyelectric.gov

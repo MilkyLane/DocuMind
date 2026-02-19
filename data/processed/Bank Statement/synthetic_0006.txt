@@ -1,0 +1,30 @@
+Pioneer Savings
+Carol Wilson
+2981 Market St
+Baltimore, MD 21201
+
+Account Statement
+
+Account Number:    8317278895
+Account Type:      Savings
+Statement Period:  08/20/2024 to 12/17/2021
+Currency:          USD
+
+Opening Balance:   $ 16,696.10
+Closing Balance:   $ 11,183.50
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+04/27/2023  Mobile Deposit                         784.98                 14,344.47
+11/08/2020  Gas Station                                      1,568.69     15,913.16
+05/11/2020  Rent Payment                           864.33                 15,048.83
+07/23/2019  Refund Credit                          460.98                 14,587.85
+06/18/2021  Grocery Store                        1,250.46                 13,337.39
+07/25/2022  Refund Credit                        2,500.34                 10,837.05
+10/13/2021  Direct Deposit - Payroll             2,643.16                  8,193.88
+07/28/2024  Grocery Store                                      902.85      9,096.74
+-----------------------------------------------------------
+
+For questions call 1-800-599-4595 or visit pioneersavings.com

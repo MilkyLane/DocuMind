@@ -1,0 +1,30 @@
+Midwest Bank
+Robert Rodriguez
+7406 Lake Rd
+Charlotte, NC 28201
+
+Account Statement
+
+Account Number:    43009109391119
+Account Type:      Checking
+Statement Period:  03/13/2023 to 11/19/2024
+Currency:          USD
+
+Opening Balance:   $ 19,359.73
+Closing Balance:   $ 17,972.03
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+11/15/2020  Bank Fee                             2,809.18                  3,004.19
+06/09/2019  Bank Fee                             2,711.14                    293.05
+07/13/2020  ATM Withdrawal                       2,333.55                      0.00
+03/15/2018  Restaurant                           2,440.27                      0.00
+07/06/2023  Restaurant                                         610.00        610.00
+07/07/2022  Savings Transfer                     1,626.49                      0.00
+05/04/2018  Online Transfer                      1,330.33                      0.00
+08/01/2021  Bill Payment - Electricity           2,185.36                      0.00
+-----------------------------------------------------------
+
+For questions call 1-800-138-7397 or visit midwestbank.com

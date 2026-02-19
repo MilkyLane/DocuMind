@@ -1,0 +1,30 @@
+Pacific Gas & Electric
+ELECTRIC & GAS BILL
+
+Bill Date:      04/15/2020
+Bill Month:     FEB-2018
+
+Customer Name:  James Martin
+Address:        2267 Park Blvd
+                Nashville, TN 37201
+Account No:     3494466574
+Meter No:       89944171
+
+METER READINGS
+Current Reading:   76027
+Previous Reading:  78304
+Units Consumed:    -2277 kWh / therms
+Derived Load:      2.70 kW
+
+CHARGES
+Fixed Charges:             $ 17.93
+Variable Charges:          $ 55.66
+Fuel Adjustment:           $ 1.79
+State Tax:                 $ 17.43
+Local Tax:                 $ 8.29
+-------------------------------------------
+Total Current Charges:     $ 139.11
+Amount Upto 30 days:       $ 116.29
+Amount Upto 60 days:       $ 76.28
+
+Due Date:       11/17/2024

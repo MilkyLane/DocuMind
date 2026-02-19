@@ -1,0 +1,30 @@
+National Grid
+WATER & SEWER BILL
+
+Bill Date:      01/13/2024
+Bill Month:     DEC-2018
+
+Customer Name:  Karen Taylor
+Address:        7132 1st Ave
+                Springfield, IL 62701
+Account No:     962185188888
+Meter No:       15319520
+
+METER READINGS
+Current Reading:   74464
+Previous Reading:  56623
+Units Consumed:    17841 CCF
+Derived Load:      6.69 kW
+
+CHARGES
+Fixed Charges:             $ 25.29
+Variable Charges:          $ 21.99
+Fuel Adjustment:           $ 11.87
+State Tax:                 $ 10.24
+Local Tax:                 $ 3.64
+-------------------------------------------
+Total Current Charges:     $ 41.83
+Amount Upto 30 days:       $ 83.86
+Amount Upto 60 days:       $ 47.36
+
+Due Date:       08/02/2023

@@ -1,0 +1,26 @@
+Cornerstone Bank
+
+Monthly Account Statement
+June 2020
+
+Account Holder: Michelle Jones
+Address:        8546 Pine St, Portland, OR - 97201
+Account Number: XXXX XXXX 3757
+IFSC Code:      JYUH0198665
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+12/28/2023  | 11/01/2022  | Restaurant                         |            |   1,993.92 |    16,702.44
+10/19/2019  | 12/02/2022  | Restaurant                         |   1,642.42 |            |    15,060.02
+10/25/2024  | 07/05/2024  | Cash Withdrawal                    |   1,576.27 |            |    13,483.75
+12/04/2019  | 01/15/2020  | Grocery Store                      |   1,435.70 |            |    12,048.05
+07/17/2024  | 10/16/2024  | Interest Credit                    |   1,729.35 |            |    10,318.70
+09/07/2022  | 06/22/2021  | Amazon Purchase                    |            |   1,767.38 |    12,086.08
+08/18/2020  | 09/12/2023  | Bank Fee                           |   2,392.15 |            |     9,693.93
+-----------------------------------------------------------------------------------------------
+
+Generated on January 10, 2023. For disputes call 1810-454-8247.

@@ -1,0 +1,28 @@
+Cornerstone Bank
+
+Monthly Account Statement
+February 2020
+
+Account Holder: Michael Robinson
+Address:        7450 Market St, Portland, OR - 97201
+Account Number: XXXX XXXX 6862
+IFSC Code:      CCAE0803056
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+05/10/2021  | 05/09/2019  | Direct Deposit - Payroll           |            |   2,145.94 |    14,705.97
+04/10/2023  | 09/27/2018  | Gas Station                        |            |   1,426.42 |    16,132.39
+01/12/2018  | 10/15/2020  | Mortgage Payment                   |            |   2,122.40 |    18,254.78
+12/06/2021  | 06/01/2018  | Grocery Store                      |      22.83 |            |    18,231.95
+09/05/2021  | 02/16/2018  | Bill Payment - Electricity         |     221.01 |            |    18,010.94
+08/13/2020  | 05/12/2021  | POS Purchase                       |            |     632.84 |    18,643.77
+08/22/2024  | 08/06/2019  | Insurance Premium                  |            |     681.01 |    19,324.78
+12/07/2018  | 04/10/2018  | Bill Payment - Electricity         |            |      24.47 |    19,349.25
+01/06/2023  | 04/16/2023  | Mobile Deposit                     |   1,862.37 |            |    17,486.88
+-----------------------------------------------------------------------------------------------
+
+Generated on July 16, 2020. For disputes call 1836-597-2353.

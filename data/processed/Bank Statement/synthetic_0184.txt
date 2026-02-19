@@ -1,0 +1,30 @@
+City Savings Bank
+Kimberly Smith
+6262 Elm St
+Memphis, TN 38101
+
+Account Statement
+
+Account Number:    235521650587
+Account Type:      Checking
+Statement Period:  02/22/2020 to 07/19/2019
+Currency:          USD
+
+Opening Balance:   $ 14,783.55
+Closing Balance:   $ 10,695.33
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+07/15/2024  Credit Card Payment                                988.90      3,371.22
+09/25/2023  Mobile Deposit                                   1,677.00      5,048.22
+09/10/2024  Rent Payment                         1,874.08                  3,174.14
+03/02/2024  Car Loan Payment                                 2,859.73      6,033.87
+12/24/2019  Cash Withdrawal                                  2,854.69      8,888.56
+12/20/2023  Refund Credit                                    1,305.12     10,193.68
+11/05/2020  Credit Card Payment                  2,907.51                  7,286.17
+09/18/2023  Online Transfer                      2,208.92                  5,077.25
+-----------------------------------------------------------
+
+For questions call 1-800-390-6681 or visit citysavingsbank.com

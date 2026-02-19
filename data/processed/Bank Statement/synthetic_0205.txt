@@ -1,0 +1,36 @@
+HORIZON BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Dorothy Robinson
+Customer ID:     698939
+Address:         2955 1st Ave, Memphis, TN 38101
+Account Number:  595205610067
+Account Type:    Savings
+Statement Date:  November 25, 2022
+Period Covered:  10/19/2018 to 11/01/2021
+
+Opening Balance:        21,995.19
+Total Credit Amount:    27,463.21
+Total Debit Amount:     16,572.83
+Closing Balance:        2,234.30
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+12/08/2021  Amazon Purchase                        141.83                 14,483.62
+12/07/2023  Wire Transfer                        2,043.85                 12,439.77
+10/23/2020  ACH Credit                                         874.04     13,313.81
+08/13/2024  POS Purchase                         1,183.97                 12,129.84
+03/21/2020  Direct Deposit - Payroll                34.07                 12,095.77
+07/11/2020  Bill Payment - Electricity             645.42                 11,450.35
+02/15/2022  Mobile Deposit                                     559.10     12,009.45
+03/22/2022  Refund Credit                          192.83                 11,816.61
+04/10/2020  Check Deposit                                      664.32     12,480.93
+01/19/2018  Savings Transfer                     2,214.31                 10,266.62
+11/02/2020  ACH Credit                                       1,271.05     11,537.66
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: XNGDUS6D

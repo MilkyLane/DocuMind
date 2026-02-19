@@ -1,0 +1,31 @@
+Gas Bill
+
+Union Gas
+Account Number: 353310600531
+Customer Number: 8393866133
+Service Address: 176 2nd St, Springfield IL 62701
+Tax Invoice  Issue Date: 04/04/2024
+
+This account is based on an estimated meter reading
+Gas account summary: 01/14/2022 to 02/27/2020
+
+Plan: Time-of-Use
+Opening balance:                $ 3.59
+Payment received - thank you    $ -63.83Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 119.23
+Total amount due                $ 276.87
+
+Due Date: 11/06/2023
+Total amount if paid after due date: $ 161.38
+
+Bill To:
+Sarah Robinson
+176 2nd St
+Springfield, IL 62701
+
+Gas Usage Summary
+Meter Reading:  91777 therms
+Previous:       58362 therms
+Usage:          189 therms
+Days in period: 28

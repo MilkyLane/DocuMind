@@ -1,0 +1,31 @@
+Water Bill
+
+Sunrise Energy
+Account Number: 1849593103413164
+Customer Number: 9283276483
+Service Address: 7627 Cedar Ln, Memphis TN 38101
+Tax Invoice  Issue Date: 08/21/2024
+
+This account is based on an actual meter reading
+Water account summary: 04/22/2020 to 12/22/2023
+
+Plan: Standard Rate
+Opening balance:                $ 68.71
+Payment received - thank you    $ -9.63Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 153.56
+Total amount due                $ 136.39
+
+Due Date: 06/06/2020
+Total amount if paid after due date: $ 134.39
+
+Bill To:
+Mark Johnson
+7627 Cedar Ln
+Memphis, TN 38101
+
+Water Usage Summary
+Meter Reading:  84341 CCF
+Previous:       51245 CCF
+Usage:          535 CCF
+Days in period: 33

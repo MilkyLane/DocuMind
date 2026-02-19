@@ -1,0 +1,28 @@
+City Savings Bank
+Dorothy Martinez
+7497 Hill St
+Nashville, TN 37201
+
+Account Statement
+
+Account Number:    182097023164
+Account Type:      Money Market
+Statement Period:  04/08/2020 to 11/17/2018
+Currency:          USD
+
+Opening Balance:   $ 9,365.94
+Closing Balance:   $ 7,688.72
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+03/04/2019  Rent Payment                                     1,238.48      5,503.16
+07/28/2019  Bill Payment - Electricity           2,232.00                  3,271.17
+12/22/2021  POS Purchase                                       936.17      4,207.34
+10/07/2022  Refund Credit                                    2,818.07      7,025.41
+01/05/2021  Online Transfer                                    833.57      7,858.98
+04/17/2020  Utility Bill                                     1,818.50      9,677.48
+-----------------------------------------------------------
+
+For questions call 1-800-571-8580 or visit citysavingsbank.com

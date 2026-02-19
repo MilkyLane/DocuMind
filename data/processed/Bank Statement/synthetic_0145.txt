@@ -1,0 +1,22 @@
+Summit Bank
+5736 Lake Rd
+Charlotte, NC 28201
+
+Account Statement for Joshua Rodriguez
+Account No: 0574238856527155
+From October 18, 2023 To April 11, 2024
+
+06/20/2021  Savings Transfer                    1,282.51 CR       3,251.33
+05/28/2023  Restaurant                            771.57 DR       2,479.77
+06/25/2019  POS Purchase                        1,613.74 DR         866.03
+10/10/2022  Refund Credit                         231.85 DR         634.18
+09/18/2019  Subscription - Netflix                599.45 CR       1,233.63
+02/03/2023  Credit Card Payment                   161.11 CR       1,394.74
+05/05/2023  Car Loan Payment                    1,329.75 CR       2,724.49
+07/04/2024  Interest Credit                       799.55 CR       3,524.04
+05/20/2022  Online Transfer                     1,776.03 CR       5,300.06
+01/08/2022  Bill Payment - Electricity            457.40 DR       4,842.66
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@summitbank.com

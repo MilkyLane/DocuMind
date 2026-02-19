@@ -1,0 +1,32 @@
+CLEARWATER UTILITIES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 255.52
+Payment Received:           $ -209.25
+Current Charges:            $ 247.78
+Taxes & Surcharges:         $ 26.83
+Amount Due:                 $ 142.78
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $142.78 must be received by 03/07/2019.
+
+ACCOUNT INFORMATION
+Account Number:    1722601645
+Customer Name:     Mark Thomas
+Service Address:   4275 Maple Dr, Boston, MA 02101
+Billing Period:    12/20/2020 to 11/04/2021
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 58.09  $ 5.44   $ 1.17   $ 50.91
+Other Charges   $ 9.54   -           $ 3.46    $ 21.72
+Total           $ 145.90  $ 64.17  $ 7.30   $ 142.78
+
+USAGE HISTORY (kWh)
+Current Period:  1316
+Last Period:     1715
+Same Period Last Year: 1313
+
+Pay by phone: 1-800-469-7471
+Pay online:   clearwaterutilities.com

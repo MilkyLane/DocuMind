@@ -1,0 +1,32 @@
+NATIONAL GRID
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 93.76
+Payment Received:           $ -203.45
+Current Charges:            $ 42.54
+Taxes & Surcharges:         $ 8.16
+Amount Due:                 $ 55.15
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $55.15 must be received by 04/11/2021.
+
+ACCOUNT INFORMATION
+Account Number:    9749735020802144
+Customer Name:     David Miller
+Service Address:   2338 Cedar Ln, Denver, CO 80201
+Billing Period:    08/12/2021 to 12/26/2018
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water Service   $ 39.72  $ 68.27   $ 9.52   $ 30.09
+Other Charges   $ 15.51   -           $ 0.36    $ 11.75
+Total           $ 53.06  $ 85.74  $ 12.26   $ 55.15
+
+USAGE HISTORY (CCF)
+Current Period:  1746
+Last Period:     75
+Same Period Last Year: 299
+
+Pay by phone: 1-800-886-5078
+Pay online:   nationalgrid.com

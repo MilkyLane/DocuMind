@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Southern Electric
+Account Number: 27990772625701
+Customer Number: 1950850165
+Service Address: 1586 College Ave, Springfield IL 62701
+Tax Invoice  Issue Date: 07/23/2020
+
+This account is based on an estimated meter reading
+Water & Sewer account summary: 05/23/2022 to 09/19/2024
+
+Plan: Time-of-Use
+Opening balance:                $ 52.58
+Payment received - thank you    $ -167.64Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 64.12
+Total amount due                $ 295.36
+
+Due Date: 09/02/2020
+Total amount if paid after due date: $ 131.89
+
+Bill To:
+Betty Clark
+1586 College Ave
+Springfield, IL 62701
+
+Water & Sewer Usage Summary
+Meter Reading:  53899 CCF
+Previous:       41278 CCF
+Usage:          1205 CCF
+Days in period: 28

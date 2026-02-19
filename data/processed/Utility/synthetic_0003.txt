@@ -1,0 +1,32 @@
+CENTRAL HUDSON GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 327.23
+Payment Received:           $ -197.76
+Current Charges:            $ 59.69
+Taxes & Surcharges:         $ 18.36
+Amount Due:                 $ 398.64
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $398.64 must be received by 09/09/2022.
+
+ACCOUNT INFORMATION
+Account Number:    96965328710122
+Customer Name:     Michelle Jones
+Service Address:   4439 Lake Rd, Portland, OR 97201
+Billing Period:    11/24/2018 to 11/18/2024
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 34.01  $ 53.07   $ 1.12   $ 98.26
+Other Charges   $ 9.07   -           $ 4.77    $ 21.90
+Total           $ 61.61  $ 55.05  $ 2.68   $ 398.64
+
+USAGE HISTORY (kWh)
+Current Period:  1919
+Last Period:     267
+Same Period Last Year: 1832
+
+Pay by phone: 1-800-740-5889
+Pay online:   centralhudsongasandelectric.com

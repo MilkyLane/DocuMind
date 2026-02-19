@@ -1,0 +1,19 @@
+Pioneer Savings
+6208 Broad St
+Charlotte, NC 28201
+
+Account Statement for Sarah Williams
+Account No: 7884795137
+From February 03, 2021 To March 10, 2018
+
+03/28/2019  Amazon Purchase                       304.43 DR       2,584.68
+07/22/2022  Bill Payment - Electricity             55.15 CR       2,639.84
+12/21/2018  Mortgage Payment                      846.06 DR       1,793.78
+04/27/2022  Savings Transfer                       53.85 DR       1,739.92
+11/21/2024  Car Loan Payment                    1,161.62 DR         578.30
+09/27/2022  Gas Station                         1,335.05 DR           0.00
+05/06/2024  Mobile Deposit                      1,138.83 DR           0.00
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pioneersavings.com

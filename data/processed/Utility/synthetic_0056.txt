@@ -1,0 +1,32 @@
+Valley Water District
+
+Utility Billing
+7115 Elm St • Portland, OR 97201 • Phone: (260) 383-3078
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Joshua Lewis
+7115 Elm St, Portland, OR 97201
+
+Account Number:       309584982544
+Route:                99
+Cycle:                3
+Bill Date:            10/09/2024
+Due Date:             09/22/2024
+
+                                            Total Current Charges   $ 97.41
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 222.08
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+04/25/2024 - 11/13/2021  27   6671168457   98019         46104           1038 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   750 kWh    $ 69.77   $ 42.24
+SEWER               82 kWh    $ 40.81    $ 22.90
+REFUSE              --                  $ 38.88    $ 33.87
+
+Total Current Charges   $ 143.89
+Balance Forward         $ 0.00
+Total Amount Due        $ 107.80
+
+PAY ONLINE AT: valleywaterdistrict.gov

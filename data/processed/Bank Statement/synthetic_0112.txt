@@ -1,0 +1,40 @@
+City Savings Bank
+Member FDIC
+
+Andrew Thompson
+2695 Lake Rd
+Indianapolis, IN 46201
+
+Business Checking Statement
+Account Number: 819648253110
+Statement Period: 07/01/2023 through 10/05/2018
+Page 1 of 3
+
+Account Summary
+Previous Balance:    $ 37,896.46
+Deposits/Credits:    $ 32,455.96
+Withdrawals/Debits:  $ 13,194.65
+Service Charges:     $ 47.59
+Ending Balance:      $ 55,379.71
+
+Transaction Detail
+07/01/2023  Interest Credit                                    245.53     14,689.47
+11/25/2020  POS Purchase                         1,366.58                 13,322.89
+05/07/2022  ACH Credit                           2,694.75                 10,628.14
+07/25/2020  Cash Withdrawal                                  2,423.22     13,051.36
+03/21/2018  Savings Transfer                       258.06                 12,793.30
+02/15/2022  Check Deposit                                    2,602.15     15,395.45
+03/03/2018  Restaurant                             854.56                 14,540.89
+04/13/2018  Restaurant                                       2,739.03     17,279.92
+08/21/2018  Wire Transfer                                    1,247.10     18,527.01
+06/21/2021  NSF Fee Reversal                                 1,132.01     19,659.02
+03/22/2022  Savings Transfer                       903.28                 18,755.75
+06/12/2021  Credit Card Payment                                104.04     18,859.78
+09/24/2020  Check Deposit                                       24.99     18,884.78
+01/17/2022  Bank Fee                                98.37                 18,786.41
+02/07/2018  Car Loan Payment                     2,601.95                 16,184.45
+12/05/2020  Mobile Deposit                         259.49                 15,924.96
+06/23/2022  Savings Transfer                     2,860.16                 13,064.80
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 04/22/2024

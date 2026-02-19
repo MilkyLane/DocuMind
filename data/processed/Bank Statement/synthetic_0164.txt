@@ -1,0 +1,33 @@
+HORIZON BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Karen Garcia
+Customer ID:     701740
+Address:         3160 Main St, Austin, TX 73301
+Account Number:  480880622072
+Account Type:    Current
+Statement Date:  March 15, 2024
+Period Covered:  03/08/2024 to 10/27/2020
+
+Opening Balance:        39,374.72
+Total Credit Amount:    14,140.95
+Total Debit Amount:     9,371.41
+Closing Balance:        21,451.17
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+07/05/2018  Mortgage Payment                                   136.40      4,216.05
+11/25/2021  Rent Payment                         2,398.53                  1,817.52
+09/15/2023  Amazon Purchase                                  1,217.66      3,035.18
+12/27/2023  Subscription - Netflix               1,820.50                  1,214.68
+07/06/2022  Restaurant                                       1,575.18      2,789.86
+02/20/2020  Mortgage Payment                       118.89                  2,670.97
+07/13/2020  Insurance Premium                    2,713.45                      0.00
+01/07/2021  Bank Fee                             1,466.79                      0.00
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: UTQHUSIA

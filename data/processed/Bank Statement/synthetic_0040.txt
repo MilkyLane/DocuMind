@@ -1,0 +1,34 @@
+VALLEY NATIONAL BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Karen Thompson
+Customer ID:     631958
+Address:         4037 2nd St, Springfield, IL 62701
+Account Number:  20744666099353
+Account Type:    Current
+Statement Date:  January 01, 2021
+Period Covered:  11/18/2023 to 08/22/2020
+
+Opening Balance:        15,709.55
+Total Credit Amount:    5,514.61
+Total Debit Amount:     13,323.49
+Closing Balance:        16,968.32
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+09/25/2019  Cash Withdrawal                        783.37                  2,071.09
+04/12/2019  Interest Credit                                  1,966.76      4,037.85
+06/12/2020  Utility Bill                                     1,267.21      5,305.06
+08/02/2024  Savings Transfer                     2,555.13                  2,749.93
+02/16/2019  Amazon Purchase                                  2,833.46      5,583.39
+09/10/2021  ATM Withdrawal                       2,045.29                  3,538.11
+04/11/2021  Utility Bill                                       460.83      3,998.93
+03/11/2024  Refund Credit                                    2,960.08      6,959.01
+06/21/2019  Car Loan Payment                       251.63                  6,707.39
+-------------------------------------------------------------
+
+Branch: West Side
+SWIFT: FUOEUS22

@@ -1,0 +1,34 @@
+Central Hudson Gas & Electric
+4682 Cedar Ln, Boston, MA 02101
+Customer Service: 1-800-857-5902
+
+Gas Bill
+
+Bill To:
+Brian Garcia
+4682 Cedar Ln
+Boston, MA 02101
+
+Account Number:   165585239868
+Bill Date:        01/02/2018
+Due Date:         03/23/2020
+Service Period:   08/17/2021 to 03/20/2022
+Service Address:  4682 Cedar Ln, Boston, MA 02101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 197.58
+Payment Received - Thank You  $ -325.88
+Balance Forward:         $ 0.00
+Current Charges:         $ 106.88
+Taxes & Fees:            $ 18.62
+Total Amount Due:        $ 446.25
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    1138 therms
+Same period last year:1796 therms
+Average daily usage:  70 therms
+
+Due Date: 03/23/2020
+Pay online at centralhudsongasandelectric.com

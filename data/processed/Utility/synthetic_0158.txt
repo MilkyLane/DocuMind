@@ -1,0 +1,32 @@
+VALLEY WATER DISTRICT
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 358.32
+Payment Received:           $ -174.97
+Current Charges:            $ 89.17
+Taxes & Surcharges:         $ 33.98
+Amount Due:                 $ 363.06
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $363.06 must be received by 01/26/2018.
+
+ACCOUNT INFORMATION
+Account Number:    2232971674338005
+Customer Name:     Daniel Robinson
+Service Address:   3494 Maple Dr, Denver, CO 80201
+Billing Period:    07/04/2022 to 04/04/2022
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water Service   $ 30.17  $ 24.34   $ 3.40   $ 83.94
+Other Charges   $ 0.93   -           $ 4.39    $ 6.69
+Total           $ 48.14  $ 72.11  $ 7.73   $ 363.06
+
+USAGE HISTORY (CCF)
+Current Period:  1421
+Last Period:     263
+Same Period Last Year: 1496
+
+Pay by phone: 1-800-151-8173
+Pay online:   valleywaterdistrict.com

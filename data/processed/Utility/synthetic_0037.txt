@@ -1,0 +1,30 @@
+Tri-County Electric
+ELECTRIC & GAS BILL
+
+Bill Date:      07/20/2023
+Bill Month:     MAY-2021
+
+Customer Name:  Jessica Thompson
+Address:        2862 Elm St
+                Boston, MA 02101
+Account No:     995900109439
+Meter No:       64710276
+
+METER READINGS
+Current Reading:   68983
+Previous Reading:  82068
+Units Consumed:    -13085 kWh / therms
+Derived Load:      6.46 kW
+
+CHARGES
+Fixed Charges:             $ 12.81
+Variable Charges:          $ 146.49
+Fuel Adjustment:           $ 11.28
+State Tax:                 $ 17.49
+Local Tax:                 $ 9.78
+-------------------------------------------
+Total Current Charges:     $ 65.31
+Amount Upto 30 days:       $ 130.05
+Amount Upto 60 days:       $ 200.69
+
+Due Date:       01/16/2023

@@ -1,0 +1,33 @@
+Midwest Bank
+Ashley Robinson
+8901 Church St
+Portland, OR 97201
+
+Account Statement
+
+Account Number:    467474689715
+Account Type:      Current Account
+Statement Period:  03/23/2021 to 04/05/2019
+Currency:          USD
+
+Opening Balance:   $ 581.52
+Closing Balance:   $ 17,302.27
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+12/12/2021  Restaurant                                       2,821.45     13,159.07
+02/14/2018  Check Deposit                        2,962.69                 10,196.38
+04/25/2021  Mobile Deposit                       1,701.17                  8,495.21
+06/17/2023  Restaurant                                       2,257.22     10,752.43
+01/21/2021  Grocery Store                                    1,110.86     11,863.29
+01/27/2020  Savings Transfer                                   734.64     12,597.92
+11/21/2019  Mobile Deposit                                      94.49     12,692.41
+03/09/2019  Credit Card Payment                              2,833.35     15,525.76
+03/01/2018  Bank Fee                                         1,991.19     17,516.95
+07/13/2023  Utility Bill                         2,137.71                 15,379.24
+04/14/2019  Grocery Store                                      250.24     15,629.48
+-----------------------------------------------------------
+
+For questions call 1-800-808-5951 or visit midwestbank.com

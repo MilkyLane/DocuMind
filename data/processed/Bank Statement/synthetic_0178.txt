@@ -1,0 +1,26 @@
+United Community Bank
+
+Monthly Account Statement
+January 2023
+
+Account Holder: Michelle Lee
+Address:        2127 Oak Ave, Memphis, TN - 38101
+Account Number: XXXX XXXX 9263
+IFSC Code:      ESYP0821374
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+09/16/2024  | 06/13/2018  | Gas Station                        |            |   1,533.57 |    15,898.62
+09/24/2024  | 09/01/2018  | POS Purchase                       |            |   2,147.36 |    18,045.99
+01/19/2018  | 06/25/2021  | Check Deposit                      |      76.16 |            |    17,969.83
+09/01/2019  | 12/13/2020  | Restaurant                         |            |   2,095.62 |    20,065.44
+12/10/2024  | 10/04/2023  | Grocery Store                      |            |   1,248.41 |    21,313.85
+11/07/2021  | 06/20/2024  | Insurance Premium                  |            |   2,206.88 |    23,520.73
+05/20/2018  | 02/28/2022  | Savings Transfer                   |     154.28 |            |    23,366.45
+-----------------------------------------------------------------------------------------------
+
+Generated on July 03, 2018. For disputes call 1832-137-5816.

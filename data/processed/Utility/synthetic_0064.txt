@@ -1,0 +1,32 @@
+BLUE RIDGE ENERGY
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 369.44
+Payment Received:           $ -225.84
+Current Charges:            $ 160.40
+Taxes & Surcharges:         $ 11.29
+Amount Due:                 $ 161.61
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $161.61 must be received by 04/01/2024.
+
+ACCOUNT INFORMATION
+Account Number:    638380657875
+Customer Name:     George Johnson
+Service Address:   1537 2nd St, Denver, CO 80201
+Billing Period:    01/26/2021 to 09/12/2024
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water Service   $ 62.56  $ 22.46   $ 1.60   $ 64.61
+Other Charges   $ 4.82   -           $ 2.67    $ 19.78
+Total           $ 118.45  $ 78.76  $ 14.22   $ 161.61
+
+USAGE HISTORY (CCF)
+Current Period:  1229
+Last Period:     1783
+Same Period Last Year: 1683
+
+Pay by phone: 1-800-497-6813
+Pay online:   blueridgeenergy.com

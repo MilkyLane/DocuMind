@@ -1,0 +1,31 @@
+UNITED COMMUNITY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   James White
+Customer ID:     614034
+Address:         1202 Church St, Seattle, WA 98101
+Account Number:  206496935782
+Account Type:    Checking
+Statement Date:  August 14, 2021
+Period Covered:  05/27/2019 to 05/22/2021
+
+Opening Balance:        40,040.56
+Total Credit Amount:    12,070.20
+Total Debit Amount:     7,463.99
+Closing Balance:        14,688.29
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+05/14/2021  Car Loan Payment                                 2,691.49      7,851.17
+03/15/2020  Cash Withdrawal                      1,280.35                  6,570.82
+12/05/2024  Restaurant                           2,093.94                  4,476.88
+10/14/2023  ACH Credit                                       2,593.39      7,070.27
+04/28/2024  Grocery Store                          811.09                  6,259.18
+05/22/2020  Grocery Store                        2,317.68                  3,941.50
+-------------------------------------------------------------
+
+Branch: West Side
+SWIFT: XGSIUS3L

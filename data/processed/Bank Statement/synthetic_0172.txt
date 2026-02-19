@@ -1,0 +1,36 @@
+SUMMIT BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Brian Davis
+Customer ID:     823420
+Address:         4615 2nd St, Seattle, WA 98101
+Account Number:  737203763882
+Account Type:    Savings
+Statement Date:  August 14, 2022
+Period Covered:  02/09/2023 to 06/17/2020
+
+Opening Balance:        5,842.90
+Total Credit Amount:    25,929.07
+Total Debit Amount:     10,571.37
+Closing Balance:        9,651.41
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+04/10/2020  NSF Fee Reversal                                 2,655.58      4,041.27
+09/28/2022  Utility Bill                         2,873.46                  1,167.81
+03/21/2021  Amazon Purchase                                  1,594.46      2,762.27
+06/25/2023  Bank Fee                             2,876.28                      0.00
+01/16/2019  POS Purchase                                     1,708.17      1,708.17
+07/09/2023  NSF Fee Reversal                       925.95                    782.22
+07/22/2024  Credit Card Payment                    606.41                    175.82
+07/16/2022  Wire Transfer                                    1,077.09      1,252.91
+06/12/2021  Bank Fee                                           980.90      2,233.81
+04/14/2022  Direct Deposit - Payroll             1,006.95                  1,226.86
+03/08/2021  ATM Withdrawal                                     318.55      1,545.40
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: CZOSUSHH

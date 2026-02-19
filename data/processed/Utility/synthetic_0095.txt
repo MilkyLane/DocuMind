@@ -1,0 +1,34 @@
+Municipal Gas Authority
+5267 River Rd, Seattle, WA 98101
+Customer Service: 1-800-291-9987
+
+Gas Bill
+
+Bill To:
+George Thomas
+5267 River Rd
+Seattle, WA 98101
+
+Account Number:   2846392086780856
+Bill Date:        11/25/2019
+Due Date:         08/04/2023
+Service Period:   09/15/2020 to 12/01/2018
+Service Address:  5267 River Rd, Seattle, WA 98101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 220.74
+Payment Received - Thank You  $ -95.34
+Balance Forward:         $ 0.00
+Current Charges:         $ 176.56
+Taxes & Fees:            $ 9.36
+Total Amount Due:        $ 394.74
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    651 therms
+Same period last year:1065 therms
+Average daily usage:  48 therms
+
+Due Date: 08/04/2023
+Pay online at municipalgasauthority.com

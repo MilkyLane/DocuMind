@@ -1,0 +1,32 @@
+Sunrise Energy
+
+Utility Billing
+5369 Broad St • Portland, OR 97201 • Phone: (674) 268-4236
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Kenneth Thompson
+5369 Broad St, Portland, OR 97201
+
+Account Number:       1713023212
+Route:                41
+Cycle:                7
+Bill Date:            10/18/2024
+Due Date:             04/08/2022
+
+                                            Total Current Charges   $ 77.64
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 97.22
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+05/19/2021 - 11/07/2020  32   5662776896   99828         50215           1087 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   120 kWh    $ 78.57   $ 48.47
+SEWER               92 kWh    $ 39.15    $ 46.47
+REFUSE              --                  $ 25.83    $ 10.35
+
+Total Current Charges   $ 192.60
+Balance Forward         $ 0.00
+Total Amount Due        $ 94.03
+
+PAY ONLINE AT: sunriseenergy.gov

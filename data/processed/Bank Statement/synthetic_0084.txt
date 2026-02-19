@@ -1,0 +1,33 @@
+Liberty Bank
+Member FDIC
+
+Kimberly Clark
+4121 Market St
+Portland, OR 97201
+
+Business Checking Statement
+Account Number: 266678507208
+Statement Period: 02/03/2020 through 06/13/2024
+Page 1 of 2
+
+Account Summary
+Previous Balance:    $ 2,850.32
+Deposits/Credits:    $ 35,667.61
+Withdrawals/Debits:  $ 16,289.99
+Service Charges:     $ 16.64
+Ending Balance:      $ 50,017.62
+
+Transaction Detail
+11/05/2022  ATM Withdrawal                         120.91                  9,126.46
+11/17/2020  Grocery Store                                    2,940.34     12,066.80
+09/28/2020  Interest Credit                      2,045.80                 10,021.00
+01/27/2020  Amazon Purchase                                  2,728.60     12,749.60
+07/15/2023  Wire Transfer                                      449.12     13,198.72
+10/21/2021  Refund Credit                                    1,876.84     15,075.55
+11/13/2024  Wire Transfer                        2,437.37                 12,638.18
+09/11/2021  Interest Credit                                    262.00     12,900.18
+09/18/2020  Wire Transfer                                    2,640.83     15,541.01
+09/11/2024  Savings Transfer                     1,659.84                 13,881.17
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 07/17/2018

@@ -1,0 +1,21 @@
+Midwest Bank
+9318 Market St
+Seattle, WA 98101
+
+Account Statement for Joshua Jones
+Account No: 7293430107139660
+From June 12, 2022 To November 07, 2018
+
+05/17/2022  Car Loan Payment                      144.99 DR      10,360.25
+06/11/2021  Interest Credit                       236.54 CR      10,596.79
+03/07/2020  Car Loan Payment                    1,920.62 CR      12,517.41
+08/26/2018  Savings Transfer                      963.43 CR      13,480.84
+08/28/2022  Car Loan Payment                      319.22 DR      13,161.62
+12/02/2024  Amazon Purchase                     1,630.19 DR      11,531.43
+06/18/2022  Direct Deposit - Payroll            1,452.68 DR      10,078.75
+06/03/2019  Mobile Deposit                      1,374.13 DR       8,704.62
+07/21/2022  POS Purchase                          684.91 CR       9,389.53
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@midwestbank.com

@@ -1,0 +1,33 @@
+Coastal Federal Credit Union
+Anthony Jones
+8291 Oak Ave
+Austin, TX 73301
+
+Account Statement
+
+Account Number:    61562624467046
+Account Type:      Current Account
+Statement Period:  03/06/2021 to 11/17/2024
+Currency:          USD
+
+Opening Balance:   $ 2,575.40
+Closing Balance:   $ 16,221.46
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+01/06/2020  Bill Payment - Electricity           2,588.77                 11,446.47
+08/01/2021  Savings Transfer                                 1,158.13     12,604.60
+01/10/2021  Mobile Deposit                                   1,211.09     13,815.70
+08/17/2020  Bank Fee                                           356.72     14,172.41
+09/12/2018  NSF Fee Reversal                     1,011.84                 13,160.57
+07/28/2023  Online Transfer                      1,277.95                 11,882.62
+12/19/2020  Wire Transfer                        1,017.98                 10,864.64
+08/14/2018  Gas Station                                      1,847.42     12,712.06
+08/15/2020  ATM Withdrawal                         373.44                 12,338.62
+05/14/2020  Cash Withdrawal                                  2,062.30     14,400.92
+09/09/2019  Mortgage Payment                     2,459.32                 11,941.60
+-----------------------------------------------------------
+
+For questions call 1-800-527-1287 or visit coastalfederalcreditunion.com

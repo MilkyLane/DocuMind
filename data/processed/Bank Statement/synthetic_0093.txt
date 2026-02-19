@@ -1,0 +1,28 @@
+Horizon Bank
+
+Monthly Account Statement
+December 2018
+
+Account Holder: Michael Lee
+Address:        1592 Broad St, Denver, CO - 80201
+Account Number: XXXX XXXX 9006
+IFSC Code:      TYJG0106005
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+09/10/2023  | 02/23/2023  | Interest Credit                    |   2,207.56 |            |    11,132.79
+07/25/2022  | 02/12/2018  | Bank Fee                           |            |   2,272.75 |    13,405.55
+06/14/2021  | 03/09/2019  | Amazon Purchase                    |   1,918.68 |            |    11,486.86
+11/23/2023  | 12/15/2021  | Car Loan Payment                   |      76.53 |            |    11,410.34
+07/02/2018  | 05/04/2023  | Bill Payment - Electricity         |            |   2,140.88 |    13,551.21
+08/15/2018  | 02/18/2023  | ACH Credit                         |   1,874.20 |            |    11,677.01
+08/27/2020  | 03/06/2024  | Direct Deposit - Payroll           |            |   1,099.93 |    12,776.94
+02/18/2023  | 07/06/2018  | Cash Withdrawal                    |            |     451.32 |    13,228.26
+03/15/2020  | 03/07/2023  | ATM Withdrawal                     |            |   1,696.68 |    14,924.94
+-----------------------------------------------------------------------------------------------
+
+Generated on April 04, 2024. For disputes call 1885-271-3736.

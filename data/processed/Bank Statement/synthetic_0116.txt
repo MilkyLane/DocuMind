@@ -1,0 +1,33 @@
+Pacific Trust Bank
+Lisa Thompson
+7911 Hill St
+Baltimore, MD 21201
+
+Account Statement
+
+Account Number:    251225720765
+Account Type:      Current Account
+Statement Period:  01/06/2020 to 02/06/2023
+Currency:          USD
+
+Opening Balance:   $ 15,325.08
+Closing Balance:   $ 689.81
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+04/16/2018  ATM Withdrawal                                   1,470.04     20,891.33
+05/27/2019  Amazon Purchase                                  1,706.13     22,597.46
+02/04/2020  NSF Fee Reversal                                 2,267.43     24,864.88
+12/12/2022  Mobile Deposit                                   1,363.32     26,228.21
+08/01/2024  Insurance Premium                                  768.08     26,996.28
+09/25/2023  Credit Card Payment                  1,007.88                 25,988.40
+09/24/2023  Direct Deposit - Payroll               817.11                 25,171.29
+04/22/2019  Insurance Premium                    1,236.85                 23,934.44
+12/23/2021  Insurance Premium                      740.66                 23,193.78
+07/21/2018  Mobile Deposit                         276.93                 22,916.85
+08/17/2019  Mobile Deposit                                   2,039.62     24,956.46
+-----------------------------------------------------------
+
+For questions call 1-800-439-7406 or visit pacifictrustbank.com

@@ -1,0 +1,34 @@
+LIBERTY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Anthony Martinez
+Customer ID:     721739
+Address:         2894 1st Ave, Springfield, IL 62701
+Account Number:  7567772266025626
+Account Type:    Checking
+Statement Date:  April 07, 2020
+Period Covered:  06/01/2021 to 11/06/2019
+
+Opening Balance:        47,356.10
+Total Credit Amount:    6,901.32
+Total Debit Amount:     819.59
+Closing Balance:        14,432.50
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+05/27/2024  Rent Payment                         1,182.77                  6,226.22
+10/24/2021  Grocery Store                          577.94                  5,648.28
+08/22/2018  Insurance Premium                    2,556.28                  3,092.00
+06/23/2021  Credit Card Payment                                210.05      3,302.05
+08/26/2019  Grocery Store                          713.11                  2,588.95
+11/06/2020  Savings Transfer                     2,871.00                      0.00
+10/04/2022  Bill Payment - Electricity           1,859.26                      0.00
+06/26/2023  Bill Payment - Electricity                       1,029.88      1,029.88
+02/01/2021  Insurance Premium                    2,911.59                      0.00
+-------------------------------------------------------------
+
+Branch: North Branch
+SWIFT: XXQXUSRK

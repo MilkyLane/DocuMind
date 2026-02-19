@@ -1,0 +1,32 @@
+Central Hudson Gas & Electric
+
+Utility Billing
+5888 Hill St • Nashville, TN 37201 • Phone: (685) 714-3971
+GAS • SEWER • REFUSE
+
+Bill To: Kenneth Jones
+5888 Hill St, Nashville, TN 37201
+
+Account Number:       617213145195
+Route:                96
+Cycle:                7
+Bill Date:            02/12/2018
+Due Date:             01/20/2019
+
+                                            Total Current Charges   $ 70.56
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 210.16
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+05/20/2024 - 05/12/2018  29   5410225267   59480         45927           761 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   230 therms    $ 26.37   $ 44.65
+SEWER               213 therms    $ 27.24    $ 26.66
+REFUSE              --                  $ 39.05    $ 26.06
+
+Total Current Charges   $ 173.69
+Balance Forward         $ 0.00
+Total Amount Due        $ 69.03
+
+PAY ONLINE AT: centralhudsongasandelectric.gov

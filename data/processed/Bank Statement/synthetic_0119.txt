@@ -1,0 +1,29 @@
+Pioneer Savings
+
+Monthly Account Statement
+August 2023
+
+Account Holder: Mark Brown
+Address:        713 Maple Dr, Baltimore, MD - 21201
+Account Number: XXXX XXXX 7199
+IFSC Code:      STAZ0699187
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+09/26/2024  | 04/03/2022  | Direct Deposit - Payroll           |            |   1,090.82 |     4,860.52
+04/02/2024  | 03/01/2020  | Bank Fee                           |            |   1,674.96 |     6,535.48
+02/11/2019  | 11/24/2023  | Savings Transfer                   |   1,370.99 |            |     5,164.49
+04/19/2024  | 08/17/2020  | Insurance Premium                  |            |     483.44 |     5,647.93
+03/26/2018  | 08/14/2023  | Subscription - Netflix             |            |   1,401.16 |     7,049.09
+03/26/2022  | 05/04/2018  | Restaurant                         |            |   1,427.19 |     8,476.28
+06/01/2019  | 05/27/2020  | Subscription - Netflix             |   1,507.71 |            |     6,968.57
+03/10/2018  | 09/19/2019  | Amazon Purchase                    |            |     179.20 |     7,147.77
+07/20/2018  | 09/23/2018  | Utility Bill                       |            |   1,255.12 |     8,402.89
+05/21/2018  | 01/11/2021  | Mobile Deposit                     |   2,294.30 |            |     6,108.58
+-----------------------------------------------------------------------------------------------
+
+Generated on December 02, 2018. For disputes call 1804-608-9316.

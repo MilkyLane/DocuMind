@@ -1,0 +1,32 @@
+Apex Bank
+
+Monthly Account Statement
+June 2018
+
+Account Holder: Anthony Lewis
+Address:        4218 Church St, Denver, CO - 80201
+Account Number: XXXX XXXX 3403
+IFSC Code:      RPAJ0036089
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+07/12/2021  | 10/11/2020  | Online Transfer                    |            |   1,764.67 |    14,101.09
+04/19/2019  | 12/27/2018  | Credit Card Payment                |     998.69 |            |    13,102.39
+06/04/2018  | 08/21/2023  | Mortgage Payment                   |   2,342.92 |            |    10,759.47
+10/04/2019  | 02/03/2018  | Gas Station                        |            |   1,668.55 |    12,428.01
+02/20/2023  | 01/05/2020  | NSF Fee Reversal                   |            |   2,354.10 |    14,782.11
+11/13/2018  | 11/23/2019  | POS Purchase                       |   2,356.65 |            |    12,425.46
+10/12/2019  | 06/27/2020  | Refund Credit                      |            |   1,021.25 |    13,446.71
+01/03/2023  | 03/06/2021  | Car Loan Payment                   |            |   1,709.64 |    15,156.35
+06/28/2018  | 01/06/2024  | Grocery Store                      |            |   2,251.24 |    17,407.59
+01/03/2020  | 02/11/2019  | Interest Credit                    |            |   1,752.09 |    19,159.69
+06/26/2023  | 11/22/2022  | Mobile Deposit                     |            |   2,267.20 |    21,426.89
+06/02/2021  | 05/02/2024  | Restaurant                         |   2,227.59 |            |    19,199.30
+04/28/2019  | 08/20/2022  | ATM Withdrawal                     |   1,112.93 |            |    18,086.37
+-----------------------------------------------------------------------------------------------
+
+Generated on February 03, 2022. For disputes call 1838-741-2536.

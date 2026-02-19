@@ -1,0 +1,37 @@
+COASTAL FEDERAL CREDIT UNION
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Kenneth Thomas
+Customer ID:     365329
+Address:         3032 Main St, Baltimore, MD 21201
+Account Number:  5830945154809404
+Account Type:    Current
+Statement Date:  February 19, 2021
+Period Covered:  11/16/2021 to 01/23/2023
+
+Opening Balance:        14,434.52
+Total Credit Amount:    2,188.20
+Total Debit Amount:     11,657.53
+Closing Balance:        1,397.58
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+08/24/2024  Savings Transfer                                 1,476.00     21,423.40
+01/12/2018  Credit Card Payment                              2,424.22     23,847.62
+12/06/2024  Bill Payment - Electricity                         468.04     24,315.66
+02/02/2021  Savings Transfer                     2,503.85                 21,811.81
+09/09/2024  Wire Transfer                                      949.57     22,761.37
+06/27/2023  Car Loan Payment                                 2,214.99     24,976.36
+10/24/2020  Amazon Purchase                                    515.95     25,492.31
+07/27/2023  Cash Withdrawal                      1,996.84                 23,495.47
+09/05/2023  Mobile Deposit                         586.89                 22,908.58
+05/20/2019  Refund Credit                        1,335.76                 21,572.81
+12/27/2024  Direct Deposit - Payroll                           527.17     22,099.99
+02/11/2021  Utility Bill                         1,686.07                 20,413.92
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: DCSEUSV8

@@ -1,0 +1,32 @@
+Horizon Bank
+
+Monthly Account Statement
+July 2022
+
+Account Holder: Mark Lee
+Address:        9677 2nd St, Indianapolis, IN - 46201
+Account Number: XXXX XXXX 2624
+IFSC Code:      MWBV0810801
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+01/22/2023  | 02/22/2022  | Bank Fee                           |            |   2,153.34 |    10,325.50
+02/10/2021  | 03/15/2018  | Interest Credit                    |   1,605.99 |            |     8,719.50
+09/25/2019  | 09/04/2024  | Savings Transfer                   |            |     665.84 |     9,385.34
+10/07/2019  | 06/25/2019  | Rent Payment                       |   1,600.98 |            |     7,784.36
+01/20/2020  | 08/01/2018  | Insurance Premium                  |            |   2,306.86 |    10,091.22
+05/08/2018  | 04/19/2018  | Online Transfer                    |            |   2,080.85 |    12,172.07
+09/25/2019  | 03/22/2021  | Rent Payment                       |            |   2,041.90 |    14,213.97
+10/14/2019  | 09/25/2023  | Refund Credit                      |   1,323.91 |            |    12,890.06
+11/21/2020  | 08/17/2021  | Check Deposit                      |     786.17 |            |    12,103.88
+01/19/2022  | 04/19/2019  | Direct Deposit - Payroll           |     169.42 |            |    11,934.46
+04/03/2018  | 06/03/2022  | ACH Credit                         |   1,581.45 |            |    10,353.01
+09/05/2023  | 10/19/2021  | ACH Credit                         |   1,218.68 |            |     9,134.33
+04/04/2018  | 11/14/2020  | Grocery Store                      |            |   2,020.67 |    11,155.00
+-----------------------------------------------------------------------------------------------
+
+Generated on July 16, 2021. For disputes call 1827-985-7570.

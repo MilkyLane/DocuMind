@@ -1,0 +1,34 @@
+Pacific Gas & Electric
+3757 Cedar Ln, Portland, OR 97201
+Customer Service: 1-800-320-6514
+
+Electric Bill
+
+Bill To:
+Sandra Wilson
+3757 Cedar Ln
+Portland, OR 97201
+
+Account Number:   9600133890
+Bill Date:        09/07/2023
+Due Date:         11/23/2022
+Service Period:   07/08/2021 to 10/09/2024
+Service Address:  3757 Cedar Ln, Portland, OR 97201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 391.46
+Payment Received - Thank You  $ -121.85
+Balance Forward:         $ 0.00
+Current Charges:         $ 197.92
+Taxes & Fees:            $ 4.86
+Total Amount Due:        $ 161.15
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    878 kWh
+Same period last year:298 kWh
+Average daily usage:  50 kWh
+
+Due Date: 11/23/2022
+Pay online at pacificgasandelectric.com

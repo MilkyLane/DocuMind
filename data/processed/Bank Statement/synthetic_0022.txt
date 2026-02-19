@@ -1,0 +1,18 @@
+Cornerstone Bank
+3410 River Rd
+Memphis, TN 38101
+
+Account Statement for George Davis
+Account No: 21993308330165
+From December 16, 2018 To November 25, 2019
+
+11/16/2021  Savings Transfer                      324.30 CR      14,809.82
+06/10/2023  ATM Withdrawal                      1,928.19 DR      12,881.64
+10/08/2022  Interest Credit                       188.03 CR      13,069.66
+03/14/2024  POS Purchase                        1,873.97 CR      14,943.63
+07/26/2021  POS Purchase                           82.32 CR      15,025.95
+05/02/2018  Mortgage Payment                    1,924.64 CR      16,950.59
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@cornerstonebank.com

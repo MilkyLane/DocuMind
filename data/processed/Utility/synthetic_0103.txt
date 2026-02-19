@@ -1,0 +1,31 @@
+Electric Bill
+
+Tri-County Electric
+Account Number: 2095935186387829
+Customer Number: 0317310967
+Service Address: 111 Market St, Nashville TN 37201
+Tax Invoice  Issue Date: 05/11/2021
+
+This account is based on an actual meter reading
+Electric account summary: 09/22/2018 to 01/27/2019
+
+Plan: Time-of-Use
+Opening balance:                $ 14.73
+Payment received - thank you    $ -66.22Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 298.42
+Total amount due                $ 44.71
+
+Due Date: 11/11/2018
+Total amount if paid after due date: $ 418.41
+
+Bill To:
+Kimberly Harris
+111 Market St
+Nashville, TN 37201
+
+Electric Usage Summary
+Meter Reading:  95950 kWh
+Previous:       74409 kWh
+Usage:          1922 kWh
+Days in period: 28

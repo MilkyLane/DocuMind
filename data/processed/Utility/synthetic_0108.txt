@@ -1,0 +1,34 @@
+Central Hudson Gas & Electric
+2890 Hill St, Springfield, IL 62701
+Customer Service: 1-800-140-5053
+
+Gas Bill
+
+Bill To:
+Michael Moore
+2890 Hill St
+Springfield, IL 62701
+
+Account Number:   940701645104
+Bill Date:        11/13/2019
+Due Date:         07/17/2023
+Service Period:   02/11/2021 to 10/18/2018
+Service Address:  2890 Hill St, Springfield, IL 62701
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 139.49
+Payment Received - Thank You  $ -485.06
+Balance Forward:         $ 0.00
+Current Charges:         $ 246.24
+Taxes & Fees:            $ 27.82
+Total Amount Due:        $ 334.99
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    724 therms
+Same period last year:783 therms
+Average daily usage:  67 therms
+
+Due Date: 07/17/2023
+Pay online at centralhudsongasandelectric.com

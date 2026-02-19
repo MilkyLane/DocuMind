@@ -1,0 +1,31 @@
+Electric Bill
+
+Blue Ridge Energy
+Account Number: 1201836675254599
+Customer Number: 9764381561
+Service Address: 200 Elm St, Portland OR 97201
+Tax Invoice  Issue Date: 02/02/2019
+
+This account is based on an estimated meter reading
+Electric account summary: 11/03/2020 to 08/22/2021
+
+Plan: Fixed Rate
+Opening balance:                $ 16.43
+Payment received - thank you    $ -61.33Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 380.32
+Total amount due                $ 316.25
+
+Due Date: 03/25/2022
+Total amount if paid after due date: $ 355.66
+
+Bill To:
+Dorothy Thomas
+200 Elm St
+Portland, OR 97201
+
+Electric Usage Summary
+Meter Reading:  47938 kWh
+Previous:       53007 kWh
+Usage:          345 kWh
+Days in period: 28

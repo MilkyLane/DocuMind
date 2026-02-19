@@ -1,0 +1,36 @@
+Cornerstone Bank
+Michael Martinez
+3220 Broad St
+Austin, TX 73301
+
+Account Statement
+
+Account Number:    1895473820
+Account Type:      Current Account
+Statement Period:  03/07/2021 to 09/23/2020
+Currency:          USD
+
+Opening Balance:   $ 17,885.94
+Closing Balance:   $ 15,307.43
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+12/04/2021  Online Transfer                                  1,350.96     20,878.36
+09/26/2018  POS Purchase                         1,576.05                 19,302.31
+03/10/2018  Utility Bill                                     2,093.15     21,395.46
+04/24/2024  Subscription - Netflix               2,917.70                 18,477.76
+09/03/2019  Gas Station                          1,602.08                 16,875.68
+07/13/2022  Mobile Deposit                                   1,158.61     18,034.29
+10/07/2022  Refund Credit                           20.77                 18,013.52
+09/15/2022  Refund Credit                        2,786.60                 15,226.93
+04/10/2023  Mobile Deposit                                     783.92     16,010.84
+01/18/2019  Mortgage Payment                                   521.62     16,532.46
+05/05/2020  NSF Fee Reversal                       452.94                 16,079.52
+04/18/2018  Direct Deposit - Payroll             2,940.27                 13,139.25
+06/11/2018  Refund Credit                                    1,901.72     15,040.97
+03/14/2022  Mortgage Payment                                   799.47     15,840.45
+-----------------------------------------------------------
+
+For questions call 1-800-158-1170 or visit cornerstonebank.com

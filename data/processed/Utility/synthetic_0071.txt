@@ -1,0 +1,34 @@
+National Grid
+928 Washington Ave, Charlotte, NC 28201
+Customer Service: 1-800-326-4688
+
+Water & Sewer Bill
+
+Bill To:
+Michael Harris
+928 Washington Ave
+Charlotte, NC 28201
+
+Account Number:   57861035797279
+Bill Date:        09/12/2020
+Due Date:         03/27/2020
+Service Period:   12/27/2023 to 02/10/2018
+Service Address:  928 Washington Ave, Charlotte, NC 28201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 72.34
+Payment Received - Thank You  $ -434.22
+Balance Forward:         $ 0.00
+Current Charges:         $ 322.94
+Taxes & Fees:            $ 20.98
+Total Amount Due:        $ 135.73
+---------------------------------------------------
+
+Water & Sewer Usage Details
+Usage this period:    651 CCF
+Same period last year:1434 CCF
+Average daily usage:  57 CCF
+
+Due Date: 03/27/2020
+Pay online at nationalgrid.com

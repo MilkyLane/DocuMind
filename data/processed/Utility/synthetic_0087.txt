@@ -1,0 +1,34 @@
+Western Power Services
+8409 Main St, Nashville, TN 37201
+Customer Service: 1-800-993-3395
+
+Electric & Gas Bill
+
+Bill To:
+David Smith
+8409 Main St
+Nashville, TN 37201
+
+Account Number:   9308488725639427
+Bill Date:        09/17/2018
+Due Date:         07/12/2022
+Service Period:   01/22/2019 to 10/22/2019
+Service Address:  8409 Main St, Nashville, TN 37201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 113.17
+Payment Received - Thank You  $ -121.65
+Balance Forward:         $ 0.00
+Current Charges:         $ 248.23
+Taxes & Fees:            $ 22.61
+Total Amount Due:        $ 276.33
+---------------------------------------------------
+
+Electric & Gas Usage Details
+Usage this period:    1090 kWh / therms
+Same period last year:834 kWh / therms
+Average daily usage:  10 kWh / therms
+
+Due Date: 07/12/2022
+Pay online at westernpowerservices.com

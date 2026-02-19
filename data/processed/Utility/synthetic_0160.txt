@@ -1,0 +1,30 @@
+Valley Water District
+ELECTRIC & GAS BILL
+
+Bill Date:      10/02/2023
+Bill Month:     JUL-2023
+
+Customer Name:  Kimberly Smith
+Address:        7351 Main St
+                Portland, OR 97201
+Account No:     1556260602
+Meter No:       55048926
+
+METER READINGS
+Current Reading:   69380
+Previous Reading:  67479
+Units Consumed:    1901 kWh / therms
+Derived Load:      7.28 kW
+
+CHARGES
+Fixed Charges:             $ 27.19
+Variable Charges:          $ 158.50
+Fuel Adjustment:           $ 6.66
+State Tax:                 $ 5.55
+Local Tax:                 $ 3.71
+-------------------------------------------
+Total Current Charges:     $ 39.98
+Amount Upto 30 days:       $ 120.31
+Amount Upto 60 days:       $ 248.90
+
+Due Date:       12/26/2023

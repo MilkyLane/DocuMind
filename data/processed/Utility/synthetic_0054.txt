@@ -1,0 +1,31 @@
+Water Bill
+
+National Grid
+Account Number: 96969155792499
+Customer Number: 6929662782
+Service Address: 4398 College Ave, Nashville TN 37201
+Tax Invoice  Issue Date: 02/22/2019
+
+This account is based on an estimated meter reading
+Water account summary: 02/06/2020 to 12/05/2022
+
+Plan: Budget Billing
+Opening balance:                $ 185.82
+Payment received - thank you    $ -259.66Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 382.66
+Total amount due                $ 214.46
+
+Due Date: 06/04/2019
+Total amount if paid after due date: $ 128.05
+
+Bill To:
+Michelle Brown
+4398 College Ave
+Nashville, TN 37201
+
+Water Usage Summary
+Meter Reading:  60324 CCF
+Previous:       83607 CCF
+Usage:          1135 CCF
+Days in period: 33

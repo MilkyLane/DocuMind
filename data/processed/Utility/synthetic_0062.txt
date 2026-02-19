@@ -1,0 +1,31 @@
+Electric Bill
+
+Union Gas
+Account Number: 1990623445655743
+Customer Number: 3747411249
+Service Address: 1665 Elm St, Memphis TN 38101
+Tax Invoice  Issue Date: 02/07/2019
+
+This account is based on an estimated meter reading
+Electric account summary: 03/15/2021 to 06/14/2018
+
+Plan: Flat Rate
+Opening balance:                $ 290.52
+Payment received - thank you    $ -118.87Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 57.62
+Total amount due                $ 147.58
+
+Due Date: 10/04/2019
+Total amount if paid after due date: $ 378.04
+
+Bill To:
+Jessica Martinez
+1665 Elm St
+Memphis, TN 38101
+
+Electric Usage Summary
+Meter Reading:  32789 kWh
+Previous:       14073 kWh
+Usage:          928 kWh
+Days in period: 31

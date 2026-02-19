@@ -1,0 +1,19 @@
+Apex Bank
+9457 Broad St
+Indianapolis, IN 46201
+
+Account Statement for Nancy Taylor
+Account No: 741176741241
+From June 26, 2018 To December 26, 2019
+
+11/24/2022  Cash Withdrawal                       559.45 CR       5,802.63
+06/02/2021  Check Deposit                       1,416.55 CR       7,219.18
+06/07/2024  Rent Payment                        1,590.45 CR       8,809.64
+01/21/2023  Direct Deposit - Payroll            1,756.37 CR      10,566.01
+04/22/2019  Mobile Deposit                      1,176.82 DR       9,389.19
+03/24/2021  Mortgage Payment                      974.17 DR       8,415.02
+02/17/2024  Interest Credit                     1,273.20 DR       7,141.82
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@apexbank.com

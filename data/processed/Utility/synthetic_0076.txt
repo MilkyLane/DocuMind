@@ -1,0 +1,32 @@
+MUNICIPAL GAS AUTHORITY
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 106.13
+Payment Received:           $ -241.85
+Current Charges:            $ 322.21
+Taxes & Surcharges:         $ 29.09
+Amount Due:                 $ 218.23
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $218.23 must be received by 04/01/2018.
+
+ACCOUNT INFORMATION
+Account Number:    7393483564
+Customer Name:     Robert Thompson
+Service Address:   2028 Cedar Ln, Denver, CO 80201
+Billing Period:    02/27/2022 to 11/16/2019
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 95.45  $ 63.46   $ 0.75   $ 150.24
+Other Charges   $ 18.10   -           $ 3.22    $ 11.42
+Total           $ 147.27  $ 33.77  $ 0.75   $ 218.23
+
+USAGE HISTORY (kWh)
+Current Period:  1715
+Last Period:     407
+Same Period Last Year: 1840
+
+Pay by phone: 1-800-140-5760
+Pay online:   municipalgasauthority.com

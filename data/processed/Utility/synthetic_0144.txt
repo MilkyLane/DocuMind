@@ -1,0 +1,32 @@
+VALLEY WATER DISTRICT
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 256.66
+Payment Received:           $ -94.87
+Current Charges:            $ 153.59
+Taxes & Surcharges:         $ 33.33
+Amount Due:                 $ 254.39
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $254.39 must be received by 11/11/2021.
+
+ACCOUNT INFORMATION
+Account Number:    7828064796954500
+Customer Name:     Laura Martinez
+Service Address:   8137 Church St, Nashville, TN 37201
+Billing Period:    07/12/2020 to 07/12/2018
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 69.51  $ 23.57   $ 6.48   $ 126.66
+Other Charges   $ 18.21   -           $ 0.33    $ 7.62
+Total           $ 70.51  $ 11.77  $ 4.89   $ 254.39
+
+USAGE HISTORY (kWh)
+Current Period:  993
+Last Period:     1397
+Same Period Last Year: 1818
+
+Pay by phone: 1-800-532-9433
+Pay online:   valleywaterdistrict.com

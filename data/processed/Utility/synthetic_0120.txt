@@ -1,0 +1,34 @@
+Sunrise Energy
+8462 Elm St, Indianapolis, IN 46201
+Customer Service: 1-800-257-5726
+
+Gas Bill
+
+Bill To:
+James Robinson
+8462 Elm St
+Indianapolis, IN 46201
+
+Account Number:   05800851403696
+Bill Date:        11/11/2023
+Due Date:         07/13/2021
+Service Period:   07/18/2019 to 11/06/2021
+Service Address:  8462 Elm St, Indianapolis, IN 46201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 134.70
+Payment Received - Thank You  $ -223.07
+Balance Forward:         $ 0.00
+Current Charges:         $ 373.57
+Taxes & Fees:            $ 29.93
+Total Amount Due:        $ 385.99
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    1472 therms
+Same period last year:357 therms
+Average daily usage:  22 therms
+
+Due Date: 07/13/2021
+Pay online at sunriseenergy.com

@@ -1,0 +1,24 @@
+City Savings Bank
+7936 Broad St
+Columbus, OH 43215
+
+Account Statement for David Davis
+Account No: 3189397490961739
+From November 20, 2024 To August 01, 2020
+
+09/16/2022  Mortgage Payment                      361.30 DR       8,858.34
+09/08/2020  Mobile Deposit                        606.28 CR       9,464.61
+11/15/2018  Bank Fee                            1,011.09 CR      10,475.71
+06/17/2021  Restaurant                            980.29 CR      11,455.99
+07/22/2020  Check Deposit                         140.46 DR      11,315.53
+11/22/2022  POS Purchase                          891.96 CR      12,207.50
+04/07/2020  Amazon Purchase                       226.34 DR      11,981.16
+08/04/2023  Mortgage Payment                    1,535.18 DR      10,445.98
+11/05/2020  POS Purchase                          428.48 CR      10,874.46
+03/28/2019  Credit Card Payment                   798.52 DR      10,075.95
+09/16/2023  Credit Card Payment                   658.11 CR      10,734.05
+05/08/2020  Restaurant                          1,561.71 CR      12,295.76
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@citysavingsbank.com

@@ -1,0 +1,31 @@
+Gas Bill
+
+Western Power Services
+Account Number: 574384215031
+Customer Number: 2182307681
+Service Address: 6880 College Ave, Columbus OH 43215
+Tax Invoice  Issue Date: 08/17/2018
+
+This account is based on an actual meter reading
+Gas account summary: 06/16/2023 to 09/10/2024
+
+Plan: Time-of-Use
+Opening balance:                $ 140.06
+Payment received - thank you    $ -13.84Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 227.41
+Total amount due                $ 277.23
+
+Due Date: 08/17/2019
+Total amount if paid after due date: $ 174.99
+
+Bill To:
+Michael Moore
+6880 College Ave
+Columbus, OH 43215
+
+Gas Usage Summary
+Meter Reading:  85701 therms
+Previous:       50913 therms
+Usage:          1408 therms
+Days in period: 29

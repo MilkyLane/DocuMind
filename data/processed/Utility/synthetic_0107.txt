@@ -1,0 +1,32 @@
+Union Gas
+
+Utility Billing
+6576 Washington Ave • Nashville, TN 37201 • Phone: (259) 941-8245
+WATER • SEWER • REFUSE
+
+Bill To: Matthew Martin
+6576 Washington Ave, Nashville, TN 37201
+
+Account Number:       314659116655
+Route:                89
+Cycle:                3
+Bill Date:            04/11/2020
+Due Date:             10/21/2018
+
+                                            Total Current Charges   $ 148.93
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 279.54
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+04/07/2023 - 06/05/2024  26   0392405147   80879         41490           779 CCF
+
+Service             Consumption   Charge       Total
+Water-SINGLE UNIT   314 CCF    $ 76.60   $ 29.07
+SEWER               329 CCF    $ 28.55    $ 16.64
+REFUSE              --                  $ 21.91    $ 30.55
+
+Total Current Charges   $ 69.68
+Balance Forward         $ 0.00
+Total Amount Due        $ 186.74
+
+PAY ONLINE AT: uniongas.gov

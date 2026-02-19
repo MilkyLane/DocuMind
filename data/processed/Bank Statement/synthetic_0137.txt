@@ -1,0 +1,26 @@
+Pacific Trust Bank
+2206 Hill St
+Portland, OR 97201
+
+Account Statement for Karen Lee
+Account No: 4303942904588679
+From March 12, 2023 To March 19, 2024
+
+08/21/2019  Amazon Purchase                     1,732.16 DR       3,325.13
+07/01/2023  Online Transfer                       973.16 DR       2,351.98
+04/05/2020  Credit Card Payment                   625.52 DR       1,726.45
+11/07/2020  Restaurant                          1,580.66 CR       3,307.11
+01/27/2023  NSF Fee Reversal                    1,826.28 DR       1,480.83
+12/07/2020  Cash Withdrawal                     1,797.29 CR       3,278.12
+06/17/2018  Mobile Deposit                      1,256.54 DR       2,021.58
+12/18/2024  Online Transfer                     1,074.16 CR       3,095.74
+10/17/2019  ACH Credit                            121.39 CR       3,217.13
+12/21/2024  ACH Credit                          1,481.48 DR       1,735.65
+03/02/2022  Mobile Deposit                      1,437.59 DR         298.06
+04/24/2024  Online Transfer                       191.80 CR         489.87
+05/02/2019  ACH Credit                            273.77 CR         763.64
+08/15/2018  Rent Payment                        1,525.74 DR           0.00
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pacifictrustbank.com

@@ -1,0 +1,30 @@
+Sunrise Energy
+ELECTRIC BILL
+
+Bill Date:      09/23/2022
+Bill Month:     FEB-2018
+
+Customer Name:  Joshua Jones
+Address:        311 Market St
+                Portland, OR 97201
+Account No:     57652132833898
+Meter No:       07545279
+
+METER READINGS
+Current Reading:   77351
+Previous Reading:  70178
+Units Consumed:    7173 kWh
+Derived Load:      1.26 kW
+
+CHARGES
+Fixed Charges:             $ 25.36
+Variable Charges:          $ 52.25
+Fuel Adjustment:           $ 13.00
+State Tax:                 $ 4.56
+Local Tax:                 $ 3.04
+-------------------------------------------
+Total Current Charges:     $ 63.84
+Amount Upto 30 days:       $ 65.16
+Amount Upto 60 days:       $ 58.19
+
+Due Date:       12/25/2024

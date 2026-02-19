@@ -1,0 +1,31 @@
+Valley National Bank
+
+Monthly Account Statement
+November 2018
+
+Account Holder: Kimberly Harris
+Address:        2438 Oak Ave, Seattle, WA - 98101
+Account Number: XXXX XXXX 6543
+IFSC Code:      KMOL0960335
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/06/2023  | 04/11/2023  | Interest Credit                    |            |   1,268.93 |     7,279.43
+02/27/2019  | 10/17/2020  | Rent Payment                       |   2,179.63 |            |     5,099.80
+06/02/2018  | 11/03/2021  | Amazon Purchase                    |   1,372.34 |            |     3,727.46
+03/24/2020  | 06/02/2019  | Check Deposit                      |            |   1,550.28 |     5,277.74
+01/19/2018  | 07/25/2022  | Check Deposit                      |            |      24.70 |     5,302.44
+01/19/2022  | 02/01/2023  | Restaurant                         |            |   1,907.82 |     7,210.26
+05/22/2022  | 07/15/2023  | ACH Credit                         |            |   1,615.53 |     8,825.78
+06/21/2021  | 08/05/2021  | Rent Payment                       |            |   1,535.40 |    10,361.18
+05/21/2023  | 03/13/2020  | POS Purchase                       |            |     567.36 |    10,928.54
+05/05/2018  | 08/14/2023  | Rent Payment                       |      62.13 |            |    10,866.41
+03/27/2023  | 06/07/2021  | Grocery Store                      |            |   2,468.85 |    13,335.25
+08/15/2021  | 08/12/2020  | Car Loan Payment                   |            |   1,156.85 |    14,492.10
+-----------------------------------------------------------------------------------------------
+
+Generated on November 13, 2022. For disputes call 1855-284-8257.

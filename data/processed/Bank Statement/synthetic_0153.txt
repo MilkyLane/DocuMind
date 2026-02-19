@@ -1,0 +1,35 @@
+Heritage Bank
+James Lee
+5689 Maple Dr
+Boston, MA 02101
+
+Account Statement
+
+Account Number:    5191023121106330
+Account Type:      Money Market
+Statement Period:  12/03/2021 to 06/21/2022
+Currency:          USD
+
+Opening Balance:   $ 4,256.45
+Closing Balance:   $ 16,442.24
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+11/19/2024  ATM Withdrawal                         871.31                 11,632.39
+02/06/2019  Mobile Deposit                       1,527.68                 10,104.71
+04/23/2018  Refund Credit                        1,630.58                  8,474.14
+06/25/2019  POS Purchase                                       572.71      9,046.85
+05/20/2021  Amazon Purchase                      2,509.76                  6,537.09
+05/27/2020  Interest Credit                                    662.59      7,199.68
+11/09/2020  Bank Fee                                30.88                  7,168.80
+08/12/2023  ATM Withdrawal                         194.24                  6,974.56
+02/22/2024  Refund Credit                                    2,454.93      9,429.49
+11/03/2020  Utility Bill                         2,931.73                  6,497.76
+12/22/2022  Cash Withdrawal                                  2,744.29      9,242.05
+12/27/2020  Gas Station                                      1,711.91     10,953.96
+06/16/2020  Bank Fee                             2,434.79                  8,519.17
+-----------------------------------------------------------
+
+For questions call 1-800-420-9944 or visit heritagebank.com

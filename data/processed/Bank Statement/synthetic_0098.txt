@@ -1,0 +1,28 @@
+First National Bank
+
+Monthly Account Statement
+May 2022
+
+Account Holder: Kevin Rodriguez
+Address:        3179 Pine St, Springfield, IL - 62701
+Account Number: XXXX XXXX 3665
+IFSC Code:      UUYD0993160
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: CAD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+12/17/2018  | 03/16/2024  | Online Transfer                    |            |   2,191.82 |    13,014.98
+09/28/2021  | 03/15/2018  | Restaurant                         |   1,685.92 |            |    11,329.06
+04/06/2024  | 11/23/2018  | Check Deposit                      |            |     609.85 |    11,938.90
+03/11/2021  | 05/08/2023  | Mobile Deposit                     |   1,792.26 |            |    10,146.65
+11/04/2023  | 03/18/2023  | Interest Credit                    |            |   2,379.24 |    12,525.89
+06/28/2019  | 10/25/2022  | Online Transfer                    |   1,990.90 |            |    10,535.00
+12/24/2023  | 12/13/2023  | Savings Transfer                   |            |     948.76 |    11,483.75
+07/26/2019  | 04/09/2018  | Mortgage Payment                   |            |   2,415.96 |    13,899.71
+12/19/2019  | 12/04/2022  | Insurance Premium                  |     231.96 |            |    13,667.75
+-----------------------------------------------------------------------------------------------
+
+Generated on June 05, 2024. For disputes call 1837-957-4586.

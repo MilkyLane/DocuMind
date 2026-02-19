@@ -1,0 +1,35 @@
+MIDWEST BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Brian Moore
+Customer ID:     678401
+Address:         8075 Broad St, Indianapolis, IN 46201
+Account Number:  5372603214505766
+Account Type:    Checking
+Statement Date:  October 07, 2021
+Period Covered:  02/20/2020 to 06/27/2022
+
+Opening Balance:        24,378.30
+Total Credit Amount:    28,052.33
+Total Debit Amount:     17,438.27
+Closing Balance:        14,644.03
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+01/04/2019  Interest Credit                      1,525.09                  5,772.51
+01/17/2019  Savings Transfer                                   816.13      6,588.64
+07/11/2024  Credit Card Payment                                 82.18      6,670.82
+05/12/2018  NSF Fee Reversal                     1,869.10                  4,801.72
+08/25/2021  Grocery Store                                      378.66      5,180.38
+09/24/2023  Utility Bill                                       118.11      5,298.48
+03/27/2021  Car Loan Payment                                 2,995.95      8,294.43
+12/21/2020  Bill Payment - Electricity                       1,325.19      9,619.62
+02/20/2021  Mobile Deposit                       2,745.83                  6,873.78
+05/01/2019  Wire Transfer                          135.26                  6,738.53
+-------------------------------------------------------------
+
+Branch: North Branch
+SWIFT: LOZFUS9F

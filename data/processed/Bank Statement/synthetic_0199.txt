@@ -1,0 +1,25 @@
+Cornerstone Bank
+
+Monthly Account Statement
+November 2022
+
+Account Holder: Amanda Rodriguez
+Address:        1490 Broad St, Seattle, WA - 98101
+Account Number: XXXX XXXX 3912
+IFSC Code:      NYNG0869996
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/27/2018  | 05/11/2023  | Savings Transfer                   |   1,962.26 |            |    10,155.09
+04/11/2023  | 09/17/2024  | Bill Payment - Electricity         |     972.67 |            |     9,182.42
+06/28/2019  | 05/01/2018  | Refund Credit                      |   2,235.55 |            |     6,946.87
+09/03/2023  | 07/15/2021  | Amazon Purchase                    |            |   1,853.36 |     8,800.24
+07/12/2019  | 05/09/2020  | Cash Withdrawal                    |   2,263.46 |            |     6,536.78
+07/02/2024  | 09/07/2024  | Rent Payment                       |            |     661.52 |     7,198.30
+-----------------------------------------------------------------------------------------------
+
+Generated on September 25, 2019. For disputes call 1897-807-1998.

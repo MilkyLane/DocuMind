@@ -1,0 +1,33 @@
+Midwest Bank
+Member FDIC
+
+Michelle Jones
+9954 Elm St
+Denver, CO 80201
+
+Business Checking Statement
+Account Number: 9548149737
+Statement Period: 05/23/2021 through 01/26/2020
+Page 1 of 4
+
+Account Summary
+Previous Balance:    $ 76,081.45
+Deposits/Credits:    $ 17,370.89
+Withdrawals/Debits:  $ 25,281.47
+Service Charges:     $ 46.67
+Ending Balance:      $ 6,214.84
+
+Transaction Detail
+04/23/2023  ATM Withdrawal                       2,200.65                 14,529.16
+08/24/2021  Mortgage Payment                                 2,330.36     16,859.52
+03/01/2022  Subscription - Netflix                           1,981.16     18,840.68
+06/25/2021  Subscription - Netflix               2,036.92                 16,803.76
+05/23/2019  Refund Credit                        2,183.00                 14,620.76
+03/11/2024  NSF Fee Reversal                                 1,187.38     15,808.14
+12/10/2021  Savings Transfer                                 2,417.16     18,225.31
+12/16/2020  Bill Payment - Electricity             421.31                 17,804.00
+04/24/2023  Direct Deposit - Payroll             2,415.03                 15,388.97
+02/22/2024  Bill Payment - Electricity           2,569.86                 12,819.11
+
+Overdraft Protection: Enrolled
+Next Statement Date: 03/02/2018

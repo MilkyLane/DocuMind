@@ -1,0 +1,31 @@
+Electric Bill
+
+Union Gas
+Account Number: 7749690333736346
+Customer Number: 3907895677
+Service Address: 5372 1st Ave, Baltimore MD 21201
+Tax Invoice  Issue Date: 07/19/2019
+
+This account is based on an estimated meter reading
+Electric account summary: 03/25/2018 to 05/15/2022
+
+Plan: Budget Billing
+Opening balance:                $ 7.42
+Payment received - thank you    $ -132.51Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 135.62
+Total amount due                $ 67.32
+
+Due Date: 06/09/2022
+Total amount if paid after due date: $ 410.59
+
+Bill To:
+Michelle Miller
+5372 1st Ave
+Baltimore, MD 21201
+
+Electric Usage Summary
+Meter Reading:  48603 kWh
+Previous:       75767 kWh
+Usage:          1150 kWh
+Days in period: 32

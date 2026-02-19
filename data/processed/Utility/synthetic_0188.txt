@@ -1,0 +1,31 @@
+Electric Bill
+
+Central Hudson Gas & Electric
+Account Number: 414111593195
+Customer Number: 6552899316
+Service Address: 9306 Lake Rd, Indianapolis IN 46201
+Tax Invoice  Issue Date: 03/28/2020
+
+This account is based on an actual meter reading
+Electric account summary: 05/02/2022 to 09/07/2024
+
+Plan: Budget Billing
+Opening balance:                $ 203.99
+Payment received - thank you    $ -44.23Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 142.02
+Total amount due                $ 308.94
+
+Due Date: 07/19/2023
+Total amount if paid after due date: $ 389.65
+
+Bill To:
+Kenneth Clark
+9306 Lake Rd
+Indianapolis, IN 46201
+
+Electric Usage Summary
+Meter Reading:  14501 kWh
+Previous:       88496 kWh
+Usage:          755 kWh
+Days in period: 30

@@ -1,0 +1,20 @@
+Valley National Bank
+3974 Washington Ave
+Seattle, WA 98101
+
+Account Statement for Paul Johnson
+Account No: 16781277822102
+From November 03, 2021 To October 18, 2024
+
+07/06/2022  Rent Payment                        1,043.65 DR         940.25
+12/22/2022  Gas Station                         1,661.20 DR           0.00
+04/28/2024  Rent Payment                          857.78 DR           0.00
+09/06/2022  Cash Withdrawal                       238.82 DR           0.00
+06/08/2022  Bank Fee                              822.77 CR         822.77
+08/26/2023  Utility Bill                        1,480.18 DR           0.00
+07/22/2018  Gas Station                         1,276.93 CR       1,276.93
+08/08/2021  Amazon Purchase                       131.57 DR       1,145.37
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@valleynationalbank.com

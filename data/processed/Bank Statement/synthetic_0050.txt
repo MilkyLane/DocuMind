@@ -1,0 +1,33 @@
+Liberty Bank
+Member FDIC
+
+Emily Martin
+2004 Maple Dr
+Denver, CO 80201
+
+Business Checking Statement
+Account Number: 356588043416
+Statement Period: 11/24/2024 through 06/03/2022
+Page 1 of 2
+
+Account Summary
+Previous Balance:    $ 37,118.49
+Deposits/Credits:    $ 5,254.54
+Withdrawals/Debits:  $ 15,642.51
+Service Charges:     $ 19.20
+Ending Balance:      $ 1,000.91
+
+Transaction Detail
+05/06/2023  Cash Withdrawal                      2,684.01                  7,370.55
+12/07/2019  Interest Credit                                    578.60      7,949.15
+04/07/2024  ACH Credit                             803.56                  7,145.59
+02/04/2018  Cash Withdrawal                                  1,074.52      8,220.11
+01/25/2024  Rent Payment                                     1,483.07      9,703.18
+06/20/2020  Restaurant                                       2,545.55     12,248.73
+10/28/2020  Restaurant                                       2,644.15     14,892.88
+09/09/2021  ACH Credit                           2,295.14                 12,597.74
+09/26/2021  Restaurant                                         393.46     12,991.19
+06/13/2024  Cash Withdrawal                                    107.36     13,098.55
+
+Overdraft Protection: Enrolled
+Next Statement Date: 07/19/2018

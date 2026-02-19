@@ -1,0 +1,32 @@
+SUMMIT BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   David Martinez
+Customer ID:     276264
+Address:         2597 Washington Ave, Columbus, OH 43215
+Account Number:  491289659994
+Account Type:    Savings
+Statement Date:  January 28, 2020
+Period Covered:  12/28/2022 to 11/16/2019
+
+Opening Balance:        1,130.87
+Total Credit Amount:    7,339.02
+Total Debit Amount:     4,720.65
+Closing Balance:        27,921.64
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+02/02/2019  Amazon Purchase                         10.74                  3,712.60
+08/11/2020  Amazon Purchase                                  1,281.96      4,994.56
+07/13/2024  Subscription - Netflix                             729.91      5,724.47
+09/11/2022  Online Transfer                                  1,071.42      6,795.89
+03/21/2024  Mobile Deposit                                   2,528.15      9,324.05
+09/15/2021  Refund Credit                                    2,521.23     11,845.28
+09/14/2023  Insurance Premium                                2,059.25     13,904.52
+-------------------------------------------------------------
+
+Branch: Main Office
+SWIFT: UILQUS57

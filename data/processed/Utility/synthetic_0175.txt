@@ -1,0 +1,34 @@
+Valley Water District
+1712 Maple Dr, Columbus, OH 43215
+Customer Service: 1-800-507-4728
+
+Electric Bill
+
+Bill To:
+Sandra Wilson
+1712 Maple Dr
+Columbus, OH 43215
+
+Account Number:   08353544439284
+Bill Date:        01/25/2020
+Due Date:         05/27/2020
+Service Period:   07/13/2024 to 10/25/2023
+Service Address:  1712 Maple Dr, Columbus, OH 43215
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 262.40
+Payment Received - Thank You  $ -280.69
+Balance Forward:         $ 0.00
+Current Charges:         $ 316.41
+Taxes & Fees:            $ 8.35
+Total Amount Due:        $ 109.71
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    1634 kWh
+Same period last year:529 kWh
+Average daily usage:  65 kWh
+
+Due Date: 05/27/2020
+Pay online at valleywaterdistrict.com

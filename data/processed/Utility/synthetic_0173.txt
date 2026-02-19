@@ -1,0 +1,32 @@
+NATIONAL GRID
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 200.34
+Payment Received:           $ -272.65
+Current Charges:            $ 325.51
+Taxes & Surcharges:         $ 31.71
+Amount Due:                 $ 255.56
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $255.56 must be received by 09/10/2024.
+
+ACCOUNT INFORMATION
+Account Number:    1223386559
+Customer Name:     Kimberly Thomas
+Service Address:   2907 Sunset Blvd, Memphis, TN 38101
+Billing Period:    06/08/2018 to 11/26/2020
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 88.56  $ 68.86   $ 9.68   $ 179.45
+Other Charges   $ 4.18   -           $ 0.41    $ 11.77
+Total           $ 109.62  $ 15.84  $ 7.63   $ 255.56
+
+USAGE HISTORY (therms)
+Current Period:  1588
+Last Period:     1857
+Same Period Last Year: 1371
+
+Pay by phone: 1-800-869-9342
+Pay online:   nationalgrid.com

@@ -1,0 +1,32 @@
+UNION GAS
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 187.74
+Payment Received:           $ -380.99
+Current Charges:            $ 114.31
+Taxes & Surcharges:         $ 35.47
+Amount Due:                 $ 145.82
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $145.82 must be received by 11/18/2020.
+
+ACCOUNT INFORMATION
+Account Number:    46926329676291
+Customer Name:     Michael Lee
+Service Address:   1592 Broad St, Denver, CO 80201
+Billing Period:    12/24/2023 to 04/16/2021
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 99.32  $ 46.46   $ 9.95   $ 33.78
+Other Charges   $ 2.10   -           $ 3.83    $ 8.15
+Total           $ 84.11  $ 32.75  $ 7.59   $ 145.82
+
+USAGE HISTORY (kWh)
+Current Period:  996
+Last Period:     104
+Same Period Last Year: 199
+
+Pay by phone: 1-800-754-8567
+Pay online:   uniongas.com

@@ -1,0 +1,35 @@
+City Savings Bank
+Carol Moore
+4229 Park Blvd
+Nashville, TN 37201
+
+Account Statement
+
+Account Number:    146147683420
+Account Type:      Savings
+Statement Period:  02/14/2020 to 05/06/2019
+Currency:          USD
+
+Opening Balance:   $ 7,310.89
+Closing Balance:   $ 8,672.47
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+07/12/2023  Utility Bill                                     2,897.11     14,071.73
+10/07/2018  Interest Credit                         39.70                 14,032.04
+06/22/2024  Interest Credit                                  1,853.37     15,885.41
+06/01/2019  Gas Station                                      2,212.79     18,098.20
+06/04/2024  Cash Withdrawal                                  1,503.34     19,601.54
+01/15/2024  Bill Payment - Electricity           1,566.87                 18,034.67
+10/04/2018  Wire Transfer                                    1,920.36     19,955.03
+12/18/2024  POS Purchase                                       571.09     20,526.13
+04/07/2023  Utility Bill                                       656.25     21,182.38
+06/01/2020  Mortgage Payment                                 1,117.07     22,299.45
+12/16/2023  Gas Station                                      2,604.60     24,904.04
+09/14/2022  Bank Fee                             1,061.67                 23,842.37
+08/14/2020  POS Purchase                         2,779.78                 21,062.59
+-----------------------------------------------------------
+
+For questions call 1-800-655-8141 or visit citysavingsbank.com

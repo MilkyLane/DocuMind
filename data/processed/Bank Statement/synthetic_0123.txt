@@ -1,0 +1,33 @@
+Cornerstone Bank
+
+Monthly Account Statement
+June 2022
+
+Account Holder: Brian Anderson
+Address:        4510 Hill St, Austin, TX - 73301
+Account Number: XXXX XXXX 2449
+IFSC Code:      TYRD0388209
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/15/2024  | 07/08/2022  | Bill Payment - Electricity         |   1,215.54 |            |       392.89
+07/22/2022  | 11/05/2022  | Mobile Deposit                     |            |     619.91 |     1,012.80
+02/03/2021  | 07/17/2019  | Utility Bill                       |            |     860.51 |     1,873.31
+04/06/2021  | 01/06/2018  | Grocery Store                      |   2,204.79 |            |         0.00
+08/24/2018  | 03/28/2018  | Grocery Store                      |   1,390.90 |            |         0.00
+02/05/2022  | 09/13/2021  | Insurance Premium                  |     425.67 |            |         0.00
+04/23/2020  | 02/11/2024  | Car Loan Payment                   |   1,745.35 |            |         0.00
+12/02/2018  | 12/12/2021  | Grocery Store                      |            |   1,545.41 |     1,545.41
+07/10/2024  | 08/23/2019  | Interest Credit                    |            |   1,854.34 |     3,399.74
+09/03/2019  | 01/19/2022  | Insurance Premium                  |   1,917.23 |            |     1,482.51
+06/15/2019  | 09/24/2022  | Mobile Deposit                     |            |   1,139.28 |     2,621.80
+05/16/2020  | 01/19/2022  | Amazon Purchase                    |            |     251.28 |     2,873.07
+07/10/2020  | 07/11/2024  | POS Purchase                       |            |   2,111.72 |     4,984.80
+12/24/2019  | 07/17/2020  | Utility Bill                       |            |     114.42 |     5,099.21
+-----------------------------------------------------------------------------------------------
+
+Generated on September 26, 2019. For disputes call 1800-600-1422.

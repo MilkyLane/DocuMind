@@ -1,0 +1,32 @@
+Apex Bank
+Sandra Thomas
+2226 Market St
+Austin, TX 73301
+
+Account Statement
+
+Account Number:    62258660598678
+Account Type:      Money Market
+Statement Period:  08/09/2020 to 03/05/2021
+Currency:          USD
+
+Opening Balance:   $ 14,268.98
+Closing Balance:   $ 10,449.06
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+06/26/2024  Car Loan Payment                     1,769.08                  9,516.56
+05/06/2022  Bill Payment - Electricity                       2,526.31     12,042.87
+02/03/2024  Refund Credit                        1,847.00                 10,195.87
+03/28/2018  ATM Withdrawal                       1,003.56                  9,192.31
+06/21/2019  Utility Bill                         2,406.85                  6,785.46
+04/05/2023  Check Deposit                                      703.95      7,489.41
+02/07/2018  Car Loan Payment                                 2,606.77     10,096.18
+04/21/2023  Grocery Store                          111.03                  9,985.15
+02/10/2020  Mortgage Payment                                   554.63     10,539.77
+07/13/2022  Credit Card Payment                              1,579.13     12,118.90
+-----------------------------------------------------------
+
+For questions call 1-800-247-9185 or visit apexbank.com

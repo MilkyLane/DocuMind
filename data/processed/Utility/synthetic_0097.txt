@@ -1,0 +1,30 @@
+National Grid
+WATER BILL
+
+Bill Date:      06/08/2020
+Bill Month:     JUL-2020
+
+Customer Name:  Lisa Taylor
+Address:        5918 Market St
+                Charlotte, NC 28201
+Account No:     7169472256996112
+Meter No:       59876220
+
+METER READINGS
+Current Reading:   89674
+Previous Reading:  82247
+Units Consumed:    7427 CCF
+Derived Load:      1.86 kW
+
+CHARGES
+Fixed Charges:             $ 28.42
+Variable Charges:          $ 99.91
+Fuel Adjustment:           $ 1.75
+State Tax:                 $ 15.88
+Local Tax:                 $ 5.72
+-------------------------------------------
+Total Current Charges:     $ 298.92
+Amount Upto 30 days:       $ 58.06
+Amount Upto 60 days:       $ 217.34
+
+Due Date:       06/21/2020

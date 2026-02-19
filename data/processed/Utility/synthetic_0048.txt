@@ -1,0 +1,32 @@
+City Water Authority
+
+Utility Billing
+2539 Washington Ave • Austin, TX 73301 • Phone: (217) 965-8109
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Robert Thompson
+2539 Washington Ave, Austin, TX 73301
+
+Account Number:       54615679334101
+Route:                92
+Cycle:                6
+Bill Date:            07/13/2021
+Due Date:             09/16/2018
+
+                                            Total Current Charges   $ 182.78
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 261.65
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+02/17/2018 - 04/07/2024  34   4014890250   60646         76959           592 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   680 kWh    $ 85.12   $ 45.02
+SEWER               326 kWh    $ 19.93    $ 39.00
+REFUSE              --                  $ 9.90    $ 39.60
+
+Total Current Charges   $ 192.07
+Balance Forward         $ 0.00
+Total Amount Due        $ 145.17
+
+PAY ONLINE AT: citywaterauthority.gov

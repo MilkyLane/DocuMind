@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 362.22
+Payment Received:           $ -264.52
+Current Charges:            $ 43.61
+Taxes & Surcharges:         $ 37.70
+Amount Due:                 $ 226.95
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $226.95 must be received by 08/28/2021.
+
+ACCOUNT INFORMATION
+Account Number:    588916375628
+Customer Name:     David Moore
+Service Address:   5248 Market St, Springfield, IL 62701
+Billing Period:    02/25/2021 to 06/08/2020
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 97.31  $ 8.78   $ 2.23   $ 135.80
+Other Charges   $ 8.07   -           $ 1.17    $ 11.48
+Total           $ 126.15  $ 50.33  $ 12.85   $ 226.95
+
+USAGE HISTORY (therms)
+Current Period:  965
+Last Period:     697
+Same Period Last Year: 293
+
+Pay by phone: 1-800-609-1291
+Pay online:   pacificgasandelectric.com

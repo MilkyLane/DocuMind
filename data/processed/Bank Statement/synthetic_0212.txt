@@ -1,0 +1,33 @@
+Summit Bank
+Amanda Rodriguez
+5265 Church St
+Austin, TX 73301
+
+Account Statement
+
+Account Number:    8520136260
+Account Type:      Money Market
+Statement Period:  09/26/2020 to 11/13/2019
+Currency:          USD
+
+Opening Balance:   $ 11,632.76
+Closing Balance:   $ 14,541.85
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+08/02/2020  Car Loan Payment                       837.78                  7,498.43
+03/21/2023  Online Transfer                        227.44                  7,270.99
+12/09/2018  Online Transfer                      1,290.08                  5,980.92
+06/11/2021  Mobile Deposit                                   2,755.75      8,736.67
+02/19/2023  Subscription - Netflix               2,800.70                  5,935.97
+06/15/2022  Restaurant                                         642.44      6,578.41
+08/26/2018  NSF Fee Reversal                       562.74                  6,015.67
+07/06/2023  Direct Deposit - Payroll               768.33                  5,247.35
+08/04/2019  Interest Credit                      2,601.96                  2,645.38
+02/07/2022  ACH Credit                                         457.52      3,102.90
+10/13/2021  Rent Payment                                     1,295.69      4,398.59
+-----------------------------------------------------------
+
+For questions call 1-800-515-1595 or visit summitbank.com

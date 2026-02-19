@@ -1,0 +1,25 @@
+Midwest Bank
+
+Monthly Account Statement
+June 2024
+
+Account Holder: Kenneth Miller
+Address:        9851 Hill St, Columbus, OH - 43215
+Account Number: XXXX XXXX 8138
+IFSC Code:      JIDS0493214
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+01/26/2021  | 09/05/2019  | Car Loan Payment                   |            |   1,115.00 |    12,892.96
+09/10/2024  | 06/05/2024  | Check Deposit                      |            |   1,833.78 |    14,726.74
+11/05/2019  | 12/02/2021  | Subscription - Netflix             |            |   2,345.68 |    17,072.42
+01/10/2018  | 11/28/2022  | Online Transfer                    |            |   1,310.64 |    18,383.05
+02/17/2024  | 11/24/2020  | Direct Deposit - Payroll           |   2,224.07 |            |    16,158.98
+04/11/2019  | 04/10/2020  | Rent Payment                       |            |     787.24 |    16,946.22
+-----------------------------------------------------------------------------------------------
+
+Generated on September 15, 2018. For disputes call 1816-129-8712.

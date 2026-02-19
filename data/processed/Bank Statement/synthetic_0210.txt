@@ -1,0 +1,36 @@
+Cornerstone Bank
+Kimberly Lee
+9094 Maple Dr
+Seattle, WA 98101
+
+Account Statement
+
+Account Number:    52354268744701
+Account Type:      Savings
+Statement Period:  08/07/2023 to 03/28/2023
+Currency:          USD
+
+Opening Balance:   $ 18,708.30
+Closing Balance:   $ 13,695.76
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+03/08/2021  Gas Station                          2,228.50                  6,579.02
+07/22/2020  Grocery Store                        1,736.14                  4,842.88
+02/09/2018  Savings Transfer                     1,409.41                  3,433.47
+11/23/2020  Bill Payment - Electricity                       2,775.75      6,209.22
+02/01/2020  Car Loan Payment                                 2,797.96      9,007.19
+01/02/2018  Bill Payment - Electricity                       1,978.27     10,985.46
+12/05/2018  Mortgage Payment                     2,050.43                  8,935.03
+04/04/2021  Direct Deposit - Payroll             1,394.71                  7,540.32
+10/23/2024  Check Deposit                                      687.86      8,228.18
+07/17/2024  Savings Transfer                                   660.67      8,888.85
+03/02/2019  Check Deposit                                    1,488.19     10,377.04
+06/23/2019  Amazon Purchase                      1,871.08                  8,505.96
+12/01/2022  Savings Transfer                                   536.27      9,042.23
+08/26/2019  Insurance Premium                    2,181.50                  6,860.73
+-----------------------------------------------------------
+
+For questions call 1-800-836-7119 or visit cornerstonebank.com

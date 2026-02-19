@@ -1,0 +1,25 @@
+Atlantic Financial Bank
+3284 Pine St
+Portland, OR 97201
+
+Account Statement for Dorothy Lewis
+Account No: 993379705816
+From March 20, 2020 To February 17, 2021
+
+05/03/2021  Subscription - Netflix              1,916.96 CR      11,154.66
+05/23/2019  Insurance Premium                   1,584.65 CR      12,739.31
+04/08/2023  Direct Deposit - Payroll              127.45 CR      12,866.76
+08/18/2019  NSF Fee Reversal                    1,651.43 DR      11,215.34
+06/20/2022  Wire Transfer                         646.87 DR      10,568.47
+10/20/2018  Mortgage Payment                    1,295.22 CR      11,863.69
+04/17/2024  Amazon Purchase                     1,473.63 CR      13,337.33
+07/23/2024  Direct Deposit - Payroll            1,583.51 DR      11,753.81
+05/01/2018  Savings Transfer                      416.44 DR      11,337.38
+06/15/2024  Bill Payment - Electricity            848.63 CR      12,186.01
+03/20/2021  Bank Fee                              770.22 DR      11,415.79
+08/09/2019  Refund Credit                       1,874.44 DR       9,541.35
+10/05/2020  Direct Deposit - Payroll              576.68 CR      10,118.03
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@atlanticfinancialbank.com

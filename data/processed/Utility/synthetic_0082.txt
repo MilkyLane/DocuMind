@@ -1,0 +1,30 @@
+Pacific Gas & Electric
+WATER & SEWER BILL
+
+Bill Date:      01/24/2020
+Bill Month:     DEC-2023
+
+Customer Name:  Joshua Harris
+Address:        1779 Church St
+                Boston, MA 02101
+Account No:     863840666580
+Meter No:       98933472
+
+METER READINGS
+Current Reading:   64781
+Previous Reading:  81535
+Units Consumed:    -16754 CCF
+Derived Load:      1.37 kW
+
+CHARGES
+Fixed Charges:             $ 11.98
+Variable Charges:          $ 60.21
+Fuel Adjustment:           $ 3.25
+State Tax:                 $ 17.23
+Local Tax:                 $ 1.05
+-------------------------------------------
+Total Current Charges:     $ 155.91
+Amount Upto 30 days:       $ 283.12
+Amount Upto 60 days:       $ 46.78
+
+Due Date:       04/20/2024

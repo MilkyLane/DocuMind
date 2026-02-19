@@ -1,0 +1,31 @@
+Water Bill
+
+Central Hudson Gas & Electric
+Account Number: 0385695579
+Customer Number: 3754025472
+Service Address: 451 Washington Ave, Denver CO 80201
+Tax Invoice  Issue Date: 11/23/2022
+
+This account is based on an estimated meter reading
+Water account summary: 10/05/2024 to 05/06/2024
+
+Plan: Flat Rate
+Opening balance:                $ 251.80
+Payment received - thank you    $ -207.86Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 279.89
+Total amount due                $ 95.25
+
+Due Date: 09/15/2021
+Total amount if paid after due date: $ 145.16
+
+Bill To:
+Brian Lee
+451 Washington Ave
+Denver, CO 80201
+
+Water Usage Summary
+Meter Reading:  15393 CCF
+Previous:       51500 CCF
+Usage:          1276 CCF
+Days in period: 29

@@ -1,0 +1,18 @@
+City Savings Bank
+4301 Sunset Blvd
+Springfield, IL 62701
+
+Account Statement for Robert Johnson
+Account No: 97315391149830
+From August 23, 2020 To September 06, 2023
+
+07/11/2018  Online Transfer                     1,984.59 DR      11,945.72
+10/09/2018  Grocery Store                         466.37 CR      12,412.08
+08/18/2023  POS Purchase                        1,869.96 CR      14,282.05
+11/19/2018  Cash Withdrawal                       204.05 DR      14,078.00
+03/08/2023  ATM Withdrawal                        352.42 DR      13,725.58
+04/07/2019  Mortgage Payment                      399.75 CR      14,125.34
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@citysavingsbank.com

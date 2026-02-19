@@ -1,0 +1,34 @@
+Summit Bank
+Member FDIC
+
+Brian Wilson
+2329 Main St
+Boston, MA 02101
+
+Business Checking Statement
+Account Number: 75988759212996
+Statement Period: 05/06/2021 through 01/08/2024
+Page 1 of 4
+
+Account Summary
+Previous Balance:    $ 44,925.02
+Deposits/Credits:    $ 2,256.05
+Withdrawals/Debits:  $ 1,700.25
+Service Charges:     $ 49.66
+Ending Balance:      $ 20,710.33
+
+Transaction Detail
+01/23/2019  Gas Station                                        545.75      9,508.28
+02/09/2021  Gas Station                          1,566.78                  7,941.50
+03/01/2021  Check Deposit                                    2,087.76     10,029.26
+03/08/2023  Bank Fee                             1,039.31                  8,989.95
+07/23/2019  Check Deposit                                      550.99      9,540.93
+11/06/2018  Insurance Premium                                1,827.90     11,368.84
+02/17/2022  Restaurant                                       1,578.05     12,946.89
+10/04/2021  Check Deposit                                    2,062.32     15,009.21
+04/18/2020  Car Loan Payment                                 1,514.37     16,523.58
+10/11/2022  Interest Credit                                    253.84     16,777.43
+03/23/2023  Check Deposit                        2,918.71                 13,858.72
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 09/25/2024

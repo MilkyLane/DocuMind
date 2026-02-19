@@ -1,0 +1,31 @@
+Gas Bill
+
+National Grid
+Account Number: 1422410988138585
+Customer Number: 2070160166
+Service Address: 4632 Pine St, Memphis TN 38101
+Tax Invoice  Issue Date: 05/05/2023
+
+This account is based on an estimated meter reading
+Gas account summary: 02/10/2022 to 06/18/2021
+
+Plan: Fixed Rate
+Opening balance:                $ 267.38
+Payment received - thank you    $ -188.84Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 288.44
+Total amount due                $ 200.50
+
+Due Date: 05/19/2019
+Total amount if paid after due date: $ 192.25
+
+Bill To:
+Matthew Taylor
+4632 Pine St
+Memphis, TN 38101
+
+Gas Usage Summary
+Meter Reading:  53559 therms
+Previous:       35971 therms
+Usage:          1560 therms
+Days in period: 33

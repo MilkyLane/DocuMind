@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 247.39
+Payment Received:           $ -126.29
+Current Charges:            $ 256.83
+Taxes & Surcharges:         $ 31.84
+Amount Due:                 $ 108.73
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $108.73 must be received by 10/24/2023.
+
+ACCOUNT INFORMATION
+Account Number:    0330923271
+Customer Name:     Sarah Thomas
+Service Address:   3773 Maple Dr, Nashville, TN 37201
+Billing Period:    03/10/2018 to 10/01/2020
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 61.82  $ 73.10   $ 3.75   $ 189.46
+Other Charges   $ 3.97   -           $ 2.96    $ 20.76
+Total           $ 59.14  $ 72.75  $ 4.52   $ 108.73
+
+USAGE HISTORY (kWh)
+Current Period:  1451
+Last Period:     1279
+Same Period Last Year: 1699
+
+Pay by phone: 1-800-223-1672
+Pay online:   pacificgasandelectric.com

@@ -1,0 +1,32 @@
+Union Gas
+
+Utility Billing
+562 Elm St • Baltimore, MD 21201 • Phone: (448) 645-7271
+WATER & SEWER • SEWER • REFUSE
+
+Bill To: Michael Thomas
+562 Elm St, Baltimore, MD 21201
+
+Account Number:       97243992011669
+Route:                85
+Cycle:                5
+Bill Date:            02/17/2019
+Due Date:             07/06/2024
+
+                                            Total Current Charges   $ 228.16
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 233.16
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+12/28/2018 - 02/21/2022  30   4364027011   77318         82894           690 CCF
+
+Service             Consumption   Charge       Total
+Water & Sewer-SINGLE UNIT   541 CCF    $ 25.36   $ 43.72
+SEWER               118 CCF    $ 13.91    $ 13.19
+REFUSE              --                  $ 38.20    $ 20.77
+
+Total Current Charges   $ 211.02
+Balance Forward         $ 0.00
+Total Amount Due        $ 78.98
+
+PAY ONLINE AT: uniongas.gov

@@ -1,0 +1,31 @@
+Water Bill
+
+Municipal Gas Authority
+Account Number: 3431611724
+Customer Number: 2219693792
+Service Address: 8094 Oak Ave, Memphis TN 38101
+Tax Invoice  Issue Date: 01/02/2020
+
+This account is based on an actual meter reading
+Water account summary: 07/05/2019 to 09/14/2022
+
+Plan: Budget Billing
+Opening balance:                $ 76.60
+Payment received - thank you    $ -2.82Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 329.67
+Total amount due                $ 364.44
+
+Due Date: 01/10/2020
+Total amount if paid after due date: $ 321.04
+
+Bill To:
+Kenneth Anderson
+8094 Oak Ave
+Memphis, TN 38101
+
+Water Usage Summary
+Meter Reading:  30706 CCF
+Previous:       19681 CCF
+Usage:          1004 CCF
+Days in period: 30

@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 134.94
+Payment Received:           $ -277.08
+Current Charges:            $ 44.45
+Taxes & Surcharges:         $ 27.14
+Amount Due:                 $ 366.63
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $366.63 must be received by 02/15/2022.
+
+ACCOUNT INFORMATION
+Account Number:    1387829310270790
+Customer Name:     Michael Anderson
+Service Address:   1018 Oak Ave, Charlotte, NC 28201
+Billing Period:    10/03/2024 to 02/04/2021
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 63.55  $ 51.17   $ 0.63   $ 56.48
+Other Charges   $ 6.75   -           $ 4.18    $ 18.45
+Total           $ 78.24  $ 20.87  $ 10.26   $ 366.63
+
+USAGE HISTORY (therms)
+Current Period:  1167
+Last Period:     331
+Same Period Last Year: 708
+
+Pay by phone: 1-800-956-4493
+Pay online:   pacificgasandelectric.com

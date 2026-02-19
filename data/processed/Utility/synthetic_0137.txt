@@ -1,0 +1,32 @@
+CLEARWATER UTILITIES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 308.95
+Payment Received:           $ -128.58
+Current Charges:            $ 285.28
+Taxes & Surcharges:         $ 10.39
+Amount Due:                 $ 155.06
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $155.06 must be received by 11/27/2023.
+
+ACCOUNT INFORMATION
+Account Number:    326487049478
+Customer Name:     Sandra White
+Service Address:   2965 Broad St, Memphis, TN 38101
+Billing Period:    02/21/2023 to 05/14/2019
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 54.27  $ 56.59   $ 2.45   $ 41.48
+Other Charges   $ 5.54   -           $ 4.97    $ 1.67
+Total           $ 119.47  $ 62.30  $ 8.48   $ 155.06
+
+USAGE HISTORY (CCF)
+Current Period:  1828
+Last Period:     578
+Same Period Last Year: 1336
+
+Pay by phone: 1-800-802-8799
+Pay online:   clearwaterutilities.com

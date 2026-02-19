@@ -1,0 +1,29 @@
+United Community Bank
+
+Monthly Account Statement
+October 2018
+
+Account Holder: Daniel Johnson
+Address:        5727 Elm St, Memphis, TN - 38101
+Account Number: XXXX XXXX 7481
+IFSC Code:      CSSX0765397
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/22/2023  | 06/16/2018  | Car Loan Payment                   |            |     420.11 |    14,470.43
+09/13/2022  | 11/27/2021  | ACH Credit                         |            |   1,994.31 |    16,464.75
+12/25/2018  | 04/21/2023  | Gas Station                        |            |   1,877.07 |    18,341.81
+04/23/2018  | 09/26/2018  | Restaurant                         |   1,737.92 |            |    16,603.90
+05/08/2024  | 07/10/2024  | Wire Transfer                      |     189.79 |            |    16,414.10
+04/01/2018  | 01/10/2018  | Wire Transfer                      |            |     250.50 |    16,664.60
+02/03/2020  | 08/04/2021  | Insurance Premium                  |   1,942.41 |            |    14,722.20
+10/10/2020  | 07/12/2019  | Mortgage Payment                   |            |      36.32 |    14,758.51
+08/21/2022  | 10/02/2023  | Restaurant                         |   1,478.33 |            |    13,280.18
+06/01/2020  | 12/16/2024  | NSF Fee Reversal                   |            |   1,254.99 |    14,535.17
+-----------------------------------------------------------------------------------------------
+
+Generated on May 18, 2024. For disputes call 1890-975-8392.

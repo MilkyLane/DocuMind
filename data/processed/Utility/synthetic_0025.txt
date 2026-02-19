@@ -1,0 +1,32 @@
+City Water Authority
+
+Utility Billing
+343 Lake Rd • Charlotte, NC 28201 • Phone: (470) 162-8847
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: Emily Jones
+343 Lake Rd, Charlotte, NC 28201
+
+Account Number:       02402681177589
+Route:                61
+Cycle:                7
+Bill Date:            02/15/2022
+Due Date:             04/20/2018
+
+                                            Total Current Charges   $ 215.25
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 162.37
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+08/03/2018 - 06/20/2019  26   4998569847   78193         46499           334 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   770 kWh / therms    $ 68.58   $ 79.21
+SEWER               160 kWh / therms    $ 24.35    $ 44.96
+REFUSE              --                  $ 19.48    $ 33.96
+
+Total Current Charges   $ 123.73
+Balance Forward         $ 0.00
+Total Amount Due        $ 193.22
+
+PAY ONLINE AT: citywaterauthority.gov

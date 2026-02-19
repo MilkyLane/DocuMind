@@ -1,0 +1,29 @@
+Coastal Federal Credit Union
+
+Monthly Account Statement
+November 2021
+
+Account Holder: Dorothy Martinez
+Address:        7207 2nd St, Portland, OR - 97201
+Account Number: XXXX XXXX 3243
+IFSC Code:      YPFJ0296184
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: CAD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+02/03/2018  | 08/21/2023  | Amazon Purchase                    |      38.89 |            |     9,629.95
+10/16/2020  | 12/24/2018  | NSF Fee Reversal                   |   1,471.26 |            |     8,158.69
+11/23/2021  | 05/19/2019  | Check Deposit                      |            |     966.06 |     9,124.75
+09/06/2021  | 12/01/2021  | Rent Payment                       |   1,787.28 |            |     7,337.47
+09/16/2018  | 09/27/2022  | Rent Payment                       |            |   1,960.85 |     9,298.32
+02/25/2024  | 04/22/2018  | POS Purchase                       |            |   1,977.27 |    11,275.59
+01/18/2021  | 06/04/2018  | Bill Payment - Electricity         |            |   1,741.09 |    13,016.67
+02/18/2020  | 01/03/2018  | Amazon Purchase                    |            |   1,635.07 |    14,651.75
+03/14/2023  | 01/08/2020  | ATM Withdrawal                     |   2,416.03 |            |    12,235.72
+05/22/2022  | 08/05/2022  | Restaurant                         |            |   1,303.41 |    13,539.13
+-----------------------------------------------------------------------------------------------
+
+Generated on November 06, 2021. For disputes call 1858-185-5164.

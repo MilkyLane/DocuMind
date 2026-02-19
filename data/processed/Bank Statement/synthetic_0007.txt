@@ -1,0 +1,23 @@
+Valley National Bank
+575 Pine St
+Indianapolis, IN 46201
+
+Account Statement for Carol Martin
+Account No: 2729806990162720
+From May 13, 2020 To April 15, 2020
+
+07/09/2024  Online Transfer                     1,506.50 DR      10,031.33
+01/12/2019  Savings Transfer                    1,500.56 DR       8,530.77
+01/25/2018  ACH Credit                          1,915.00 DR       6,615.77
+03/08/2019  Restaurant                             50.56 DR       6,565.22
+04/15/2023  Mobile Deposit                      1,132.30 CR       7,697.52
+10/24/2023  Check Deposit                         343.90 CR       8,041.42
+05/04/2022  Direct Deposit - Payroll              335.89 CR       8,377.31
+07/13/2023  Wire Transfer                       1,155.84 CR       9,533.15
+11/08/2018  Refund Credit                       1,384.32 DR       8,148.82
+10/26/2018  NSF Fee Reversal                    1,702.08 CR       9,850.91
+06/18/2021  Cash Withdrawal                     1,567.44 CR      11,418.35
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@valleynationalbank.com

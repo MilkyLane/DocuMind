@@ -1,0 +1,32 @@
+Valley Water District
+
+Utility Billing
+1129 1st Ave • Denver, CO 80201 • Phone: (926) 769-7201
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: Amanda Wilson
+1129 1st Ave, Denver, CO 80201
+
+Account Number:       038567700518
+Route:                56
+Cycle:                10
+Bill Date:            11/27/2020
+Due Date:             12/09/2022
+
+                                            Total Current Charges   $ 206.40
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 255.58
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+09/09/2021 - 04/17/2021  30   7790827231   62249         50312           841 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   716 kWh / therms    $ 74.56   $ 20.65
+SEWER               167 kWh / therms    $ 23.66    $ 19.86
+REFUSE              --                  $ 8.97    $ 28.63
+
+Total Current Charges   $ 140.59
+Balance Forward         $ 0.00
+Total Amount Due        $ 164.07
+
+PAY ONLINE AT: valleywaterdistrict.gov

@@ -1,0 +1,38 @@
+Horizon Bank
+Member FDIC
+
+Jessica Thompson
+6562 College Ave
+Austin, TX 73301
+
+Business Checking Statement
+Account Number: 5626565045
+Statement Period: 06/10/2021 through 09/03/2019
+Page 1 of 3
+
+Account Summary
+Previous Balance:    $ 34,141.61
+Deposits/Credits:    $ 36,528.13
+Withdrawals/Debits:  $ 10,808.33
+Service Charges:     $ 18.04
+Ending Balance:      $ 32,011.93
+
+Transaction Detail
+03/26/2023  Grocery Store                        1,333.09                 13,755.94
+10/20/2018  Bill Payment - Electricity                       1,248.44     15,004.38
+09/11/2018  Utility Bill                         1,429.09                 13,575.28
+07/21/2020  Grocery Store                                      274.46     13,849.74
+10/25/2019  Wire Transfer                        1,391.74                 12,458.01
+09/16/2018  Mortgage Payment                     1,151.49                 11,306.51
+09/24/2021  ACH Credit                                         918.70     12,225.22
+05/10/2023  Savings Transfer                        17.32                 12,207.90
+05/14/2019  Restaurant                           1,964.90                 10,243.00
+01/04/2024  Mobile Deposit                                   1,937.91     12,180.91
+10/24/2020  Utility Bill                         2,912.17                  9,268.74
+05/21/2023  Restaurant                           1,313.84                  7,954.90
+06/17/2023  Utility Bill                                     2,456.66     10,411.56
+10/02/2019  Car Loan Payment                       786.02                  9,625.54
+06/06/2018  Mobile Deposit                       2,082.92                  7,542.62
+
+Overdraft Protection: Enrolled
+Next Statement Date: 09/07/2024

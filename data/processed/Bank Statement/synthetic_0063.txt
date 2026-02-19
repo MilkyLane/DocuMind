@@ -1,0 +1,35 @@
+Liberty Bank
+Robert Jackson
+981 Sunset Blvd
+Columbus, OH 43215
+
+Account Statement
+
+Account Number:    997954538179
+Account Type:      Checking
+Statement Period:  03/03/2024 to 12/15/2018
+Currency:          USD
+
+Opening Balance:   $ 9,383.89
+Closing Balance:   $ 13,847.32
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+10/09/2020  Subscription - Netflix                             439.73     10,380.10
+06/26/2024  Car Loan Payment                     2,752.62                  7,627.48
+08/04/2020  Restaurant                             100.49                  7,526.99
+06/20/2022  Bill Payment - Electricity             520.70                  7,006.29
+12/26/2018  Car Loan Payment                                 1,223.00      8,229.29
+05/18/2021  Subscription - Netflix                             222.06      8,451.36
+04/18/2019  Restaurant                                         723.34      9,174.70
+12/19/2021  NSF Fee Reversal                     1,028.74                  8,145.96
+06/18/2023  ACH Credit                                       1,705.96      9,851.92
+12/23/2022  Restaurant                           2,012.12                  7,839.80
+06/18/2018  Gas Station                          1,792.27                  6,047.54
+02/20/2018  Cash Withdrawal                      2,868.09                  3,179.45
+07/11/2021  Savings Transfer                                 2,316.32      5,495.76
+-----------------------------------------------------------
+
+For questions call 1-800-192-4565 or visit libertybank.com

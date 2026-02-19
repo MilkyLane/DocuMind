@@ -1,0 +1,32 @@
+SOUTHERN ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 265.19
+Payment Received:           $ -177.17
+Current Charges:            $ 175.16
+Taxes & Surcharges:         $ 22.39
+Amount Due:                 $ 346.57
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $346.57 must be received by 02/27/2024.
+
+ACCOUNT INFORMATION
+Account Number:    69659171357852
+Customer Name:     Emily Lewis
+Service Address:   7795 Main St, Boston, MA 02101
+Billing Period:    04/10/2020 to 01/10/2022
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric & Gas Service   $ 46.18  $ 21.94   $ 7.43   $ 36.55
+Other Charges   $ 16.88   -           $ 0.47    $ 8.42
+Total           $ 38.07  $ 82.11  $ 7.13   $ 346.57
+
+USAGE HISTORY (kWh / therms)
+Current Period:  479
+Last Period:     761
+Same Period Last Year: 1679
+
+Pay by phone: 1-800-178-5945
+Pay online:   southernelectric.com

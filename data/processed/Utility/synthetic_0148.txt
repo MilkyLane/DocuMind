@@ -1,0 +1,32 @@
+NATIONAL GRID
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 216.33
+Payment Received:           $ -178.71
+Current Charges:            $ 135.53
+Taxes & Surcharges:         $ 27.59
+Amount Due:                 $ 366.83
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $366.83 must be received by 01/27/2023.
+
+ACCOUNT INFORMATION
+Account Number:    6490785158673425
+Customer Name:     Karen Brown
+Service Address:   2969 River Rd, Austin, TX 73301
+Billing Period:    12/26/2023 to 04/09/2022
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 44.62  $ 52.92   $ 7.01   $ 182.57
+Other Charges   $ 13.70   -           $ 2.67    $ 5.91
+Total           $ 83.09  $ 10.71  $ 14.41   $ 366.83
+
+USAGE HISTORY (kWh)
+Current Period:  1949
+Last Period:     1929
+Same Period Last Year: 573
+
+Pay by phone: 1-800-408-2478
+Pay online:   nationalgrid.com

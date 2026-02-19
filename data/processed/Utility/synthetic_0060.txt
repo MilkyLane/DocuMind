@@ -1,0 +1,32 @@
+City Water Authority
+
+Utility Billing
+2348 Main St • Baltimore, MD 21201 • Phone: (177) 623-6900
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: James Lewis
+2348 Main St, Baltimore, MD 21201
+
+Account Number:       758842524105
+Route:                17
+Cycle:                8
+Bill Date:            07/09/2022
+Due Date:             02/09/2023
+
+                                            Total Current Charges   $ 262.03
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 75.06
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+03/09/2024 - 02/19/2023  26   8000307562   86232         86794           1442 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   529 kWh / therms    $ 30.21   $ 32.34
+SEWER               213 kWh / therms    $ 17.21    $ 8.50
+REFUSE              --                  $ 18.05    $ 22.57
+
+Total Current Charges   $ 229.41
+Balance Forward         $ 0.00
+Total Amount Due        $ 77.66
+
+PAY ONLINE AT: citywaterauthority.gov

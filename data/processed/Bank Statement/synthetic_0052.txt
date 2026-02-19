@@ -1,0 +1,26 @@
+Heritage Bank
+
+Monthly Account Statement
+July 2022
+
+Account Holder: Brian White
+Address:        2841 Main St, Portland, OR - 97201
+Account Number: XXXX XXXX 8663
+IFSC Code:      ETKJ0416389
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+07/10/2019  | 04/24/2020  | Gas Station                        |            |     219.94 |     2,226.90
+03/01/2018  | 11/12/2024  | Car Loan Payment                   |            |     336.88 |     2,563.78
+09/09/2022  | 08/05/2023  | Rent Payment                       |            |   1,173.31 |     3,737.09
+11/24/2023  | 10/14/2022  | Savings Transfer                   |   1,497.98 |            |     2,239.10
+06/16/2022  | 04/26/2018  | Gas Station                        |            |     781.06 |     3,020.16
+03/10/2018  | 01/17/2024  | Bank Fee                           |   1,036.39 |            |     1,983.77
+08/18/2018  | 12/16/2024  | Restaurant                         |            |     866.27 |     2,850.05
+-----------------------------------------------------------------------------------------------
+
+Generated on May 21, 2023. For disputes call 1868-928-5404.

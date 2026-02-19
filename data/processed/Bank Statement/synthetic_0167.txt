@@ -1,0 +1,32 @@
+Valley National Bank
+William Taylor
+6109 1st Ave
+Nashville, TN 37201
+
+Account Statement
+
+Account Number:    0245109109
+Account Type:      Current Account
+Statement Period:  01/27/2019 to 03/13/2024
+Currency:          USD
+
+Opening Balance:   $ 19,872.88
+Closing Balance:   $ 2,597.00
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+05/05/2018  Gas Station                                      2,497.09     15,190.36
+11/25/2023  Amazon Purchase                                    787.35     15,977.70
+12/10/2018  Subscription - Netflix               1,823.39                 14,154.32
+12/16/2024  Gas Station                                      1,998.38     16,152.69
+05/21/2023  Subscription - Netflix               1,531.54                 14,621.15
+05/22/2020  Wire Transfer                        2,792.19                 11,828.97
+03/02/2018  ATM Withdrawal                         454.68                 11,374.29
+02/15/2019  Bill Payment - Electricity                         361.98     11,736.27
+06/23/2020  Utility Bill                                       854.60     12,590.87
+07/04/2023  Cash Withdrawal                      1,449.97                 11,140.90
+-----------------------------------------------------------
+
+For questions call 1-800-826-4436 or visit valleynationalbank.com

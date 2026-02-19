@@ -1,0 +1,22 @@
+Midwest Bank
+9327 Maple Dr
+Seattle, WA 98101
+
+Account Statement for Sandra Smith
+Account No: 316600767620
+From October 02, 2023 To February 25, 2020
+
+11/09/2024  Wire Transfer                         541.90 DR      10,381.73
+01/21/2018  Utility Bill                          901.50 DR       9,480.23
+12/16/2024  ACH Credit                            876.34 CR      10,356.57
+05/12/2018  Credit Card Payment                 1,487.63 CR      11,844.19
+09/06/2020  Cash Withdrawal                     1,643.22 DR      10,200.97
+09/05/2020  Interest Credit                     1,455.14 CR      11,656.11
+10/13/2020  Gas Station                           819.93 CR      12,476.04
+03/27/2023  Bank Fee                            1,536.95 CR      14,013.00
+07/12/2021  Online Transfer                     1,354.66 CR      15,367.66
+06/12/2023  Gas Station                         1,770.70 CR      17,138.36
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@midwestbank.com

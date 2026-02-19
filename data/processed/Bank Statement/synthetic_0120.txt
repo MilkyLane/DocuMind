@@ -1,0 +1,35 @@
+FIRST NATIONAL BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Joshua White
+Customer ID:     676239
+Address:         7924 Lake Rd, Denver, CO 80201
+Account Number:  0389608706
+Account Type:    Checking
+Statement Date:  February 07, 2019
+Period Covered:  07/23/2019 to 07/23/2021
+
+Opening Balance:        7,750.75
+Total Credit Amount:    13,419.61
+Total Debit Amount:     17,994.36
+Closing Balance:        29,484.77
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+04/08/2018  Utility Bill                         2,755.03                  4,928.97
+09/19/2018  NSF Fee Reversal                     1,245.07                  3,683.90
+01/03/2018  Bill Payment - Electricity           2,162.28                  1,521.62
+06/12/2022  Savings Transfer                       854.96                    666.66
+03/20/2021  Restaurant                                       2,994.29      3,660.94
+02/09/2022  Wire Transfer                                    1,973.20      5,634.15
+06/28/2019  Gas Station                          2,208.30                  3,425.84
+09/10/2024  Savings Transfer                                 2,824.87      6,250.71
+06/23/2022  Amazon Purchase                      2,680.01                  3,570.71
+07/23/2022  Restaurant                           1,046.44                  2,524.27
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: FTFJUS3F

@@ -1,0 +1,32 @@
+Municipal Gas Authority
+
+Utility Billing
+3177 Elm St • Columbus, OH 43215 • Phone: (231) 374-3336
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Donna Rodriguez
+3177 Elm St, Columbus, OH 43215
+
+Account Number:       6376182091
+Route:                90
+Cycle:                10
+Bill Date:            07/13/2018
+Due Date:             02/27/2018
+
+                                            Total Current Charges   $ 33.64
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 290.92
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+02/18/2023 - 06/28/2023  26   2797245723   95353         57528           1385 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   656 kWh    $ 21.08   $ 84.24
+SEWER               102 kWh    $ 29.51    $ 9.62
+REFUSE              --                  $ 36.03    $ 19.53
+
+Total Current Charges   $ 40.25
+Balance Forward         $ 0.00
+Total Amount Due        $ 87.11
+
+PAY ONLINE AT: municipalgasauthority.gov

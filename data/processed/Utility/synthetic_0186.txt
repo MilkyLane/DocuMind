@@ -1,0 +1,32 @@
+VALLEY WATER DISTRICT
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 58.99
+Payment Received:           $ -93.01
+Current Charges:            $ 204.50
+Taxes & Surcharges:         $ 38.29
+Amount Due:                 $ 313.00
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $313.00 must be received by 04/12/2021.
+
+ACCOUNT INFORMATION
+Account Number:    53566905510762
+Customer Name:     Dorothy Robinson
+Service Address:   7136 1st Ave, Charlotte, NC 28201
+Billing Period:    11/22/2024 to 08/17/2021
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric & Gas Service   $ 69.42  $ 5.23   $ 6.38   $ 189.55
+Other Charges   $ 6.44   -           $ 3.17    $ 21.84
+Total           $ 146.35  $ 76.22  $ 10.17   $ 313.00
+
+USAGE HISTORY (kWh / therms)
+Current Period:  528
+Last Period:     1292
+Same Period Last Year: 1042
+
+Pay by phone: 1-800-509-2333
+Pay online:   valleywaterdistrict.com

@@ -1,0 +1,35 @@
+PACIFIC TRUST BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Joshua Smith
+Customer ID:     319821
+Address:         2349 Cedar Ln, Seattle, WA 98101
+Account Number:  0736077633691128
+Account Type:    Current
+Statement Date:  March 12, 2018
+Period Covered:  10/24/2022 to 02/06/2024
+
+Opening Balance:        6,897.56
+Total Credit Amount:    14,928.70
+Total Debit Amount:     12,294.54
+Closing Balance:        22,615.64
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+09/12/2021  Mobile Deposit                         281.47                  8,605.96
+01/01/2021  NSF Fee Reversal                                 2,835.24     11,441.21
+02/12/2020  Mortgage Payment                     2,885.09                  8,556.12
+11/10/2019  Refund Credit                                    1,308.11      9,864.22
+07/16/2018  Mobile Deposit                       1,934.31                  7,929.91
+01/05/2024  ACH Credit                                       2,693.02     10,622.93
+09/05/2019  Refund Credit                           37.73                 10,585.20
+10/26/2019  Interest Credit                        126.58                 10,458.62
+07/27/2019  Grocery Store                                    1,121.40     11,580.01
+03/24/2024  NSF Fee Reversal                     2,809.51                  8,770.50
+-------------------------------------------------------------
+
+Branch: North Branch
+SWIFT: AFKJUS4W

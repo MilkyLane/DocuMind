@@ -1,0 +1,32 @@
+APEX BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Michael Wilson
+Customer ID:     992931
+Address:         7272 Market St, Seattle, WA 98101
+Account Number:  554665905151
+Account Type:    Checking
+Statement Date:  October 05, 2022
+Period Covered:  09/22/2021 to 05/09/2023
+
+Opening Balance:        33,171.64
+Total Credit Amount:    27,237.11
+Total Debit Amount:     17,528.95
+Closing Balance:        10,334.18
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+11/13/2019  Credit Card Payment                  1,971.60                 16,446.58
+09/13/2023  NSF Fee Reversal                                   263.31     16,709.89
+12/27/2023  Cash Withdrawal                        392.10                 16,317.79
+11/14/2022  Insurance Premium                                  289.42     16,607.21
+04/11/2024  Restaurant                             933.51                 15,673.70
+03/03/2020  NSF Fee Reversal                     2,999.93                 12,673.77
+12/17/2018  Cash Withdrawal                      2,314.92                 10,358.85
+-------------------------------------------------------------
+
+Branch: Main Office
+SWIFT: EESQUS6Z

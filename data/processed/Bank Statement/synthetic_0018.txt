@@ -1,0 +1,32 @@
+First National Bank
+
+Monthly Account Statement
+July 2024
+
+Account Holder: Betty Lewis
+Address:        2452 Sunset Blvd, Denver, CO - 80201
+Account Number: XXXX XXXX 9092
+IFSC Code:      RYJT0928565
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+12/01/2020  | 02/12/2019  | Interest Credit                    |     939.52 |            |       191.73
+10/24/2024  | 06/05/2018  | Insurance Premium                  |            |     268.12 |       459.85
+03/27/2024  | 11/15/2023  | Restaurant                         |            |   2,035.64 |     2,495.49
+02/23/2024  | 08/02/2020  | Wire Transfer                      |            |   2,030.63 |     4,526.12
+01/11/2020  | 09/13/2024  | Rent Payment                       |     506.68 |            |     4,019.44
+11/07/2020  | 06/28/2024  | ATM Withdrawal                     |     101.19 |            |     3,918.25
+02/26/2020  | 07/13/2023  | Gas Station                        |            |     836.49 |     4,754.74
+03/16/2023  | 08/12/2024  | Amazon Purchase                    |            |     972.75 |     5,727.49
+07/03/2021  | 10/27/2019  | Rent Payment                       |     215.70 |            |     5,511.79
+06/22/2020  | 05/15/2022  | Refund Credit                      |     265.47 |            |     5,246.32
+06/15/2018  | 12/28/2020  | Credit Card Payment                |   1,727.51 |            |     3,518.80
+01/03/2023  | 11/13/2020  | Amazon Purchase                    |            |     693.64 |     4,212.44
+01/05/2024  | 10/22/2024  | Gas Station                        |            |   1,701.73 |     5,914.18
+-----------------------------------------------------------------------------------------------
+
+Generated on April 04, 2018. For disputes call 1894-290-9176.

@@ -1,0 +1,24 @@
+Valley National Bank
+9093 Cedar Ln
+Seattle, WA 98101
+
+Account Statement for Dorothy Martin
+Account No: 84156082137118
+From December 10, 2019 To June 10, 2021
+
+09/06/2021  Amazon Purchase                     1,932.92 CR      10,455.75
+04/25/2018  Wire Transfer                       1,681.63 DR       8,774.13
+10/25/2019  Utility Bill                          714.33 CR       9,488.46
+09/12/2022  ACH Credit                          1,054.84 CR      10,543.30
+03/12/2019  Check Deposit                       1,994.38 CR      12,537.68
+10/08/2024  Bank Fee                            1,273.47 CR      13,811.14
+10/14/2024  Wire Transfer                       1,086.23 CR      14,897.38
+07/10/2021  Amazon Purchase                     1,918.52 DR      12,978.85
+08/11/2019  Interest Credit                     1,788.55 CR      14,767.41
+05/23/2022  Cash Withdrawal                        10.70 CR      14,778.11
+10/20/2018  ATM Withdrawal                      1,846.87 DR      12,931.24
+08/27/2019  Bank Fee                              289.20 CR      13,220.44
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@valleynationalbank.com

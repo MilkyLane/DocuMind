@@ -1,0 +1,32 @@
+HERITAGE BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   James Miller
+Customer ID:     809553
+Address:         8618 Cedar Ln, Baltimore, MD 21201
+Account Number:  710672872866
+Account Type:    Savings
+Statement Date:  May 10, 2024
+Period Covered:  01/10/2018 to 07/10/2023
+
+Opening Balance:        14,284.27
+Total Credit Amount:    10,010.39
+Total Debit Amount:     17,846.13
+Closing Balance:        17,132.41
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+10/23/2020  Amazon Purchase                                    621.34      4,310.18
+04/11/2023  Interest Credit                                  1,421.61      5,731.78
+03/17/2023  Restaurant                                       2,784.25      8,516.03
+03/16/2018  Direct Deposit - Payroll             1,254.75                  7,261.28
+12/04/2022  Gas Station                            571.15                  6,690.14
+08/20/2019  Online Transfer                        192.71                  6,497.43
+04/12/2023  Direct Deposit - Payroll             1,681.88                  4,815.55
+-------------------------------------------------------------
+
+Branch: Main Office
+SWIFT: PHQKUSJT

@@ -1,0 +1,31 @@
+Gas Bill
+
+Pacific Gas & Electric
+Account Number: 1094777520471167
+Customer Number: 9993867749
+Service Address: 4886 Elm St, Baltimore MD 21201
+Tax Invoice  Issue Date: 02/19/2023
+
+This account is based on an actual meter reading
+Gas account summary: 10/10/2018 to 04/04/2022
+
+Plan: Standard Rate
+Opening balance:                $ 284.28
+Payment received - thank you    $ -62.34Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 115.97
+Total amount due                $ 277.75
+
+Due Date: 11/02/2019
+Total amount if paid after due date: $ 112.82
+
+Bill To:
+Sarah Garcia
+4886 Elm St
+Baltimore, MD 21201
+
+Gas Usage Summary
+Meter Reading:  32782 therms
+Previous:       82350 therms
+Usage:          253 therms
+Days in period: 29

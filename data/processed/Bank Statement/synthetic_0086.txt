@@ -1,0 +1,31 @@
+City Savings Bank
+
+Monthly Account Statement
+March 2024
+
+Account Holder: Kimberly Brown
+Address:        9956 Cedar Ln, Indianapolis, IN - 46201
+Account Number: XXXX XXXX 2095
+IFSC Code:      ESHC0265461
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/06/2024  | 12/16/2018  | Check Deposit                      |            |   2,223.75 |     3,429.19
+01/14/2021  | 10/10/2022  | Gas Station                        |            |     178.24 |     3,607.43
+08/27/2023  | 10/05/2024  | Bill Payment - Electricity         |            |   1,955.56 |     5,562.99
+08/22/2021  | 03/28/2023  | Car Loan Payment                   |            |   1,157.73 |     6,720.72
+10/14/2021  | 04/13/2020  | Rent Payment                       |   1,565.68 |            |     5,155.04
+08/24/2020  | 11/03/2024  | POS Purchase                       |   1,679.41 |            |     3,475.64
+12/10/2022  | 11/04/2023  | Rent Payment                       |            |   1,434.27 |     4,909.90
+09/19/2024  | 01/19/2022  | Wire Transfer                      |   2,388.37 |            |     2,521.53
+01/04/2023  | 09/06/2018  | Mobile Deposit                     |            |   1,261.57 |     3,783.10
+12/27/2022  | 08/03/2024  | Rent Payment                       |            |     620.76 |     4,403.87
+01/16/2024  | 01/11/2021  | POS Purchase                       |            |   1,010.48 |     5,414.34
+06/13/2020  | 02/04/2018  | Rent Payment                       |   2,150.52 |            |     3,263.82
+-----------------------------------------------------------------------------------------------
+
+Generated on April 25, 2022. For disputes call 1875-342-9076.

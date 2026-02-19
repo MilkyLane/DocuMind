@@ -1,0 +1,31 @@
+UNITED COMMUNITY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Sarah Jackson
+Customer ID:     793360
+Address:         4415 2nd St, Seattle, WA 98101
+Account Number:  45009025590561
+Account Type:    Savings
+Statement Date:  September 07, 2020
+Period Covered:  07/12/2020 to 07/12/2018
+
+Opening Balance:        12,967.22
+Total Credit Amount:    7,421.35
+Total Debit Amount:     6,585.94
+Closing Balance:        3,005.78
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+09/11/2018  Gas Station                            517.64                 16,992.22
+09/14/2020  Direct Deposit - Payroll                         1,273.19     18,265.41
+06/13/2022  Subscription - Netflix                           1,768.09     20,033.50
+08/04/2023  Cash Withdrawal                        302.20                 19,731.30
+11/11/2019  Credit Card Payment                  1,495.23                 18,236.07
+04/16/2023  NSF Fee Reversal                     2,908.59                 15,327.49
+-------------------------------------------------------------
+
+Branch: West Side
+SWIFT: BZKFUS0D

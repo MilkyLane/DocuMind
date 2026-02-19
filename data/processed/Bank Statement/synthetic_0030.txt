@@ -1,0 +1,29 @@
+City Savings Bank
+
+Monthly Account Statement
+November 2023
+
+Account Holder: Lisa Thomas
+Address:        5440 Broad St, Austin, TX - 73301
+Account Number: XXXX XXXX 3395
+IFSC Code:      WPLQ0330958
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+06/04/2019  | 05/04/2019  | Insurance Premium                  |            |   1,683.55 |    15,504.45
+07/20/2019  | 10/13/2021  | POS Purchase                       |            |   1,281.95 |    16,786.41
+11/06/2022  | 03/16/2020  | Bill Payment - Electricity         |   1,348.07 |            |    15,438.33
+10/02/2024  | 06/01/2021  | Bill Payment - Electricity         |   2,106.54 |            |    13,331.79
+09/17/2023  | 08/14/2023  | Restaurant                         |     966.02 |            |    12,365.77
+08/06/2018  | 10/01/2024  | Bank Fee                           |   2,101.33 |            |    10,264.44
+04/18/2020  | 03/25/2021  | Utility Bill                       |      91.41 |            |    10,173.03
+09/17/2018  | 10/04/2020  | Bank Fee                           |            |   1,917.14 |    12,090.17
+09/27/2024  | 01/25/2023  | Gas Station                        |            |   2,477.33 |    14,567.49
+02/24/2024  | 11/25/2019  | Mortgage Payment                   |            |   2,474.54 |    17,042.03
+-----------------------------------------------------------------------------------------------
+
+Generated on September 06, 2020. For disputes call 1890-399-5740.

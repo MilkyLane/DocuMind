@@ -1,0 +1,21 @@
+Atlantic Financial Bank
+5543 2nd St
+Boston, MA 02101
+
+Account Statement for James Jackson
+Account No: 75692459375265
+From May 24, 2023 To November 16, 2022
+
+06/04/2022  Wire Transfer                       1,573.87 DR       3,651.48
+11/25/2022  Direct Deposit - Payroll            1,095.80 CR       4,747.28
+12/07/2021  NSF Fee Reversal                      928.63 CR       5,675.91
+07/22/2021  Bill Payment - Electricity          1,388.74 DR       4,287.16
+11/05/2023  Grocery Store                         491.62 CR       4,778.79
+10/16/2022  Subscription - Netflix                157.19 CR       4,935.98
+12/14/2022  ATM Withdrawal                      1,847.76 CR       6,783.73
+09/20/2023  Online Transfer                       725.46 CR       7,509.20
+11/12/2019  Savings Transfer                      503.98 DR       7,005.22
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@atlanticfinancialbank.com

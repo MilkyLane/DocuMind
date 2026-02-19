@@ -1,0 +1,30 @@
+Clearwater Utilities
+ELECTRIC BILL
+
+Bill Date:      10/19/2020
+Bill Month:     APR-2021
+
+Customer Name:  Matthew Thomas
+Address:        7166 Pine St
+                Columbus, OH 43215
+Account No:     14846564823662
+Meter No:       77738721
+
+METER READINGS
+Current Reading:   69914
+Previous Reading:  58803
+Units Consumed:    11111 kWh
+Derived Load:      7.06 kW
+
+CHARGES
+Fixed Charges:             $ 10.62
+Variable Charges:          $ 47.83
+Fuel Adjustment:           $ 1.34
+State Tax:                 $ 6.41
+Local Tax:                 $ 5.28
+-------------------------------------------
+Total Current Charges:     $ 259.43
+Amount Upto 30 days:       $ 49.66
+Amount Upto 60 days:       $ 157.26
+
+Due Date:       07/18/2024

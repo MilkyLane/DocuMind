@@ -1,0 +1,32 @@
+CLEARWATER UTILITIES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 223.26
+Payment Received:           $ -236.36
+Current Charges:            $ 199.18
+Taxes & Surcharges:         $ 7.62
+Amount Due:                 $ 203.21
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $203.21 must be received by 09/13/2022.
+
+ACCOUNT INFORMATION
+Account Number:    2942409036
+Customer Name:     Laura White
+Service Address:   1209 Sunset Blvd, Seattle, WA 98101
+Billing Period:    07/20/2020 to 04/06/2018
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 24.40  $ 21.34   $ 6.97   $ 178.25
+Other Charges   $ 15.81   -           $ 2.28    $ 17.69
+Total           $ 93.01  $ 37.31  $ 3.31   $ 203.21
+
+USAGE HISTORY (CCF)
+Current Period:  1500
+Last Period:     599
+Same Period Last Year: 1180
+
+Pay by phone: 1-800-221-3803
+Pay online:   clearwaterutilities.com

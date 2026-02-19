@@ -1,0 +1,30 @@
+VALLEY NATIONAL BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Carol Harris
+Customer ID:     250169
+Address:         7326 Hill St, Baltimore, MD 21201
+Account Number:  2025825431832812
+Account Type:    Savings
+Statement Date:  July 05, 2024
+Period Covered:  04/27/2018 to 03/07/2022
+
+Opening Balance:        44,054.54
+Total Credit Amount:    19,531.86
+Total Debit Amount:     12,724.78
+Closing Balance:        18,910.00
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+04/14/2020  Restaurant                             278.65                  7,887.32
+08/12/2018  Rent Payment                         2,155.46                  5,731.86
+09/23/2018  Cash Withdrawal                      1,420.27                  4,311.59
+06/16/2021  Car Loan Payment                     2,362.90                  1,948.69
+09/21/2020  Restaurant                           2,920.16                      0.00
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: YIQNUS1Y

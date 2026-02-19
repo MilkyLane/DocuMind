@@ -1,0 +1,28 @@
+Heritage Bank
+
+Monthly Account Statement
+December 2023
+
+Account Holder: Joshua Rodriguez
+Address:        3593 Elm St, Austin, TX - 73301
+Account Number: XXXX XXXX 5350
+IFSC Code:      XGXU0731180
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: CAD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+07/03/2022  | 06/02/2021  | Subscription - Netflix             |     574.33 |            |    11,262.62
+08/02/2022  | 03/13/2022  | Restaurant                         |     131.90 |            |    11,130.73
+09/26/2019  | 04/13/2018  | Check Deposit                      |            |     310.77 |    11,441.50
+07/04/2020  | 11/28/2024  | Rent Payment                       |     320.46 |            |    11,121.05
+11/18/2023  | 03/23/2018  | Restaurant                         |   2,407.24 |            |     8,713.81
+07/23/2024  | 05/18/2024  | Mobile Deposit                     |            |   2,106.12 |    10,819.93
+06/15/2024  | 05/05/2019  | Wire Transfer                      |            |   1,201.41 |    12,021.33
+12/05/2019  | 03/23/2022  | Direct Deposit - Payroll           |            |   2,410.79 |    14,432.12
+05/09/2019  | 06/18/2023  | Interest Credit                    |            |   1,888.41 |    16,320.53
+-----------------------------------------------------------------------------------------------
+
+Generated on November 26, 2021. For disputes call 1835-207-4871.

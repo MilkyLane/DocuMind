@@ -1,0 +1,21 @@
+Apex Bank
+8655 Elm St
+Denver, CO 80201
+
+Account Statement for Michelle Williams
+Account No: 96932591408499
+From April 06, 2019 To February 06, 2024
+
+07/19/2022  ATM Withdrawal                      1,938.53 DR       2,830.73
+09/16/2019  Subscription - Netflix              1,402.36 DR       1,428.37
+07/01/2023  Gas Station                           919.79 CR       2,348.16
+09/24/2019  Amazon Purchase                       439.65 DR       1,908.51
+11/20/2020  Savings Transfer                      658.30 CR       2,566.81
+03/22/2022  Bank Fee                            1,900.63 DR         666.18
+05/27/2018  Insurance Premium                   1,639.36 DR           0.00
+02/05/2023  Utility Bill                        1,775.69 CR       1,775.69
+09/26/2024  NSF Fee Reversal                      689.27 CR       2,464.96
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@apexbank.com

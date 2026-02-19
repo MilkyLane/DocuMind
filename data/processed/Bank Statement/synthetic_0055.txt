@@ -1,0 +1,31 @@
+UNITED COMMUNITY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Robert Martin
+Customer ID:     932831
+Address:         3239 Oak Ave, Columbus, OH 43215
+Account Number:  7899405391037170
+Account Type:    Checking
+Statement Date:  June 11, 2022
+Period Covered:  06/18/2023 to 07/27/2020
+
+Opening Balance:        35,713.26
+Total Credit Amount:    24,797.47
+Total Debit Amount:     5,683.40
+Closing Balance:        1,699.27
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+09/04/2018  Interest Credit                        655.54                 16,199.13
+04/17/2023  ACH Credit                           1,162.14                 15,036.99
+09/24/2022  Grocery Store                                    2,843.04     17,880.03
+10/12/2023  Gas Station                                      2,301.19     20,181.21
+02/06/2024  POS Purchase                                     1,286.95     21,468.17
+11/06/2022  Credit Card Payment                              1,519.03     22,987.20
+-------------------------------------------------------------
+
+Branch: West Side
+SWIFT: VKQVUSLI

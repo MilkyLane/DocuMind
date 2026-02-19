@@ -1,0 +1,33 @@
+Midwest Bank
+
+Monthly Account Statement
+December 2023
+
+Account Holder: James Martinez
+Address:        8261 Lake Rd, Baltimore, MD - 21201
+Account Number: XXXX XXXX 4544
+IFSC Code:      UGPL0393852
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+08/17/2018  | 09/20/2018  | ACH Credit                         |            |   1,949.39 |    16,711.28
+11/03/2023  | 11/18/2024  | Utility Bill                       |   1,856.80 |            |    14,854.48
+06/18/2024  | 01/16/2021  | Amazon Purchase                    |     141.41 |            |    14,713.08
+06/14/2020  | 05/10/2019  | ATM Withdrawal                     |            |   1,439.17 |    16,152.25
+05/24/2024  | 10/09/2018  | Savings Transfer                   |            |   1,498.11 |    17,650.36
+01/22/2020  | 12/20/2018  | Mortgage Payment                   |     431.01 |            |    17,219.36
+02/28/2024  | 05/09/2019  | Credit Card Payment                |     325.79 |            |    16,893.57
+01/24/2018  | 10/06/2022  | Interest Credit                    |   2,146.07 |            |    14,747.51
+03/09/2024  | 12/08/2021  | POS Purchase                       |   1,122.17 |            |    13,625.34
+06/03/2019  | 10/27/2019  | Restaurant                         |            |   2,156.42 |    15,781.75
+07/08/2023  | 08/24/2023  | POS Purchase                       |            |   1,038.24 |    16,819.99
+06/02/2023  | 05/25/2024  | Check Deposit                      |   1,838.56 |            |    14,981.44
+08/10/2021  | 12/25/2022  | ACH Credit                         |   1,165.40 |            |    13,816.04
+08/09/2019  | 09/28/2021  | Direct Deposit - Payroll           |   1,766.96 |            |    12,049.08
+-----------------------------------------------------------------------------------------------
+
+Generated on January 22, 2018. For disputes call 1808-112-7737.

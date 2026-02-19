@@ -1,0 +1,31 @@
+Atlantic Financial Bank
+Member FDIC
+
+Brian Davis
+1520 Elm St
+Columbus, OH 43215
+
+Business Checking Statement
+Account Number: 9656523413
+Statement Period: 09/20/2022 through 12/20/2020
+Page 1 of 1
+
+Account Summary
+Previous Balance:    $ 51,602.45
+Deposits/Credits:    $ 21,737.39
+Withdrawals/Debits:  $ 4,749.88
+Service Charges:     $ 8.76
+Ending Balance:      $ 5,201.78
+
+Transaction Detail
+09/20/2022  Wire Transfer                                      911.93     18,021.88
+01/26/2024  ACH Credit                                         893.67     18,915.55
+08/21/2022  Online Transfer                        347.10                 18,568.45
+06/11/2019  Subscription - Netflix                           2,933.31     21,501.76
+06/18/2023  POS Purchase                                     1,709.46     23,211.22
+02/01/2022  Online Transfer                                  2,863.81     26,075.03
+01/26/2021  Amazon Purchase                        655.07                 25,419.96
+07/14/2023  Subscription - Netflix               2,140.76                 23,279.20
+
+Overdraft Protection: Enrolled
+Next Statement Date: 03/18/2020

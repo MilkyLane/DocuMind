@@ -1,0 +1,30 @@
+Western Power Services
+WATER & SEWER BILL
+
+Bill Date:      06/14/2023
+Bill Month:     SEP-2023
+
+Customer Name:  Laura Moore
+Address:        9503 Washington Ave
+                Seattle, WA 98101
+Account No:     4605233027642086
+Meter No:       43861259
+
+METER READINGS
+Current Reading:   75628
+Previous Reading:  44707
+Units Consumed:    30921 CCF
+Derived Load:      4.98 kW
+
+CHARGES
+Fixed Charges:             $ 17.06
+Variable Charges:          $ 180.47
+Fuel Adjustment:           $ 3.94
+State Tax:                 $ 16.48
+Local Tax:                 $ 2.76
+-------------------------------------------
+Total Current Charges:     $ 205.83
+Amount Upto 30 days:       $ 127.80
+Amount Upto 60 days:       $ 287.56
+
+Due Date:       08/12/2024

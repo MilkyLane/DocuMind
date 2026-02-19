@@ -1,0 +1,29 @@
+United Community Bank
+Andrew Harris
+1496 Cedar Ln
+Portland, OR 97201
+
+Account Statement
+
+Account Number:    9277885190
+Account Type:      Checking
+Statement Period:  11/11/2019 to 05/18/2024
+Currency:          USD
+
+Opening Balance:   $ 8,799.99
+Closing Balance:   $ 1,259.31
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+03/23/2020  Subscription - Netflix               2,892.59                      0.00
+07/03/2022  Insurance Premium                                  849.20        849.20
+05/14/2018  Direct Deposit - Payroll               932.07                      0.00
+12/03/2024  Bill Payment - Electricity                         989.98        989.98
+02/12/2018  Check Deposit                                    1,812.69      2,802.67
+06/04/2019  Utility Bill                                     2,306.32      5,108.99
+04/02/2020  Mortgage Payment                     2,403.11                  2,705.88
+-----------------------------------------------------------
+
+For questions call 1-800-931-9993 or visit unitedcommunitybank.com

@@ -1,0 +1,34 @@
+Tri-County Electric
+9832 College Ave, Boston, MA 02101
+Customer Service: 1-800-103-8005
+
+Electric Bill
+
+Bill To:
+Jessica Anderson
+9832 College Ave
+Boston, MA 02101
+
+Account Number:   6296201533
+Bill Date:        07/23/2022
+Due Date:         12/24/2022
+Service Period:   05/22/2020 to 05/08/2018
+Service Address:  9832 College Ave, Boston, MA 02101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 226.81
+Payment Received - Thank You  $ -297.35
+Balance Forward:         $ 0.00
+Current Charges:         $ 221.83
+Taxes & Fees:            $ 4.45
+Total Amount Due:        $ 71.80
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    1787 kWh
+Same period last year:1455 kWh
+Average daily usage:  66 kWh
+
+Due Date: 12/24/2022
+Pay online at tri-countyelectric.com

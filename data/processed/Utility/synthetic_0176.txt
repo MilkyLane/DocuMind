@@ -1,0 +1,32 @@
+Tri-County Electric
+
+Utility Billing
+7659 Maple Dr • Charlotte, NC 28201 • Phone: (668) 406-6342
+WATER & SEWER • SEWER • REFUSE
+
+Bill To: Michelle Lee
+7659 Maple Dr, Charlotte, NC 28201
+
+Account Number:       36637780529240
+Route:                85
+Cycle:                1
+Bill Date:            08/26/2023
+Due Date:             06/11/2019
+
+                                            Total Current Charges   $ 183.25
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 38.70
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+03/05/2020 - 10/21/2024  34   6361863715   94229         76235           463 CCF
+
+Service             Consumption   Charge       Total
+Water & Sewer-SINGLE UNIT   132 CCF    $ 84.38   $ 64.30
+SEWER               63 CCF    $ 13.40    $ 8.13
+REFUSE              --                  $ 38.70    $ 14.93
+
+Total Current Charges   $ 88.94
+Balance Forward         $ 0.00
+Total Amount Due        $ 178.51
+
+PAY ONLINE AT: tri-countyelectric.gov

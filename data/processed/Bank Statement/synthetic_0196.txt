@@ -1,0 +1,23 @@
+Horizon Bank
+1950 Lake Rd
+Boston, MA 02101
+
+Account Statement for David Davis
+Account No: 361337605230
+From May 11, 2022 To September 04, 2021
+
+06/09/2024  Mortgage Payment                    1,820.92 CR      13,627.42
+10/04/2021  Car Loan Payment                      531.74 DR      13,095.68
+12/10/2020  Direct Deposit - Payroll            1,747.35 CR      14,843.03
+02/16/2024  Interest Credit                       838.62 CR      15,681.65
+12/03/2024  Amazon Purchase                     1,823.99 DR      13,857.66
+09/19/2024  Rent Payment                          524.80 DR      13,332.86
+12/01/2024  Subscription - Netflix              1,097.94 CR      14,430.80
+02/09/2018  Gas Station                         1,106.79 DR      13,324.01
+02/26/2019  Car Loan Payment                    1,038.77 DR      12,285.23
+11/13/2020  Rent Payment                        1,839.04 CR      14,124.28
+10/26/2019  Refund Credit                       1,329.70 DR      12,794.57
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@horizonbank.com

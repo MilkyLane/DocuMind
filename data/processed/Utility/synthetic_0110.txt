@@ -1,0 +1,30 @@
+Blue Ridge Energy
+ELECTRIC BILL
+
+Bill Date:      03/25/2019
+Bill Month:     OCT-2020
+
+Customer Name:  Daniel Anderson
+Address:        1211 Church St
+                Memphis, TN 38101
+Account No:     2520566474
+Meter No:       93305172
+
+METER READINGS
+Current Reading:   99967
+Previous Reading:  80106
+Units Consumed:    19861 kWh
+Derived Load:      2.66 kW
+
+CHARGES
+Fixed Charges:             $ 14.69
+Variable Charges:          $ 100.03
+Fuel Adjustment:           $ 3.29
+State Tax:                 $ 6.07
+Local Tax:                 $ 4.68
+-------------------------------------------
+Total Current Charges:     $ 291.58
+Amount Upto 30 days:       $ 279.87
+Amount Upto 60 days:       $ 315.31
+
+Due Date:       02/05/2019

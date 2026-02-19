@@ -1,0 +1,28 @@
+Summit Bank
+Nancy Jackson
+9396 Park Blvd
+Nashville, TN 37201
+
+Account Statement
+
+Account Number:    693265732759
+Account Type:      Checking
+Statement Period:  10/17/2023 to 11/02/2023
+Currency:          USD
+
+Opening Balance:   $ 2,392.76
+Closing Balance:   $ 1,774.50
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+02/11/2020  Wire Transfer                                      167.73      1,332.44
+05/27/2018  Insurance Premium                                2,874.29      4,206.73
+08/16/2020  Refund Credit                                      953.35      5,160.07
+09/06/2019  POS Purchase                           916.69                  4,243.38
+10/14/2019  Rent Payment                         1,601.59                  2,641.79
+05/23/2024  ACH Credit                                       1,414.01      4,055.80
+-----------------------------------------------------------
+
+For questions call 1-800-779-3402 or visit summitbank.com

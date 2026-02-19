@@ -1,0 +1,32 @@
+Central Hudson Gas & Electric
+
+Utility Billing
+4925 Park Blvd • Portland, OR 97201 • Phone: (552) 751-2453
+GAS • SEWER • REFUSE
+
+Bill To: Ashley Lee
+4925 Park Blvd, Portland, OR 97201
+
+Account Number:       9690295939
+Route:                95
+Cycle:                11
+Bill Date:            02/16/2019
+Due Date:             06/24/2018
+
+                                            Total Current Charges   $ 226.91
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 120.65
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+01/09/2019 - 04/23/2018  30   1006762676   81423         77883           1433 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   330 therms    $ 24.64   $ 16.63
+SEWER               67 therms    $ 18.27    $ 19.34
+REFUSE              --                  $ 38.31    $ 7.60
+
+Total Current Charges   $ 75.72
+Balance Forward         $ 0.00
+Total Amount Due        $ 118.85
+
+PAY ONLINE AT: centralhudsongasandelectric.gov

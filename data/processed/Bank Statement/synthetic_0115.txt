@@ -1,0 +1,34 @@
+City Savings Bank
+Nancy Harris
+6408 College Ave
+Austin, TX 73301
+
+Account Statement
+
+Account Number:    39885472812356
+Account Type:      Current Account
+Statement Period:  08/28/2022 to 09/07/2024
+Currency:          USD
+
+Opening Balance:   $ 8,304.00
+Closing Balance:   $ 1,838.47
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+11/04/2019  Gas Station                          2,610.80                  1,508.93
+04/01/2021  POS Purchase                                     2,237.63      3,746.56
+09/15/2020  Mobile Deposit                       1,433.96                  2,312.60
+06/14/2019  Bill Payment - Electricity           1,655.41                    657.19
+06/02/2021  Mobile Deposit                       1,298.24                      0.00
+07/24/2021  Wire Transfer                          156.91                      0.00
+10/09/2022  Credit Card Payment                  1,214.05                      0.00
+11/02/2023  ACH Credit                           1,306.36                      0.00
+01/02/2022  Mobile Deposit                                     666.54        666.54
+05/08/2022  Refund Credit                        1,601.07                      0.00
+02/08/2023  Refund Credit                                    1,181.81      1,181.81
+04/12/2023  Mortgage Payment                       625.06                    556.75
+-----------------------------------------------------------
+
+For questions call 1-800-851-1050 or visit citysavingsbank.com

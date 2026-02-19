@@ -1,0 +1,32 @@
+Metro Power Co.
+
+Utility Billing
+5310 1st Ave • Baltimore, MD 21201 • Phone: (087) 100-6435
+GAS • SEWER • REFUSE
+
+Bill To: Betty Martinez
+5310 1st Ave, Baltimore, MD 21201
+
+Account Number:       5992937842
+Route:                88
+Cycle:                4
+Bill Date:            08/02/2018
+Due Date:             01/08/2022
+
+                                            Total Current Charges   $ 247.74
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 122.00
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+03/26/2024 - 06/02/2018  27   1851569154   60322         87995           994 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   754 therms    $ 96.46   $ 68.43
+SEWER               139 therms    $ 36.82    $ 30.29
+REFUSE              --                  $ 36.14    $ 26.48
+
+Total Current Charges   $ 114.93
+Balance Forward         $ 0.00
+Total Amount Due        $ 179.76
+
+PAY ONLINE AT: metropowerco..gov

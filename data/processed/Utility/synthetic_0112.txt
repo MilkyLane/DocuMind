@@ -1,0 +1,34 @@
+City Water Authority
+7462 1st Ave, Nashville, TN 37201
+Customer Service: 1-800-741-3960
+
+Electric Bill
+
+Bill To:
+Laura Lewis
+7462 1st Ave
+Nashville, TN 37201
+
+Account Number:   8689268602
+Bill Date:        06/19/2024
+Due Date:         11/28/2019
+Service Period:   03/28/2019 to 03/25/2023
+Service Address:  7462 1st Ave, Nashville, TN 37201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 238.81
+Payment Received - Thank You  $ -189.28
+Balance Forward:         $ 0.00
+Current Charges:         $ 319.02
+Taxes & Fees:            $ 5.29
+Total Amount Due:        $ 228.50
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    369 kWh
+Same period last year:515 kWh
+Average daily usage:  5 kWh
+
+Due Date: 11/28/2019
+Pay online at citywaterauthority.com

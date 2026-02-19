@@ -1,0 +1,30 @@
+Sunrise Energy
+WATER & SEWER BILL
+
+Bill Date:      08/22/2018
+Bill Month:     SEP-2019
+
+Customer Name:  David Brown
+Address:        9572 Market St
+                Springfield, IL 62701
+Account No:     342801387592
+Meter No:       15171827
+
+METER READINGS
+Current Reading:   77793
+Previous Reading:  54042
+Units Consumed:    23751 CCF
+Derived Load:      4.46 kW
+
+CHARGES
+Fixed Charges:             $ 16.42
+Variable Charges:          $ 149.87
+Fuel Adjustment:           $ 10.62
+State Tax:                 $ 17.14
+Local Tax:                 $ 3.03
+-------------------------------------------
+Total Current Charges:     $ 139.97
+Amount Upto 30 days:       $ 295.94
+Amount Upto 60 days:       $ 161.25
+
+Due Date:       03/27/2020

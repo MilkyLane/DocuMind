@@ -1,0 +1,34 @@
+Cornerstone Bank
+Lisa Garcia
+3897 Lake Rd
+Portland, OR 97201
+
+Account Statement
+
+Account Number:    8981388158
+Account Type:      Money Market
+Statement Period:  09/03/2020 to 05/11/2022
+Currency:          USD
+
+Opening Balance:   $ 3,155.51
+Closing Balance:   $ 3,977.05
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+04/23/2023  Online Transfer                                    427.74     10,747.40
+02/14/2023  Savings Transfer                                 1,878.27     12,625.67
+06/15/2019  Cash Withdrawal                                  2,215.85     14,841.52
+01/02/2024  Direct Deposit - Payroll             2,543.21                 12,298.31
+12/01/2024  NSF Fee Reversal                                 2,328.16     14,626.47
+03/25/2023  NSF Fee Reversal                                   260.07     14,886.54
+12/07/2021  NSF Fee Reversal                                   252.38     15,138.91
+09/21/2020  ATM Withdrawal                       2,353.11                 12,785.80
+10/01/2023  Bill Payment - Electricity                       2,247.93     15,033.73
+11/04/2024  Amazon Purchase                                    945.40     15,979.14
+05/06/2018  Rent Payment                                     2,260.06     18,239.20
+10/18/2021  Mortgage Payment                                 1,805.04     20,044.24
+-----------------------------------------------------------
+
+For questions call 1-800-634-2255 or visit cornerstonebank.com

@@ -1,0 +1,27 @@
+Pacific Trust Bank
+
+Monthly Account Statement
+December 2018
+
+Account Holder: Paul Lewis
+Address:        458 Maple Dr, Portland, OR - 97201
+Account Number: XXXX XXXX 3234
+IFSC Code:      EAPV0285155
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+08/26/2018  | 09/02/2022  | Insurance Premium                  |     996.81 |            |     1,231.45
+01/17/2024  | 06/26/2022  | Restaurant                         |   1,098.65 |            |       132.81
+02/24/2018  | 10/03/2022  | Bank Fee                           |     841.04 |            |         0.00
+09/28/2024  | 02/19/2021  | Credit Card Payment                |     403.98 |            |         0.00
+02/25/2023  | 07/27/2020  | Gas Station                        |            |     485.31 |       485.31
+12/05/2023  | 06/03/2019  | Savings Transfer                   |   2,202.55 |            |         0.00
+12/24/2024  | 07/01/2021  | Utility Bill                       |            |   1,140.58 |     1,140.58
+07/01/2018  | 04/11/2021  | Bill Payment - Electricity         |   1,562.99 |            |         0.00
+-----------------------------------------------------------------------------------------------
+
+Generated on April 10, 2019. For disputes call 1854-377-4817.

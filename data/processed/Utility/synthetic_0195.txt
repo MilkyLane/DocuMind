@@ -1,0 +1,32 @@
+City Water Authority
+
+Utility Billing
+1040 Hill St • Columbus, OH 43215 • Phone: (909) 559-3761
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: Daniel Martinez
+1040 Hill St, Columbus, OH 43215
+
+Account Number:       0682778816093068
+Route:                96
+Cycle:                9
+Bill Date:            12/12/2019
+Due Date:             12/22/2024
+
+                                            Total Current Charges   $ 274.03
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 77.20
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+06/27/2019 - 09/12/2018  31   6251538144   75796         54251           724 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   758 kWh / therms    $ 56.40   $ 90.41
+SEWER               287 kWh / therms    $ 45.16    $ 43.18
+REFUSE              --                  $ 7.01    $ 5.21
+
+Total Current Charges   $ 136.67
+Balance Forward         $ 0.00
+Total Amount Due        $ 102.65
+
+PAY ONLINE AT: citywaterauthority.gov

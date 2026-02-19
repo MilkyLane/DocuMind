@@ -1,0 +1,31 @@
+Gas Bill
+
+Central Hudson Gas & Electric
+Account Number: 93289802714872
+Customer Number: 6025643471
+Service Address: 1745 2nd St, Baltimore MD 21201
+Tax Invoice  Issue Date: 08/04/2021
+
+This account is based on an actual meter reading
+Gas account summary: 04/06/2024 to 11/23/2018
+
+Plan: Fixed Rate
+Opening balance:                $ 190.06
+Payment received - thank you    $ -147.59Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 326.39
+Total amount due                $ 159.81
+
+Due Date: 11/18/2019
+Total amount if paid after due date: $ 139.52
+
+Bill To:
+George Rodriguez
+1745 2nd St
+Baltimore, MD 21201
+
+Gas Usage Summary
+Meter Reading:  85493 therms
+Previous:       88732 therms
+Usage:          232 therms
+Days in period: 33

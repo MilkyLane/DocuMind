@@ -1,0 +1,29 @@
+Heritage Bank
+Dorothy Brown
+799 Oak Ave
+Seattle, WA 98101
+
+Account Statement
+
+Account Number:    6706625324472099
+Account Type:      Money Market
+Statement Period:  10/08/2023 to 05/16/2021
+Currency:          USD
+
+Opening Balance:   $ 17,714.18
+Closing Balance:   $ 9,841.10
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+09/08/2023  NSF Fee Reversal                       606.38                  5,709.36
+07/26/2023  Insurance Premium                                   68.39      5,777.76
+06/19/2022  Car Loan Payment                     2,346.49                  3,431.27
+06/20/2019  Direct Deposit - Payroll               547.65                  2,883.62
+01/26/2021  Amazon Purchase                                  2,337.83      5,221.45
+04/06/2018  ACH Credit                           1,756.13                  3,465.32
+12/02/2024  ACH Credit                                         806.92      4,272.24
+-----------------------------------------------------------
+
+For questions call 1-800-463-3846 or visit heritagebank.com

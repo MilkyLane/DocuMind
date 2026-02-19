@@ -1,0 +1,29 @@
+Midwest Bank
+
+Monthly Account Statement
+September 2020
+
+Account Holder: Kenneth Garcia
+Address:        2029 River Rd, Denver, CO - 80201
+Account Number: XXXX XXXX 9690
+IFSC Code:      MQHY0736471
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+11/06/2024  | 06/17/2019  | Check Deposit                      |            |   2,319.04 |    15,163.79
+04/26/2021  | 01/12/2022  | Utility Bill                       |            |   1,982.24 |    17,146.03
+09/05/2022  | 02/03/2020  | Subscription - Netflix             |   2,011.12 |            |    15,134.91
+09/14/2024  | 07/27/2022  | Online Transfer                    |            |   1,799.99 |    16,934.90
+02/15/2021  | 11/17/2020  | Bill Payment - Electricity         |     799.40 |            |    16,135.50
+11/19/2019  | 03/14/2022  | ATM Withdrawal                     |            |   1,952.85 |    18,088.35
+05/06/2019  | 06/23/2019  | Insurance Premium                  |            |   1,300.07 |    19,388.43
+05/28/2018  | 05/07/2023  | Rent Payment                       |            |   1,302.06 |    20,690.48
+10/18/2018  | 09/21/2019  | Utility Bill                       |   1,566.31 |            |    19,124.18
+11/20/2023  | 10/11/2024  | Utility Bill                       |            |     393.94 |    19,518.12
+-----------------------------------------------------------------------------------------------
+
+Generated on March 15, 2021. For disputes call 1861-575-4342.

@@ -1,0 +1,32 @@
+Liberty Bank
+
+Monthly Account Statement
+November 2019
+
+Account Holder: Robert White
+Address:        7860 River Rd, Springfield, IL - 62701
+Account Number: XXXX XXXX 8999
+IFSC Code:      DIRZ0889144
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+08/03/2024  | 11/06/2022  | Grocery Store                      |            |   1,397.85 |    11,465.85
+04/05/2020  | 03/24/2023  | Subscription - Netflix             |     108.99 |            |    11,356.85
+01/04/2022  | 11/09/2022  | Amazon Purchase                    |     159.39 |            |    11,197.47
+03/11/2019  | 08/26/2019  | Wire Transfer                      |   2,202.16 |            |     8,995.31
+04/04/2019  | 07/18/2023  | Savings Transfer                   |            |   1,200.91 |    10,196.22
+03/22/2019  | 09/05/2024  | Bank Fee                           |            |   2,011.64 |    12,207.85
+02/19/2019  | 04/21/2024  | Grocery Store                      |   1,288.33 |            |    10,919.53
+04/27/2020  | 07/02/2024  | Grocery Store                      |            |     910.69 |    11,830.21
+07/01/2019  | 11/24/2020  | Subscription - Netflix             |     808.01 |            |    11,022.20
+04/24/2019  | 08/20/2024  | Amazon Purchase                    |   2,092.57 |            |     8,929.63
+11/06/2019  | 10/17/2020  | Restaurant                         |            |   1,618.64 |    10,548.28
+01/14/2018  | 09/03/2023  | Bank Fee                           |            |   1,087.53 |    11,635.80
+06/09/2021  | 05/15/2023  | NSF Fee Reversal                   |   1,607.09 |            |    10,028.72
+-----------------------------------------------------------------------------------------------
+
+Generated on October 17, 2019. For disputes call 1840-431-4922.

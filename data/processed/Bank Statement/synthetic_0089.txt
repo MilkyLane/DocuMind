@@ -1,0 +1,33 @@
+UNITED COMMUNITY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   William Johnson
+Customer ID:     958976
+Address:         1091 Hill St, Portland, OR 97201
+Account Number:  8549822749545089
+Account Type:    Current
+Statement Date:  October 25, 2020
+Period Covered:  11/22/2019 to 01/08/2022
+
+Opening Balance:        41,923.57
+Total Credit Amount:    25,831.72
+Total Debit Amount:     8,730.19
+Closing Balance:        6,264.51
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+04/22/2021  Refund Credit                          214.53                 12,956.01
+12/11/2024  Utility Bill                                     1,407.53     14,363.55
+05/14/2020  POS Purchase                                     1,013.62     15,377.17
+01/16/2019  Direct Deposit - Payroll             2,629.56                 12,747.62
+08/20/2019  ACH Credit                                       2,082.73     14,830.35
+06/26/2023  Subscription - Netflix               2,307.36                 12,522.98
+01/12/2018  Online Transfer                        560.89                 11,962.09
+03/10/2021  Wire Transfer                        1,668.53                 10,293.57
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: ZFHFUSJG

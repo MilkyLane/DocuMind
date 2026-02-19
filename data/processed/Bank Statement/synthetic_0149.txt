@@ -1,0 +1,32 @@
+First National Bank
+Nancy Martin
+3487 Main St
+Boston, MA 02101
+
+Account Statement
+
+Account Number:    3140352635602293
+Account Type:      Checking
+Statement Period:  10/22/2020 to 07/22/2022
+Currency:          USD
+
+Opening Balance:   $ 14,348.36
+Closing Balance:   $ 18,090.71
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+05/14/2023  Direct Deposit - Payroll                         2,212.53      7,105.18
+05/27/2019  Bank Fee                             1,246.78                  5,858.40
+11/23/2021  ATM Withdrawal                       1,804.39                  4,054.01
+11/23/2019  Online Transfer                                  1,352.89      5,406.91
+08/03/2019  Rent Payment                                       354.68      5,761.59
+05/22/2023  Refund Credit                        2,831.07                  2,930.51
+05/28/2022  Mobile Deposit                       1,613.42                  1,317.10
+04/03/2022  Restaurant                             367.01                    950.09
+01/16/2021  Check Deposit                        1,559.49                      0.00
+07/06/2018  Bank Fee                               123.71                      0.00
+-----------------------------------------------------------
+
+For questions call 1-800-347-8142 or visit firstnationalbank.com

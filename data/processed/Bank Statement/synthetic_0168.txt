@@ -1,0 +1,41 @@
+Horizon Bank
+Member FDIC
+
+Michael Thomas
+2664 Washington Ave
+Indianapolis, IN 46201
+
+Business Checking Statement
+Account Number: 0046277657
+Statement Period: 03/27/2020 through 12/23/2021
+Page 1 of 1
+
+Account Summary
+Previous Balance:    $ 40,234.21
+Deposits/Credits:    $ 23,416.96
+Withdrawals/Debits:  $ 16,115.88
+Service Charges:     $ 29.86
+Ending Balance:      $ 46,890.65
+
+Transaction Detail
+12/06/2018  NSF Fee Reversal                                 1,704.04      8,685.02
+02/16/2020  Bill Payment - Electricity             759.30                  7,925.72
+09/20/2021  Mobile Deposit                         429.62                  7,496.11
+07/02/2024  Direct Deposit - Payroll                         2,165.15      9,661.25
+10/12/2020  Direct Deposit - Payroll                         2,136.98     11,798.23
+09/07/2019  Bill Payment - Electricity           2,316.99                  9,481.24
+12/24/2022  Mobile Deposit                       1,979.41                  7,501.83
+10/20/2022  Wire Transfer                                    2,669.86     10,171.70
+01/15/2023  Utility Bill                         2,849.95                  7,321.74
+08/02/2020  Car Loan Payment                                 1,620.99      8,942.73
+02/16/2024  Grocery Store                        1,772.07                  7,170.67
+10/19/2019  Car Loan Payment                                 2,743.17      9,913.84
+05/10/2023  ATM Withdrawal                                     676.47     10,590.31
+10/09/2021  Mobile Deposit                                   2,008.61     12,598.92
+04/27/2021  ACH Credit                             695.37                 11,903.55
+02/26/2024  Mobile Deposit                       1,295.73                 10,607.82
+07/01/2022  Interest Credit                                  2,699.49     13,307.31
+05/25/2022  Cash Withdrawal                                  1,923.66     15,230.97
+
+Overdraft Protection: Enrolled
+Next Statement Date: 07/18/2023

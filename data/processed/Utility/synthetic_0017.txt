@@ -1,0 +1,34 @@
+Central Hudson Gas & Electric
+9829 Hill St, Seattle, WA 98101
+Customer Service: 1-800-805-5982
+
+Electric & Gas Bill
+
+Bill To:
+Brian Lewis
+9829 Hill St
+Seattle, WA 98101
+
+Account Number:   3447134936
+Bill Date:        02/18/2019
+Due Date:         11/05/2020
+Service Period:   03/03/2018 to 03/26/2020
+Service Address:  9829 Hill St, Seattle, WA 98101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 387.03
+Payment Received - Thank You  $ -306.14
+Balance Forward:         $ 0.00
+Current Charges:         $ 151.01
+Taxes & Fees:            $ 21.59
+Total Amount Due:        $ 99.74
+---------------------------------------------------
+
+Electric & Gas Usage Details
+Usage this period:    657 kWh / therms
+Same period last year:1124 kWh / therms
+Average daily usage:  74 kWh / therms
+
+Due Date: 11/05/2020
+Pay online at centralhudsongasandelectric.com

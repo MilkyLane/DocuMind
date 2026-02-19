@@ -1,0 +1,32 @@
+Central Hudson Gas & Electric
+
+Utility Billing
+8285 Church St • Columbus, OH 43215 • Phone: (890) 338-1347
+GAS • SEWER • REFUSE
+
+Bill To: Ashley Robinson
+8285 Church St, Columbus, OH 43215
+
+Account Number:       419562525715
+Route:                88
+Cycle:                2
+Bill Date:            01/20/2022
+Due Date:             08/13/2022
+
+                                            Total Current Charges   $ 113.39
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 229.24
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+04/20/2018 - 01/05/2020  32   3263039752   77190         82470           690 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   124 therms    $ 30.61   $ 75.96
+SEWER               225 therms    $ 15.90    $ 29.27
+REFUSE              --                  $ 36.73    $ 28.28
+
+Total Current Charges   $ 92.15
+Balance Forward         $ 0.00
+Total Amount Due        $ 184.34
+
+PAY ONLINE AT: centralhudsongasandelectric.gov

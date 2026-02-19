@@ -1,0 +1,32 @@
+Sunrise Energy
+
+Utility Billing
+5475 Broad St • Memphis, TN 38101 • Phone: (064) 936-1049
+WATER • SEWER • REFUSE
+
+Bill To: Karen Miller
+5475 Broad St, Memphis, TN 38101
+
+Account Number:       3971870728
+Route:                37
+Cycle:                10
+Bill Date:            07/15/2022
+Due Date:             01/18/2021
+
+                                            Total Current Charges   $ 49.72
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 144.40
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+12/03/2022 - 01/03/2021  25   6226567661   61696         75209           904 CCF
+
+Service             Consumption   Charge       Total
+Water-SINGLE UNIT   641 CCF    $ 21.46   $ 98.09
+SEWER               51 CCF    $ 39.03    $ 49.03
+REFUSE              --                  $ 21.21    $ 30.17
+
+Total Current Charges   $ 129.07
+Balance Forward         $ 0.00
+Total Amount Due        $ 119.65
+
+PAY ONLINE AT: sunriseenergy.gov

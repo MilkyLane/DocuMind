@@ -1,0 +1,36 @@
+LIBERTY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   James Rodriguez
+Customer ID:     392047
+Address:         8155 Cedar Ln, Nashville, TN 37201
+Account Number:  8112669121535396
+Account Type:    Current
+Statement Date:  July 16, 2024
+Period Covered:  02/08/2024 to 07/24/2021
+
+Opening Balance:        38,476.03
+Total Credit Amount:    23,096.18
+Total Debit Amount:     12,076.17
+Closing Balance:        22,810.94
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+08/17/2020  Bill Payment - Electricity                       2,850.92     10,616.76
+05/16/2021  ACH Credit                                         333.03     10,949.79
+02/24/2018  Online Transfer                                    412.48     11,362.27
+03/13/2022  Cash Withdrawal                         89.98                 11,272.29
+10/04/2024  Online Transfer                        915.23                 10,357.06
+08/26/2021  Wire Transfer                                    1,564.65     11,921.71
+09/09/2022  Car Loan Payment                     1,498.72                 10,422.99
+01/25/2018  Grocery Store                                    1,626.18     12,049.17
+08/11/2024  Subscription - Netflix                             366.21     12,415.38
+03/18/2023  Bank Fee                               117.58                 12,297.80
+08/14/2019  Mortgage Payment                     2,121.12                 10,176.68
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: OMOOUSQU

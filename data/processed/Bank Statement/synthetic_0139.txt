@@ -1,0 +1,22 @@
+Pacific Trust Bank
+5567 1st Ave
+Baltimore, MD 21201
+
+Account Statement for Karen Taylor
+Account No: 74696606065274
+From January 27, 2023 To April 07, 2023
+
+07/11/2022  Rent Payment                          650.47 DR       4,124.08
+10/17/2021  Mobile Deposit                      1,596.97 CR       5,721.06
+06/24/2021  Interest Credit                       493.84 DR       5,227.21
+01/25/2023  Subscription - Netflix              1,904.57 CR       7,131.78
+08/08/2020  Credit Card Payment                 1,818.69 CR       8,950.47
+01/21/2020  Mobile Deposit                        128.04 CR       9,078.51
+05/04/2021  Bill Payment - Electricity            881.87 CR       9,960.38
+12/14/2024  Bill Payment - Electricity            157.24 CR      10,117.61
+10/07/2022  Online Transfer                     1,183.72 CR      11,301.33
+09/25/2023  Mobile Deposit                        662.41 DR      10,638.93
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pacifictrustbank.com

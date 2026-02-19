@@ -1,0 +1,34 @@
+National Grid
+8648 College Ave, Austin, TX 73301
+Customer Service: 1-800-201-9876
+
+Water & Sewer Bill
+
+Bill To:
+Sarah Martinez
+8648 College Ave
+Austin, TX 73301
+
+Account Number:   1820433971
+Bill Date:        09/20/2020
+Due Date:         07/19/2018
+Service Period:   08/28/2018 to 06/14/2019
+Service Address:  8648 College Ave, Austin, TX 73301
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 60.83
+Payment Received - Thank You  $ -287.56
+Balance Forward:         $ 0.00
+Current Charges:         $ 183.70
+Taxes & Fees:            $ 6.71
+Total Amount Due:        $ 86.41
+---------------------------------------------------
+
+Water & Sewer Usage Details
+Usage this period:    394 CCF
+Same period last year:474 CCF
+Average daily usage:  37 CCF
+
+Due Date: 07/19/2018
+Pay online at nationalgrid.com

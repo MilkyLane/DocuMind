@@ -1,0 +1,30 @@
+City Savings Bank
+Donna Anderson
+7152 Main St
+Columbus, OH 43215
+
+Account Statement
+
+Account Number:    38889937567982
+Account Type:      Checking
+Statement Period:  06/01/2021 to 02/10/2021
+Currency:          USD
+
+Opening Balance:   $ 18,450.68
+Closing Balance:   $ 2,174.17
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+09/16/2020  Restaurant                           2,354.97                  5,263.28
+08/11/2018  Mortgage Payment                     2,168.76                  3,094.52
+01/28/2020  Savings Transfer                     2,135.23                    959.29
+12/08/2022  POS Purchase                         2,402.15                      0.00
+07/15/2019  NSF Fee Reversal                                   999.66        999.66
+11/22/2021  Subscription - Netflix                 561.51                    438.15
+04/15/2022  Grocery Store                        1,846.18                      0.00
+04/09/2024  Refund Credit                        2,117.16                      0.00
+-----------------------------------------------------------
+
+For questions call 1-800-691-2667 or visit citysavingsbank.com

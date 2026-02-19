@@ -1,0 +1,31 @@
+Water Bill
+
+Blue Ridge Energy
+Account Number: 5242786801
+Customer Number: 5053315869
+Service Address: 7039 Oak Ave, Denver CO 80201
+Tax Invoice  Issue Date: 02/23/2019
+
+This account is based on an actual meter reading
+Water account summary: 10/18/2019 to 07/05/2018
+
+Plan: Standard Rate
+Opening balance:                $ 53.81
+Payment received - thank you    $ -277.35Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 321.66
+Total amount due                $ 188.22
+
+Due Date: 09/02/2024
+Total amount if paid after due date: $ 317.96
+
+Bill To:
+Sarah Williams
+7039 Oak Ave
+Denver, CO 80201
+
+Water Usage Summary
+Meter Reading:  42527 CCF
+Previous:       44970 CCF
+Usage:          426 CCF
+Days in period: 33

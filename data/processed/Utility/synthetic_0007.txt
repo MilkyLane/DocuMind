@@ -1,0 +1,30 @@
+National Grid
+WATER BILL
+
+Bill Date:      10/04/2018
+Bill Month:     FEB-2019
+
+Customer Name:  Michael Robinson
+Address:        1443 Market St
+                Indianapolis, IN 46201
+Account No:     43534624751079
+Meter No:       42784980
+
+METER READINGS
+Current Reading:   58680
+Previous Reading:  62872
+Units Consumed:    -4192 CCF
+Derived Load:      9.01 kW
+
+CHARGES
+Fixed Charges:             $ 23.56
+Variable Charges:          $ 39.54
+Fuel Adjustment:           $ 4.94
+State Tax:                 $ 5.79
+Local Tax:                 $ 4.09
+-------------------------------------------
+Total Current Charges:     $ 215.62
+Amount Upto 30 days:       $ 260.29
+Amount Upto 60 days:       $ 184.10
+
+Due Date:       09/07/2022

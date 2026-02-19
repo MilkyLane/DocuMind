@@ -1,0 +1,31 @@
+Electric & Gas Bill
+
+National Grid
+Account Number: 8141413975523149
+Customer Number: 5620533645
+Service Address: 9394 Church St, Springfield IL 62701
+Tax Invoice  Issue Date: 02/07/2020
+
+This account is based on an estimated meter reading
+Electric & Gas account summary: 11/10/2023 to 10/05/2022
+
+Plan: Time-of-Use
+Opening balance:                $ 146.09
+Payment received - thank you    $ -32.65Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 272.40
+Total amount due                $ 69.51
+
+Due Date: 08/15/2020
+Total amount if paid after due date: $ 162.25
+
+Bill To:
+Laura Miller
+9394 Church St
+Springfield, IL 62701
+
+Electric & Gas Usage Summary
+Meter Reading:  28350 kWh / therms
+Previous:       80597 kWh / therms
+Usage:          502 kWh / therms
+Days in period: 30

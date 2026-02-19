@@ -1,0 +1,32 @@
+WESTERN POWER SERVICES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 287.41
+Payment Received:           $ -236.50
+Current Charges:            $ 130.60
+Taxes & Surcharges:         $ 26.73
+Amount Due:                 $ 329.97
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $329.97 must be received by 12/26/2018.
+
+ACCOUNT INFORMATION
+Account Number:    86401557788178
+Customer Name:     Nancy Lee
+Service Address:   3793 1st Ave, Charlotte, NC 28201
+Billing Period:    08/03/2018 to 07/06/2020
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 96.24  $ 10.77   $ 1.65   $ 40.16
+Other Charges   $ 2.96   -           $ 0.75    $ 5.11
+Total           $ 144.25  $ 12.04  $ 6.25   $ 329.97
+
+USAGE HISTORY (therms)
+Current Period:  1447
+Last Period:     1158
+Same Period Last Year: 1958
+
+Pay by phone: 1-800-235-8764
+Pay online:   westernpowerservices.com

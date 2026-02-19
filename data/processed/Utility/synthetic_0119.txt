@@ -1,0 +1,31 @@
+Electric & Gas Bill
+
+National Grid
+Account Number: 219719975817
+Customer Number: 3290227846
+Service Address: 9393 Church St, Charlotte NC 28201
+Tax Invoice  Issue Date: 03/10/2021
+
+This account is based on an actual meter reading
+Electric & Gas account summary: 07/11/2021 to 11/22/2018
+
+Plan: Budget Billing
+Opening balance:                $ 58.70
+Payment received - thank you    $ -204.46Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 153.98
+Total amount due                $ 245.30
+
+Due Date: 02/20/2018
+Total amount if paid after due date: $ 415.28
+
+Bill To:
+Carol White
+9393 Church St
+Charlotte, NC 28201
+
+Electric & Gas Usage Summary
+Meter Reading:  49917 kWh / therms
+Previous:       66980 kWh / therms
+Usage:          1570 kWh / therms
+Days in period: 30

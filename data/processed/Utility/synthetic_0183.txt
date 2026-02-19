@@ -1,0 +1,32 @@
+SOUTHERN ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 222.01
+Payment Received:           $ -373.99
+Current Charges:            $ 331.49
+Taxes & Surcharges:         $ 38.97
+Amount Due:                 $ 180.60
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $180.60 must be received by 08/10/2023.
+
+ACCOUNT INFORMATION
+Account Number:    5273230085
+Customer Name:     Michelle Taylor
+Service Address:   6246 College Ave, Memphis, TN 38101
+Billing Period:    02/14/2018 to 02/13/2022
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric & Gas Service   $ 24.61  $ 62.22   $ 9.57   $ 158.83
+Other Charges   $ 15.03   -           $ 1.74    $ 17.73
+Total           $ 106.20  $ 43.14  $ 0.87   $ 180.60
+
+USAGE HISTORY (kWh / therms)
+Current Period:  839
+Last Period:     1947
+Same Period Last Year: 918
+
+Pay by phone: 1-800-853-5043
+Pay online:   southernelectric.com

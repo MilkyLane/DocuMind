@@ -1,0 +1,32 @@
+City Water Authority
+
+Utility Billing
+2898 Hill St • Nashville, TN 37201 • Phone: (477) 369-4706
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Emily Davis
+2898 Hill St, Nashville, TN 37201
+
+Account Number:       7146774186
+Route:                44
+Cycle:                10
+Bill Date:            03/12/2021
+Due Date:             06/06/2021
+
+                                            Total Current Charges   $ 46.64
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 233.10
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+11/04/2018 - 11/12/2024  33   9380686879   82905         77435           1158 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   685 kWh    $ 70.98   $ 65.82
+SEWER               111 kWh    $ 47.72    $ 25.21
+REFUSE              --                  $ 38.22    $ 10.85
+
+Total Current Charges   $ 84.50
+Balance Forward         $ 0.00
+Total Amount Due        $ 80.47
+
+PAY ONLINE AT: citywaterauthority.gov

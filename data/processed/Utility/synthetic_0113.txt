@@ -1,0 +1,30 @@
+Valley Water District
+ELECTRIC & GAS BILL
+
+Bill Date:      10/20/2018
+Bill Month:     APR-2018
+
+Customer Name:  Mark Smith
+Address:        7614 College Ave
+                Seattle, WA 98101
+Account No:     9733977671
+Meter No:       20502099
+
+METER READINGS
+Current Reading:   91198
+Previous Reading:  76539
+Units Consumed:    14659 kWh / therms
+Derived Load:      1.98 kW
+
+CHARGES
+Fixed Charges:             $ 29.84
+Variable Charges:          $ 40.65
+Fuel Adjustment:           $ 4.98
+State Tax:                 $ 13.90
+Local Tax:                 $ 7.30
+-------------------------------------------
+Total Current Charges:     $ 184.52
+Amount Upto 30 days:       $ 181.79
+Amount Upto 60 days:       $ 320.06
+
+Due Date:       04/18/2020

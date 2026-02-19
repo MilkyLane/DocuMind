@@ -1,0 +1,34 @@
+Central Hudson Gas & Electric
+7233 Elm St, Austin, TX 73301
+Customer Service: 1-800-452-7732
+
+Electric Bill
+
+Bill To:
+Jessica Rodriguez
+7233 Elm St
+Austin, TX 73301
+
+Account Number:   51168685487099
+Bill Date:        09/26/2021
+Due Date:         02/14/2019
+Service Period:   03/19/2022 to 10/25/2018
+Service Address:  7233 Elm St, Austin, TX 73301
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 303.21
+Payment Received - Thank You  $ -95.45
+Balance Forward:         $ 0.00
+Current Charges:         $ 150.13
+Taxes & Fees:            $ 9.40
+Total Amount Due:        $ 264.25
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    1441 kWh
+Same period last year:1094 kWh
+Average daily usage:  78 kWh
+
+Due Date: 02/14/2019
+Pay online at centralhudsongasandelectric.com

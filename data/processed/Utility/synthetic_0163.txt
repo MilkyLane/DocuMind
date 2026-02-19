@@ -1,0 +1,34 @@
+Central Hudson Gas & Electric
+5174 Broad St, Boston, MA 02101
+Customer Service: 1-800-824-6060
+
+Electric Bill
+
+Bill To:
+George Martinez
+5174 Broad St
+Boston, MA 02101
+
+Account Number:   67922877725199
+Bill Date:        07/13/2019
+Due Date:         07/11/2022
+Service Period:   01/22/2021 to 12/09/2023
+Service Address:  5174 Broad St, Boston, MA 02101
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 439.68
+Payment Received - Thank You  $ -368.24
+Balance Forward:         $ 0.00
+Current Charges:         $ 250.20
+Taxes & Fees:            $ 17.71
+Total Amount Due:        $ 368.46
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    353 kWh
+Same period last year:1418 kWh
+Average daily usage:  76 kWh
+
+Due Date: 07/11/2022
+Pay online at centralhudsongasandelectric.com

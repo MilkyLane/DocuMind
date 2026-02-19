@@ -1,0 +1,31 @@
+Electric Bill
+
+Metro Power Co.
+Account Number: 64729293143866
+Customer Number: 7448906120
+Service Address: 3549 1st Ave, Indianapolis IN 46201
+Tax Invoice  Issue Date: 04/05/2024
+
+This account is based on an estimated meter reading
+Electric account summary: 03/14/2021 to 03/28/2023
+
+Plan: Time-of-Use
+Opening balance:                $ 77.93
+Payment received - thank you    $ -108.09Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 240.70
+Total amount due                $ 331.61
+
+Due Date: 12/05/2021
+Total amount if paid after due date: $ 187.66
+
+Bill To:
+Amanda White
+3549 1st Ave
+Indianapolis, IN 46201
+
+Electric Usage Summary
+Meter Reading:  63970 kWh
+Previous:       25890 kWh
+Usage:          819 kWh
+Days in period: 33

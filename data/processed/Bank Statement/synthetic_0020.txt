@@ -1,0 +1,24 @@
+Liberty Bank
+5331 1st Ave
+Baltimore, MD 21201
+
+Account Statement for Karen Anderson
+Account No: 588153714732
+From February 02, 2020 To July 28, 2022
+
+06/19/2023  Car Loan Payment                      327.80 CR       4,427.72
+09/15/2021  Mortgage Payment                      327.09 DR       4,100.63
+07/17/2021  ACH Credit                            189.20 DR       3,911.43
+01/10/2021  Credit Card Payment                   712.26 DR       3,199.17
+08/10/2022  Direct Deposit - Payroll            1,311.98 CR       4,511.15
+05/24/2020  Bank Fee                              867.55 CR       5,378.69
+01/19/2022  Wire Transfer                         100.03 DR       5,278.66
+07/17/2021  Bank Fee                              584.32 DR       4,694.35
+10/22/2022  Check Deposit                       1,652.37 CR       6,346.71
+06/26/2020  Rent Payment                          202.40 DR       6,144.32
+04/20/2022  Subscription - Netflix              1,512.38 CR       7,656.70
+03/23/2020  NSF Fee Reversal                      100.15 CR       7,756.85
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@libertybank.com

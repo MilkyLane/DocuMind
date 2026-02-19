@@ -1,0 +1,32 @@
+Liberty Bank
+Robert Robinson
+7219 Pine St
+Charlotte, NC 28201
+
+Account Statement
+
+Account Number:    6934060883
+Account Type:      Savings
+Statement Period:  06/14/2018 to 11/11/2022
+Currency:          USD
+
+Opening Balance:   $ 6,621.36
+Closing Balance:   $ 17,036.30
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+12/10/2022  Bill Payment - Electricity                         985.29     11,620.61
+07/22/2023  POS Purchase                         1,998.14                  9,622.48
+09/27/2018  Mortgage Payment                                   909.84     10,532.32
+10/20/2023  Car Loan Payment                     1,295.37                  9,236.95
+04/17/2021  NSF Fee Reversal                     1,332.06                  7,904.89
+03/22/2018  Mortgage Payment                                 2,390.11     10,295.01
+06/03/2024  Bank Fee                                         1,902.49     12,197.50
+04/05/2018  ATM Withdrawal                         938.15                 11,259.35
+02/15/2021  Savings Transfer                     1,430.66                  9,828.69
+07/16/2021  ACH Credit                                       2,157.85     11,986.54
+-----------------------------------------------------------
+
+For questions call 1-800-771-1090 or visit libertybank.com

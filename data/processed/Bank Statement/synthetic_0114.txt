@@ -1,0 +1,28 @@
+Horizon Bank
+
+Monthly Account Statement
+October 2021
+
+Account Holder: David Martinez
+Address:        7009 Sunset Blvd, Nashville, TN - 37201
+Account Number: XXXX XXXX 3977
+IFSC Code:      ZITF0441583
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+10/01/2021  | 05/05/2024  | Subscription - Netflix             |   1,612.73 |            |     7,245.27
+09/02/2020  | 11/01/2018  | Restaurant                         |   1,338.33 |            |     5,906.94
+12/10/2020  | 06/25/2020  | Subscription - Netflix             |   2,008.26 |            |     3,898.68
+08/20/2018  | 07/10/2023  | Gas Station                        |   1,938.79 |            |     1,959.89
+02/27/2020  | 10/04/2018  | ACH Credit                         |   1,606.33 |            |       353.56
+02/11/2024  | 12/24/2021  | ACH Credit                         |      35.89 |            |       317.67
+06/27/2022  | 01/23/2024  | ATM Withdrawal                     |     485.99 |            |         0.00
+02/02/2020  | 02/09/2020  | Refund Credit                      |   1,964.51 |            |         0.00
+05/23/2019  | 03/19/2021  | Check Deposit                      |            |   2,033.09 |     2,033.09
+-----------------------------------------------------------------------------------------------
+
+Generated on December 03, 2018. For disputes call 1863-161-4481.

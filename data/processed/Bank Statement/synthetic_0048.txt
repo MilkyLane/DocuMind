@@ -1,0 +1,32 @@
+Valley National Bank
+
+Monthly Account Statement
+January 2019
+
+Account Holder: Jessica Jackson
+Address:        6061 Main St, Memphis, TN - 38101
+Account Number: XXXX XXXX 3886
+IFSC Code:      VPEX0908811
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+11/07/2022  | 06/13/2021  | Gas Station                        |     592.71 |            |     3,267.67
+11/11/2018  | 12/17/2023  | Mobile Deposit                     |            |     109.36 |     3,377.03
+09/19/2019  | 07/21/2021  | Insurance Premium                  |            |     665.66 |     4,042.69
+02/17/2020  | 07/08/2022  | Subscription - Netflix             |            |   2,246.58 |     6,289.27
+08/26/2021  | 10/01/2022  | Bill Payment - Electricity         |   2,170.62 |            |     4,118.65
+09/21/2020  | 04/05/2019  | POS Purchase                       |     582.68 |            |     3,535.97
+02/22/2019  | 07/26/2020  | Interest Credit                    |   1,796.08 |            |     1,739.89
+08/07/2022  | 03/21/2024  | Grocery Store                      |   1,691.32 |            |        48.57
+10/19/2019  | 03/21/2022  | ATM Withdrawal                     |     117.43 |            |         0.00
+03/09/2019  | 09/13/2022  | Utility Bill                       |            |     375.69 |       375.69
+12/22/2024  | 05/03/2019  | Gas Station                        |            |   2,197.49 |     2,573.18
+08/06/2019  | 07/20/2019  | NSF Fee Reversal                   |            |   1,183.82 |     3,757.00
+10/22/2022  | 05/06/2023  | Cash Withdrawal                    |            |   1,921.05 |     5,678.05
+-----------------------------------------------------------------------------------------------
+
+Generated on October 18, 2024. For disputes call 1800-893-8069.

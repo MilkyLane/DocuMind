@@ -1,0 +1,30 @@
+UNITED COMMUNITY BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Kevin Brown
+Customer ID:     832133
+Address:         268 Elm St, Nashville, TN 37201
+Account Number:  8718274968
+Account Type:    Savings
+Statement Date:  December 20, 2022
+Period Covered:  11/24/2018 to 05/19/2018
+
+Opening Balance:        26,320.08
+Total Credit Amount:    5,630.60
+Total Debit Amount:     9,308.66
+Closing Balance:        25,679.87
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+03/27/2018  Wire Transfer                          337.93                  6,177.52
+07/25/2023  NSF Fee Reversal                       754.64                  5,422.88
+07/02/2020  POS Purchase                                       538.13      5,961.01
+10/28/2021  ACH Credit                           2,598.04                  3,362.97
+02/04/2019  Bill Payment - Electricity                       2,427.17      5,790.14
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: LJSAUSSY

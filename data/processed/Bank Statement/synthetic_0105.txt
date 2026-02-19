@@ -1,0 +1,21 @@
+First National Bank
+4682 River Rd
+Portland, OR 97201
+
+Account Statement for Anthony Lee
+Account No: 6498373543
+From October 21, 2024 To July 05, 2021
+
+08/03/2021  POS Purchase                          305.19 DR      10,777.09
+03/07/2022  Restaurant                          1,633.04 DR       9,144.05
+05/01/2020  POS Purchase                          369.01 CR       9,513.06
+11/20/2019  Online Transfer                     1,636.82 CR      11,149.88
+08/21/2021  Check Deposit                         858.53 DR      10,291.35
+01/20/2018  Subscription - Netflix                283.21 CR      10,574.56
+01/25/2024  Savings Transfer                      228.97 DR      10,345.59
+02/09/2019  Savings Transfer                      273.04 CR      10,618.63
+01/26/2018  Rent Payment                        1,586.88 CR      12,205.51
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@firstnationalbank.com

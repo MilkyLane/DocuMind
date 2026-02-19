@@ -1,0 +1,32 @@
+CITY WATER AUTHORITY
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 76.61
+Payment Received:           $ -375.99
+Current Charges:            $ 187.73
+Taxes & Surcharges:         $ 17.37
+Amount Due:                 $ 363.01
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $363.01 must be received by 05/06/2023.
+
+ACCOUNT INFORMATION
+Account Number:    565880434165
+Customer Name:     Mark Williams
+Service Address:   6369 Lake Rd, Nashville, TN 37201
+Billing Period:    08/24/2019 to 04/24/2019
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 88.55  $ 20.51   $ 2.03   $ 64.95
+Other Charges   $ 12.37   -           $ 0.78    $ 2.67
+Total           $ 140.42  $ 70.82  $ 9.95   $ 363.01
+
+USAGE HISTORY (therms)
+Current Period:  1307
+Last Period:     63
+Same Period Last Year: 1615
+
+Pay by phone: 1-800-977-9871
+Pay online:   citywaterauthority.com

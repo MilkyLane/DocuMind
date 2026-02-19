@@ -1,0 +1,32 @@
+Metro Power Co.
+
+Utility Billing
+1757 Church St • Memphis, TN 38101 • Phone: (794) 870-8355
+GAS • SEWER • REFUSE
+
+Bill To: David Taylor
+1757 Church St, Memphis, TN 38101
+
+Account Number:       5929622292
+Route:                39
+Cycle:                9
+Bill Date:            12/15/2018
+Due Date:             07/12/2023
+
+                                            Total Current Charges   $ 94.58
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 290.71
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+08/27/2019 - 06/22/2022  32   4688623924   58170         58681           271 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   264 therms    $ 34.55   $ 91.48
+SEWER               125 therms    $ 42.40    $ 9.13
+REFUSE              --                  $ 36.87    $ 33.58
+
+Total Current Charges   $ 225.77
+Balance Forward         $ 0.00
+Total Amount Due        $ 235.40
+
+PAY ONLINE AT: metropowerco..gov

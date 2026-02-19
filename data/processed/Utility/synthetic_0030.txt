@@ -1,0 +1,32 @@
+Lakeside Water & Sewer
+
+Utility Billing
+2571 Broad St • Springfield, IL 62701 • Phone: (590) 908-6482
+WATER & SEWER • SEWER • REFUSE
+
+Bill To: George Thompson
+2571 Broad St, Springfield, IL 62701
+
+Account Number:       5182037788
+Route:                18
+Cycle:                6
+Bill Date:            10/06/2020
+Due Date:             06/10/2021
+
+                                            Total Current Charges   $ 55.52
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 213.16
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+05/09/2023 - 11/20/2024  27   1925462914   93916         86060           1178 CCF
+
+Service             Consumption   Charge       Total
+Water & Sewer-SINGLE UNIT   195 CCF    $ 68.14   $ 48.11
+SEWER               235 CCF    $ 5.82    $ 18.90
+REFUSE              --                  $ 38.29    $ 16.96
+
+Total Current Charges   $ 200.89
+Balance Forward         $ 0.00
+Total Amount Due        $ 80.32
+
+PAY ONLINE AT: lakesidewaterandsewer.gov

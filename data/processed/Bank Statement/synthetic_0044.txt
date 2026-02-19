@@ -1,0 +1,27 @@
+Atlantic Financial Bank
+861 Cedar Ln
+Nashville, TN 37201
+
+Account Statement for Robert White
+Account No: 7982708086978292
+From December 27, 2019 To February 13, 2023
+
+07/20/2023  Bank Fee                            1,763.97 DR       7,525.36
+06/10/2021  NSF Fee Reversal                      801.76 DR       6,723.60
+12/24/2022  Mortgage Payment                      831.36 DR       5,892.24
+06/23/2023  Rent Payment                        1,100.13 CR       6,992.37
+10/23/2020  Cash Withdrawal                       409.77 CR       7,402.14
+12/21/2019  Amazon Purchase                     1,348.02 DR       6,054.12
+12/04/2024  Insurance Premium                   1,277.39 CR       7,331.50
+11/23/2021  Cash Withdrawal                     1,169.78 CR       8,501.29
+05/28/2021  NSF Fee Reversal                    1,684.36 CR      10,185.65
+07/05/2018  Cash Withdrawal                       221.88 DR       9,963.78
+03/10/2023  Mobile Deposit                        541.29 DR       9,422.49
+05/07/2024  Rent Payment                          133.45 DR       9,289.05
+02/20/2024  Cash Withdrawal                     1,629.91 DR       7,659.13
+12/21/2022  Subscription - Netflix              1,731.03 CR       9,390.17
+12/10/2023  Cash Withdrawal                     1,570.77 DR       7,819.40
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@atlanticfinancialbank.com

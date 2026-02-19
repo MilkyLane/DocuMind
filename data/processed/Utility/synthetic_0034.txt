@@ -1,0 +1,31 @@
+Electric & Gas Bill
+
+Tri-County Electric
+Account Number: 450541566765
+Customer Number: 9284511544
+Service Address: 7856 Oak Ave, Denver CO 80201
+Tax Invoice  Issue Date: 03/16/2023
+
+This account is based on an estimated meter reading
+Electric & Gas account summary: 05/26/2018 to 12/14/2018
+
+Plan: Time-of-Use
+Opening balance:                $ 184.46
+Payment received - thank you    $ -130.48Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 270.21
+Total amount due                $ 324.93
+
+Due Date: 08/12/2024
+Total amount if paid after due date: $ 72.94
+
+Bill To:
+Donna Garcia
+7856 Oak Ave
+Denver, CO 80201
+
+Electric & Gas Usage Summary
+Meter Reading:  97973 kWh / therms
+Previous:       63242 kWh / therms
+Usage:          844 kWh / therms
+Days in period: 32

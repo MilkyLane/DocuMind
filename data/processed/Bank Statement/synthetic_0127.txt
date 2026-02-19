@@ -1,0 +1,24 @@
+Summit Bank
+8494 Main St
+Baltimore, MD 21201
+
+Account Statement for Andrew White
+Account No: 73149764613684
+From August 10, 2023 To September 17, 2019
+
+06/25/2022  Refund Credit                         793.35 DR           0.00
+01/13/2024  ACH Credit                            455.88 DR           0.00
+02/21/2020  Car Loan Payment                      958.84 DR           0.00
+02/04/2022  POS Purchase                        1,263.53 DR           0.00
+10/08/2018  Bill Payment - Electricity          1,884.77 DR           0.00
+09/24/2024  Utility Bill                        1,677.76 DR           0.00
+08/09/2021  Mortgage Payment                      127.28 CR         127.28
+01/11/2023  Utility Bill                        1,670.30 CR       1,797.58
+05/23/2019  Bank Fee                            1,744.14 CR       3,541.72
+08/11/2023  ACH Credit                            982.57 CR       4,524.29
+09/18/2024  Interest Credit                     1,420.65 DR       3,103.64
+02/14/2023  Online Transfer                       172.05 CR       3,275.69
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@summitbank.com

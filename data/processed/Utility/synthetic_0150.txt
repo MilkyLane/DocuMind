@@ -1,0 +1,32 @@
+NATIONAL GRID
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 116.69
+Payment Received:           $ -351.68
+Current Charges:            $ 282.46
+Taxes & Surcharges:         $ 15.08
+Amount Due:                 $ 222.96
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $222.96 must be received by 03/14/2024.
+
+ACCOUNT INFORMATION
+Account Number:    9421529108677133
+Customer Name:     Mark Lewis
+Service Address:   2864 2nd St, Springfield, IL 62701
+Billing Period:    10/07/2024 to 05/24/2023
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 27.04  $ 18.53   $ 7.92   $ 25.18
+Other Charges   $ 19.52   -           $ 1.18    $ 11.27
+Total           $ 59.80  $ 62.46  $ 9.71   $ 222.96
+
+USAGE HISTORY (therms)
+Current Period:  225
+Last Period:     71
+Same Period Last Year: 1010
+
+Pay by phone: 1-800-236-6296
+Pay online:   nationalgrid.com

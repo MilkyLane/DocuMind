@@ -1,0 +1,30 @@
+City Water Authority
+WATER BILL
+
+Bill Date:      07/06/2023
+Bill Month:     JAN-2018
+
+Customer Name:  Michelle Martinez
+Address:        2259 Broad St
+                Columbus, OH 43215
+Account No:     7477332945
+Meter No:       15772459
+
+METER READINGS
+Current Reading:   79706
+Previous Reading:  71949
+Units Consumed:    7757 CCF
+Derived Load:      6.85 kW
+
+CHARGES
+Fixed Charges:             $ 24.81
+Variable Charges:          $ 111.22
+Fuel Adjustment:           $ 6.61
+State Tax:                 $ 9.44
+Local Tax:                 $ 6.59
+-------------------------------------------
+Total Current Charges:     $ 177.95
+Amount Upto 30 days:       $ 292.95
+Amount Upto 60 days:       $ 148.23
+
+Due Date:       11/11/2024

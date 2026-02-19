@@ -1,0 +1,32 @@
+WESTERN POWER SERVICES
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 279.93
+Payment Received:           $ -80.73
+Current Charges:            $ 158.48
+Taxes & Surcharges:         $ 38.62
+Amount Due:                 $ 264.36
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $264.36 must be received by 11/22/2019.
+
+ACCOUNT INFORMATION
+Account Number:    43840460843256
+Customer Name:     Daniel Smith
+Service Address:   5781 1st Ave, Nashville, TN 37201
+Billing Period:    04/19/2019 to 07/10/2022
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 39.64  $ 45.67   $ 2.07   $ 44.94
+Other Charges   $ 10.83   -           $ 4.00    $ 21.56
+Total           $ 67.08  $ 73.46  $ 7.86   $ 264.36
+
+USAGE HISTORY (CCF)
+Current Period:  326
+Last Period:     930
+Same Period Last Year: 1911
+
+Pay by phone: 1-800-888-3378
+Pay online:   westernpowerservices.com

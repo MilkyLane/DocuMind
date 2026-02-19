@@ -1,0 +1,32 @@
+UNION GAS
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 121.95
+Payment Received:           $ -340.06
+Current Charges:            $ 312.38
+Taxes & Surcharges:         $ 30.95
+Amount Due:                 $ 202.33
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $202.33 must be received by 02/24/2023.
+
+ACCOUNT INFORMATION
+Account Number:    1288013361
+Customer Name:     Michael Taylor
+Service Address:   3254 Market St, Charlotte, NC 28201
+Billing Period:    01/15/2023 to 06/02/2018
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 16.59  $ 18.35   $ 2.52   $ 32.68
+Other Charges   $ 16.43   -           $ 4.55    $ 10.19
+Total           $ 84.14  $ 46.40  $ 4.75   $ 202.33
+
+USAGE HISTORY (therms)
+Current Period:  847
+Last Period:     1428
+Same Period Last Year: 292
+
+Pay by phone: 1-800-647-1096
+Pay online:   uniongas.com

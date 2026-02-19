@@ -1,0 +1,31 @@
+Gas Bill
+
+Pacific Gas & Electric
+Account Number: 5243728051292766
+Customer Number: 1027674783
+Service Address: 2960 Elm St, Boston MA 02101
+Tax Invoice  Issue Date: 04/22/2021
+
+This account is based on an estimated meter reading
+Gas account summary: 10/24/2024 to 06/02/2023
+
+Plan: Budget Billing
+Opening balance:                $ 3.56
+Payment received - thank you    $ -278.17Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 201.58
+Total amount due                $ 284.26
+
+Due Date: 12/21/2019
+Total amount if paid after due date: $ 434.71
+
+Bill To:
+Laura Robinson
+2960 Elm St
+Boston, MA 02101
+
+Gas Usage Summary
+Meter Reading:  99505 therms
+Previous:       15376 therms
+Usage:          299 therms
+Days in period: 32

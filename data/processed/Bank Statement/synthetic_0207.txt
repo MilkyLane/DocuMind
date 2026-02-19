@@ -1,0 +1,29 @@
+Apex Bank
+
+Monthly Account Statement
+April 2022
+
+Account Holder: Nancy Williams
+Address:        9070 Elm St, Indianapolis, IN - 46201
+Account Number: XXXX XXXX 4384
+IFSC Code:      BKEO0316708
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/05/2023  | 03/02/2020  | Online Transfer                    |            |   2,098.32 |    10,379.81
+05/21/2019  | 12/05/2023  | Amazon Purchase                    |   1,223.31 |            |     9,156.50
+06/19/2022  | 12/07/2023  | Direct Deposit - Payroll           |            |     174.44 |     9,330.93
+12/01/2019  | 01/21/2019  | ATM Withdrawal                     |            |   1,841.94 |    11,172.88
+03/08/2024  | 03/05/2023  | Gas Station                        |   1,788.84 |            |     9,384.03
+03/23/2018  | 04/12/2023  | Wire Transfer                      |   2,127.71 |            |     7,256.32
+03/17/2018  | 07/11/2018  | Grocery Store                      |   1,944.35 |            |     5,311.98
+11/27/2018  | 06/23/2024  | Credit Card Payment                |     500.63 |            |     4,811.34
+08/15/2020  | 07/19/2018  | Credit Card Payment                |   2,072.16 |            |     2,739.18
+02/22/2018  | 11/06/2022  | Online Transfer                    |            |     338.73 |     3,077.91
+-----------------------------------------------------------------------------------------------
+
+Generated on July 18, 2020. For disputes call 1853-961-7443.

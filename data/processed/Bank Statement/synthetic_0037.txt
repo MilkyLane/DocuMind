@@ -1,0 +1,26 @@
+Heritage Bank
+
+Monthly Account Statement
+May 2024
+
+Account Holder: Anthony Clark
+Address:        9365 College Ave, Columbus, OH - 43215
+Account Number: XXXX XXXX 3103
+IFSC Code:      EHCV0467741
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+07/06/2021  | 08/13/2020  | Rent Payment                       |   1,101.17 |            |     9,844.83
+10/21/2024  | 11/08/2019  | Gas Station                        |   2,073.73 |            |     7,771.10
+05/01/2020  | 05/04/2018  | Car Loan Payment                   |   2,115.95 |            |     5,655.15
+12/03/2022  | 02/11/2022  | Credit Card Payment                |     944.89 |            |     4,710.26
+07/21/2019  | 10/14/2019  | ATM Withdrawal                     |            |   1,764.22 |     6,474.48
+04/14/2023  | 09/24/2023  | Rent Payment                       |     521.82 |            |     5,952.66
+04/04/2018  | 07/19/2022  | Restaurant                         |     710.99 |            |     5,241.66
+-----------------------------------------------------------------------------------------------
+
+Generated on July 06, 2020. For disputes call 1848-478-4056.

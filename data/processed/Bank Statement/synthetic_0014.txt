@@ -1,0 +1,36 @@
+Summit Bank
+Kevin Thomas
+7029 Oak Ave
+Baltimore, MD 21201
+
+Account Statement
+
+Account Number:    51983273158514
+Account Type:      Checking
+Statement Period:  10/08/2024 to 07/28/2022
+Currency:          USD
+
+Opening Balance:   $ 19,503.66
+Closing Balance:   $ 16,459.32
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+05/01/2019  Mobile Deposit                                   2,490.09      3,988.91
+06/12/2018  POS Purchase                                       933.86      4,922.77
+07/03/2019  Interest Credit                                  1,703.30      6,626.07
+12/17/2019  Subscription - Netflix                             101.66      6,727.74
+06/10/2023  Car Loan Payment                     1,029.28                  5,698.46
+02/02/2019  POS Purchase                                     1,707.10      7,405.57
+02/09/2021  Cash Withdrawal                                    158.79      7,564.36
+07/09/2019  Bank Fee                             1,825.16                  5,739.20
+02/10/2023  Cash Withdrawal                                  1,042.07      6,781.26
+05/02/2019  Subscription - Netflix                           1,585.53      8,366.80
+04/10/2019  Bank Fee                                           173.80      8,540.60
+06/04/2018  Restaurant                             774.00                  7,766.59
+07/18/2023  ACH Credit                                         535.33      8,301.92
+06/03/2021  Interest Credit                                  2,501.73     10,803.65
+-----------------------------------------------------------
+
+For questions call 1-800-546-1307 or visit summitbank.com

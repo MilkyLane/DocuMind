@@ -1,0 +1,31 @@
+Apex Bank
+
+Monthly Account Statement
+March 2022
+
+Account Holder: Robert Anderson
+Address:        4762 Church St, Seattle, WA - 98101
+Account Number: XXXX XXXX 7046
+IFSC Code:      EDQS0656766
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+11/04/2019  | 03/16/2020  | ACH Credit                         |            |     225.98 |    12,717.33
+08/25/2020  | 06/10/2022  | Interest Credit                    |     965.10 |            |    11,752.23
+06/23/2019  | 01/22/2018  | Gas Station                        |            |     661.27 |    12,413.50
+09/23/2024  | 05/23/2018  | Savings Transfer                   |   1,019.49 |            |    11,394.01
+10/08/2019  | 03/16/2019  | Gas Station                        |            |     744.64 |    12,138.65
+07/23/2022  | 08/25/2022  | NSF Fee Reversal                   |            |   1,518.29 |    13,656.94
+04/22/2024  | 10/28/2024  | Online Transfer                    |            |     553.84 |    14,210.79
+06/03/2022  | 02/02/2024  | Rent Payment                       |            |   1,325.15 |    15,535.94
+09/05/2019  | 06/28/2022  | Gas Station                        |            |     513.37 |    16,049.31
+10/16/2018  | 09/15/2024  | ATM Withdrawal                     |     521.45 |            |    15,527.86
+08/19/2018  | 09/15/2023  | NSF Fee Reversal                   |   1,287.99 |            |    14,239.87
+05/27/2018  | 12/07/2022  | Online Transfer                    |      64.21 |            |    14,175.66
+-----------------------------------------------------------------------------------------------
+
+Generated on March 21, 2024. For disputes call 1844-221-3924.

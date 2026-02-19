@@ -1,0 +1,33 @@
+United Community Bank
+
+Monthly Account Statement
+August 2023
+
+Account Holder: Robert Martinez
+Address:        5618 Maple Dr, Denver, CO - 80201
+Account Number: XXXX XXXX 6734
+IFSC Code:      WYJS0409003
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+03/19/2021  | 04/22/2024  | Interest Credit                    |   1,761.30 |            |     1,357.42
+11/18/2024  | 10/28/2024  | Grocery Store                      |            |     677.16 |     2,034.58
+01/17/2019  | 06/15/2019  | ACH Credit                         |            |   1,819.27 |     3,853.85
+05/28/2021  | 07/11/2024  | Online Transfer                    |   1,716.41 |            |     2,137.44
+05/27/2020  | 11/06/2020  | Cash Withdrawal                    |            |   2,116.46 |     4,253.89
+02/05/2019  | 01/08/2024  | Mortgage Payment                   |            |   1,020.61 |     5,274.50
+07/14/2023  | 01/07/2019  | Mobile Deposit                     |   1,403.96 |            |     3,870.53
+05/22/2022  | 03/21/2024  | ATM Withdrawal                     |     653.41 |            |     3,217.13
+01/02/2024  | 02/11/2022  | Mortgage Payment                   |            |   1,219.75 |     4,436.87
+07/12/2023  | 11/03/2021  | Interest Credit                    |            |   2,252.43 |     6,689.30
+10/24/2022  | 02/17/2023  | Utility Bill                       |            |     597.74 |     7,287.05
+05/16/2018  | 04/20/2018  | Bank Fee                           |            |   2,329.57 |     9,616.62
+10/24/2021  | 12/24/2019  | Grocery Store                      |            |     829.92 |    10,446.54
+04/09/2021  | 07/09/2024  | Utility Bill                       |     275.97 |            |    10,170.58
+-----------------------------------------------------------------------------------------------
+
+Generated on July 10, 2023. For disputes call 1889-471-2999.

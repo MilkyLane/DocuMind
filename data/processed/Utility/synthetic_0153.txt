@@ -1,0 +1,31 @@
+Electric Bill
+
+Clearwater Utilities
+Account Number: 20177749050975
+Customer Number: 1642361032
+Service Address: 6220 Cedar Ln, Boston MA 02101
+Tax Invoice  Issue Date: 12/24/2024
+
+This account is based on an estimated meter reading
+Electric account summary: 11/10/2020 to 01/24/2018
+
+Plan: Budget Billing
+Opening balance:                $ 220.77
+Payment received - thank you    $ -276.51Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 365.34
+Total amount due                $ 257.26
+
+Due Date: 10/05/2019
+Total amount if paid after due date: $ 193.62
+
+Bill To:
+Laura Jackson
+6220 Cedar Ln
+Boston, MA 02101
+
+Electric Usage Summary
+Meter Reading:  22597 kWh
+Previous:       58163 kWh
+Usage:          1149 kWh
+Days in period: 29

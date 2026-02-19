@@ -1,0 +1,30 @@
+Southern Electric
+ELECTRIC BILL
+
+Bill Date:      05/01/2022
+Bill Month:     AUG-2024
+
+Customer Name:  Carol Lewis
+Address:        4197 Hill St
+                Seattle, WA 98101
+Account No:     671369594406
+Meter No:       39533942
+
+METER READINGS
+Current Reading:   89741
+Previous Reading:  88835
+Units Consumed:    906 kWh
+Derived Load:      4.28 kW
+
+CHARGES
+Fixed Charges:             $ 8.29
+Variable Charges:          $ 182.83
+Fuel Adjustment:           $ 5.57
+State Tax:                 $ 9.48
+Local Tax:                 $ 2.81
+-------------------------------------------
+Total Current Charges:     $ 242.36
+Amount Upto 30 days:       $ 266.64
+Amount Upto 60 days:       $ 142.93
+
+Due Date:       11/25/2023

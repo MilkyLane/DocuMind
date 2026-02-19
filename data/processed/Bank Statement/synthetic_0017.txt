@@ -1,0 +1,33 @@
+Atlantic Financial Bank
+Kevin Thomas
+3991 Hill St
+Seattle, WA 98101
+
+Account Statement
+
+Account Number:    3834735977468862
+Account Type:      Checking
+Statement Period:  04/26/2022 to 03/28/2020
+Currency:          USD
+
+Opening Balance:   $ 1,517.51
+Closing Balance:   $ 9,871.52
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+02/10/2018  Bank Fee                             2,539.22                  8,997.06
+09/05/2024  Grocery Store                        1,353.46                  7,643.59
+08/12/2018  Grocery Store                        2,732.41                  4,911.18
+04/13/2018  Insurance Premium                    1,511.00                  3,400.18
+02/27/2023  Savings Transfer                       962.87                  2,437.31
+01/10/2024  Restaurant                             446.69                  1,990.63
+12/16/2021  Credit Card Payment                                424.99      2,415.62
+05/07/2024  Bill Payment - Electricity             246.89                  2,168.73
+09/14/2018  Bank Fee                                         2,184.43      4,353.16
+01/08/2021  Savings Transfer                       910.44                  3,442.72
+02/27/2021  Credit Card Payment                              1,376.77      4,819.49
+-----------------------------------------------------------
+
+For questions call 1-800-747-9443 or visit atlanticfinancialbank.com

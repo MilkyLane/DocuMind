@@ -1,0 +1,34 @@
+Heritage Bank
+William Moore
+1991 Church St
+Columbus, OH 43215
+
+Account Statement
+
+Account Number:    49353487401640
+Account Type:      Current Account
+Statement Period:  01/11/2024 to 03/21/2020
+Currency:          USD
+
+Opening Balance:   $ 3,650.85
+Closing Balance:   $ 9,115.79
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+12/05/2022  ATM Withdrawal                       2,835.70                  8,821.53
+03/14/2019  ATM Withdrawal                                   1,751.70     10,573.23
+01/12/2019  Cash Withdrawal                      2,697.95                  7,875.28
+09/28/2021  Credit Card Payment                    317.35                  7,557.92
+04/28/2019  NSF Fee Reversal                                 2,778.03     10,335.96
+01/06/2023  Car Loan Payment                                 2,645.43     12,981.39
+11/28/2023  NSF Fee Reversal                                 1,241.02     14,222.41
+12/04/2021  ATM Withdrawal                         486.00                 13,736.41
+08/12/2020  NSF Fee Reversal                                   675.08     14,411.49
+11/07/2021  Car Loan Payment                                   676.54     15,088.03
+05/12/2023  Amazon Purchase                        217.57                 14,870.46
+09/11/2018  Check Deposit                        2,943.64                 11,926.83
+-----------------------------------------------------------
+
+For questions call 1-800-282-5349 or visit heritagebank.com

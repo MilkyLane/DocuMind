@@ -1,0 +1,26 @@
+Apex Bank
+
+Monthly Account Statement
+July 2018
+
+Account Holder: Michelle Martinez
+Address:        6993 Pine St, Nashville, TN - 37201
+Account Number: XXXX XXXX 5721
+IFSC Code:      JQZK0093299
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/24/2022  | 06/10/2020  | Bank Fee                           |            |     869.79 |    10,524.86
+01/05/2022  | 10/06/2022  | Insurance Premium                  |   1,689.51 |            |     8,835.36
+01/25/2020  | 09/24/2021  | ACH Credit                         |            |   1,044.33 |     9,879.68
+07/20/2024  | 02/04/2021  | Wire Transfer                      |   1,348.61 |            |     8,531.08
+05/06/2024  | 03/25/2024  | Interest Credit                    |     285.48 |            |     8,245.60
+06/25/2019  | 07/20/2020  | Car Loan Payment                   |            |   1,379.68 |     9,625.28
+11/22/2023  | 11/11/2022  | Rent Payment                       |            |   1,579.39 |    11,204.66
+-----------------------------------------------------------------------------------------------
+
+Generated on October 19, 2023. For disputes call 1852-123-6325.

@@ -1,0 +1,32 @@
+MUNICIPAL GAS AUTHORITY
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 104.00
+Payment Received:           $ -177.31
+Current Charges:            $ 293.94
+Taxes & Surcharges:         $ 9.30
+Amount Due:                 $ 120.66
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $120.66 must be received by 07/25/2024.
+
+ACCOUNT INFORMATION
+Account Number:    2135247871
+Customer Name:     Laura Brown
+Service Address:   1769 Oak Ave, Memphis, TN 38101
+Billing Period:    04/27/2024 to 08/11/2020
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 55.45  $ 11.39   $ 3.72   $ 155.87
+Other Charges   $ 7.21   -           $ 3.32    $ 3.79
+Total           $ 120.42  $ 47.95  $ 3.42   $ 120.66
+
+USAGE HISTORY (kWh)
+Current Period:  1692
+Last Period:     928
+Same Period Last Year: 896
+
+Pay by phone: 1-800-519-8516
+Pay online:   municipalgasauthority.com

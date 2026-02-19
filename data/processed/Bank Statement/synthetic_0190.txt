@@ -1,0 +1,32 @@
+Liberty Bank
+
+Monthly Account Statement
+June 2018
+
+Account Holder: Joshua Miller
+Address:        3979 Church St, Nashville, TN - 37201
+Account Number: XXXX XXXX 5561
+IFSC Code:      VTAY0995297
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+04/28/2023  | 10/28/2018  | Direct Deposit - Payroll           |            |     415.88 |     1,878.80
+03/25/2023  | 10/24/2020  | Cash Withdrawal                    |            |   1,610.85 |     3,489.65
+08/09/2023  | 12/17/2019  | ATM Withdrawal                     |     763.95 |            |     2,725.71
+01/19/2021  | 08/03/2019  | Cash Withdrawal                    |            |     498.87 |     3,224.57
+02/05/2021  | 01/21/2019  | Interest Credit                    |            |     241.39 |     3,465.97
+02/28/2023  | 12/15/2021  | Gas Station                        |     526.04 |            |     2,939.93
+02/20/2024  | 12/22/2018  | Check Deposit                      |            |     357.69 |     3,297.62
+03/06/2018  | 02/20/2023  | ATM Withdrawal                     |   1,012.71 |            |     2,284.90
+11/24/2022  | 08/08/2019  | Credit Card Payment                |   1,810.27 |            |       474.63
+05/19/2019  | 07/13/2020  | Wire Transfer                      |            |     543.08 |     1,017.72
+08/21/2023  | 05/25/2022  | Check Deposit                      |            |   1,654.24 |     2,671.96
+03/04/2018  | 05/01/2024  | Rent Payment                       |   1,964.65 |            |       707.30
+03/11/2024  | 01/19/2023  | Car Loan Payment                   |            |   1,567.12 |     2,274.42
+-----------------------------------------------------------------------------------------------
+
+Generated on April 15, 2018. For disputes call 1818-382-4125.

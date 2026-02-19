@@ -1,0 +1,35 @@
+CORNERSTONE BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   James Davis
+Customer ID:     285715
+Address:         6236 Maple Dr, Seattle, WA 98101
+Account Number:  432406424295
+Account Type:    Savings
+Statement Date:  August 18, 2019
+Period Covered:  07/08/2024 to 04/09/2019
+
+Opening Balance:        48,984.63
+Total Credit Amount:    8,150.95
+Total Debit Amount:     9,072.17
+Closing Balance:        3,226.16
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+08/27/2023  Cash Withdrawal                      1,929.06                 10,066.17
+10/13/2019  Rent Payment                                       119.83     10,185.99
+07/12/2023  NSF Fee Reversal                                 2,981.33     13,167.32
+06/23/2022  Rent Payment                                       873.18     14,040.50
+02/17/2024  Wire Transfer                                    2,384.94     16,425.45
+01/04/2022  Cash Withdrawal                      1,408.39                 15,017.06
+08/19/2020  Insurance Premium                                1,430.88     16,447.93
+01/11/2023  Check Deposit                                    1,978.33     18,426.27
+01/06/2021  Restaurant                                       2,609.29     21,035.56
+02/06/2020  Mortgage Payment                     1,947.17                 19,088.40
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: LQPSUS0R

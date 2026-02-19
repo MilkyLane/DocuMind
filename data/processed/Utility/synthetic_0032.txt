@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 371.09
+Payment Received:           $ -215.36
+Current Charges:            $ 297.64
+Taxes & Surcharges:         $ 31.56
+Amount Due:                 $ 214.19
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $214.19 must be received by 10/01/2018.
+
+ACCOUNT INFORMATION
+Account Number:    5305152204
+Customer Name:     Donna Thompson
+Service Address:   6226 2nd St, Austin, TX 73301
+Billing Period:    05/07/2024 to 03/18/2023
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 64.80  $ 36.74   $ 7.76   $ 62.78
+Other Charges   $ 2.44   -           $ 1.19    $ 15.97
+Total           $ 104.74  $ 15.65  $ 12.55   $ 214.19
+
+USAGE HISTORY (kWh)
+Current Period:  1073
+Last Period:     1272
+Same Period Last Year: 1147
+
+Pay by phone: 1-800-116-9443
+Pay online:   pacificgasandelectric.com

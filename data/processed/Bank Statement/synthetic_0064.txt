@@ -1,0 +1,31 @@
+SUMMIT BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   James Jones
+Customer ID:     675547
+Address:         2544 Church St, Seattle, WA 98101
+Account Number:  9973354946519098
+Account Type:    Checking
+Statement Date:  December 20, 2021
+Period Covered:  07/28/2019 to 05/02/2020
+
+Opening Balance:        48,427.08
+Total Credit Amount:    524.88
+Total Debit Amount:     11,420.59
+Closing Balance:        29,371.54
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+12/19/2021  Savings Transfer                                   713.37     18,077.08
+07/14/2022  Wire Transfer                        1,154.54                 16,922.54
+04/18/2021  Insurance Premium                                1,429.87     18,352.40
+11/05/2019  Direct Deposit - Payroll                           471.26     18,823.66
+12/16/2023  Grocery Store                           56.97                 18,766.70
+03/21/2024  Grocery Store                                      415.97     19,182.67
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: ENOLUSMG

@@ -1,0 +1,25 @@
+Heritage Bank
+3423 Maple Dr
+Austin, TX 73301
+
+Account Statement for Kevin Wilson
+Account No: 9757366096569998
+From September 21, 2023 To January 17, 2018
+
+04/17/2022  Subscription - Netflix              1,756.78 CR       8,881.84
+07/17/2024  Savings Transfer                       88.11 CR       8,969.95
+08/13/2020  Bank Fee                              387.80 CR       9,357.75
+07/10/2022  ATM Withdrawal                        928.08 CR      10,285.83
+08/27/2023  Gas Station                         1,808.31 CR      12,094.15
+03/25/2022  Refund Credit                       1,006.31 DR      11,087.84
+06/15/2018  POS Purchase                          792.20 CR      11,880.04
+04/15/2018  Mobile Deposit                      1,794.27 DR      10,085.77
+12/26/2019  Refund Credit                       1,300.67 DR       8,785.10
+12/15/2023  Insurance Premium                     191.47 CR       8,976.57
+12/26/2022  Credit Card Payment                 1,417.49 DR       7,559.09
+07/02/2024  POS Purchase                          763.57 CR       8,322.66
+11/28/2019  POS Purchase                        1,135.33 CR       9,457.99
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@heritagebank.com

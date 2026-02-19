@@ -1,0 +1,28 @@
+Liberty Bank
+
+Monthly Account Statement
+January 2023
+
+Account Holder: Mark Rodriguez
+Address:        9276 Main St, Seattle, WA - 98101
+Account Number: XXXX XXXX 1507
+IFSC Code:      NPCA0193928
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: GBP
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+06/01/2021  | 04/11/2018  | Utility Bill                       |            |   1,335.70 |     2,516.69
+04/23/2021  | 02/08/2019  | POS Purchase                       |            |   2,475.76 |     4,992.45
+11/04/2018  | 08/14/2024  | Direct Deposit - Payroll           |     166.48 |            |     4,825.97
+06/27/2020  | 04/04/2021  | ACH Credit                         |            |   1,569.48 |     6,395.45
+06/17/2024  | 04/03/2024  | Credit Card Payment                |            |   2,082.97 |     8,478.41
+11/15/2022  | 02/03/2018  | ATM Withdrawal                     |            |   1,912.61 |    10,391.02
+12/03/2024  | 03/02/2024  | Gas Station                        |   2,226.31 |            |     8,164.71
+07/03/2018  | 11/02/2022  | ATM Withdrawal                     |   1,530.74 |            |     6,633.97
+02/20/2024  | 07/08/2024  | Credit Card Payment                |     959.82 |            |     5,674.15
+-----------------------------------------------------------------------------------------------
+
+Generated on July 16, 2023. For disputes call 1879-555-4046.

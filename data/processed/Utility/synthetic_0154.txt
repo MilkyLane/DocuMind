@@ -1,0 +1,32 @@
+UNION GAS
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 390.65
+Payment Received:           $ -286.75
+Current Charges:            $ 240.76
+Taxes & Surcharges:         $ 29.98
+Amount Due:                 $ 375.73
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $375.73 must be received by 09/21/2023.
+
+ACCOUNT INFORMATION
+Account Number:    6592661085
+Customer Name:     Kenneth Martin
+Service Address:   4498 Sunset Blvd, Boston, MA 02101
+Billing Period:    02/10/2021 to 07/03/2024
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric & Gas Service   $ 52.99  $ 16.15   $ 1.28   $ 182.52
+Other Charges   $ 16.83   -           $ 2.62    $ 7.39
+Total           $ 35.73  $ 16.89  $ 0.68   $ 375.73
+
+USAGE HISTORY (kWh / therms)
+Current Period:  270
+Last Period:     1095
+Same Period Last Year: 920
+
+Pay by phone: 1-800-522-2548
+Pay online:   uniongas.com

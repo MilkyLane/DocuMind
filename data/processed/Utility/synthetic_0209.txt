@@ -1,0 +1,32 @@
+NATIONAL GRID
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 71.84
+Payment Received:           $ -332.99
+Current Charges:            $ 284.76
+Taxes & Surcharges:         $ 39.25
+Amount Due:                 $ 124.70
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $124.70 must be received by 04/28/2018.
+
+ACCOUNT INFORMATION
+Account Number:    3714708272359096
+Customer Name:     Donna Anderson
+Service Address:   1156 Pine St, Charlotte, NC 28201
+Billing Period:    05/09/2023 to 03/03/2019
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Water & Sewer Service   $ 16.23  $ 35.38   $ 2.98   $ 148.20
+Other Charges   $ 17.43   -           $ 2.62    $ 16.74
+Total           $ 61.13  $ 84.75  $ 1.39   $ 124.70
+
+USAGE HISTORY (CCF)
+Current Period:  1896
+Last Period:     927
+Same Period Last Year: 750
+
+Pay by phone: 1-800-871-5864
+Pay online:   nationalgrid.com

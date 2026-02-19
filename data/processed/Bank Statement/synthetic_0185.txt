@@ -1,0 +1,41 @@
+Cornerstone Bank
+Member FDIC
+
+Michelle Johnson
+7331 1st Ave
+Columbus, OH 43215
+
+Business Checking Statement
+Account Number: 386767382097
+Statement Period: 05/13/2024 through 02/20/2018
+Page 1 of 5
+
+Account Summary
+Previous Balance:    $ 9,390.64
+Deposits/Credits:    $ 28,569.30
+Withdrawals/Debits:  $ 11,203.10
+Service Charges:     $ 6.15
+Ending Balance:      $ 38,926.34
+
+Transaction Detail
+08/13/2022  Bill Payment - Electricity           1,835.19                 11,774.96
+07/17/2021  Refund Credit                                    1,728.03     13,502.99
+03/11/2022  Utility Bill                                     2,512.76     16,015.76
+01/26/2023  Rent Payment                         2,982.63                 13,033.12
+07/21/2019  Cash Withdrawal                      1,577.92                 11,455.21
+01/23/2020  Direct Deposit - Payroll                           720.07     12,175.28
+07/13/2023  Credit Card Payment                              2,604.68     14,779.96
+01/01/2023  Check Deposit                        1,375.34                 13,404.62
+03/25/2023  Car Loan Payment                     2,700.30                 10,704.32
+03/17/2021  Gas Station                                        812.28     11,516.60
+06/27/2024  Credit Card Payment                                596.36     12,112.96
+11/05/2023  Rent Payment                         1,918.52                 10,194.44
+07/27/2024  ACH Credit                                       2,541.76     12,736.21
+10/04/2020  Subscription - Netflix                             591.76     13,327.96
+11/11/2019  Rent Payment                           248.02                 13,079.94
+08/06/2020  Subscription - Netflix                           2,170.04     15,249.98
+07/19/2019  Refund Credit                        1,730.58                 13,519.40
+11/12/2018  ACH Credit                           1,593.93                 11,925.47
+
+Overdraft Protection: Enrolled
+Next Statement Date: 07/28/2022

@@ -1,0 +1,26 @@
+Atlantic Financial Bank
+
+Monthly Account Statement
+August 2018
+
+Account Holder: Kenneth Martinez
+Address:        5145 Sunset Blvd, Baltimore, MD - 21201
+Account Number: XXXX XXXX 0551
+IFSC Code:      AWKV0209184
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+11/10/2023  | 07/06/2019  | Insurance Premium                  |            |   1,317.16 |     2,829.86
+08/06/2022  | 02/15/2022  | Wire Transfer                      |     344.49 |            |     2,485.37
+03/26/2024  | 04/09/2024  | Grocery Store                      |     156.87 |            |     2,328.50
+02/28/2023  | 03/03/2020  | Online Transfer                    |   2,283.30 |            |        45.21
+06/01/2022  | 04/16/2021  | Cash Withdrawal                    |     699.14 |            |         0.00
+05/25/2018  | 11/19/2024  | ATM Withdrawal                     |            |      33.67 |        33.67
+01/13/2022  | 09/25/2020  | Restaurant                         |   1,310.61 |            |         0.00
+-----------------------------------------------------------------------------------------------
+
+Generated on June 15, 2022. For disputes call 1887-774-8785.

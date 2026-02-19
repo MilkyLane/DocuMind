@@ -1,0 +1,32 @@
+TRI-COUNTY ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 291.58
+Payment Received:           $ -221.15
+Current Charges:            $ 188.74
+Taxes & Surcharges:         $ 24.62
+Amount Due:                 $ 377.07
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $377.07 must be received by 12/09/2020.
+
+ACCOUNT INFORMATION
+Account Number:    85497334843443
+Customer Name:     Kenneth Anderson
+Service Address:   2937 Church St, Seattle, WA 98101
+Billing Period:    10/22/2022 to 07/13/2024
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 41.06  $ 62.98   $ 1.46   $ 27.57
+Other Charges   $ 19.11   -           $ 0.40    $ 23.10
+Total           $ 108.72  $ 77.26  $ 3.21   $ 377.07
+
+USAGE HISTORY (kWh)
+Current Period:  1745
+Last Period:     1153
+Same Period Last Year: 605
+
+Pay by phone: 1-800-675-5450
+Pay online:   tri-countyelectric.com

@@ -1,0 +1,30 @@
+Heritage Bank
+Laura Robinson
+3465 Washington Ave
+Boston, MA 02101
+
+Account Statement
+
+Account Number:    01249552893891
+Account Type:      Money Market
+Statement Period:  02/27/2022 to 01/17/2019
+Currency:          USD
+
+Opening Balance:   $ 14,458.33
+Closing Balance:   $ 19,303.14
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+02/07/2022  Refund Credit                                    2,921.00     21,052.55
+03/15/2023  Check Deposit                        2,097.42                 18,955.13
+07/14/2019  Amazon Purchase                      1,070.92                 17,884.21
+06/04/2021  Check Deposit                          347.41                 17,536.81
+06/23/2020  Rent Payment                                     1,492.49     19,029.30
+08/04/2021  Mortgage Payment                                   255.92     19,285.22
+11/27/2021  ACH Credit                           2,211.16                 17,074.06
+07/07/2024  Online Transfer                                    878.86     17,952.92
+-----------------------------------------------------------
+
+For questions call 1-800-795-7020 or visit heritagebank.com

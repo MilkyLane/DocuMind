@@ -1,0 +1,32 @@
+City Water Authority
+
+Utility Billing
+931 Market St • Nashville, TN 37201 • Phone: (540) 887-2465
+WATER • SEWER • REFUSE
+
+Bill To: Betty Wilson
+931 Market St, Nashville, TN 37201
+
+Account Number:       301657120826
+Route:                93
+Cycle:                10
+Bill Date:            11/16/2021
+Due Date:             11/07/2024
+
+                                            Total Current Charges   $ 92.70
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 229.45
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+01/06/2021 - 03/02/2024  31   2400499154   80672         57880           494 CCF
+
+Service             Consumption   Charge       Total
+Water-SINGLE UNIT   215 CCF    $ 39.76   $ 75.80
+SEWER               381 CCF    $ 16.58    $ 13.38
+REFUSE              --                  $ 30.78    $ 32.68
+
+Total Current Charges   $ 159.23
+Balance Forward         $ 0.00
+Total Amount Due        $ 199.03
+
+PAY ONLINE AT: citywaterauthority.gov

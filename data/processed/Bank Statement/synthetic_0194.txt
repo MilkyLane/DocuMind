@@ -1,0 +1,33 @@
+Cornerstone Bank
+Brian Smith
+8906 Hill St
+Memphis, TN 38101
+
+Account Statement
+
+Account Number:    1864482217
+Account Type:      Current Account
+Statement Period:  06/17/2022 to 12/08/2022
+Currency:          USD
+
+Opening Balance:   $ 19,665.69
+Closing Balance:   $ 19,464.12
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+01/09/2022  ATM Withdrawal                         526.00                  8,789.69
+11/03/2024  POS Purchase                           967.39                  7,822.30
+02/10/2022  Subscription - Netflix                           1,146.95      8,969.24
+02/06/2022  Restaurant                           1,947.38                  7,021.87
+03/20/2023  Grocery Store                                    1,775.39      8,797.25
+08/24/2024  Subscription - Netflix                           1,519.01     10,316.27
+08/22/2023  ATM Withdrawal                                   2,997.15     13,313.42
+04/23/2018  Mobile Deposit                       1,770.64                 11,542.78
+10/14/2018  Insurance Premium                                  274.43     11,817.21
+09/21/2019  POS Purchase                         1,488.12                 10,329.09
+12/18/2022  ACH Credit                           2,025.84                  8,303.25
+-----------------------------------------------------------
+
+For questions call 1-800-840-7183 or visit cornerstonebank.com

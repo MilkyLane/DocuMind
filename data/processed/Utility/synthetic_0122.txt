@@ -1,0 +1,30 @@
+Union Gas
+ELECTRIC & GAS BILL
+
+Bill Date:      01/11/2022
+Bill Month:     DEC-2020
+
+Customer Name:  Jessica Jones
+Address:        8724 Broad St
+                Denver, CO 80201
+Account No:     8913718949
+Meter No:       54420949
+
+METER READINGS
+Current Reading:   80751
+Previous Reading:  77615
+Units Consumed:    3136 kWh / therms
+Derived Load:      8.28 kW
+
+CHARGES
+Fixed Charges:             $ 20.61
+Variable Charges:          $ 64.49
+Fuel Adjustment:           $ 2.16
+State Tax:                 $ 11.10
+Local Tax:                 $ 8.66
+-------------------------------------------
+Total Current Charges:     $ 105.02
+Amount Upto 30 days:       $ 65.79
+Amount Upto 60 days:       $ 117.89
+
+Due Date:       01/16/2021

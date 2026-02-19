@@ -1,0 +1,23 @@
+Apex Bank
+5503 Main St
+Indianapolis, IN 46201
+
+Account Statement for Karen Lewis
+Account No: 7661830671985546
+From January 21, 2023 To February 12, 2022
+
+11/07/2019  Rent Payment                        1,535.35 DR         131.27
+04/10/2023  Subscription - Netflix                774.49 DR           0.00
+06/16/2018  Savings Transfer                    1,264.93 CR       1,264.93
+01/07/2018  Interest Credit                       387.03 DR         877.89
+07/03/2024  Rent Payment                          484.59 CR       1,362.48
+08/01/2018  Car Loan Payment                    1,004.37 CR       2,366.85
+01/13/2018  Wire Transfer                       1,577.68 DR         789.17
+08/22/2024  Rent Payment                        1,337.96 CR       2,127.13
+02/02/2023  Bill Payment - Electricity          1,162.90 DR         964.23
+10/02/2019  Refund Credit                          47.94 DR         916.30
+11/02/2020  NSF Fee Reversal                       38.59 CR         954.88
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@apexbank.com

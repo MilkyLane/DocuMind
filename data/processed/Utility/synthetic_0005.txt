@@ -1,0 +1,34 @@
+Municipal Gas Authority
+8523 River Rd, Austin, TX 73301
+Customer Service: 1-800-385-8579
+
+Electric Bill
+
+Bill To:
+Dorothy Williams
+8523 River Rd
+Austin, TX 73301
+
+Account Number:   3829973763116566
+Bill Date:        08/28/2023
+Due Date:         01/22/2023
+Service Period:   11/04/2018 to 07/24/2020
+Service Address:  8523 River Rd, Austin, TX 73301
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 161.90
+Payment Received - Thank You  $ -135.59
+Balance Forward:         $ 0.00
+Current Charges:         $ 207.01
+Taxes & Fees:            $ 8.99
+Total Amount Due:        $ 218.75
+---------------------------------------------------
+
+Electric Usage Details
+Usage this period:    1990 kWh
+Same period last year:254 kWh
+Average daily usage:  61 kWh
+
+Due Date: 01/22/2023
+Pay online at municipalgasauthority.com

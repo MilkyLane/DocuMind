@@ -1,0 +1,31 @@
+PACIFIC TRUST BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Robert Robinson
+Customer ID:     627835
+Address:         2838 Pine St, Memphis, TN 38101
+Account Number:  44518952028457
+Account Type:    Savings
+Statement Date:  February 02, 2024
+Period Covered:  07/11/2019 to 02/07/2019
+
+Opening Balance:        11,834.56
+Total Credit Amount:    6,058.30
+Total Debit Amount:     17,992.61
+Closing Balance:        18,596.14
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+03/01/2021  Insurance Premium                                  358.53      9,288.11
+08/20/2022  Bank Fee                             1,094.08                  8,194.03
+05/01/2023  Check Deposit                                      524.90      8,718.93
+03/23/2019  Mortgage Payment                     2,571.88                  6,147.05
+02/14/2023  Bank Fee                               399.35                  5,747.70
+08/25/2021  ATM Withdrawal                                     242.43      5,990.13
+-------------------------------------------------------------
+
+Branch: Central Branch
+SWIFT: PMXBUSKA

@@ -1,0 +1,34 @@
+Tri-County Electric
+9543 Church St, Charlotte, NC 28201
+Customer Service: 1-800-400-7395
+
+Water Bill
+
+Bill To:
+Emily White
+9543 Church St
+Charlotte, NC 28201
+
+Account Number:   4671795760
+Bill Date:        03/10/2023
+Due Date:         04/16/2020
+Service Period:   08/08/2022 to 04/19/2023
+Service Address:  9543 Church St, Charlotte, NC 28201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 464.78
+Payment Received - Thank You  $ -434.05
+Balance Forward:         $ 0.00
+Current Charges:         $ 300.32
+Taxes & Fees:            $ 28.87
+Total Amount Due:        $ 237.39
+---------------------------------------------------
+
+Water Usage Details
+Usage this period:    1806 CCF
+Same period last year:1478 CCF
+Average daily usage:  51 CCF
+
+Due Date: 04/16/2020
+Pay online at tri-countyelectric.com

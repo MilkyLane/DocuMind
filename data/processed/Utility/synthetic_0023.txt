@@ -1,0 +1,30 @@
+Blue Ridge Energy
+ELECTRIC & GAS BILL
+
+Bill Date:      08/12/2023
+Bill Month:     JUN-2018
+
+Customer Name:  Sandra Miller
+Address:        4310 Hill St
+                Seattle, WA 98101
+Account No:     17123685160481
+Meter No:       70985931
+
+METER READINGS
+Current Reading:   74970
+Previous Reading:  81847
+Units Consumed:    -6877 kWh / therms
+Derived Load:      2.26 kW
+
+CHARGES
+Fixed Charges:             $ 28.66
+Variable Charges:          $ 67.83
+Fuel Adjustment:           $ 7.90
+State Tax:                 $ 3.75
+Local Tax:                 $ 8.99
+-------------------------------------------
+Total Current Charges:     $ 66.63
+Amount Upto 30 days:       $ 152.48
+Amount Upto 60 days:       $ 232.79
+
+Due Date:       12/22/2020

@@ -1,0 +1,34 @@
+Pacific Gas & Electric
+3150 1st Ave, Indianapolis, IN 46201
+Customer Service: 1-800-549-3651
+
+Gas Bill
+
+Bill To:
+Joshua Lee
+3150 1st Ave
+Indianapolis, IN 46201
+
+Account Number:   1673188261
+Bill Date:        08/01/2019
+Due Date:         11/09/2019
+Service Period:   08/13/2020 to 05/12/2021
+Service Address:  3150 1st Ave, Indianapolis, IN 46201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 291.39
+Payment Received - Thank You  $ -171.27
+Balance Forward:         $ 0.00
+Current Charges:         $ 396.28
+Taxes & Fees:            $ 5.92
+Total Amount Due:        $ 312.51
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    1630 therms
+Same period last year:988 therms
+Average daily usage:  5 therms
+
+Due Date: 11/09/2019
+Pay online at pacificgasandelectric.com

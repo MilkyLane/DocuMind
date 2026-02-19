@@ -1,0 +1,34 @@
+Clearwater Utilities
+3857 Hill St, Austin, TX 73301
+Customer Service: 1-800-552-6044
+
+Electric & Gas Bill
+
+Bill To:
+Kenneth Taylor
+3857 Hill St
+Austin, TX 73301
+
+Account Number:   2282005577848728
+Bill Date:        03/19/2022
+Due Date:         08/21/2023
+Service Period:   11/19/2021 to 09/21/2023
+Service Address:  3857 Hill St, Austin, TX 73301
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 189.35
+Payment Received - Thank You  $ -206.23
+Balance Forward:         $ 0.00
+Current Charges:         $ 238.88
+Taxes & Fees:            $ 12.24
+Total Amount Due:        $ 371.88
+---------------------------------------------------
+
+Electric & Gas Usage Details
+Usage this period:    632 kWh / therms
+Same period last year:418 kWh / therms
+Average daily usage:  43 kWh / therms
+
+Due Date: 08/21/2023
+Pay online at clearwaterutilities.com

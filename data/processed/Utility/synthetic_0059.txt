@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Blue Ridge Energy
+Account Number: 82710910430068
+Customer Number: 4141832856
+Service Address: 6437 Sunset Blvd, Boston MA 02101
+Tax Invoice  Issue Date: 05/21/2023
+
+This account is based on an estimated meter reading
+Water & Sewer account summary: 12/13/2018 to 11/18/2022
+
+Plan: Budget Billing
+Opening balance:                $ 218.99
+Payment received - thank you    $ -253.94Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 60.85
+Total amount due                $ 71.04
+
+Due Date: 09/25/2021
+Total amount if paid after due date: $ 223.79
+
+Bill To:
+Andrew Jones
+6437 Sunset Blvd
+Boston, MA 02101
+
+Water & Sewer Usage Summary
+Meter Reading:  69424 CCF
+Previous:       89800 CCF
+Usage:          212 CCF
+Days in period: 30

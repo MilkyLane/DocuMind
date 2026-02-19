@@ -1,0 +1,28 @@
+Valley National Bank
+
+Monthly Account Statement
+December 2024
+
+Account Holder: Betty Miller
+Address:        9427 College Ave, Nashville, TN - 37201
+Account Number: XXXX XXXX 5749
+IFSC Code:      HADN0035954
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+06/05/2020  | 02/01/2019  | Utility Bill                       |            |   2,304.25 |     5,344.81
+10/15/2019  | 03/15/2022  | Savings Transfer                   |     620.17 |            |     4,724.64
+06/28/2019  | 04/15/2023  | Online Transfer                    |   1,513.98 |            |     3,210.67
+11/14/2024  | 09/16/2024  | Subscription - Netflix             |      90.48 |            |     3,120.18
+05/23/2022  | 02/23/2024  | Credit Card Payment                |   1,048.55 |            |     2,071.63
+01/15/2021  | 12/02/2020  | NSF Fee Reversal                   |            |   1,340.09 |     3,411.71
+01/12/2021  | 12/17/2023  | Savings Transfer                   |   2,057.57 |            |     1,354.15
+02/05/2024  | 05/25/2024  | Utility Bill                       |   1,970.68 |            |         0.00
+03/12/2021  | 11/11/2019  | ACH Credit                         |            |     288.34 |       288.34
+-----------------------------------------------------------------------------------------------
+
+Generated on October 21, 2020. For disputes call 1860-830-8206.

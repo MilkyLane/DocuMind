@@ -1,0 +1,33 @@
+Liberty Bank
+
+Monthly Account Statement
+May 2022
+
+Account Holder: Kevin Thomas
+Address:        811 Market St, Baltimore, MD - 21201
+Account Number: XXXX XXXX 2681
+IFSC Code:      ONID0848947
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: AUD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+01/19/2022  | 02/17/2018  | Subscription - Netflix             |   1,775.78 |            |     4,649.60
+06/14/2020  | 02/05/2021  | Savings Transfer                   |            |   1,722.54 |     6,372.14
+09/14/2022  | 06/20/2020  | Cash Withdrawal                    |            |     660.64 |     7,032.78
+09/26/2022  | 08/06/2020  | Rent Payment                       |     517.20 |            |     6,515.58
+05/19/2020  | 12/13/2023  | Bill Payment - Electricity         |            |     641.91 |     7,157.49
+12/08/2021  | 12/06/2018  | Wire Transfer                      |            |   1,651.61 |     8,809.10
+09/20/2023  | 11/23/2018  | POS Purchase                       |            |   1,967.34 |    10,776.45
+02/27/2019  | 08/20/2021  | Online Transfer                    |   1,593.33 |            |     9,183.11
+02/20/2018  | 12/13/2021  | Credit Card Payment                |     562.21 |            |     8,620.90
+10/02/2024  | 03/21/2021  | Gas Station                        |            |     723.31 |     9,344.21
+09/10/2019  | 01/26/2022  | Amazon Purchase                    |   2,127.91 |            |     7,216.30
+03/22/2018  | 06/08/2023  | Direct Deposit - Payroll           |            |     586.86 |     7,803.16
+05/25/2021  | 06/22/2021  | Subscription - Netflix             |            |     226.24 |     8,029.40
+12/23/2018  | 02/18/2020  | Interest Credit                    |            |   1,299.18 |     9,328.58
+-----------------------------------------------------------------------------------------------
+
+Generated on August 25, 2019. For disputes call 1896-447-8517.

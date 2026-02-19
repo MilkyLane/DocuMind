@@ -1,0 +1,29 @@
+Cornerstone Bank
+James Martin
+4301 Maple Dr
+Baltimore, MD 21201
+
+Account Statement
+
+Account Number:    85432987698936
+Account Type:      Money Market
+Statement Period:  06/05/2022 to 05/09/2021
+Currency:          USD
+
+Opening Balance:   $ 15,436.83
+Closing Balance:   $ 8,561.68
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+03/16/2019  NSF Fee Reversal                                 1,548.86     20,776.25
+04/25/2023  Bank Fee                             1,619.88                 19,156.38
+01/05/2020  Bank Fee                               780.87                 18,375.50
+04/22/2019  Online Transfer                                  1,836.21     20,211.72
+12/12/2021  Mobile Deposit                         897.34                 19,314.38
+04/11/2024  Bill Payment - Electricity                       2,645.11     21,959.49
+05/18/2021  ATM Withdrawal                         190.82                 21,768.67
+-----------------------------------------------------------
+
+For questions call 1-800-558-4174 or visit cornerstonebank.com

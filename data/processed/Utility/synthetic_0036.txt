@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 390.33
+Payment Received:           $ -274.82
+Current Charges:            $ 179.49
+Taxes & Surcharges:         $ 28.80
+Amount Due:                 $ 170.58
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $170.58 must be received by 09/21/2022.
+
+ACCOUNT INFORMATION
+Account Number:    911467866912
+Customer Name:     Kimberly Garcia
+Service Address:   9476 Broad St, Charlotte, NC 28201
+Billing Period:    03/14/2022 to 01/27/2018
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Gas Service   $ 56.63  $ 27.81   $ 1.62   $ 188.25
+Other Charges   $ 4.51   -           $ 4.74    $ 12.97
+Total           $ 64.09  $ 17.10  $ 2.94   $ 170.58
+
+USAGE HISTORY (therms)
+Current Period:  1178
+Last Period:     612
+Same Period Last Year: 306
+
+Pay by phone: 1-800-740-5961
+Pay online:   pacificgasandelectric.com

@@ -1,0 +1,31 @@
+Water Bill
+
+Central Hudson Gas & Electric
+Account Number: 9042271133228898
+Customer Number: 3399129710
+Service Address: 2560 2nd St, Springfield IL 62701
+Tax Invoice  Issue Date: 06/15/2024
+
+This account is based on an estimated meter reading
+Water account summary: 10/28/2021 to 01/23/2024
+
+Plan: Flat Rate
+Opening balance:                $ 280.22
+Payment received - thank you    $ -48.44Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 140.84
+Total amount due                $ 170.80
+
+Due Date: 03/11/2020
+Total amount if paid after due date: $ 85.69
+
+Bill To:
+Robert Thompson
+2560 2nd St
+Springfield, IL 62701
+
+Water Usage Summary
+Meter Reading:  33486 CCF
+Previous:       70390 CCF
+Usage:          628 CCF
+Days in period: 31

@@ -1,0 +1,30 @@
+Municipal Gas Authority
+ELECTRIC & GAS BILL
+
+Bill Date:      01/10/2022
+Bill Month:     SEP-2023
+
+Customer Name:  Robert Robinson
+Address:        5021 2nd St
+                Springfield, IL 62701
+Account No:     0556613906
+Meter No:       20679981
+
+METER READINGS
+Current Reading:   59802
+Previous Reading:  61419
+Units Consumed:    -1617 kWh / therms
+Derived Load:      2.33 kW
+
+CHARGES
+Fixed Charges:             $ 13.40
+Variable Charges:          $ 100.41
+Fuel Adjustment:           $ 11.43
+State Tax:                 $ 11.87
+Local Tax:                 $ 3.36
+-------------------------------------------
+Total Current Charges:     $ 137.60
+Amount Upto 30 days:       $ 147.31
+Amount Upto 60 days:       $ 240.87
+
+Due Date:       01/11/2022

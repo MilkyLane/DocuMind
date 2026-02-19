@@ -1,0 +1,26 @@
+City Savings Bank
+
+Monthly Account Statement
+February 2024
+
+Account Holder: Paul Lewis
+Address:        2168 College Ave, Nashville, TN - 37201
+Account Number: XXXX XXXX 0249
+IFSC Code:      TOHD0464887
+Account Type:   Current Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+01/05/2019  | 10/10/2018  | ACH Credit                         |   1,577.32 |            |     4,732.94
+10/20/2024  | 10/08/2024  | Amazon Purchase                    |   1,913.46 |            |     2,819.47
+05/28/2022  | 07/10/2022  | Credit Card Payment                |   2,272.18 |            |       547.30
+02/25/2019  | 11/07/2020  | Cash Withdrawal                    |   2,400.67 |            |         0.00
+09/03/2019  | 01/14/2021  | Refund Credit                      |     607.26 |            |         0.00
+04/10/2023  | 05/23/2024  | Gas Station                        |            |     735.24 |       735.24
+05/26/2024  | 11/19/2023  | NSF Fee Reversal                   |     591.23 |            |       144.01
+-----------------------------------------------------------------------------------------------
+
+Generated on October 02, 2021. For disputes call 1894-430-5102.

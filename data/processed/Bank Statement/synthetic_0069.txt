@@ -1,0 +1,31 @@
+City Savings Bank
+Lisa Miller
+576 Market St
+Seattle, WA 98101
+
+Account Statement
+
+Account Number:    3799563531
+Account Type:      Savings
+Statement Period:  06/08/2018 to 04/24/2021
+Currency:          USD
+
+Opening Balance:   $ 17,462.78
+Closing Balance:   $ 7,822.88
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+07/05/2019  Credit Card Payment                                172.47      2,569.54
+03/15/2023  Wire Transfer                        1,168.12                  1,401.42
+04/11/2019  ATM Withdrawal                                   2,926.91      4,328.33
+03/04/2024  Gas Station                                        188.36      4,516.69
+06/08/2020  Credit Card Payment                    521.89                  3,994.80
+10/06/2022  Rent Payment                         2,385.75                  1,609.05
+09/16/2024  Wire Transfer                                      268.56      1,877.61
+05/01/2023  Grocery Store                                    2,512.60      4,390.21
+06/14/2022  ACH Credit                                         747.50      5,137.70
+-----------------------------------------------------------
+
+For questions call 1-800-687-1083 or visit citysavingsbank.com

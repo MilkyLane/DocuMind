@@ -1,0 +1,21 @@
+Pacific Trust Bank
+5350 Hill St
+Seattle, WA 98101
+
+Account Statement for Emily Robinson
+Account No: 30349189117972
+From January 07, 2022 To December 11, 2022
+
+04/13/2020  Online Transfer                     1,678.74 DR       2,723.70
+06/27/2020  Wire Transfer                         912.82 DR       1,810.88
+06/20/2019  Grocery Store                       1,460.58 DR         350.31
+09/04/2019  NSF Fee Reversal                    1,693.29 DR           0.00
+01/01/2022  Mobile Deposit                      1,704.60 DR           0.00
+11/26/2018  Mortgage Payment                      307.88 CR         307.88
+01/25/2020  POS Purchase                        1,586.98 CR       1,894.86
+02/23/2022  Amazon Purchase                     1,235.28 DR         659.58
+12/27/2019  Bank Fee                              129.68 DR         529.90
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pacifictrustbank.com

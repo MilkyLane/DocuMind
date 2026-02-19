@@ -1,0 +1,30 @@
+City Water Authority
+ELECTRIC & GAS BILL
+
+Bill Date:      08/10/2021
+Bill Month:     AUG-2019
+
+Customer Name:  Sarah Clark
+Address:        8956 Maple Dr
+                Springfield, IL 62701
+Account No:     267736026064
+Meter No:       43098050
+
+METER READINGS
+Current Reading:   93376
+Previous Reading:  87081
+Units Consumed:    6295 kWh / therms
+Derived Load:      9.27 kW
+
+CHARGES
+Fixed Charges:             $ 18.28
+Variable Charges:          $ 20.81
+Fuel Adjustment:           $ 8.11
+State Tax:                 $ 17.32
+Local Tax:                 $ 1.62
+-------------------------------------------
+Total Current Charges:     $ 48.35
+Amount Upto 30 days:       $ 262.69
+Amount Upto 60 days:       $ 154.11
+
+Due Date:       12/24/2024

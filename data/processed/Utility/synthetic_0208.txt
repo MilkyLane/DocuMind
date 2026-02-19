@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Valley Water District
+Account Number: 5466927589
+Customer Number: 8021462961
+Service Address: 2401 College Ave, Columbus OH 43215
+Tax Invoice  Issue Date: 06/12/2018
+
+This account is based on an actual meter reading
+Water & Sewer account summary: 05/22/2018 to 10/21/2018
+
+Plan: Standard Rate
+Opening balance:                $ 104.68
+Payment received - thank you    $ -140.55Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 232.64
+Total amount due                $ 334.58
+
+Due Date: 11/14/2022
+Total amount if paid after due date: $ 93.65
+
+Bill To:
+Brian Clark
+2401 College Ave
+Columbus, OH 43215
+
+Water & Sewer Usage Summary
+Meter Reading:  33628 CCF
+Previous:       24201 CCF
+Usage:          1978 CCF
+Days in period: 31

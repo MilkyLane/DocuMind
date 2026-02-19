@@ -1,0 +1,34 @@
+City Water Authority
+6175 Oak Ave, Columbus, OH 43215
+Customer Service: 1-800-515-4281
+
+Gas Bill
+
+Bill To:
+Mark Wilson
+6175 Oak Ave
+Columbus, OH 43215
+
+Account Number:   6984902770384309
+Bill Date:        09/17/2023
+Due Date:         04/20/2019
+Service Period:   11/02/2020 to 04/21/2018
+Service Address:  6175 Oak Ave, Columbus, OH 43215
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 89.08
+Payment Received - Thank You  $ -174.17
+Balance Forward:         $ 0.00
+Current Charges:         $ 189.80
+Taxes & Fees:            $ 16.50
+Total Amount Due:        $ 317.86
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    1609 therms
+Same period last year:1541 therms
+Average daily usage:  13 therms
+
+Due Date: 04/20/2019
+Pay online at citywaterauthority.com

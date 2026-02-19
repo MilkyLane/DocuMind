@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Pacific Gas & Electric
+Account Number: 018718637599
+Customer Number: 4781376742
+Service Address: 8725 River Rd, Austin TX 73301
+Tax Invoice  Issue Date: 09/02/2023
+
+This account is based on an actual meter reading
+Water & Sewer account summary: 06/13/2020 to 01/10/2020
+
+Plan: Flat Rate
+Opening balance:                $ 62.34
+Payment received - thank you    $ -142.38Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 352.31
+Total amount due                $ 395.19
+
+Due Date: 06/13/2019
+Total amount if paid after due date: $ 76.45
+
+Bill To:
+Matthew Martinez
+8725 River Rd
+Austin, TX 73301
+
+Water & Sewer Usage Summary
+Meter Reading:  87421 CCF
+Previous:       59253 CCF
+Usage:          281 CCF
+Days in period: 28

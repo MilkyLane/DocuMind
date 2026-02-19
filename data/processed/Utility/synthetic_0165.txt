@@ -1,0 +1,34 @@
+Metro Power Co.
+2872 Pine St, Springfield, IL 62701
+Customer Service: 1-800-517-4829
+
+Water Bill
+
+Bill To:
+Ashley White
+2872 Pine St
+Springfield, IL 62701
+
+Account Number:   004615265461
+Bill Date:        01/07/2019
+Due Date:         10/19/2019
+Service Period:   08/17/2024 to 09/13/2018
+Service Address:  2872 Pine St, Springfield, IL 62701
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 77.28
+Payment Received - Thank You  $ -259.17
+Balance Forward:         $ 0.00
+Current Charges:         $ 192.48
+Taxes & Fees:            $ 27.58
+Total Amount Due:        $ 243.67
+---------------------------------------------------
+
+Water Usage Details
+Usage this period:    138 CCF
+Same period last year:651 CCF
+Average daily usage:  75 CCF
+
+Due Date: 10/19/2019
+Pay online at metropowerco..com

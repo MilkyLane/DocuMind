@@ -1,0 +1,24 @@
+Pacific Trust Bank
+2381 Broad St
+Seattle, WA 98101
+
+Account Statement for Jessica Davis
+Account No: 457230848100
+From February 18, 2020 To February 17, 2024
+
+07/13/2019  Insurance Premium                      57.76 CR       2,614.37
+11/13/2023  Refund Credit                         459.51 CR       3,073.88
+03/04/2019  Check Deposit                         233.69 CR       3,307.57
+02/20/2020  Check Deposit                         570.81 CR       3,878.38
+02/02/2022  Bill Payment - Electricity          1,850.16 DR       2,028.23
+10/06/2023  Grocery Store                       1,065.66 DR         962.57
+05/20/2024  Mortgage Payment                    1,337.87 DR           0.00
+08/22/2020  Mobile Deposit                        216.81 DR           0.00
+02/26/2018  Bill Payment - Electricity          1,425.50 CR       1,425.50
+03/13/2021  Interest Credit                       301.71 CR       1,727.21
+02/04/2022  Grocery Store                       1,952.92 CR       3,680.13
+02/11/2019  POS Purchase                          564.17 CR       4,244.30
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pacifictrustbank.com

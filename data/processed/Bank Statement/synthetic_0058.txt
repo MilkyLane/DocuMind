@@ -1,0 +1,35 @@
+COASTAL FEDERAL CREDIT UNION
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Emily Thomas
+Customer ID:     537605
+Address:         5865 Hill St, Charlotte, NC 28201
+Account Number:  04608432562168
+Account Type:    Current
+Statement Date:  November 12, 2019
+Period Covered:  11/20/2024 to 11/22/2019
+
+Opening Balance:        12,777.68
+Total Credit Amount:    5,006.10
+Total Debit Amount:     19,425.47
+Closing Balance:        27,337.19
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+10/18/2023  NSF Fee Reversal                     1,960.89                  7,573.32
+12/23/2022  Bill Payment - Electricity             422.95                  7,150.37
+03/21/2022  POS Purchase                         2,727.92                  4,422.46
+12/04/2019  Car Loan Payment                     1,676.45                  2,746.01
+01/25/2020  Grocery Store                                      445.11      3,191.12
+12/27/2023  Interest Credit                                    917.01      4,108.13
+02/05/2019  Direct Deposit - Payroll             2,339.53                  1,768.60
+05/20/2022  Credit Card Payment                              1,839.82      3,608.43
+11/01/2020  Online Transfer                        704.23                  2,904.20
+09/28/2022  Restaurant                                       1,435.04      4,339.24
+-------------------------------------------------------------
+
+Branch: Main Office
+SWIFT: MDFAUS1A

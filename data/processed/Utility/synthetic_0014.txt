@@ -1,0 +1,31 @@
+Water Bill
+
+Tri-County Electric
+Account Number: 06716572628498
+Customer Number: 9965075273
+Service Address: 6171 Market St, Columbus OH 43215
+Tax Invoice  Issue Date: 08/15/2021
+
+This account is based on an actual meter reading
+Water account summary: 04/27/2018 to 05/15/2019
+
+Plan: Fixed Rate
+Opening balance:                $ 284.42
+Payment received - thank you    $ -25.68Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 299.23
+Total amount due                $ 215.89
+
+Due Date: 12/19/2020
+Total amount if paid after due date: $ 353.27
+
+Bill To:
+Carol Rodriguez
+6171 Market St
+Columbus, OH 43215
+
+Water Usage Summary
+Meter Reading:  72402 CCF
+Previous:       74332 CCF
+Usage:          1017 CCF
+Days in period: 28

@@ -1,0 +1,32 @@
+Pacific Gas & Electric
+
+Utility Billing
+7279 Elm St • Springfield, IL 62701 • Phone: (565) 765-5566
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: Karen Robinson
+7279 Elm St, Springfield, IL 62701
+
+Account Number:       3556909275
+Route:                41
+Cycle:                2
+Bill Date:            06/15/2024
+Due Date:             02/19/2019
+
+                                            Total Current Charges   $ 37.00
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 80.23
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+09/13/2022 - 02/09/2024  29   3947312172   85531         59029           714 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   261 kWh / therms    $ 74.06   $ 93.46
+SEWER               376 kWh / therms    $ 12.83    $ 21.27
+REFUSE              --                  $ 12.85    $ 39.48
+
+Total Current Charges   $ 206.33
+Balance Forward         $ 0.00
+Total Amount Due        $ 89.71
+
+PAY ONLINE AT: pacificgasandelectric.gov

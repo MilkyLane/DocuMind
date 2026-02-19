@@ -1,0 +1,32 @@
+Valley Water District
+
+Utility Billing
+845 1st Ave • Charlotte, NC 28201 • Phone: (023) 438-6536
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: Kevin White
+845 1st Ave, Charlotte, NC 28201
+
+Account Number:       034414488501
+Route:                96
+Cycle:                8
+Bill Date:            11/11/2020
+Due Date:             07/24/2022
+
+                                            Total Current Charges   $ 277.36
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 245.26
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+11/05/2021 - 03/21/2021  33   7608495880   54339         49784           674 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   131 kWh / therms    $ 40.52   $ 43.77
+SEWER               323 kWh / therms    $ 42.91    $ 30.69
+REFUSE              --                  $ 18.63    $ 25.83
+
+Total Current Charges   $ 221.56
+Balance Forward         $ 0.00
+Total Amount Due        $ 197.82
+
+PAY ONLINE AT: valleywaterdistrict.gov

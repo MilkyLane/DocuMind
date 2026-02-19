@@ -1,0 +1,34 @@
+Liberty Bank
+Dorothy Smith
+6982 Cedar Ln
+Seattle, WA 98101
+
+Account Statement
+
+Account Number:    72628498776945
+Account Type:      Current Account
+Statement Period:  04/27/2018 to 05/15/2019
+Currency:          USD
+
+Opening Balance:   $ 15,134.29
+Closing Balance:   $ 11,612.07
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+08/07/2020  NSF Fee Reversal                       981.79                  6,409.74
+10/23/2020  Rent Payment                           846.18                  5,563.56
+02/08/2023  Grocery Store                        2,844.71                  2,718.86
+12/16/2023  Refund Credit                        2,276.91                    441.95
+02/10/2019  Subscription - Netflix               2,380.87                      0.00
+10/12/2021  Rent Payment                                       925.56        925.56
+12/18/2020  Insurance Premium                                1,282.26      2,207.81
+05/08/2018  Interest Credit                                    820.04      3,027.85
+09/25/2023  POS Purchase                           367.47                  2,660.38
+05/24/2022  Bank Fee                             2,218.43                    441.96
+02/27/2019  Mortgage Payment                                   856.17      1,298.12
+01/23/2022  Bill Payment - Electricity             546.53                    751.59
+-----------------------------------------------------------
+
+For questions call 1-800-146-1893 or visit libertybank.com

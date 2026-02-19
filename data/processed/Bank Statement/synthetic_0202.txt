@@ -1,0 +1,32 @@
+Apex Bank
+
+Monthly Account Statement
+August 2021
+
+Account Holder: Lisa Jackson
+Address:        340 Maple Dr, Denver, CO - 80201
+Account Number: XXXX XXXX 2711
+IFSC Code:      ILTB0537092
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+08/10/2021  | 10/06/2024  | Online Transfer                    |   1,872.40 |            |     2,844.01
+11/18/2019  | 05/03/2022  | Refund Credit                      |   1,685.71 |            |     1,158.31
+07/09/2019  | 03/05/2022  | Restaurant                         |            |   2,350.51 |     3,508.82
+08/02/2024  | 12/09/2023  | Interest Credit                    |   1,473.21 |            |     2,035.61
+02/27/2022  | 06/22/2020  | Insurance Premium                  |   2,291.46 |            |         0.00
+06/14/2024  | 09/05/2018  | Utility Bill                       |   2,089.17 |            |         0.00
+06/16/2024  | 01/23/2022  | Direct Deposit - Payroll           |   2,112.96 |            |         0.00
+11/13/2019  | 12/11/2021  | Mobile Deposit                     |            |     133.95 |       133.95
+04/27/2019  | 05/28/2024  | Restaurant                         |            |   1,153.80 |     1,287.76
+09/20/2020  | 12/26/2020  | Direct Deposit - Payroll           |            |   1,262.72 |     2,550.47
+11/27/2022  | 03/06/2023  | Mobile Deposit                     |   1,218.83 |            |     1,331.64
+03/14/2018  | 07/18/2024  | Bank Fee                           |            |     608.52 |     1,940.16
+01/26/2020  | 09/21/2023  | Bank Fee                           |   1,208.86 |            |       731.30
+-----------------------------------------------------------------------------------------------
+
+Generated on January 15, 2018. For disputes call 1855-707-6143.

@@ -1,0 +1,35 @@
+Atlantic Financial Bank
+Matthew Harris
+3563 College Ave
+Indianapolis, IN 46201
+
+Account Statement
+
+Account Number:    08214862890233
+Account Type:      Current Account
+Statement Period:  01/08/2018 to 08/02/2020
+Currency:          USD
+
+Opening Balance:   $ 14,240.36
+Closing Balance:   $ 5,842.56
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+01/08/2020  Restaurant                                         380.38     10,977.78
+08/19/2022  Insurance Premium                                  540.98     11,518.76
+05/24/2024  Refund Credit                        2,514.58                  9,004.17
+01/06/2024  Utility Bill                            92.08                  8,912.09
+04/21/2019  Cash Withdrawal                                    650.81      9,562.91
+09/01/2024  Bank Fee                             1,958.25                  7,604.66
+08/05/2023  POS Purchase                                     2,049.78      9,654.44
+05/20/2024  Mortgage Payment                                    35.31      9,689.74
+05/14/2021  Insurance Premium                                2,131.01     11,820.76
+05/22/2022  Credit Card Payment                    662.45                 11,158.31
+09/22/2024  Insurance Premium                      315.91                 10,842.40
+05/10/2023  Check Deposit                                    1,785.38     12,627.78
+05/21/2020  Mobile Deposit                       1,015.49                 11,612.29
+-----------------------------------------------------------
+
+For questions call 1-800-771-5895 or visit atlanticfinancialbank.com

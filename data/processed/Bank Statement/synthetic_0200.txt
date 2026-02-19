@@ -1,0 +1,25 @@
+Pacific Trust Bank
+9582 Elm St
+Baltimore, MD 21201
+
+Account Statement for Andrew Martin
+Account No: 1472463019864242
+From April 27, 2022 To November 08, 2022
+
+02/05/2018  Savings Transfer                    1,140.35 DR       1,719.30
+07/27/2019  Utility Bill                        1,004.94 CR       2,724.24
+09/02/2023  Utility Bill                          353.08 DR       2,371.16
+03/04/2018  Check Deposit                         432.06 CR       2,803.22
+01/01/2018  Refund Credit                         467.74 DR       2,335.48
+07/04/2018  Direct Deposit - Payroll              928.01 CR       3,263.48
+11/28/2022  NSF Fee Reversal                    1,266.44 CR       4,529.93
+02/01/2022  Online Transfer                     1,432.58 CR       5,962.51
+07/26/2018  Mortgage Payment                      386.81 CR       6,349.32
+09/10/2020  Savings Transfer                    1,451.77 DR       4,897.55
+10/17/2024  ATM Withdrawal                      1,887.38 DR       3,010.18
+09/21/2019  Wire Transfer                         559.96 CR       3,570.14
+10/11/2024  Cash Withdrawal                       823.25 DR       2,746.89
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@pacifictrustbank.com

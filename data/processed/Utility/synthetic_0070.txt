@@ -1,0 +1,30 @@
+Union Gas
+WATER BILL
+
+Bill Date:      03/10/2023
+Bill Month:     JUL-2022
+
+Customer Name:  Michael Miller
+Address:        4612 Elm St
+                Indianapolis, IN 46201
+Account No:     0653074505444713
+Meter No:       37367850
+
+METER READINGS
+Current Reading:   67656
+Previous Reading:  87762
+Units Consumed:    -20106 CCF
+Derived Load:      1.59 kW
+
+CHARGES
+Fixed Charges:             $ 22.74
+Variable Charges:          $ 86.64
+Fuel Adjustment:           $ 11.93
+State Tax:                 $ 11.44
+Local Tax:                 $ 6.12
+-------------------------------------------
+Total Current Charges:     $ 76.91
+Amount Upto 30 days:       $ 266.30
+Amount Upto 60 days:       $ 94.21
+
+Due Date:       08/25/2024

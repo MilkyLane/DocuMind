@@ -1,0 +1,32 @@
+Pacific Gas & Electric
+
+Utility Billing
+9668 Sunset Blvd • Boston, MA 02101 • Phone: (728) 757-1962
+ELECTRIC & GAS • SEWER • REFUSE
+
+Bill To: Mark Garcia
+9668 Sunset Blvd, Boston, MA 02101
+
+Account Number:       23536937854777
+Route:                77
+Cycle:                1
+Bill Date:            03/24/2024
+Due Date:             06/06/2019
+
+                                            Total Current Charges   $ 256.55
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 50.07
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+11/02/2024 - 01/14/2019  35   1203875099   51030         40433           1189 kWh / therms
+
+Service             Consumption   Charge       Total
+Electric & Gas-SINGLE UNIT   664 kWh / therms    $ 47.02   $ 11.51
+SEWER               190 kWh / therms    $ 29.11    $ 17.90
+REFUSE              --                  $ 22.58    $ 29.43
+
+Total Current Charges   $ 130.42
+Balance Forward         $ 0.00
+Total Amount Due        $ 237.34
+
+PAY ONLINE AT: pacificgasandelectric.gov

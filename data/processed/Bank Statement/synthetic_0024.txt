@@ -1,0 +1,29 @@
+Pacific Trust Bank
+
+Monthly Account Statement
+June 2019
+
+Account Holder: Donna Thompson
+Address:        2186 Lake Rd, Baltimore, MD - 21201
+Account Number: XXXX XXXX 9013
+IFSC Code:      UPRF0354033
+Account Type:   Zero Balance Account
+Nomination:     Registered
+
+Currency: USD
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+01/26/2023  | 07/20/2024  | Direct Deposit - Payroll           |            |   1,916.07 |     5,149.04
+10/02/2021  | 10/22/2023  | ATM Withdrawal                     |     177.55 |            |     4,971.48
+08/08/2022  | 04/25/2024  | Bank Fee                           |     120.15 |            |     4,851.33
+05/08/2024  | 12/19/2020  | Utility Bill                       |   1,264.70 |            |     3,586.63
+06/08/2020  | 03/22/2022  | ACH Credit                         |            |   1,684.60 |     5,271.24
+09/19/2023  | 03/21/2023  | Grocery Store                      |     695.13 |            |     4,576.10
+06/21/2023  | 07/26/2022  | Car Loan Payment                   |            |     126.74 |     4,702.84
+05/13/2019  | 09/16/2019  | ACH Credit                         |            |   1,026.57 |     5,729.41
+08/02/2022  | 07/14/2022  | Amazon Purchase                    |   1,771.87 |            |     3,957.54
+04/11/2023  | 02/15/2024  | Insurance Premium                  |     614.72 |            |     3,342.83
+-----------------------------------------------------------------------------------------------
+
+Generated on December 25, 2021. For disputes call 1831-812-4350.

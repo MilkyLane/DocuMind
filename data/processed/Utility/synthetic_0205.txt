@@ -1,0 +1,34 @@
+Southern Electric
+1083 Oak Ave, Nashville, TN 37201
+Customer Service: 1-800-179-8674
+
+Gas Bill
+
+Bill To:
+Laura Jones
+1083 Oak Ave
+Nashville, TN 37201
+
+Account Number:   820667849843
+Bill Date:        07/06/2020
+Due Date:         02/17/2021
+Service Period:   03/24/2019 to 07/20/2018
+Service Address:  1083 Oak Ave, Nashville, TN 37201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 226.53
+Payment Received - Thank You  $ -420.13
+Balance Forward:         $ 0.00
+Current Charges:         $ 391.60
+Taxes & Fees:            $ 15.37
+Total Amount Due:        $ 292.03
+---------------------------------------------------
+
+Gas Usage Details
+Usage this period:    1436 therms
+Same period last year:1414 therms
+Average daily usage:  56 therms
+
+Due Date: 02/17/2021
+Pay online at southernelectric.com

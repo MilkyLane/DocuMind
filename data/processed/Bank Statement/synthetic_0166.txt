@@ -1,0 +1,36 @@
+Pioneer Savings
+Mark Lee
+8007 Lake Rd
+Columbus, OH 43215
+
+Account Statement
+
+Account Number:    711759574988
+Account Type:      Checking
+Statement Period:  12/11/2023 to 11/11/2022
+Currency:          USD
+
+Opening Balance:   $ 3,534.17
+Closing Balance:   $ 13,798.17
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+04/08/2024  Direct Deposit - Payroll                         2,337.11     16,306.53
+09/10/2021  Interest Credit                        823.84                 15,482.69
+10/10/2024  Mobile Deposit                                     163.35     15,646.04
+04/28/2024  ACH Credit                             452.44                 15,193.60
+03/04/2023  Rent Payment                                       753.73     15,947.33
+07/14/2022  Car Loan Payment                                 1,243.81     17,191.13
+10/16/2023  Online Transfer                        735.06                 16,456.08
+01/14/2021  Grocery Store                                    2,779.11     19,235.19
+01/11/2020  Check Deposit                        1,424.79                 17,810.40
+08/13/2022  Wire Transfer                        1,464.69                 16,345.70
+05/08/2022  NSF Fee Reversal                     2,549.86                 13,795.85
+06/19/2021  Online Transfer                        485.98                 13,309.86
+12/01/2019  Rent Payment                           256.11                 13,053.76
+12/21/2019  ATM Withdrawal                       2,690.78                 10,362.98
+-----------------------------------------------------------
+
+For questions call 1-800-582-3909 or visit pioneersavings.com

@@ -1,0 +1,27 @@
+First National Bank
+
+Monthly Account Statement
+November 2018
+
+Account Holder: Robert Wilson
+Address:        3447 College Ave, Columbus, OH - 43215
+Account Number: XXXX XXXX 9961
+IFSC Code:      BWEC0177533
+Account Type:   Savings Account
+Nomination:     Registered
+
+Currency: INR
+
+Tran Date   | Value Date | Description                        | Debit      | Credit     | Balance
+-----------------------------------------------------------------------------------------------
+09/24/2023  | 09/07/2021  | Restaurant                         |            |     609.30 |     3,163.75
+10/16/2020  | 11/09/2021  | Subscription - Netflix             |   1,672.16 |            |     1,491.58
+07/27/2021  | 03/01/2020  | Gas Station                        |            |     277.27 |     1,768.85
+10/10/2018  | 11/21/2023  | Credit Card Payment                |     979.68 |            |       789.17
+06/05/2021  | 12/15/2020  | Direct Deposit - Payroll           |   2,271.19 |            |         0.00
+09/07/2020  | 12/17/2021  | Amazon Purchase                    |            |     900.79 |       900.79
+06/21/2023  | 10/11/2021  | Refund Credit                      |   1,643.24 |            |         0.00
+11/10/2021  | 02/27/2023  | Restaurant                         |            |     358.70 |       358.70
+-----------------------------------------------------------------------------------------------
+
+Generated on December 13, 2024. For disputes call 1853-165-2014.

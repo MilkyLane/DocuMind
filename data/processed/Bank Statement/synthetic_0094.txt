@@ -1,0 +1,32 @@
+Apex Bank
+Kevin Thompson
+1864 Pine St
+Charlotte, NC 28201
+
+Account Statement
+
+Account Number:    938661331552
+Account Type:      Savings
+Statement Period:  01/13/2023 to 06/01/2021
+Currency:          USD
+
+Opening Balance:   $ 4,648.97
+Closing Balance:   $ 4,791.88
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+04/14/2020  Bank Fee                               211.32                 13,137.63
+02/23/2022  NSF Fee Reversal                                 2,949.48     16,087.11
+03/09/2018  Credit Card Payment                              2,552.89     18,640.00
+07/22/2024  Refund Credit                        1,896.31                 16,743.69
+12/11/2024  Cash Withdrawal                        534.24                 16,209.45
+10/19/2021  Subscription - Netflix               1,011.96                 15,197.48
+09/19/2023  Direct Deposit - Payroll                         2,228.02     17,425.51
+02/10/2019  Interest Credit                      1,852.88                 15,572.62
+02/02/2019  Insurance Premium                      738.20                 14,834.42
+07/07/2023  ATM Withdrawal                         614.02                 14,220.41
+-----------------------------------------------------------
+
+For questions call 1-800-842-8270 or visit apexbank.com

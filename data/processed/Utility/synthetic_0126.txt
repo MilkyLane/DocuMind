@@ -1,0 +1,30 @@
+Western Power Services
+WATER & SEWER BILL
+
+Bill Date:      06/18/2024
+Bill Month:     NOV-2019
+
+Customer Name:  Amanda Martin
+Address:        7244 Maple Dr
+                Indianapolis, IN 46201
+Account No:     067198554601
+Meter No:       80634615
+
+METER READINGS
+Current Reading:   99837
+Previous Reading:  59002
+Units Consumed:    40835 CCF
+Derived Load:      2.26 kW
+
+CHARGES
+Fixed Charges:             $ 9.83
+Variable Charges:          $ 146.75
+Fuel Adjustment:           $ 9.30
+State Tax:                 $ 10.81
+Local Tax:                 $ 1.57
+-------------------------------------------
+Total Current Charges:     $ 175.95
+Amount Upto 30 days:       $ 113.09
+Amount Upto 60 days:       $ 192.51
+
+Due Date:       06/03/2024

@@ -1,0 +1,32 @@
+National Grid
+
+Utility Billing
+2641 Washington Ave • Denver, CO 80201 • Phone: (067) 339-9843
+GAS • SEWER • REFUSE
+
+Bill To: Michelle Thomas
+2641 Washington Ave, Denver, CO 80201
+
+Account Number:       0690331190
+Route:                37
+Cycle:                1
+Bill Date:            08/20/2023
+Due Date:             12/28/2018
+
+                                            Total Current Charges   $ 67.84
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 298.24
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+04/27/2023 - 10/11/2022  34   3428364408   82481         43072           805 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   758 therms    $ 70.42   $ 80.72
+SEWER               213 therms    $ 36.33    $ 23.37
+REFUSE              --                  $ 15.50    $ 11.44
+
+Total Current Charges   $ 152.96
+Balance Forward         $ 0.00
+Total Amount Due        $ 90.60
+
+PAY ONLINE AT: nationalgrid.gov

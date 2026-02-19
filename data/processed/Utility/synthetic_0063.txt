@@ -1,0 +1,30 @@
+Western Power Services
+WATER & SEWER BILL
+
+Bill Date:      05/27/2018
+Bill Month:     JUN-2018
+
+Customer Name:  Betty Brown
+Address:        7670 Elm St
+                Columbus, OH 43215
+Account No:     0032365199
+Meter No:       70296670
+
+METER READINGS
+Current Reading:   58440
+Previous Reading:  46027
+Units Consumed:    12413 CCF
+Derived Load:      2.56 kW
+
+CHARGES
+Fixed Charges:             $ 10.37
+Variable Charges:          $ 45.56
+Fuel Adjustment:           $ 4.92
+State Tax:                 $ 17.90
+Local Tax:                 $ 1.31
+-------------------------------------------
+Total Current Charges:     $ 197.18
+Amount Upto 30 days:       $ 96.36
+Amount Upto 60 days:       $ 122.06
+
+Due Date:       01/03/2019

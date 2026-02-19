@@ -1,0 +1,30 @@
+Midwest Bank
+Brian Wilson
+2303 Cedar Ln
+Springfield, IL 62701
+
+Account Statement
+
+Account Number:    546212760250
+Account Type:      Money Market
+Statement Period:  09/06/2023 to 07/04/2018
+Currency:          USD
+
+Opening Balance:   $ 15,406.14
+Closing Balance:   $ 4,629.81
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+03/09/2023  Amazon Purchase                      2,102.07                  6,783.94
+09/19/2022  Car Loan Payment                                 2,652.65      9,436.59
+10/18/2023  Utility Bill                                       480.62      9,917.20
+03/20/2024  NSF Fee Reversal                     1,352.69                  8,564.52
+10/07/2023  NSF Fee Reversal                       954.03                  7,610.48
+07/10/2021  Bank Fee                                            69.88      7,680.37
+10/04/2024  Refund Credit                                    2,782.47     10,462.84
+12/23/2022  Check Deposit                          170.84                 10,292.00
+-----------------------------------------------------------
+
+For questions call 1-800-504-3215 or visit midwestbank.com

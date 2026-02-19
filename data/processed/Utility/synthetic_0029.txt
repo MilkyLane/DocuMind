@@ -1,0 +1,31 @@
+Electric Bill
+
+Western Power Services
+Account Number: 292127799799
+Customer Number: 5814770054
+Service Address: 1784 River Rd, Portland OR 97201
+Tax Invoice  Issue Date: 06/28/2023
+
+This account is based on an estimated meter reading
+Electric account summary: 08/15/2023 to 05/26/2020
+
+Plan: Standard Rate
+Opening balance:                $ 184.50
+Payment received - thank you    $ -152.12Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 206.58
+Total amount due                $ 239.55
+
+Due Date: 06/05/2021
+Total amount if paid after due date: $ 366.73
+
+Bill To:
+Karen Wilson
+1784 River Rd
+Portland, OR 97201
+
+Electric Usage Summary
+Meter Reading:  15376 kWh
+Previous:       68947 kWh
+Usage:          1961 kWh
+Days in period: 32

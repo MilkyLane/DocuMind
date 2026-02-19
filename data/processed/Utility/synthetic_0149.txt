@@ -1,0 +1,32 @@
+Southern Electric
+
+Utility Billing
+7290 Pine St • Nashville, TN 37201 • Phone: (027) 910-3229
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Nancy Miller
+7290 Pine St, Nashville, TN 37201
+
+Account Number:       0417765612481569
+Route:                10
+Cycle:                7
+Bill Date:            12/27/2022
+Due Date:             12/11/2021
+
+                                            Total Current Charges   $ 84.02
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 112.50
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+10/03/2018 - 03/08/2022  35   9657724295   55531         67164           852 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   286 kWh    $ 45.41   $ 43.96
+SEWER               342 kWh    $ 15.10    $ 47.66
+REFUSE              --                  $ 37.31    $ 27.65
+
+Total Current Charges   $ 171.59
+Balance Forward         $ 0.00
+Total Amount Due        $ 230.44
+
+PAY ONLINE AT: southernelectric.gov

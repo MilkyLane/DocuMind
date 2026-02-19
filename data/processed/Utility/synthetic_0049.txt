@@ -1,0 +1,31 @@
+Water & Sewer Bill
+
+Pacific Gas & Electric
+Account Number: 5047735866296194
+Customer Number: 5110475412
+Service Address: 3903 Pine St, Columbus OH 43215
+Tax Invoice  Issue Date: 04/23/2018
+
+This account is based on an actual meter reading
+Water & Sewer account summary: 12/26/2023 to 03/24/2021
+
+Plan: Fixed Rate
+Opening balance:                $ 122.41
+Payment received - thank you    $ -7.88Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 167.41
+Total amount due                $ 73.50
+
+Due Date: 02/09/2019
+Total amount if paid after due date: $ 289.22
+
+Bill To:
+Robert White
+3903 Pine St
+Columbus, OH 43215
+
+Water & Sewer Usage Summary
+Meter Reading:  52523 CCF
+Previous:       60493 CCF
+Usage:          125 CCF
+Days in period: 30

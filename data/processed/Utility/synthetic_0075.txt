@@ -1,0 +1,32 @@
+Pacific Gas & Electric
+
+Utility Billing
+4176 1st Ave • Austin, TX 73301 • Phone: (532) 931-7609
+WATER & SEWER • SEWER • REFUSE
+
+Bill To: James Clark
+4176 1st Ave, Austin, TX 73301
+
+Account Number:       21689421044789
+Route:                12
+Cycle:                4
+Bill Date:            09/11/2021
+Due Date:             11/05/2020
+
+                                            Total Current Charges   $ 90.57
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 295.92
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+04/24/2018 - 10/17/2019  26   0648909010   74920         48099           1220 CCF
+
+Service             Consumption   Charge       Total
+Water & Sewer-SINGLE UNIT   358 CCF    $ 52.70   $ 23.78
+SEWER               372 CCF    $ 5.42    $ 23.94
+REFUSE              --                  $ 8.53    $ 23.21
+
+Total Current Charges   $ 170.79
+Balance Forward         $ 0.00
+Total Amount Due        $ 187.15
+
+PAY ONLINE AT: pacificgasandelectric.gov

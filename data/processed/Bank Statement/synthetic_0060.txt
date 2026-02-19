@@ -1,0 +1,34 @@
+SUMMIT BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Sarah White
+Customer ID:     598820
+Address:         5147 Broad St, Denver, CO 80201
+Account Number:  123094077780
+Account Type:    Current
+Statement Date:  November 17, 2018
+Period Covered:  10/16/2019 to 04/19/2023
+
+Opening Balance:        23,233.19
+Total Credit Amount:    13,535.32
+Total Debit Amount:     12,223.72
+Closing Balance:        693.90
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+01/06/2019  ATM Withdrawal                                   2,477.50     15,253.06
+01/22/2022  Credit Card Payment                                119.80     15,372.86
+01/04/2021  POS Purchase                         2,761.95                 12,610.91
+11/23/2023  Credit Card Payment                    860.30                 11,750.61
+08/24/2022  Insurance Premium                                1,690.91     13,441.52
+05/11/2020  Subscription - Netflix                             288.45     13,729.97
+09/03/2020  Restaurant                                       2,277.74     16,007.71
+05/11/2022  Grocery Store                        2,086.91                 13,920.79
+10/02/2018  Utility Bill                                     2,090.53     16,011.32
+-------------------------------------------------------------
+
+Branch: Main Office
+SWIFT: SPUSUSP4

@@ -1,0 +1,26 @@
+City Savings Bank
+3381 Sunset Blvd
+Springfield, IL 62701
+
+Account Statement for Lisa Garcia
+Account No: 37012424462632
+From June 04, 2024 To May 10, 2022
+
+02/28/2018  ACH Credit                            319.58 DR       9,446.25
+05/06/2018  Bank Fee                            1,542.98 DR       7,903.27
+09/15/2022  Check Deposit                         251.66 DR       7,651.61
+02/12/2024  Online Transfer                     1,232.59 DR       6,419.02
+04/18/2020  Interest Credit                       781.88 DR       5,637.14
+02/03/2019  Bill Payment - Electricity          1,828.62 DR       3,808.52
+12/18/2019  Restaurant                          1,048.95 DR       2,759.56
+06/01/2020  Subscription - Netflix              1,517.06 CR       4,276.62
+09/25/2024  Subscription - Netflix                870.48 CR       5,147.10
+11/16/2024  Utility Bill                          388.39 DR       4,758.71
+12/08/2024  Cash Withdrawal                       143.13 CR       4,901.84
+09/25/2021  Subscription - Netflix              1,563.72 CR       6,465.57
+01/02/2021  Wire Transfer                         744.05 DR       5,721.51
+11/12/2023  Car Loan Payment                      717.29 DR       5,004.23
+
+Note: Please retain this statement for your records.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@citysavingsbank.com

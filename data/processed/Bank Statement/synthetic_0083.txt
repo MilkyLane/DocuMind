@@ -1,0 +1,35 @@
+HERITAGE BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Anthony Martinez
+Customer ID:     346120
+Address:         5656 Broad St, Boston, MA 02101
+Account Number:  66572934172232
+Account Type:    Checking
+Statement Date:  July 25, 2024
+Period Covered:  10/16/2018 to 07/16/2020
+
+Opening Balance:        11,262.21
+Total Credit Amount:    1,887.96
+Total Debit Amount:     853.55
+Closing Balance:        26,486.73
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+09/02/2024  Online Transfer                      2,579.79                 11,281.84
+04/04/2022  ACH Credit                             350.77                 10,931.07
+06/25/2018  Bank Fee                             2,981.05                  7,950.02
+03/28/2023  Amazon Purchase                                    809.80      8,759.82
+01/15/2024  Gas Station                                        321.38      9,081.20
+02/26/2022  Credit Card Payment                              2,269.74     11,350.94
+09/02/2022  Check Deposit                                    2,842.68     14,193.61
+04/12/2019  Interest Credit                        363.00                 13,830.62
+09/16/2023  Check Deposit                        1,330.14                 12,500.48
+03/04/2024  Wire Transfer                        1,097.57                 11,402.90
+-------------------------------------------------------------
+
+Branch: Downtown Branch
+SWIFT: GVINUSDN

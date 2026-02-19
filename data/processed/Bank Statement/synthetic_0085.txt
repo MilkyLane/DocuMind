@@ -1,0 +1,30 @@
+First National Bank
+Kimberly Moore
+8414 Cedar Ln
+Charlotte, NC 28201
+
+Account Statement
+
+Account Number:    7490753998
+Account Type:      Checking
+Statement Period:  10/08/2020 to 05/10/2023
+Currency:          USD
+
+Opening Balance:   $ 15,803.39
+Closing Balance:   $ 14,439.66
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+06/17/2022  Wire Transfer                                      750.42     15,323.09
+02/05/2023  Grocery Store                                    1,090.19     16,413.28
+01/14/2019  Restaurant                                         255.02     16,668.30
+11/17/2021  Utility Bill                           243.44                 16,424.87
+05/19/2021  Savings Transfer                                 2,338.69     18,763.55
+08/24/2021  POS Purchase                         1,325.84                 17,437.71
+12/15/2019  Refund Credit                          390.10                 17,047.61
+12/07/2021  Restaurant                                       1,592.13     18,639.74
+-----------------------------------------------------------
+
+For questions call 1-800-864-3569 or visit firstnationalbank.com

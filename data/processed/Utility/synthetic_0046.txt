@@ -1,0 +1,32 @@
+Southern Electric
+
+Utility Billing
+1044 Sunset Blvd • Memphis, TN 38101 • Phone: (398) 322-8854
+ELECTRIC • SEWER • REFUSE
+
+Bill To: Karen Harris
+1044 Sunset Blvd, Memphis, TN 38101
+
+Account Number:       8826343517518304
+Route:                36
+Cycle:                6
+Bill Date:            07/22/2022
+Due Date:             10/02/2024
+
+                                            Total Current Charges   $ 111.86
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 275.43
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+04/07/2023 - 02/24/2024  32   9363854678   67141         63569           1150 kWh
+
+Service             Consumption   Charge       Total
+Electric-SINGLE UNIT   609 kWh    $ 51.94   $ 82.25
+SEWER               290 kWh    $ 39.27    $ 19.41
+REFUSE              --                  $ 12.11    $ 15.95
+
+Total Current Charges   $ 49.60
+Balance Forward         $ 0.00
+Total Amount Due        $ 221.46
+
+PAY ONLINE AT: southernelectric.gov

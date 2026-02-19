@@ -1,0 +1,31 @@
+Water Bill
+
+Sunrise Energy
+Account Number: 15832818268861
+Customer Number: 1573993056
+Service Address: 5034 Church St, Seattle WA 98101
+Tax Invoice  Issue Date: 06/08/2019
+
+This account is based on an actual meter reading
+Water account summary: 05/07/2024 to 10/17/2021
+
+Plan: Standard Rate
+Opening balance:                $ 115.76
+Payment received - thank you    $ -162.07Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 141.82
+Total amount due                $ 368.08
+
+Due Date: 11/11/2020
+Total amount if paid after due date: $ 378.84
+
+Bill To:
+Sarah Clark
+5034 Church St
+Seattle, WA 98101
+
+Water Usage Summary
+Meter Reading:  59146 CCF
+Previous:       77411 CCF
+Usage:          1744 CCF
+Days in period: 32

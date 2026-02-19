@@ -1,0 +1,31 @@
+Gas Bill
+
+Western Power Services
+Account Number: 2562588967
+Customer Number: 0539672757
+Service Address: 4540 Cedar Ln, Boston MA 02101
+Tax Invoice  Issue Date: 10/05/2020
+
+This account is based on an actual meter reading
+Gas account summary: 11/05/2019 to 07/19/2023
+
+Plan: Flat Rate
+Opening balance:                $ 91.56
+Payment received - thank you    $ -257.38Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 381.08
+Total amount due                $ 186.35
+
+Due Date: 01/22/2022
+Total amount if paid after due date: $ 175.09
+
+Bill To:
+Paul Garcia
+4540 Cedar Ln
+Boston, MA 02101
+
+Gas Usage Summary
+Meter Reading:  21814 therms
+Previous:       20416 therms
+Usage:          257 therms
+Days in period: 33

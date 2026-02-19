@@ -1,0 +1,34 @@
+Blue Ridge Energy
+2401 Sunset Blvd, Baltimore, MD 21201
+Customer Service: 1-800-149-8091
+
+Electric & Gas Bill
+
+Bill To:
+Daniel Martin
+2401 Sunset Blvd
+Baltimore, MD 21201
+
+Account Number:   4933163735
+Bill Date:        02/25/2021
+Due Date:         01/21/2024
+Service Period:   11/19/2018 to 08/15/2023
+Service Address:  2401 Sunset Blvd, Baltimore, MD 21201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 480.29
+Payment Received - Thank You  $ -110.59
+Balance Forward:         $ 0.00
+Current Charges:         $ 224.59
+Taxes & Fees:            $ 25.49
+Total Amount Due:        $ 262.15
+---------------------------------------------------
+
+Electric & Gas Usage Details
+Usage this period:    1089 kWh / therms
+Same period last year:1993 kWh / therms
+Average daily usage:  70 kWh / therms
+
+Due Date: 01/21/2024
+Pay online at blueridgeenergy.com

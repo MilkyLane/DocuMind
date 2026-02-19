@@ -1,0 +1,30 @@
+National Grid
+ELECTRIC & GAS BILL
+
+Bill Date:      08/05/2024
+Bill Month:     AUG-2022
+
+Customer Name:  Kenneth Martin
+Address:        6647 Elm St
+                Austin, TX 73301
+Account No:     1632870831
+Meter No:       87277434
+
+METER READINGS
+Current Reading:   89023
+Previous Reading:  60794
+Units Consumed:    28229 kWh / therms
+Derived Load:      3.45 kW
+
+CHARGES
+Fixed Charges:             $ 12.99
+Variable Charges:          $ 112.63
+Fuel Adjustment:           $ 2.94
+State Tax:                 $ 6.16
+Local Tax:                 $ 7.25
+-------------------------------------------
+Total Current Charges:     $ 220.73
+Amount Upto 30 days:       $ 47.34
+Amount Upto 60 days:       $ 155.24
+
+Due Date:       08/22/2022

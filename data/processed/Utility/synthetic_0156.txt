@@ -1,0 +1,31 @@
+Electric Bill
+
+City Water Authority
+Account Number: 3037236831
+Customer Number: 7079334960
+Service Address: 327 Cedar Ln, Austin TX 73301
+Tax Invoice  Issue Date: 05/25/2021
+
+This account is based on an actual meter reading
+Electric account summary: 02/06/2019 to 12/23/2021
+
+Plan: Fixed Rate
+Opening balance:                $ 219.32
+Payment received - thank you    $ -299.71Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 53.33
+Total amount due                $ 183.88
+
+Due Date: 03/16/2021
+Total amount if paid after due date: $ 255.34
+
+Bill To:
+William Jones
+327 Cedar Ln
+Austin, TX 73301
+
+Electric Usage Summary
+Meter Reading:  90149 kWh
+Previous:       73950 kWh
+Usage:          574 kWh
+Days in period: 33

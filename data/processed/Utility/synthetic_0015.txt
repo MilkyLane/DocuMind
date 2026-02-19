@@ -1,0 +1,34 @@
+Southern Electric
+4086 1st Ave, Denver, CO 80201
+Customer Service: 1-800-469-3939
+
+Electric & Gas Bill
+
+Bill To:
+Anthony Jackson
+4086 1st Ave
+Denver, CO 80201
+
+Account Number:   8856855744431351
+Bill Date:        12/18/2024
+Due Date:         12/06/2019
+Service Period:   04/24/2021 to 05/24/2022
+Service Address:  4086 1st Ave, Denver, CO 80201
+
+Bill Summary
+---------------------------------------------------
+Previous Balance:        $ 318.56
+Payment Received - Thank You  $ -491.23
+Balance Forward:         $ 0.00
+Current Charges:         $ 341.42
+Taxes & Fees:            $ 10.46
+Total Amount Due:        $ 168.50
+---------------------------------------------------
+
+Electric & Gas Usage Details
+Usage this period:    1550 kWh / therms
+Same period last year:1193 kWh / therms
+Average daily usage:  21 kWh / therms
+
+Due Date: 12/06/2019
+Pay online at southernelectric.com

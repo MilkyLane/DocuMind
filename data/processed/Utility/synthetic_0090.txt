@@ -1,0 +1,30 @@
+Municipal Gas Authority
+WATER & SEWER BILL
+
+Bill Date:      09/14/2020
+Bill Month:     JUL-2020
+
+Customer Name:  Kevin Jones
+Address:        1677 College Ave
+                Portland, OR 97201
+Account No:     8811729806
+Meter No:       62473149
+
+METER READINGS
+Current Reading:   65039
+Previous Reading:  71596
+Units Consumed:    -6557 CCF
+Derived Load:      3.32 kW
+
+CHARGES
+Fixed Charges:             $ 5.14
+Variable Charges:          $ 151.29
+Fuel Adjustment:           $ 1.10
+State Tax:                 $ 11.41
+Local Tax:                 $ 5.68
+-------------------------------------------
+Total Current Charges:     $ 131.26
+Amount Upto 30 days:       $ 85.46
+Amount Upto 60 days:       $ 272.26
+
+Due Date:       01/23/2022

@@ -1,0 +1,37 @@
+APEX BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Laura Johnson
+Customer ID:     803571
+Address:         182 2nd St, Boston, MA 02101
+Account Number:  4353682223
+Account Type:    Current
+Statement Date:  September 16, 2023
+Period Covered:  10/27/2020 to 04/04/2019
+
+Opening Balance:        40,183.34
+Total Credit Amount:    25,641.41
+Total Debit Amount:     17,102.06
+Closing Balance:        28,004.91
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+05/04/2019  Interest Credit                      2,018.34                 11,230.48
+06/05/2023  Savings Transfer                                 2,855.10     14,085.58
+02/07/2020  Restaurant                             862.56                 13,223.02
+05/23/2022  Bill Payment - Electricity           1,852.86                 11,370.16
+06/14/2019  Direct Deposit - Payroll                         1,099.84     12,469.99
+12/24/2023  Grocery Store                        2,359.12                 10,110.87
+11/24/2020  Restaurant                           1,084.86                  9,026.01
+05/16/2022  Check Deposit                        1,082.64                  7,943.37
+05/28/2024  Bill Payment - Electricity           1,823.82                  6,119.55
+12/21/2018  Interest Credit                                    597.33      6,716.88
+09/21/2018  Utility Bill                            65.70                  6,651.18
+04/02/2022  Mobile Deposit                                   2,309.91      8,961.09
+-------------------------------------------------------------
+
+Branch: North Branch
+SWIFT: JFUTUSKQ

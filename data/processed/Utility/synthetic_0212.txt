@@ -1,0 +1,32 @@
+PACIFIC GAS & ELECTRIC
+
+ACCOUNT BALANCE SUMMARY
+-----------------------------------------
+Previous Balance:           $ 109.64
+Payment Received:           $ -250.27
+Current Charges:            $ 173.31
+Taxes & Surcharges:         $ 24.45
+Amount Due:                 $ 186.98
+-----------------------------------------
+
+To avoid late payment charges of 1.5%, $186.98 must be received by 10/21/2021.
+
+ACCOUNT INFORMATION
+Account Number:    46306000258955
+Customer Name:     Kimberly Wilson
+Service Address:   8415 River Rd, Denver, CO 80201
+Billing Period:    10/14/2019 to 11/13/2023
+
+SUMMARY OF CURRENT CHARGES
+                DELIVERY    SUPPLY      OTHER       TOTAL
+Electric Service   $ 25.63  $ 72.81   $ 5.17   $ 98.73
+Other Charges   $ 1.99   -           $ 4.01    $ 12.61
+Total           $ 105.77  $ 80.59  $ 12.65   $ 186.98
+
+USAGE HISTORY (kWh)
+Current Period:  1334
+Last Period:     1927
+Same Period Last Year: 582
+
+Pay by phone: 1-800-957-3605
+Pay online:   pacificgasandelectric.com

@@ -1,0 +1,33 @@
+HORIZON BANK
+
+STATEMENT OF ACCOUNT
+
+Customer Name:   Lisa Taylor
+Customer ID:     524865
+Address:         8315 Oak Ave, Boston, MA 02101
+Account Number:  7086700900436551
+Account Type:    Checking
+Statement Date:  April 17, 2019
+Period Covered:  06/24/2022 to 05/17/2019
+
+Opening Balance:        19,508.34
+Total Credit Amount:    4,126.80
+Total Debit Amount:     8,552.96
+Closing Balance:        24,032.15
+
+Transactions
+-------------------------------------------------------------
+Date       Description                      Credit    Debit     Balance
+-------------------------------------------------------------
+05/27/2019  NSF Fee Reversal                       156.50                 19,666.18
+09/23/2018  Savings Transfer                                 2,191.50     21,857.68
+04/14/2022  Credit Card Payment                  1,226.13                 20,631.55
+01/25/2022  Bank Fee                                         1,858.09     22,489.65
+09/06/2019  Online Transfer                                  2,816.41     25,306.05
+02/28/2021  Mobile Deposit                       2,407.96                 22,898.09
+09/17/2023  Direct Deposit - Payroll                           381.55     23,279.64
+11/06/2022  Restaurant                           2,202.52                 21,077.12
+-------------------------------------------------------------
+
+Branch: Main Office
+SWIFT: SEQKUSIY

@@ -1,0 +1,23 @@
+United Community Bank
+4082 Oak Ave
+Springfield, IL 62701
+
+Account Statement for Laura Jackson
+Account No: 9251327195005281
+From March 16, 2019 To June 18, 2024
+
+12/13/2020  Interest Credit                       394.00 DR      11,786.12
+08/23/2021  Rent Payment                        1,798.34 DR       9,987.78
+04/19/2019  Rent Payment                        1,397.11 DR       8,590.67
+05/28/2024  Credit Card Payment                 1,467.48 DR       7,123.19
+02/17/2019  Gas Station                         1,113.50 CR       8,236.69
+06/15/2018  Bank Fee                              534.07 DR       7,702.62
+03/01/2022  Insurance Premium                     764.30 CR       8,466.92
+12/03/2023  Rent Payment                          485.19 CR       8,952.10
+11/16/2024  Rent Payment                          387.84 CR       9,339.94
+07/21/2020  Check Deposit                         573.43 DR       8,766.52
+01/27/2019  POS Purchase                        1,321.19 DR       7,445.32
+
+Note: This statement is computer generated and does not require a signature.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@unitedcommunitybank.com

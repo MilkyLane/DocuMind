@@ -1,0 +1,24 @@
+Valley National Bank
+4172 1st Ave
+Seattle, WA 98101
+
+Account Statement for Robert White
+Account No: 2890028772175354
+From January 17, 2019 To September 21, 2021
+
+10/15/2018  Restaurant                            893.94 DR      11,454.06
+08/24/2023  Direct Deposit - Payroll              246.23 DR      11,207.84
+09/18/2018  Online Transfer                       830.55 DR      10,377.28
+11/10/2022  Rent Payment                        1,926.71 CR      12,303.99
+06/12/2024  ATM Withdrawal                      1,346.23 DR      10,957.76
+06/18/2024  Credit Card Payment                 1,690.19 CR      12,647.95
+06/23/2021  Check Deposit                       1,436.15 CR      14,084.10
+01/11/2020  Savings Transfer                    1,321.23 DR      12,762.87
+09/12/2023  Check Deposit                         591.05 CR      13,353.92
+03/27/2023  Interest Credit                       336.67 DR      13,017.25
+10/07/2019  Check Deposit                         222.85 CR      13,240.10
+08/27/2024  Wire Transfer                         791.86 CR      14,031.96
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@valleynationalbank.com

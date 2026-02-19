@@ -1,0 +1,33 @@
+Coastal Federal Credit Union
+Amanda Taylor
+3870 1st Ave
+Boston, MA 02101
+
+Account Statement
+
+Account Number:    942104709521
+Account Type:      Savings
+Statement Period:  05/11/2023 to 07/06/2019
+Currency:          USD
+
+Opening Balance:   $ 3,077.12
+Closing Balance:   $ 11,018.45
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+05/27/2021  NSF Fee Reversal                                 2,493.11     13,579.31
+02/15/2018  Bill Payment - Electricity           2,612.49                 10,966.82
+11/24/2023  Subscription - Netflix                             684.59     11,651.41
+06/03/2024  Subscription - Netflix                           2,415.72     14,067.13
+08/12/2023  Interest Credit                      1,614.35                 12,452.78
+11/12/2018  Cash Withdrawal                                  1,757.83     14,210.61
+09/11/2022  ACH Credit                              84.82                 14,125.79
+08/23/2020  Savings Transfer                                 1,909.86     16,035.64
+01/10/2021  Check Deposit                          427.93                 15,607.71
+03/13/2021  Insurance Premium                    2,662.91                 12,944.81
+09/14/2022  Interest Credit                                  2,231.99     15,176.79
+-----------------------------------------------------------
+
+For questions call 1-800-524-2622 or visit coastalfederalcreditunion.com

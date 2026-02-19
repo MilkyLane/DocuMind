@@ -1,0 +1,30 @@
+Central Hudson Gas & Electric
+GAS BILL
+
+Bill Date:      04/04/2024
+Bill Month:     OCT-2018
+
+Customer Name:  Karen White
+Address:        1722 Sunset Blvd
+                Seattle, WA 98101
+Account No:     05377351585064
+Meter No:       53293183
+
+METER READINGS
+Current Reading:   92054
+Previous Reading:  81909
+Units Consumed:    10145 therms
+Derived Load:      8.32 kW
+
+CHARGES
+Fixed Charges:             $ 10.82
+Variable Charges:          $ 157.13
+Fuel Adjustment:           $ 12.04
+State Tax:                 $ 12.73
+Local Tax:                 $ 3.50
+-------------------------------------------
+Total Current Charges:     $ 295.69
+Amount Upto 30 days:       $ 296.63
+Amount Upto 60 days:       $ 194.36
+
+Due Date:       08/03/2023

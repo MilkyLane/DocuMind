@@ -1,0 +1,38 @@
+Liberty Bank
+Member FDIC
+
+George Thomas
+5546 Church St
+Memphis, TN 38101
+
+Business Checking Statement
+Account Number: 5339636057662702
+Statement Period: 09/19/2020 through 02/28/2024
+Page 1 of 3
+
+Account Summary
+Previous Balance:    $ 46,410.14
+Deposits/Credits:    $ 39,711.34
+Withdrawals/Debits:  $ 8,997.88
+Service Charges:     $ 49.01
+Ending Balance:      $ 39,664.67
+
+Transaction Detail
+03/14/2024  Savings Transfer                                    55.89      2,950.41
+05/11/2022  Refund Credit                                      233.74      3,184.15
+06/28/2023  Rent Payment                           250.14                  2,934.01
+12/25/2021  Rent Payment                           956.82                  1,977.19
+11/22/2020  ACH Credit                             214.58                  1,762.61
+02/25/2023  Refund Credit                                    1,307.57      3,070.19
+12/10/2018  ATM Withdrawal                                   1,336.60      4,406.78
+06/12/2021  Bill Payment - Electricity             177.80                  4,228.99
+11/26/2019  POS Purchase                         1,242.03                  2,986.95
+07/20/2023  ACH Credit                           1,832.38                  1,154.57
+04/15/2023  Mobile Deposit                       1,753.64                      0.00
+08/10/2023  Rent Payment                         2,003.85                      0.00
+06/19/2020  Savings Transfer                     1,330.77                      0.00
+08/28/2020  Wire Transfer                                    2,074.04      2,074.04
+02/08/2021  Utility Bill                                     2,561.47      4,635.51
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 10/28/2023

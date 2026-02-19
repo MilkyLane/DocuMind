@@ -1,0 +1,32 @@
+Western Power Services
+
+Utility Billing
+1183 Broad St • Portland, OR 97201 • Phone: (886) 852-1643
+GAS • SEWER • REFUSE
+
+Bill To: Matthew Davis
+1183 Broad St, Portland, OR 97201
+
+Account Number:       5736609656999880
+Route:                81
+Cycle:                7
+Bill Date:            09/04/2021
+Due Date:             08/27/2018
+
+                                            Total Current Charges   $ 169.35
+                                            Balance Forward         $ 0.00
+                                            Total Amount Due        $ 200.28
+
+Service Period    Days  Meter Number        Current Reading  Previous Reading  Usage
+01/07/2020 - 08/13/2020  29   2649082771   75760         67103           762 therms
+
+Service             Consumption   Charge       Total
+Gas-SINGLE UNIT   561 therms    $ 12.24   $ 50.83
+SEWER               153 therms    $ 44.71    $ 9.06
+REFUSE              --                  $ 16.34    $ 27.70
+
+Total Current Charges   $ 189.41
+Balance Forward         $ 0.00
+Total Amount Due        $ 74.44
+
+PAY ONLINE AT: westernpowerservices.gov

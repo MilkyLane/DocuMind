@@ -1,0 +1,26 @@
+Liberty Bank
+5277 Maple Dr
+Boston, MA 02101
+
+Account Statement for Donna Jones
+Account No: 1124115848
+From September 21, 2021 To January 01, 2024
+
+07/16/2023  Restaurant                          1,037.38 DR           0.00
+02/06/2022  Credit Card Payment                   264.43 CR         264.43
+01/26/2020  Gas Station                           723.15 CR         987.57
+05/28/2019  Savings Transfer                    1,439.37 DR           0.00
+12/04/2019  ATM Withdrawal                        161.52 CR         161.52
+12/25/2021  Car Loan Payment                      509.94 DR           0.00
+10/24/2021  Bank Fee                              697.98 DR           0.00
+06/27/2023  POS Purchase                          927.80 CR         927.80
+09/06/2020  Bill Payment - Electricity            536.81 DR         390.99
+04/17/2020  Mobile Deposit                      1,119.41 DR           0.00
+05/02/2018  Cash Withdrawal                     1,507.32 DR           0.00
+11/12/2020  Savings Transfer                      516.38 CR         516.38
+04/28/2018  Check Deposit                       1,482.14 DR           0.00
+12/15/2020  Bank Fee                              395.16 DR           0.00
+
+Note: Interest is calculated daily on the closing balance.
+Unauthorised transactions should be reported within 30 days.
+Contact us: customerservice@libertybank.com

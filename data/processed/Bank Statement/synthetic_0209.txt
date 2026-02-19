@@ -1,0 +1,30 @@
+Heritage Bank
+Carol Davis
+4693 Maple Dr
+Portland, OR 97201
+
+Account Statement
+
+Account Number:    45080959481526
+Account Type:      Savings
+Statement Period:  10/05/2020 to 06/19/2021
+Currency:          USD
+
+Opening Balance:   $ 8,242.96
+Closing Balance:   $ 16,962.67
+
+Transaction History
+-----------------------------------------------------------
+Date        Description                    Debit      Credit     Balance
+-----------------------------------------------------------
+05/05/2019  Insurance Premium                                   50.50      3,194.50
+02/09/2019  Subscription - Netflix                           1,769.62      4,964.11
+01/22/2020  Savings Transfer                     2,442.78                  2,521.34
+03/14/2024  Check Deposit                                      594.29      3,115.62
+05/07/2023  NSF Fee Reversal                       957.04                  2,158.59
+04/22/2024  Gas Station                          1,704.05                    454.54
+11/01/2018  Rent Payment                         2,883.54                      0.00
+08/17/2024  Insurance Premium                                2,195.30      2,195.30
+-----------------------------------------------------------
+
+For questions call 1-800-245-2970 or visit heritagebank.com

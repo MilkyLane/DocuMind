@@ -1,0 +1,31 @@
+Electric Bill
+
+Metro Power Co.
+Account Number: 3379337563
+Customer Number: 3950033423
+Service Address: 791 Lake Rd, Seattle WA 98101
+Tax Invoice  Issue Date: 07/06/2024
+
+This account is based on an estimated meter reading
+Electric account summary: 06/01/2022 to 02/05/2020
+
+Plan: Flat Rate
+Opening balance:                $ 252.86
+Payment received - thank you    $ -273.19Cr
+Balance carried forward         $ 0.00
+Current charges (inc. tax)      $ 47.56
+Total amount due                $ 283.88
+
+Due Date: 01/12/2018
+Total amount if paid after due date: $ 201.57
+
+Bill To:
+Robert Harris
+791 Lake Rd
+Seattle, WA 98101
+
+Electric Usage Summary
+Meter Reading:  24544 kWh
+Previous:       54352 kWh
+Usage:          530 kWh
+Days in period: 30

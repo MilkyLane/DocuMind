@@ -1,0 +1,30 @@
+Southern Electric
+ELECTRIC & GAS BILL
+
+Bill Date:      09/25/2019
+Bill Month:     JUN-2018
+
+Customer Name:  Joshua White
+Address:        7987 Broad St
+                Baltimore, MD 21201
+Account No:     320024968549
+Meter No:       03880653
+
+METER READINGS
+Current Reading:   72472
+Previous Reading:  59075
+Units Consumed:    13397 kWh / therms
+Derived Load:      2.70 kW
+
+CHARGES
+Fixed Charges:             $ 16.89
+Variable Charges:          $ 141.45
+Fuel Adjustment:           $ 7.54
+State Tax:                 $ 14.46
+Local Tax:                 $ 8.67
+-------------------------------------------
+Total Current Charges:     $ 182.85
+Amount Upto 30 days:       $ 120.63
+Amount Upto 60 days:       $ 123.39
+
+Due Date:       03/16/2020

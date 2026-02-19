@@ -1,0 +1,33 @@
+First National Bank
+Member FDIC
+
+Michael Johnson
+7811 Market St
+Baltimore, MD 21201
+
+Business Checking Statement
+Account Number: 8671773180632543
+Statement Period: 11/03/2018 through 08/22/2020
+Page 1 of 5
+
+Account Summary
+Previous Balance:    $ 69,819.38
+Deposits/Credits:    $ 28,262.32
+Withdrawals/Debits:  $ 22,644.57
+Service Charges:     $ 39.24
+Ending Balance:      $ 19,567.60
+
+Transaction Detail
+01/15/2021  Bank Fee                                         2,244.39     16,607.17
+03/26/2024  Insurance Premium                    2,112.37                 14,494.80
+01/28/2023  Online Transfer                                  2,114.67     16,609.47
+09/02/2020  Grocery Store                        2,075.34                 14,534.12
+10/18/2022  NSF Fee Reversal                                 2,097.18     16,631.31
+10/11/2023  ATM Withdrawal                       2,057.15                 14,574.16
+06/02/2018  Subscription - Netflix                           2,730.91     17,305.07
+06/12/2019  Savings Transfer                     1,861.21                 15,443.86
+12/25/2019  Bill Payment - Electricity                         210.35     15,654.21
+02/21/2021  Interest Credit                                    723.51     16,377.72
+
+Overdraft Protection: Enrolled
+Next Statement Date: 09/22/2021

@@ -1,0 +1,35 @@
+City Savings Bank
+Member FDIC
+
+Joshua Garcia
+2502 River Rd
+Indianapolis, IN 46201
+
+Business Checking Statement
+Account Number: 9656130876123859
+Statement Period: 06/25/2018 through 05/27/2019
+Page 1 of 2
+
+Account Summary
+Previous Balance:    $ 5,596.38
+Deposits/Credits:    $ 37,745.77
+Withdrawals/Debits:  $ 26,585.98
+Service Charges:     $ 37.67
+Ending Balance:      $ 45,896.50
+
+Transaction Detail
+05/28/2022  Mobile Deposit                       1,766.96                  6,807.78
+01/27/2019  Restaurant                                         131.28      6,939.06
+11/28/2022  Grocery Store                                       12.92      6,951.99
+07/03/2018  Check Deposit                                    2,722.94      9,674.93
+09/07/2018  Online Transfer                                  2,292.13     11,967.06
+06/27/2024  Direct Deposit - Payroll                         2,444.80     14,411.86
+09/02/2022  Savings Transfer                       208.01                 14,203.85
+10/03/2024  Interest Credit                        886.17                 13,317.68
+03/28/2023  Amazon Purchase                      1,364.88                 11,952.80
+08/21/2021  Savings Transfer                     1,751.56                 10,201.24
+04/21/2020  Mobile Deposit                       2,192.63                  8,008.61
+08/20/2020  Subscription - Netflix               1,490.85                  6,517.75
+
+Overdraft Protection: Not Enrolled
+Next Statement Date: 03/20/2019

@@ -1,0 +1,30 @@
+Central Hudson Gas & Electric
+WATER & SEWER BILL
+
+Bill Date:      12/06/2022
+Bill Month:     JUN-2022
+
+Customer Name:  Donna Moore
+Address:        9673 Sunset Blvd
+                Seattle, WA 98101
+Account No:     7622827728813770
+Meter No:       08215454
+
+METER READINGS
+Current Reading:   57230
+Previous Reading:  47921
+Units Consumed:    9309 CCF
+Derived Load:      4.80 kW
+
+CHARGES
+Fixed Charges:             $ 28.42
+Variable Charges:          $ 67.98
+Fuel Adjustment:           $ 4.97
+State Tax:                 $ 5.30
+Local Tax:                 $ 7.66
+-------------------------------------------
+Total Current Charges:     $ 30.56
+Amount Upto 30 days:       $ 177.84
+Amount Upto 60 days:       $ 54.93
+
+Due Date:       06/04/2022

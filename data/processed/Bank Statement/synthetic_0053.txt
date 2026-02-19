@@ -1,0 +1,32 @@
+City Savings Bank
+Member FDIC
+
+Matthew Williams
+3088 Hill St
+Portland, OR 97201
+
+Business Checking Statement
+Account Number: 9749735020802144
+Statement Period: 03/23/2021 through 12/01/2019
+Page 1 of 3
+
+Account Summary
+Previous Balance:    $ 16,699.17
+Deposits/Credits:    $ 35,557.02
+Withdrawals/Debits:  $ 25,937.00
+Service Charges:     $ 14.80
+Ending Balance:      $ 7,219.24
+
+Transaction Detail
+05/26/2024  Restaurant                           1,032.32                  2,830.67
+01/11/2018  Bank Fee                                         1,396.42      4,227.09
+07/03/2022  Restaurant                                         177.55      4,404.64
+05/27/2021  Direct Deposit - Payroll             2,688.14                  1,716.50
+04/13/2024  Gas Station                          2,306.76                      0.00
+04/15/2023  Bank Fee                             2,983.66                      0.00
+04/16/2021  Cash Withdrawal                      2,001.36                      0.00
+03/21/2023  ATM Withdrawal                                   2,809.28      2,809.28
+02/09/2021  Savings Transfer                                 1,653.24      4,462.53
+
+Overdraft Protection: Enrolled
+Next Statement Date: 06/01/2019
