@@ -1,0 +1,9 @@
+XXXNXXNXNNNXNN,
+
+Bill Date 26-Jun-2009
+
+Bill Month: JUN-2009 LPSC for 30 days or Part : 96.64
+
+Amount Upto 30 days: 6530.00 Amount Upto 60 days : 6630.00
+
+Derived Connected Load / Max MDI 4.00 KW

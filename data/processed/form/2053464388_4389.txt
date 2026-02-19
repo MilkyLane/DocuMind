@@ -1,0 +1,47 @@
+CUSTOMER COMPLAINT
+SOURCE = WAREHOUSE / DISTRIBUTOR
+
+SECTION ONE.
+
+(A) Nature of Complaint ~ Problem Identified:
+(1) How/When problem was found :
+
+(2) Brand affected:
+3) Complaints related to :
+
+(4) Observed Quantity:
+(5) Unusual Conditions Oberserved:
+
+(B) Codes
+(1) Case Carton:
+(2) Carton End:
+
+(C) Iaventory Status
+
+(1) Product on Hold pending resolution ?
+| (2) Product Distributed?
+
+(Number of Outlets Affected)
+
+(D) Representative Sample Provided
+(1) Randomly selected/Systematic Sampling
+
+Retailer 04/90
+Parliament 100 sP/100 Box
+Packaging
+
+NA
+
+NA
+
+Individual Packs collecte
+from Retailer
+
+Submitted By: A.C. Foo
+
+Date of Submittion: 04/90
+
+SSEFIFESOS
+
+Prepared By: Oebel Harmsna
+Approved By: Sem

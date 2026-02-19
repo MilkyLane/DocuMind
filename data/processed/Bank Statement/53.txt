@@ -1,0 +1,14 @@
+BANK STATEMENT
+
+Select Bank : [iCICI BANK -KANLANAGAR Ghange | Transaction|pePosit |v]
+From Date :[0204-2017 | Te Date : [12042017 avant
+
+Less than
+
+Date Description Deposits | Wiharawis FEqualto
+i Not Equal to
+
+[Greater than & equal
+10-04-2017 Pant Prt Cr int 300.00 113|Less than & equalto _|
+[07-04-2017 Ret. No. 055444 Cash deposit 770000.00 1132000.00|Cr
+[02-04-2017 |Ref, No. 015818 5000.00] 1122000.00)Cr

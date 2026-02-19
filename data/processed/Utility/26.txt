@@ -1,0 +1,30 @@
+GAS CHARGES Amounts)
+
+Baseline
+
+Thermsused 7
+
+RatemTherm — $1.43201
+
+Charge $10.02 = 10.02
+
+Gass Energy Rate Change This Billing Period:
+There was a rate change on day 28 of your Billing Period. Therefore, your charges forthe first 27 days
+were at Rate 1, and the remaining 3 days were at Rate 2.
+
+6 Therms
+Thermsused 6
+RaterThem — $.83668
+zr ot30Days $5.02 = 5.02
+Gas Energy Charge (Details below) 1 Therms
+Thermsused 1
+Ratettnem —$.60727
+3ot30Days $.61 = ry]
+Total Gas Charges $15.65
+Amounts)
+City of San Diego Franchise Fee Differential 15.65 x 1.03% 16
+Public Purpose Programs 7 Therms x $.095570 67
+State Regulatory Fee 7 Therms x 04
+Total Taxes & Fees on $.87
+
+Total Gas Service $16.52

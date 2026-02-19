@@ -1,0 +1,16 @@
+‘O' 060
+ONERE Bank Account Statement
+
+[Company Slogan]
+
+[Company Name] DATE: [CLICK TO SELECT
+[Street Address, City, ST ZIP Code] DATE]
+[phone] [fax]
+[email]
+OPENING BALANCE CLOSING BALANCE
+9999 9999
+DESCRIPTION DEBIT CREDIT TOTAL
+
+Finance charge on overdue balance at 1.5%
+
+TOTAL

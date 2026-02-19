@@ -1,0 +1,45 @@
+@icici Bank BANK STATEMENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+
+Account Balance
+
+FD Link
+
+Total Balance
+
+Nomination
+
+ACCOUNT STATEMENT.
+
+TanDate | ValueDate | Description |RefNo/ChequeNo] Debit | Credit | Balance
+t2ian2019] 02442038 | y00000K rooonex — | so00% | 2000 | 000000
+J sosan2039] sosm2ose | >o0000ex rooo00e | soon | 20000 | oo.c00e
+451an2019| 15,an2019 | 000000 rooonox | 008K | 0000 | 000000
+20;2n2019) 20142039 |  »90000o rooonox | so0.c | 2000 | 2000000
+| 251anz019] 251an2039 | >oo0000« roan | soon | 2000 | 1000000
+REWARD POINTS SUMMARY.
+
+Savings Account number
+
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+
+MICR
+IFSC

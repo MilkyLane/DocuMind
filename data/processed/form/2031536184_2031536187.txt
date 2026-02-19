@@ -1,0 +1,51 @@
+Phitip Moris USA
+Industrial Hygiene
+
+STRESS CHARACTERIZATION
+—=
+1, IDENTIFICATION
+City Plant Exposure Zone
+Location: Bats me_ws Oe. Aen* Ss 3
+1 8
+Year Month Day Identification # Omit
+
+‘Sample Sa:08) ads _ ASH =
+Number: 16 18 20 22 80
+
+ll, JOB CLASS REPRESENTATION carp 2 +
+Employee's Name: Last First. MI
+
+ss#: J ——J ———~J JobCode ____
+28 37 ©
+
+Representation: Representative (A)Unusual-U RI
+
+a
+If R, other representative job codes: ———— |
+= fcc a io \
+47 51 55 59
+Shifts: Day -(AyEvenings - B, Graveyard - C, Novel-N GecN
+|
+a
+
+‘Note —Representative monitoring will be assigned to ail individuals with the job code listed and the
+exposure zone specified. Unusual monitoring results will only be assigned to individuals speci-
+fied. For representative monitoring all appropriate shifts will be specified.
+
+Ml, JOB CHARACTERIZATION carp 2 2
+
+‘Job Type: Routine/Normal! Infrequent/Variable-V
+‘Start-Up Upset/Abnormal -A Bw
+Batch
+
+Job Frequency: ‘Times/Month Taod ine Ta
+
+(it Appropriate, EG: Batch, Variable) eee ere “ABO
+FE 32
+| Job Description: (Include Machines)
+: BB teres Eucnxce Bra Overs they j
+
+35-70
+
+2031536184 — soso
+et

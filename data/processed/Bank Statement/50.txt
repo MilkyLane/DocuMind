@@ -1,0 +1,149 @@
+09160 Bank Statement Entry
+
+Tools Help
+
+ORACLE 4p Edwards World
+
+Field Sensitive Help
+Display Error Message
+Display Functions
+
+Exit Program
+
+Details
+
+Recalculate Totals
+|Additional Selections
+Toggle Incomplete Line
+Go To Last Detail Reco
+Customer Ledger Inquiry
+Supplier Payment inquir
+Position Cursor ta Actior
+Previous Statement
+Next Statement
+Prompt All Detail Recon
+Clear Screen
+
+ag16a
+Rotion Code
+
+Bank Recount
+Statenent Nunber
+Lines entered
+Beginning Balance
+Ending Balance
+Renaining Amount
+Skip to Seq Nun
+
+TR usb
+op Rnount
+
+ATE
+
+B
+
+Email
+
+Bank Statenent Entry
+
+REET
+
+BEAR
+
+150, 000.00
+
+7,038.82
+
+Value
+Date
+
+G/L
+Date
+
+Statement Date
+Default G/L Date |as7eeAT
+
+inemrpilote frenecetacre Fa
+
+Teel Cae 4,936.67
+
+Total Withdravat 161,977.49
+
+Batch Nunber 614324
+
+Entry Node ia
+
+Pnt/Ropt Foreign
+Nunber Rnount
+
+i
+
+as /aa/i7
+
+as /aa/i7
+
+1232100
+
+cK
+
+aevia/i7
+
+aevia/i7
+
+74208
+
+cK
+
+ae/is/i7
+
+ae/is/i7
+
+74211
+
+aevav/ir
+
+aevav/ir
+
+852531
+
+cK
+
+asvia/i7
+
+asvia/i7
+
+75112
+
+ve
+
+aera
+
+aera
+
+1232001
+
+DF
+
+asvia/i7
+
+asvia/i7
+
+44235
+
+oR
+
+asvia/i7
+
+asvia/i7
+
+372521
+
+DR
+
+jas/2a/a7
+
+jas/2a/a7
+
+85321
+
+AsDetail SDelete F8=Inconplete FLast Record F21=Select ALL F24=Nore

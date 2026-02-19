@@ -1,0 +1,163 @@
+BMO © Financial Group
+
+Statement
+
+Account Name: MR JOHN DOE — Card Number:
+Company Name: 408 Queen St W, Account Limit:
+
+Toronto, ON
+
+MSV 2A7
+
+Employee ID: 08/11/2019
+Statement Date (MM/DD/YYYY): Currency:
+Statement Summary:
+Report any items which do not agree with your records Payments:
+within 30 days of the statement date. Adjustments:
+
+Net Purchases:
+Cash Advance:
+Fees:
+
+Other Charges:
+
+New Account Balance:
+
+For your records only. No payment required.
+
+Transaction Summary:
+
+Posting Date
+Trans Date Trans ID Description
+
+o76 o7/t7 FEDEX 775671220714 MEMPHIS TN
+301000873
+
+O76 o7t7 ZIPRECRUITER, INC. 8557475493 CA
+301000874
+
+o76 o7/t7 USPS POSTAGE STAMPS.C 888-434-0055 CA
+301000875
+
+07/20 07/22 BENCHMARK EDUCATION CO NEW ROCHELLE NY
+301776100
+
+0727 07/29 BATH AND BODY WORKS 50 BROOKFIELD WI
+302892881
+
+07/30 07/30 AMZN MKTP US MAOPS94J0 AMZN.COM/BILL WA
+303042904
+
+08/03 08/05 NATIONAL CRIME SEARCH 888-527-3282 AR
+303978185
+
+08/04 08/05 ZIPRECRUITER, INC. 8557475493 CA
+303978184
+
+08/06 08/07 AMAZON.COM MA71N28H1 AMZN.COMIBILL WA
+304255288
+
+08/06 08/07 SQ SQ KC PHONE GUYS GOSQ.COM MO
+304255287
+
+08/07 08/07 AMAZON.COM MAOTG7GSO AMZN.COM/BILL WA.
+304255289
+
+08/07 08/08 AMZN MKTP US MA3QL5742 AMZN.COMIBILL WA
+
+304453307
+
+Pre-Tax Amount
+Auth #
+
+$11.10
+02347Z
+
+$ 449.00
+00160Z
+$ 100.00
+031222
+$ 3,645.83
+08461
+$91.20
+03581
+$ 149.80
+04401
+$ 151.52
+01996E
+$ 449.00
+09731
+$82.61
+05939E
+$ 408.66
+02564
+$29.47
+03767E
+$ 149.94
+05048E
+
+@ Bankstatements.net
+
+XXXX-XAXX-XXXK= 1234
+
+$ 30,000.00
+
+U.S. DOLLAR
+
+$0.00
+$ 0.00
+$ 5,946.75
+$0.00
+$0.00
+$0.00
+$ 5,946.75
+
+Total Tax Trans Amount
+
+$0.00
+
+$0.00
+
+$0.00
+
+$ 204.17 (e)
+
+$ 4.65 (e)
+
+$0.00
+
+$8.48 (e)
+
+$0.00
+
+$8.34 (e)
+
+$0.00
+
+$2.98 (e)
+
+$0.00
+
+$11.10
+
+$ 449.00
+
+$ 100.00
+
+$ 3,850.00
+
+$95.85
+
+$ 149.80
+
+$ 160.00
+
+$ 449.00
+
+$90.95
+
+$ 408.66
+
+$32.45
+
+$149.94

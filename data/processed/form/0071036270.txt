@@ -1,0 +1,58 @@
+qa)
+(2)
+a)
+(4)
+(5)
+(6)
+ay
+(8)
+(9)
+(10)
+a4)
+(22)
+(43)
+
+(14)
+{15)
+(26)
+(17)
+(ety)
+(ag)
+(20)
+(22)
+(22)
+(23)
+
+CIGARETTE REPORT FORK
+
+YEAR COVERED: 1988
+(check if
+BRAND FAMILY NAME: AMERICAN Filter GENERIC:___ generic)
+VARIETY DESCRIPTION: __100's, Filter
+PRODUCT LENGTH: 100"
+FILTER: x NON-FILTER: (check one)
+VENTILATED: _X NON-VENTILATED: (check one)
+HARD PACK: SOFT PACK: x (check one)
+MENTHOL: NON-HENTHOL: _X OTHER: (check one)
+NUMBER PER PACK: 20's
+TAR: 17 mq stconaes olde cor __15 og
+
+VARIETY UNIT SALES:
+
+VARIETY DOLLAR SALES:
+FIRST SALES DATE: ___ 10/3/88 _ LAST SALES DATE:
+
+REPORTABLE EXPENDITURES
+CAT-A-EXPENSES (Newspapers);
+CAT-B-EXPENSES (Magazines):
+CAT-C-EXPENSES (Outdoor):
+CAT-D-EXPENSES (Audio Visual):
+
+CAT-E-EXPENSES (Public Transport.) :
+CAT-F-EXPENSES (Direct Mail):
+CAT-G-EXPENSES (Point of Sale): ‘
+CAT-H-EXPENSES (Promotional Allowances);
+
+CAT-I-EXPENSES (Sampling):
+
+CAT-J-EXPENSES .( Items)

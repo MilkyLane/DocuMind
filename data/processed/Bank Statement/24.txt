@@ -1,0 +1,31 @@
+Resource 5
+
+BBB
+Big Bank of Bucks Statement Date: 30" June 2015
+Account Information
+Adama Amad For 1st June — 30th June 2015
+102, 345 6th Street SW
+Tall Trees, AB Account Number: 201301401
+TOT OTO
+
+Branch Number: 001002
+Opening Balance: $ 234.50
+Closing Balance: $1,990.72
+Transactions
+Date Description Withdrawals Deposits
+1* June Cafeteria $ 9.75
+3¢ June City Bus Company $ 75.00
+g*June Mr. K's Groceries $ 38.78
+11" June ATM Withdrawal (GGG Bank) $ 60.00
+11" June ATM Withdrawal Fee $ 1.50
+15" June Direct Deposit Payroll $1,432.05
+15" June Monthly Account Fee $ 12.99
+16" June ATM Deposit $ 90.00
+25" June —- Mr. K's Groceries $ 124.86
+30" June Direct Deposit Payroll $1,432.05
+30" June Personal Cheque Memo: Rent = $ 875.00
+
+Financial ESL Literacy Toolkit
+Banking globalaccess.bowvalleycollege.ca | © Bow Valley College, 2016 264
+
+caLIVEWORKSHEETS

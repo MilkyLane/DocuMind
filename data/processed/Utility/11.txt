@@ -1,0 +1,76 @@
+@ LPA- Rate 180- Residential, General Use
+
+ELECTRIC USAGE Meter # 00000000
+@ 0927/2012 ACTUAL reading 56021
+08/30/2012 ESTIMATED reading -55150
+KWH Used in 28 day(s) 871
+
+ELECTRIC USAGE HISTORY (kWh)
+ca
+0 &
+
+2400
+
+1600}
+
+800)
+°
+
+SONDJFMAMJJAS
+zo |) 5" “ a012
+
+Actual Reading 0 Estimated Reading
+Average Dail
+
+Days “kWh Cost Temp.
+
+Current Month 2 8631 $623 70,
+
+Last Year 3180 $ 101270
+
+DELIVERY & SYSTEM CHARGES @)
+
+Basic Service : 28 day(s) @ $ 3600
+233 KWH @ $ 0857
+
+638 KWH @ $ 0975
+
+Subtotal
+
+POWER SUPPLY CHARGES
+871 KWH @ $ 073089
+
+Efficiency & Renewables Charge
+871 KWH @ $ 006246
+
+OTHER CHARGES
+
+NY State Assessment
+Revenue-Based PILOTS
+
+Suffolk Property Tax Adjustment
+Sales Tax @ 25%
+
+Subtotal
+
+Total Charges
+
+$ 10.08
+19.97
+
+62.21
+
+92.26
+
+63.66
+
+5.44
+
+1.97
+3.66
+3.33
+4.26
+
+13.22
+
+$174.58

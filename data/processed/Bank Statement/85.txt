@@ -1,0 +1,39 @@
+® Bonkstatements.net
+
+i] monzo Statement
+
+01/11/2020 - 16/11/2020
+
+Mr John Doe £86.69
+
+20 Sherwood St, Total balance
+London W1F 7ED (ncn pots
+
+United Kingdom £86.69
+
+Balance held with Monzo
+
+£0.00
+
+Balance held with Paragon
+
+£192.58
+
+Total outgoings
+
++£271.00
+
+Total deposits
+
+Sort Code: 04-00-04
+
+‘Account Number: 123456789
+Date Description (GBP) Amount (GBP) Balance
+16/11/2020 SAMUEL CLEMENTS (Faster Payments) 80.00 86.69
+15/11/2020 SumUp *walhong chines sheffield GBR -18.50 6.69
+15/11/2020 SAINSBURYS SACAT 4468 SHEFFIELD GBR -1.30 25.19
+14/11/2020 DRINKS STOP SHEFFIELD GBR 0.78 26.49
+19/11/2020 __LIDL GB SHEFFIELD SHEFFIELD GBR “11.68 27.27
+13/11/2020 _LIDL GB SHEFFIELD SHEFFIELD GBR. -30.36 38.95
+
+19/11/2020 SAMUEL CLEMENTS (Faster Payments) 60.00 69.31

@@ -1,0 +1,33 @@
+INBIFO Institut far biologische Forschung - Kéin
+20 Sep.00 NDAIMWO FAMWOIQAICHECKS\300013364.D0C
+
+vA
+
+UBERPRUFUNG VON P 0500/3364 DURCH QA SEITE-NR:: 1 von 2
+
+TITEL: Determination of Aluminum (Al), Cadmium (Cd), Chromium (Cr), Lead (Pb),
+Nickel (Ni), and Arsenic (As) in Mainstream Smoke Condensate of the
+Cigarettes 1R4F, 1R5F, and VIRGO-CA
+Project PROFILE
+(PT)
+
+PRUFZEITPUNKT: 19.Sep.2000
+
+UBERPRUFTER PARAMETER BEANSTANDUNG
+
+Kondensatgewinnung
+Study Plan, Study Plan Amendments keine
+SOPs
+Abrauchen der Zigaretten (VIRGO-CA)
+Wagung des Impaktors
+Protokollfahrung
+Etikettierung
+Geratebuch
+
+BEMERKUNG: Studie nach den GLP-Grundsatzen des ChemG
+
+2
+
+i 20.Sep.2000
+
+Qa: DATUMIZN

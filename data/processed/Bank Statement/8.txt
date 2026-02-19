@@ -1,0 +1,46 @@
+‘Account Number: 1111111
+Sort Code: 16-10-00
+
+BIC: RBOSGB2L
+
+SELECT ACCOUNT IBAN: GB11RBOS 1610 0011 1111 11
+
+Statement
+
+MR TEST TESTER
+‘CURRENT ACCOUNT
+
+Branch Details 22 Oct 2014 to 21 Dec 2014
+
+{Previous Balance £1803.90
+
+‘Paid Out £2,684.10
+
+BRIGHT FORWARD 1803.90
+
+2 Oct 2014 AUTOMATED PAY IN 65027405121 1-CHB 190.40
+fee Oct 2014 DIGITAL BANKING SALE REFNO. 3442, FROM A/C 140.00
+Faster Payment ‘Amazon 132.30
+BACS Tejay Trading Co. 515.22
+Faster Payment Morrisons Petrol 80.00
+BACS Business Loan 20,000.00
+BACS James White Media 2,461.55
+7 Oct 2014 Faster Payment ATM High Street 400.00
+
+Ore BACS ‘Acorn Advertising Studies 150.00
+OHA. BACS Marriott Hotel 177.00
+oi Faster Payment Abellio Scot rail Ltd 122.22
+ote cHQ Cheque 0000234 4,200.00
+
+1 Dec 2014 Int. Bank Interest Paid 9.33
+
+1 Dec 2014 DD. OVO Energy 2470.00
+
+1 Dec 2014 BACS Various Payment 10,526.40
+1 Dec 2014 BACS HMRC 1,000.00
+1 Dec 2014 DD DVLA 280.00
+
+Balance Received Forward
+
+Royal Bank of Scotland Plc. Registered Office, The Mound, Edinburgh EH1_1YZ. Registered in Scotland number SC327000
+‘Authorized by the Prudential Regulation Authority and regulated by the Financial Conduct and the Prudential Regulation authority.

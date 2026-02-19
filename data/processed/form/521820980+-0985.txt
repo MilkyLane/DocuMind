@@ -1,0 +1,46 @@
+003-02
+
+ld 123.4
+Recld 34
+ANALYTICAL DATA SUMMARY
+
+‘NCI Contract No. NO2-CB-77022-75 bea)
+Dr. Shantu Amin, Principal Investigator
+
+COMPOUND: N-Nitrosoguvacoline (Methyl N-nitroso-1,2,5,6-tetrahydro-3-pyridine-carboxylate)
+FORMULA: C7Hio03N2
+FORMULA WEIGHT: 170.17
+
+STRUCTURE:
+om
+to
+ANALYTICAL HPLC:
+Instrument: Waters Associates Mode! 990M Photodiode Array System
+Column: Vydac Cys reverse phase column, Sym, 4.6 x 250 mm
+‘Mobile Phase: Initial:100% HO, Final: 40% MeCN’ in 30 min.
+FlowRate: 1,0 mLimin
+Detector: Waters Associates Model 990 PDA Detector
+Analysis: 26.87 mim, N-nitrosoguvacoline
+Purity: > 99%.
+‘Trace Attached
+UV/VIS SPECTRUM:
+
+UVVIS spectrum was taken on Water Associates Model 990 PDA System on-
+line,
+
+Trace Attached.
+NMR SPECTRUM:
+
+Solvent: CDCI3.
+Trace Attached.
+
+MASS SPECTRUM:
+
+zs
+
+Method of Ionization: Electron Ionization.
+Trace Attached,
+
+860 ze
+
+2DATAS

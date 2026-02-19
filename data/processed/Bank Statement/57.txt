@@ -1,0 +1,26 @@
+Santa Monica, CA 90403
+CITIZENS | fistcitizensbark@domain.com ‘STATEMENT OF ACCOUNT
+BANK
+
+‘Account Number: 111-234-567-890
+‘Statement Date: mm/dd/yyyy Page 1 of 1
+Period Covered: mm/dd/yyvy to mm/dd/vyvy
+
+John smith Opening Balance: 175,800.00
+2450 Courage St, STE 108 Total Credit Amount: 510,000.00
+Brownsville, TX 78521 Total Debit Amount: 194,000.00
+Closing Balance: 591,800.00
+-<Branch Name> ‘Account Type: Current Account
+Number of Transactions: 8
+Transactions
+Date Description ‘credit Debit Balance
+mm/dd/yyyy Payment - Credit Card 5,400.00 170,400.00
+mm/dd/yyvy Payment - Insurance 3,000.00 167,400.00
+mm/dd/yyyy Account Transfer in 500,000.00 667,400.00
+mm/dd/yyyy Cheque Deposite 110,000.00 677,400.00
+mm/dd/yyyy Payment - Electricity 1,500.00 675,900.00
+mm/dd/yyyy Payment - Water Utility 600.00 675,300.00
+mm/dd/yyyy Payment - Car Loan 3,500.00 671,800.00
+mm/dd/yyyy Account Transfer Out 80,000.00 591,800.00
+
+— End of Transactions —

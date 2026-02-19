@@ -1,0 +1,45 @@
+— <PHSBC pskincwirh HSBC INVESTMENT BANK PLC.
+Current account statement
+Account Nae” Me Nikitin aki Summary for Account Balance 2000.
+Transfer Received 510,201,000
+Tai €8,000,000
+
+lof 2 Gar UMAS as 1053 oZZSH
+Cost of Transfer one
+
+Transactions
+Date Description Details Paid In Pransfer Balance
+
+Start balance 600,201,000
+
+1Sept. Bill payment from 201053 90168238 On-Line Banking, 50,250,000 49,951,000
+Ref Sade
+
+9Sept. Payment from West Mtge Payt On-line Banking 20,150,000
+Ref: 0015879054
+
+1
+19 Sept Withdrawal at Barclays, Rotherhithe Cash Debit 611,801,000
+Timed at 12.03 on 19 Sept
+
+21 Sept. Transfer from Sort Code 20-10-53 On-line Banking 102,000,000 509,801,000
+Account 102,000,000
+
+Transfer from Sort Code 20-105: On-line Banking 200,000.00 509,601,000
+Account 200,000.00
+
+Received from Walsall NHS Trust Bank Gori Credit 30,600,421 179,000,579
+Ref: 30500:
+
+20et. Withdrawal at Barclays, Four Oaks 69,000.00 478.940,579
+Timed at 18.36
+
+9 Oct. Bill payment from Barclays, Four Oaks 32,000,560 0,941,139
+Ref: 49294338671 72002
+19. Nov. Withdrawal at Nat west Hill Ra Cash Debit 5,000,000 560,416,579)
+
+Bef: 8320300761
+
+\d balance 502,941,139
+
+Correspondence Hsbe bank ple Sort Code 20-10-53 Statement pages 220

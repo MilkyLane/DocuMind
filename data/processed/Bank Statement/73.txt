@@ -1,0 +1,63 @@
+390_041 - 0199447 HRI - 00 - 2-171 - 10-
+
+25:
+
+RBPDA10020_26:
+
+c Royal Bank of Canada
+P.O. Box4047 Terminal A
+RB Toronto ON MSWILS
+RBPDA10020_2625390_041 E D 002 02064
+Mr. John Doe
+408 Queen St W,
+Toronto, ON
+MSV 2A7
+
+§@ Bankstatements.net
+
+Your RBC personal banking
+account statement
+
+From April 2, 2019 to May 2, 2019
+00147
+
+Your account number: 123456789
+
+How to reach us: 1-800 ROYAL® 1-1
+(1-800-769-2511)
+www.rbcroyalbank.com/deposits
+
+Summary of your account for this period
+
+RBC Day to Day Banking™ 02064-123456789
+
+Royal Bank of Canada
+11805 BRAMALEA RD, BRAMPTON, ON L6R 3S9
+
+Your opening balance on April 2, 2019
+Total deposits into your account
+
+$5,575.83
++ 4,263.31
+
+Total withdrawals from your account 139.80
+Your closing balance on May 2, 2019 = $1,699.34
+Details of your account activity
+Date Description Withdrawals ($) Deposits ($) Balance ($)
+Opening Balance 5,575.83
+3 Apr e-Transfer - Autodeposit 700.00 6,275.83
+Misc Payment Lyft 04-02 Wkly 204.97
+Online Banking payment - 1602
+RBC MASTERCARD 400.00
+Online Banking payment - 1240
+VISA TD BANK 500.00 5,580.80
+4 Apr Interac purchase - 0771 PHOENIX PHARMAC 52.54 5,528.26
+Contactless Interac purchase - 6768
+SUBWAY # 31897 23.26 5,505.00
+5 Apr e-Transfer - Autodeposit 125.00 5,630.00
+8 Apr Interac purchase - 0994 NIKE FACTORY OU 384.80 5,245.20
+Online Banking payment - 0306
+RBC MASTERCARD 500.00
+Online Banking payment - 3022 Eowa0
+
+10f4

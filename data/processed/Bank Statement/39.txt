@@ -1,0 +1,59 @@
+GE 231 Valley Farms Street
+( | Santa Monica, CA
+eS bnibank @domain.com
+
+CUSTOMER NAME
+John Smith
+
+ADDRESS:
+2450 Courage St, STE 108
+Brownsville, TX 78521
+
+OPENING BALANCE TOTAL CREDIT TOTAL DEBIT CLOSING BALANCE
+10,895.92 22,032.72 1,249.95 31,678.69
+
+Reference Transaction Description
+mmidd/yyyy 0302432 — Account Interest
+mmidd/yyyy 0302433 Branch Deposit
+mmidd/yyyy 0302434 — Branch Deposit
+mmidd/yyyy 0302435 Branch Deposit
+mmidd/yyyy 0302436 Branch Cheque - MC Kean & Park
+mmidd/yyyy 0302437 Cost of Bank Cheque
+mmidd/yyyy 0302438 Branch Deposit
+mmidd/yyyy 0302439 ~~ FED Bank Account Debits Tax
+mmidd/yyyy 0302440 ~~ VIC FID Charge
+
+geareo ov
+
+TemplateLAB
+
+Statement of Account
+
+Personal Current Account
+
+BRANCH NAME
+
+<Branch Name>
+
+CARD NUMBER
+2547-96574-2541-4004
+ACCOUNT NUMBER
+1234567890
+
+PERIOD PAGE
+mmi/dd/yyyy 1 of 1
+
+Credit Debit Balance
+10,875.97
+20,000.00 30,875.97
+30,275.97
+29,645.97
+1,430.00 31,075.97
+100.00 31,175.97
+500.00 31,675.97
+1.05 31,677.02
+1.67 31,678.69
+
+22,032.72 1,249.95 31,678.69
+
+© templatelab.com

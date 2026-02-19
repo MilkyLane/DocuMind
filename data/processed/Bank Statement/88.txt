@@ -1,0 +1,56 @@
+FINANCE BANK
+
+0987 Second Street, Austin, TX 12345-6789
+1-000-222-3456
+
+Photography Business, LLC Account Name: Photography Business, LLC
+Mr. Bean Lasso Account Number: 0000000098765,
+
+123 Abraham Street Account Type: Checking
+
+Austin City, Tx 12345-6789 Statement Period: 06/01/2022 to 06/30/2022
+
+111-222-3333
+
+ACCOUNT SUMMARY
+
+Balance on June 1: $34,572.23
+Total money in: $12,193.75
+Total money out: $ 9,254.52
+Balance on June 30: $37,511.46
+
+DESCRIPTION WITHDRAWAL EPOSIT BALANCE
+
+Previous Balance 34,572.23
+06/01 Rent Bill 670.00 33,902.23
+
+Check No. 3456
+26/03 payment from Nala Spencer 740.00 34,642.23
+
+06/08 Electric Bill 347.85 34,294.38
+
+06/13 Phone Bill 75.45 34,218.93
+
+06/15 Deposit 7,245.00 41,463.93
+Debit Transaction
+
+06/18 Photography Tools Warehouse 339.96 41,123.97
+
+06/24 Deposit 3,255.00 44,378.97
+
+06/25 Internet Bill 88.88 44,290.09
+Check No. 0231
+
+06/28 Payment from Kyubi Tayler 935.00 45,225.09
+
+06/29 Payroll Run 6,493.65 38,731.44
+Debit Transaction
+
+06/30 picture Perfect Equipments 1,234.98 37,496.46
+
+06/30 Interest Earned 18.75 37,515.21
+
+06/30 Withholding Tax 3.75 37,511.46
+Ending Balance 37,511.46
+
+TAIFEINANCE

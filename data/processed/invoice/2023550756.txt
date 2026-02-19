@@ -1,0 +1,40 @@
+pate, Oct. 3 1990 i
+
+‘VOUCHER:
+
+VOUCHER
+| payee: Medical College of VA Foundation SPECIAL INSTRUCTIONS: _Oct 9 1990
+| Box 287
+| Richmond, VA 23298
+|
+| COST CENTER
+i Grant for Dr. P. Guzelian (1 of 4 quarterly :
+| payments for third year of five years) 9301-470 $25,000.00
+prepareo sy: Nancy Peters CHECK DATE DUE
+Location: OC Extension; 2693 ‘APPROVED:
+
+INSTRUCTIONS:
+
+This form should be used for payment requests not normally requiring @ purchase order (i.e. travel advances, dues,
+subscriptions, certain consulting services, seminars, charitable contributions, miscellaneous other non-recurring
+expenses).
+
+‘Supporting documents shouldbe attached and appropriate monetary approval obtained before forwarding the top copy of
+this payment request to Cash Disbursements - Finance Center.
+
+i Payee: Who the check should be made out to (employee name or complete name of vendor with mailing address).
+Special Instructions: Any special handling instructions or return check to location
+
+i Explanation of Payment: Reason for payment,
+Cost Center to be charged: Enter the cost center number to be charged.
+$ Amount: Amount Due.
+Prepared by /Location / Extension: Individual to be contacted if questions arise
+
+Check Date Due: Indicate specific date check is required to be paid or returned (allow at least 4 workdays for check
+preparation and mailing),
+
+Approved: Individual with appropriate monetary approval for the type of expense and cost center to be charged.
+
+KEEP THIS COPY FOR YOUR RECORDS
+
+9szossez02

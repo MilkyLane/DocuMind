@@ -1,0 +1,54 @@
+ENERGY STATEMENT
+
+www.pge.com/MyEnergy
+
+Details of PG&E Electric Delivery Charges
+08/02/2019 - 08/31/2019 (30 billing days)
+
+Service For: 12345 ENERGY CT
+Service Agreement ID: 111411111
+Rate Schedule: E1 X Residential Service
+
+07/02/2019 - 07/31/2019 YourTierUsage| 1 | 2
+Tier 4 Allowance 297.00 kWh (30 days x 9.9 kWhiday)
+
+Tier 1 Usage 297.000000 kWh @ $0.22376 $66.46
+Tier 2 Usage 83.000000 kWh @$0.28159 23.37
+Generation Credit 44.68
+Power Charge Indifference Adjustment 10.26
+Franchise Fee Surcharge 0.25
+Total PG&E Electric Delivery Charges $55.66
+
+Account No:
+Statement Date:
+Due Date:
+
+Service Information
+Meter #
+
+Current Meter Reading
+Prior Meter Reading
+Total Usage
+
+Baseline Territory
+
+Heat Source
+
+Serial
+
+Rotating Outage Block
+
+1234567890-1
+09/07/2019
+09/28/2019
+
+annnatttt
+37,710
+
+37,330
+380,000000 kWh.
+x
+
+B- Not Electric
+S
+50

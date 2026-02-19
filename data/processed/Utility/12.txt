@@ -1,0 +1,45 @@
+Electricity Bill
+
+J Smith
+123 Sample Rd
+Sampletown NSW 2000
+
+Customer number 11111111 1111
+
+Account number 2222 2222 2222
+
+Service address 123 Sample Rd, SAMPLETOWN NSW 2000
+Tax invoice Issue date 27 June 2019
+
+This account is based on an estimated meter reading
+Electricity account summary: 24 Mar 2019 to 25 Jun 2019
+
+Plan Flexi Saver
+Opening balance $169.00
+Payment received thank you $163.93Cr
+17 March 2019 Direct Debit $163.93Cr
+
+Adjustments
+
+3% Discount for paying your last bill by the due date (inc. GST %0.46Cr)
+
+Balance carried forward $00.00
+Current charges (inc. GST $23.43 - see over for details) $214.18
+Total amount due (inc. GST $22.97) $214.18
+3% discount on usage if you pay this bill by the due date $6.29Cr
+
+Total amount due with this discount $207.89
+
+Due Date
+
+16 Jul 2019
+
+Total amount if paid
+after due date
+
+$214.18
+
+Total amount with discount
+if paid by due date
+
+$214.18

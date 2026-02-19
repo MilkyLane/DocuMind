@@ -1,0 +1,49 @@
+$ BankStatements.net
+ROYAL BANK OF CANADA
+
+P.O. BOX 6011 STATIONA Business Account Statement
+
+MONTREAL QC H3C 3B8
+
+RBC
+RBBDA30000_3990171 E D 03762 00582 July 3, 2018 to August 2, 2018
+MR JOHN DOE
+408 QUEEN ST W, Account number: _ 01234 567-890-1
+TORONTO, ON J
+M5V 2A7 How to reach us:
+
+Please contact your RBC Banking representative or call
+1-800-Royal®2-0
+(1-800-769-2520)
+
+www.rbcroyalbank.com/business
+
+Account Summary for this Period
+RBC Business Essentials ® Variable Pricing Account
+
+Royal Bank of Canada
+44 GORE ST E, PERTH, ON K7H 1H7
+
+Opening balance on July 3, 2018 $280,692.25
+Total deposits & credits (0) + 0.00
+Total cheques & debits (10) - 9,667.89
+Closing balance on August 2, 2018 = $271,024.36
+
+Account Activity Details
+
+Date Description Cheques & Debits ($) Deposits & Credits ($) Balance ($)
+
+Opening balance 280,692.25
+03 Jul Minimum monthly fee 6.00 280,686.25
+04 Jul Misc Payment PAY-FILE FEES 2.00 280,684.25
+09 Jul Insurance SUN LIFE REGULAR 46.35 280,637.90
+24 Jul Misc Payment RBC CREDIT CARD 86.74 280,551.16
+25 Jul Cheque - 762 3,264.56 277,286.60
+26 Jul COMMERCIAL INS FEDERATED INSUR 214.86
+
+Cheque - 761 5,504.38 271,567.36
+01 Aug Misc Payment PAY-FILE FEES 2.00 271,565.36
+
+Minimum monthly fee 6.00 271,559.36
+
+1of3

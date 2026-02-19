@@ -1,0 +1,33 @@
+geareo ov
+
+TemplateLAB
+
+Your Account Statement RB Bion
+Issue Date: mm/dd/yyyy
+Period mm/dd/yyyy to mm/dd/yyyy
+111-234-567-890 <Branch Name>
+Bit Manufacturing,Ltd 231 Valley Farms Street
+2450 Courage St, STE 108 Santa Monica, CA
+Brownsville, TX 78521 bickslowbank@domain.com
+Date Payment Type Detail Paid In Paid Out Balance
+Balance Brought Forward 8,313.30
+mm/dd/yyyy Fast Payment Amazon 132.30 8,181.00
+mm/dd/yyyy BACS eBAY Trading Co. 515.22 7,665.78
+mm/dd/yyyy Fast Payment Morrisons Petrol 80.00 7,585.78
+mm/dd/yyyy BACS Business Loan 20,000.00 27,585.78
+mm/dd/yyyy BACS Jumes White Media 2,416.85 25,168.93
+mm/dd/yyyy Fast Payment ATM High Street 100.00 25,068.93
+mm/dd/yyyy BACS Accorn Advertising Studios 150.00 24,918.93
+mm/dd/yyyy Fast Payment Marriott Hotels 177.00 24,741.93
+mm/dd/yyyy Fast Payment Abelio Scotrail Ltd 122.22 24,619.71
+mm/dd/yyyy Fast Payment Cheque 000234 1,200.00 23,419.71
+mm/dd/yyyy Int. Bank Interest Paid 9.33 23,429.04
+mm/dd/yyyy DD OVO Energy 270.00 23,159.04
+mm/dd/yyyy BACS Toyota Online 10,525.40 12,633.64
+mm/dd/yyyy BACS HMRC 1,000.00 11,633.64
+mm/dd/yyyy DD OVLA 280.00 11,353.64
+mm/dd/yyyy EBP Michael Kor Salary 1,554.00 9,799.64
+mm/dd/yyyy DD BOS Mastercard 4,000.00 5,799.64
+Note:
+
+© templatelab.com

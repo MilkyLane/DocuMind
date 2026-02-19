@@ -1,0 +1,62 @@
+OsBI
+
+‘Account Name Mr, SIVANANDA MARUTHI BHARGAVA DATTU VEERUBH
+
+Address # 23-28-61, CHALLAPALLIVARI STREET
+‘SATYANARAYANAPURAM
+VIAYAWADA-520011
+krishna
+
+Date 4 Jul 2019
+
+‘Account Number (00000033851228740
+
+‘Account Description REGULAR SB NCHQ-INDIVIDUALS
+
+Branch ‘SATYANARAYANAPURAM
+
+Drawing Power 0.00
+
+Interest Rate(% p.a.) 35
+
+MOD Balance 0.00
+
+CIF No. 87412695602
+
+IFS Code ‘SBINO009001
+
+MICR Code 520002012
+
+Nomination Registered Yes
+
+Balance as on 1 Jul 2019 9,923.52
+
+Account Statement from 1 Jul 2019 to 4 Jul 2019
+
+Txn Date |Value |Description Ref No./Cheque Debit| Credit Balance|
+Date No.
+
+1 Jul2019| 1 Jul 2019/BY TRANSFER. 20,000.09] 29,923.52|
+|UPI/CR/918219892534/ADIVI
+RAJANDB/adiviraviUPI-
+
+1 Jul2019| 1 Jul2019|TO TRANSFER- 20,000.00] 9,923.52|
+|UPV/DR/918219089024/ADIVI
+RAVANDB/adiviravit/1~
+
+1 Jul2019| 1 Jul 2019|TO TRANSFER- 6,000.00] 3,923.52|
+
+|UPVOR/918221768895/VEERU
+[BHOINA/dattuv@ pay/bl-
+
+2Jul 2019 2 Jul 2019/BY TRANSFER- 10,600.00] 14,523.52
+|UPUCR/918340367249/VEERU
+IBHO/FDRUhelpdattu@/Payme-
+
+3.Jul 2019/3 Jul 2019/ ATM WDL-ATM CASH 91841 41,000.00} 13,623.52
+PONNUR. ‘GUNTUR-
+
+Please do not share your ATM, Debit/Credit card number, PIN and OTP with anyone over mail, SMS, phone call or any other
+media. Bank never asks for such information.
+
+“This is a computer generated statement and does not require a signature.

@@ -1,0 +1,45 @@
+BANK STATEMENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+
+Account Balance
+
+FD Link
+
+Total Balance
+
+Nomination
+ACCOUNT STATEMENT
+
+‘Txn Date | Value Date | Description | RefNo/ChequeNo| Debit | Credit | Balance
+02 Jan 2019 | 02 Jan 2019 OOOO XXXXXXX XOXO XXOKKK | XXXXXXX
+10 Jan 2019] 10 Jan 2019 XXXXXXX_ XXKXXXK XXX YOOX | XXXXXXXK
+15 Jan 2019] 15 Jan 2019 XXXXXXK XXXXXXK XOXOXO OOOO | XXXXXXX
+20 Jan 2019} 20 Jan 2019 OOOO XXXXXXX XOXOXO SOOO | XXXXXXX
+25 Jan 2019| 25 Jan 2019 XXXXXXK XXXXXXK XXXXK OOO | XXXXXXX
+
+REWARD POINTS SUMMARY
+
+Savings Account number
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+MICR
+
+IFSC
+J paisabazaar® é
