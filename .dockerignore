@@ -1,0 +1,35 @@
+# Keep the Docker build context small and fast.
+# None of these are needed inside the container.
+
+# Python env / cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Secrets
+.env
+
+# Git
+.git/
+.gitignore
+
+# Training data (large, not needed at runtime)
+data/
+
+# Sample / test documents
+sample_docs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docs
+README.MD
+*.md

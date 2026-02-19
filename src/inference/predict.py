@@ -49,8 +49,10 @@ def predict(file_path: str):
             f"OCR_FAILED file={path.name} ocr_time={ocr_time:.3f}s"
         )
         return {
+            "status": "ocr_failed",
             "document_type": "unsupported",
-            "reason": "OCR produced insufficient text"
+            "reason": "OCR produced insufficient text",
+            "latency": {"ocr_seconds": round(ocr_time, 3)},
         }
 
     # --- Classification ---
@@ -66,9 +68,15 @@ def predict(file_path: str):
             f"ocr={ocr_time:.3f}s cls={cls_time:.3f}s total={total_time:.3f}s"
         )
         return {
+            "status": "rejected",
             "document_type": "unsupported",
             "confidence": confidence,
-            "reason": "Low classification confidence"
+            "reason": "Low classification confidence",
+            "latency": {
+                "ocr_seconds": round(ocr_time, 3),
+                "classification_seconds": round(cls_time, 3),
+                "total_seconds": round(total_time, 3),
+            },
         }
 
     # --- Extraction ---
@@ -87,6 +95,7 @@ def predict(file_path: str):
     )
 
     return {
+        "status": "success",
         "document_type": doc_type,
         "confidence": confidence,
         "latency": {

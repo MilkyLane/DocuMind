@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DocuMind — Intelligent Document Processing</title>
+  <style>
+    /* ── Reset & base ───────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0a0d12;
+      --surface:   #111620;
+      --surface2:  #181e2d;
+      --border:    #1f2a3d;
+      --accent:    #3b82f6;
+      --accent-lo: #1d3a6e;
+      --accent-hi: #60a5fa;
+      --green:     #22c55e;
+      --red:       #ef4444;
+      --amber:     #f59e0b;
+      --text:      #e2e8f0;
+      --muted:     #64748b;
+      --radius:    10px;
+      --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+
+    html { font-size: 15px; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    a { color: var(--accent-hi); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Scrollbar ──────────────────────────────────────────────────────── */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: var(--surface); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+
+    /* ── Topbar ─────────────────────────────────────────────────────────── */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 60px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -.02em;
+      color: var(--text);
+    }
+    .logo svg { color: var(--accent); }
+    .badge {
+      font-size: .65rem;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 99px;
+      background: var(--accent-lo);
+      color: var(--accent-hi);
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    .nav-links { display: flex; gap: 1.5rem; font-size: .875rem; color: var(--muted); }
+    .nav-links a { color: var(--muted); }
+    .nav-links a:hover { color: var(--text); text-decoration: none; }
+
+    /* ── Layout ─────────────────────────────────────────────────────────── */
+    main {
+      flex: 1;
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 4rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto auto auto;
+      gap: 1.5rem;
+    }
+
+    /* ── Cards ──────────────────────────────────────────────────────────── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+    }
+    .card-title {
+      font-size: .75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+    .card-title svg { color: var(--accent); }
+
+    /* ── Upload zone ────────────────────────────────────────────────────── */
+    #upload-card { grid-column: 1; grid-row: 1; }
+
+    #drop-zone {
+      border: 2px dashed var(--border);
+      border-radius: var(--radius);
+      padding: 2.5rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: .75rem;
+      cursor: pointer;
+      transition: border-color .2s, background .2s;
+      text-align: center;
+    }
+    #drop-zone:hover, #drop-zone.dragover {
+      border-color: var(--accent);
+      background: rgba(59,130,246,.04);
+    }
+    #drop-zone svg { color: var(--muted); transition: color .2s; }
+    #drop-zone:hover svg, #drop-zone.dragover svg { color: var(--accent); }
+    #drop-zone p { font-size: .9rem; color: var(--muted); }
+    #drop-zone strong { color: var(--text); }
+    #drop-zone .hint { font-size: .75rem; color: var(--muted); }
+
+    #file-input { display: none; }
+
+    .file-selected {
+      margin-top: .75rem;
+      padding: .65rem 1rem;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      font-size: .85rem;
+    }
+    .file-selected svg { color: var(--accent); flex-shrink: 0; }
+    .file-name { color: var(--text); font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .file-size { color: var(--muted); font-size: .75rem; white-space: nowrap; }
+
+    /* ── Analyse button ─────────────────────────────────────────────────── */
+    #analyse-btn {
+      margin-top: 1rem;
+      width: 100%;
+      padding: .75rem;
+      border: none;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #fff;
+      font-size: .95rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: .5rem;
+      transition: background .2s, opacity .2s;
+    }
+    #analyse-btn:hover:not(:disabled) { background: var(--accent-hi); }
+    #analyse-btn:disabled { opacity: .45; cursor: not-allowed; }
+
+    /* ── Progress bar ───────────────────────────────────────────────────── */
+    #progress-wrap {
+      margin-top: 1rem;
+      display: none;
+    }
+    #progress-wrap.visible { display: block; }
+    .progress-label {
+      font-size: .78rem;
+      color: var(--muted);
+      margin-bottom: .4rem;
+      display: flex;
+      justify-content: space-between;
+    }
+    .progress-track {
+      height: 4px;
+      background: var(--border);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 99px;
+      width: 0%;
+      transition: width .3s ease;
+    }
+    .progress-fill.indeterminate {
+      width: 40% !important;
+      animation: indeterminate 1.2s ease-in-out infinite;
+    }
+    @keyframes indeterminate {
+      0%   { transform: translateX(-100%); }
+      100% { transform: translateX(350%); }
+    }
+
+    /* ── Stats mini-cards ───────────────────────────────────────────────── */
+    #stats-card { grid-column: 2; grid-row: 1; }
+
+    .stat-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: .75rem;
+    }
+    .stat-item {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .9rem 1rem;
+    }
+    .stat-value {
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: -.03em;
+      color: var(--text);
+      line-height: 1;
+    }
+    .stat-label {
+      font-size: .72rem;
+      color: var(--muted);
+      margin-top: .3rem;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+
+    .type-bars { margin-top: 1rem; display: flex; flex-direction: column; gap: .5rem; }
+    .type-row { display: flex; align-items: center; gap: .6rem; font-size: .8rem; }
+    .type-name { width: 100px; color: var(--muted); text-transform: capitalize; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .type-track { flex: 1; height: 6px; background: var(--border); border-radius: 99px; overflow: hidden; }
+    .type-fill { height: 100%; border-radius: 99px; background: var(--accent); }
+    .type-count { width: 30px; text-align: right; color: var(--muted); }
+
+    /* ── Result panel ───────────────────────────────────────────────────── */
+    #result-card { grid-column: 1 / 3; grid-row: 2; }
+
+    #result-empty {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2.5rem;
+      gap: .75rem;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+    #result-empty svg { color: var(--border); }
+
+    #result-content { display: none; }
+
+    .result-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 1.25rem;
+    }
+    .result-doc-type {
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+    }
+    .doc-type-badge {
+      font-size: .8rem;
+      font-weight: 700;
+      padding: .3rem .85rem;
+      border-radius: 99px;
+      text-transform: capitalize;
+      letter-spacing: .03em;
+    }
+    .doc-type-badge.invoice      { background: rgba(59,130,246,.15); color: #93c5fd; }
+    .doc-type-badge.resume       { background: rgba(168,85,247,.15); color: #c4b5fd; }
+    .doc-type-badge.form         { background: rgba(34,197,94,.15);  color: #86efac; }
+    .doc-type-badge.bank_statement { background: rgba(245,158,11,.15); color: #fcd34d; }
+    .doc-type-badge.utility      { background: rgba(20,184,166,.15); color: #5eead4; }
+    .doc-type-badge.unsupported  { background: rgba(239,68,68,.15);  color: #fca5a5; }
+
+    .confidence-chip {
+      font-size: .8rem;
+      color: var(--muted);
+    }
+    .confidence-chip span { color: var(--green); font-weight: 600; }
+
+    .result-actions { display: flex; gap: .6rem; }
+    .btn-sm {
+      padding: .4rem .9rem;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--surface2);
+      color: var(--text);
+      font-size: .8rem;
+      font-weight: 500;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: .4rem;
+      transition: border-color .2s, background .2s;
+    }
+    .btn-sm:hover { border-color: var(--accent); background: rgba(59,130,246,.06); }
+    .btn-sm.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .btn-sm.primary:hover { background: var(--accent-hi); border-color: var(--accent-hi); }
+
+    .latency-row {
+      display: flex;
+      gap: .75rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.25rem;
+    }
+    .latency-chip {
+      font-size: .75rem;
+      padding: .25rem .65rem;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--muted);
+    }
+    .latency-chip strong { color: var(--text); }
+
+    .fields-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: .65rem;
+    }
+    .field-item {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .7rem .9rem;
+    }
+    .field-key {
+      font-size: .7rem;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--muted);
+      margin-bottom: .25rem;
+    }
+    .field-val {
+      font-size: .875rem;
+      color: var(--text);
+      word-break: break-word;
+      white-space: pre-wrap;
+    }
+    .field-val.empty { color: var(--muted); font-style: italic; }
+
+    /* JSON viewer */
+    #json-view {
+      display: none;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem;
+      font-family: 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
+      font-size: .78rem;
+      line-height: 1.65;
+      color: #94a3b8;
+      overflow: auto;
+      max-height: 420px;
+      white-space: pre;
+    }
+    #json-view .jk { color: #7dd3fc; }  /* key */
+    #json-view .js { color: #86efac; }  /* string */
+    #json-view .jn { color: #fcd34d; }  /* number */
+    #json-view .jb { color: #f472b6; }  /* bool/null */
+
+    /* ── Logs table ─────────────────────────────────────────────────────── */
+    #logs-card { grid-column: 1 / 3; grid-row: 3; }
+
+    .table-wrap { overflow-x: auto; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .82rem;
+    }
+    th {
+      text-align: left;
+      padding: .6rem .85rem;
+      font-size: .7rem;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    td {
+      padding: .65rem .85rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+      color: var(--text);
+    }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: rgba(255,255,255,.02); }
+
+    .status-dot {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      font-size: .78rem;
+      font-weight: 500;
+    }
+    .status-dot::before {
+      content: '';
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .status-dot.success::before  { background: var(--green); }
+    .status-dot.rejected::before { background: var(--amber); }
+    .status-dot.ocr_failed::before, .status-dot.error::before { background: var(--red); }
+
+    .doc-pill {
+      display: inline-block;
+      padding: .2rem .55rem;
+      border-radius: 4px;
+      font-size: .72rem;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+    .doc-pill.invoice       { background: rgba(59,130,246,.12); color: #93c5fd; }
+    .doc-pill.resume        { background: rgba(168,85,247,.12); color: #c4b5fd; }
+    .doc-pill.form          { background: rgba(34,197,94,.12);  color: #86efac; }
+    .doc-pill.bank_statement{ background: rgba(245,158,11,.12); color: #fcd34d; }
+    .doc-pill.utility       { background: rgba(20,184,166,.12); color: #5eead4; }
+    .doc-pill.unsupported, .doc-pill.error { background: rgba(239,68,68,.12); color: #fca5a5; }
+
+    .mono { font-family: monospace; font-size: .78rem; color: var(--muted); }
+
+    /* ── Toast ──────────────────────────────────────────────────────────── */
+    #toast {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      padding: .7rem 1.1rem;
+      border-radius: 8px;
+      font-size: .85rem;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity .2s, transform .2s;
+      pointer-events: none;
+      z-index: 999;
+    }
+    #toast.show { opacity: 1; transform: translateY(0); }
+    #toast.success { background: #14532d; color: #bbf7d0; border: 1px solid #166534; }
+    #toast.error   { background: #7f1d1d; color: #fecaca; border: 1px solid #991b1b; }
+
+    /* ── Footer ─────────────────────────────────────────────────────────── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 1rem 2rem;
+      font-size: .75rem;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    /* ── Responsive ─────────────────────────────────────────────────────── */
+    @media (max-width: 760px) {
+      main { grid-template-columns: 1fr; padding: 1.25rem 1rem 3rem; }
+      #upload-card, #stats-card, #result-card, #logs-card { grid-column: 1; }
+      #stats-card { grid-row: 2; }
+      #result-card { grid-row: 3; }
+      #logs-card   { grid-row: 4; }
+      .nav-links { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Topbar ─────────────────────────────────────────────────────────────── -->
+<header>
+  <div class="logo">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/>
+      <line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/>
+    </svg>
+    DocuMind
+    <span class="badge">AI</span>
+  </div>
+  <nav class="nav-links">
+    <a href="#" onclick="scrollTo(0,0);return false;">Analyse</a>
+    <a href="#logs-card">Logs</a>
+    <a href="/docs" target="_blank">API Docs</a>
+  </nav>
+</header>
+
+<!-- ── Main ───────────────────────────────────────────────────────────────── -->
+<main>
+
+  <!-- Upload card -->
+  <div class="card" id="upload-card">
+    <div class="card-title">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 16 12 12 8 16"/><line x1="12" y1="12" x2="12" y2="21"/><path d="M20.39 18.39A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.3"/></svg>
+      Upload Document
+    </div>
+
+    <div id="drop-zone">
+      <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      <p><strong>Drop your document here</strong></p>
+      <p>or <a href="#" id="browse-link">browse to choose a file</a></p>
+      <p class="hint">PDF · PNG · JPG · JPEG · TIFF</p>
+    </div>
+    <input type="file" id="file-input" accept=".pdf,.png,.jpg,.jpeg,.tiff" />
+
+    <div id="file-preview" style="display:none;"></div>
+
+    <div id="progress-wrap">
+      <div class="progress-label">
+        <span id="progress-label-text">Analysing…</span>
+        <span id="progress-pct"></span>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill indeterminate" id="progress-fill"></div>
+      </div>
+    </div>
+
+    <button id="analyse-btn" disabled>
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      Analyse Document
+    </button>
+  </div>
+
+  <!-- Stats card -->
+  <div class="card" id="stats-card">
+    <div class="card-title">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+      Processing Stats
+    </div>
+    <div class="stat-grid" id="stat-grid">
+      <div class="stat-item"><div class="stat-value" id="s-total">—</div><div class="stat-label">Total Processed</div></div>
+      <div class="stat-item"><div class="stat-value" id="s-success">—</div><div class="stat-label">Successful</div></div>
+      <div class="stat-item"><div class="stat-value" id="s-conf">—</div><div class="stat-label">Avg Confidence</div></div>
+      <div class="stat-item"><div class="stat-value" id="s-latency">—</div><div class="stat-label">Avg Total (s)</div></div>
+    </div>
+    <div class="type-bars" id="type-bars"></div>
+  </div>
+
+  <!-- Result card -->
+  <div class="card" id="result-card">
+    <div class="card-title">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+      Extraction Result
+    </div>
+
+    <div id="result-empty">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      <span>Upload and analyse a document to see extracted fields here</span>
+    </div>
+
+    <div id="result-content">
+      <div class="result-header">
+        <div class="result-doc-type">
+          <span class="doc-type-badge" id="r-type-badge">—</span>
+          <span class="confidence-chip">Confidence: <span id="r-conf">—</span></span>
+        </div>
+        <div class="result-actions">
+          <button class="btn-sm" id="toggle-json-btn">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+            Raw JSON
+          </button>
+          <button class="btn-sm primary" id="download-btn">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download JSON
+          </button>
+        </div>
+      </div>
+
+      <div class="latency-row" id="r-latency"></div>
+
+      <div class="fields-grid" id="r-fields"></div>
+      <pre id="json-view"></pre>
+    </div>
+  </div>
+
+  <!-- Logs card -->
+  <div class="card" id="logs-card">
+    <div class="card-title" style="justify-content:space-between;">
+      <span style="display:flex;align-items:center;gap:.5rem;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+        Recent Activity
+      </span>
+      <button class="btn-sm" id="refresh-logs-btn" style="font-size:.7rem;">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+        Refresh
+      </button>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>File</th>
+            <th>Type</th>
+            <th>Status</th>
+            <th>Confidence</th>
+            <th>Total (s)</th>
+            <th>Size</th>
+            <th>When</th>
+          </tr>
+        </thead>
+        <tbody id="logs-tbody">
+          <tr><td colspan="7" style="text-align:center;color:var(--muted);padding:2rem;">Loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</main>
+
+<!-- ── Toast ──────────────────────────────────────────────────────────────── -->
+<div id="toast"></div>
+
+<!-- ── Footer ─────────────────────────────────────────────────────────────── -->
+<footer>
+  <span>DocuMind &mdash; Intelligent Document Processing</span>
+  <span>Powered by Tesseract · scikit-learn · FastAPI</span>
+</footer>
+
+<script>
+// ── Utilities ──────────────────────────────────────────────────────────────
+const $ = id => document.getElementById(id);
+
+function toast(msg, type = 'success') {
+  const t = $('toast');
+  t.textContent = msg;
+  t.className = `show ${type}`;
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => { t.className = ''; }, 3200);
+}
+
+function fmt(v, digits = 2) {
+  if (v == null || v === '') return '—';
+  if (typeof v === 'number') return v.toFixed(digits);
+  return String(v);
+}
+
+function fmtBytes(b) {
+  if (!b) return '—';
+  if (b < 1024) return `${b} B`;
+  if (b < 1024 * 1024) return `${(b/1024).toFixed(1)} KB`;
+  return `${(b/1024/1024).toFixed(2)} MB`;
+}
+
+function timeAgo(iso) {
+  const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (diff < 5)  return 'just now';
+  if (diff < 60) return `${Math.round(diff)}s ago`;
+  if (diff < 3600) return `${Math.round(diff/60)}m ago`;
+  return `${Math.round(diff/3600)}h ago`;
+}
+
+function syntaxHighlight(json) {
+  return JSON.stringify(json, null, 2)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, m => {
+      let cls = 'jn';
+      if (/^"/.test(m)) cls = /:$/.test(m) ? 'jk' : 'js';
+      else if (/true|false|null/.test(m)) cls = 'jb';
+      return `<span class="${cls}">${m}</span>`;
+    });
+}
+
+// ── Upload / drop ──────────────────────────────────────────────────────────
+const dropZone  = $('drop-zone');
+const fileInput = $('file-input');
+let selectedFile = null;
+
+$('browse-link').addEventListener('click', e => { e.preventDefault(); fileInput.click(); });
+dropZone.addEventListener('click', () => fileInput.click());
+
+dropZone.addEventListener('dragover',  e => { e.preventDefault(); dropZone.classList.add('dragover'); });
+dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+dropZone.addEventListener('drop', e => {
+  e.preventDefault();
+  dropZone.classList.remove('dragover');
+  const f = e.dataTransfer.files[0];
+  if (f) setFile(f);
+});
+
+fileInput.addEventListener('change', () => {
+  if (fileInput.files[0]) setFile(fileInput.files[0]);
+});
+
+function setFile(f) {
+  const allowed = ['application/pdf','image/png','image/jpeg','image/tiff'];
+  if (!allowed.includes(f.type) && !f.name.match(/\.(pdf|png|jpe?g|tiff?)$/i)) {
+    toast('Unsupported file type. Use PDF, PNG, JPG, or TIFF.', 'error');
+    return;
+  }
+  selectedFile = f;
+  const prev = $('file-preview');
+  prev.innerHTML = `
+    <div class="file-selected">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      <span class="file-name">${f.name}</span>
+      <span class="file-size">${fmtBytes(f.size)}</span>
+    </div>`;
+  prev.style.display = 'block';
+  $('analyse-btn').disabled = false;
+}
+
+// ── Analyse ────────────────────────────────────────────────────────────────
+$('analyse-btn').addEventListener('click', async () => {
+  if (!selectedFile) return;
+
+  $('analyse-btn').disabled = true;
+  showProgress(true);
+
+  const form = new FormData();
+  form.append('file', selectedFile);
+
+  try {
+    const res = await fetch('/predict', { method: 'POST', body: form });
+    const data = await res.json();
+
+    if (!res.ok) {
+      toast(data.detail || 'Server error', 'error');
+      return;
+    }
+
+    // If still queued (heavy doc), poll until done
+    if (data.status === 'queued') {
+      await pollUntilDone(data.job_id, data => renderResult(data));
+    } else {
+      renderResult(data);
+    }
+
+    loadStats();
+    loadLogs();
+  } catch(e) {
+    toast('Network error — is the server running?', 'error');
+  } finally {
+    showProgress(false);
+    $('analyse-btn').disabled = false;
+  }
+});
+
+async function pollUntilDone(jobId, onDone) {
+  for (let i = 0; i < 40; i++) {
+    await new Promise(r => setTimeout(r, 500));
+    try {
+      const r = await fetch(`/predict/${jobId}`);
+      const d = await r.json();
+      if (d.status !== 'pending') { onDone(d); return; }
+    } catch(_) {}
+  }
+  toast('Timed out waiting for result', 'error');
+}
+
+function showProgress(on) {
+  const w = $('progress-wrap');
+  w.classList.toggle('visible', on);
+}
+
+// ── Render result ──────────────────────────────────────────────────────────
+let lastResult = null;
+
+function renderResult(data) {
+  lastResult = data;
+  $('result-empty').style.display  = 'none';
+  $('result-content').style.display = 'block';
+
+  const type = data.document_type || 'unknown';
+  const badge = $('r-type-badge');
+  badge.textContent = type.replace('_', ' ');
+  badge.className   = `doc-type-badge ${type}`;
+
+  const conf = data.confidence;
+  $('r-conf').textContent = conf != null ? `${(conf * 100).toFixed(1)}%` : '—';
+  $('r-conf').style.color = conf >= .8 ? 'var(--green)' : conf >= .5 ? 'var(--amber)' : 'var(--red)';
+
+  // Latency chips
+  const lat = data.latency || {};
+  const latRow = $('r-latency');
+  latRow.innerHTML = '';
+  const stages = { 'OCR': lat.ocr_seconds, 'Classify': lat.classification_seconds, 'Extract': lat.extraction_seconds, 'Total': lat.total_seconds };
+  for (const [label, val] of Object.entries(stages)) {
+    if (val != null) {
+      latRow.innerHTML += `<div class="latency-chip"><strong>${label}</strong> ${val.toFixed(3)}s</div>`;
+    }
+  }
+
+  // Fields grid
+  const fieldsEl = $('r-fields');
+  fieldsEl.innerHTML = '';
+  const fields = data.fields || {};
+  if (Object.keys(fields).length === 0) {
+    if (data.reason) {
+      fieldsEl.innerHTML = `<div class="field-item"><div class="field-key">Reason</div><div class="field-val">${data.reason}</div></div>`;
+    }
+  } else {
+    for (const [k, v] of Object.entries(fields)) {
+      // Each field may be a plain value OR {value, confidence} object
+      let display, fieldConf;
+      if (v !== null && typeof v === 'object' && !Array.isArray(v) && 'value' in v) {
+        display   = v.value;
+        fieldConf = v.confidence;
+      } else {
+        display   = Array.isArray(v) ? v.join('\n') : v;
+        fieldConf = null;
+      }
+
+      const empty = display === null || display === undefined || display === '';
+      const confHtml = fieldConf != null
+        ? `<span style="float:right;font-size:.68rem;color:var(--muted);">${(fieldConf*100).toFixed(0)}%</span>`
+        : '';
+
+      fieldsEl.innerHTML += `
+        <div class="field-item">
+          <div class="field-key">${k.replace(/_/g,' ')}${confHtml}</div>
+          <div class="field-val${empty ? ' empty' : ''}">${empty ? 'not found' : escHtml(String(display))}</div>
+        </div>`;
+    }
+  }
+
+  // JSON view
+  $('json-view').innerHTML = syntaxHighlight(data);
+  $('json-view').style.display = 'none';
+  $('toggle-json-btn').textContent = '';
+  $('toggle-json-btn').innerHTML = `
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+    Raw JSON`;
+
+  toast(`Classified as ${type.replace('_',' ')} · ${conf != null ? (conf*100).toFixed(1)+'% confidence' : ''}`);
+}
+
+$('toggle-json-btn').addEventListener('click', () => {
+  const jv = $('json-view');
+  const showing = jv.style.display !== 'none';
+  jv.style.display = showing ? 'none' : 'block';
+  $('toggle-json-btn').innerHTML = showing
+    ? `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Raw JSON`
+    : `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Hide JSON`;
+  $('r-fields').style.display = showing ? 'grid' : 'none';
+});
+
+$('download-btn').addEventListener('click', () => {
+  if (!lastResult) return;
+  const blob = new Blob([JSON.stringify(lastResult, null, 2)], { type: 'application/json' });
+  const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: `documind_${lastResult.document_type}_${Date.now()}.json` });
+  a.click();
+  URL.revokeObjectURL(a.href);
+  toast('JSON downloaded');
+});
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── Stats ──────────────────────────────────────────────────────────────────
+async function loadStats() {
+  try {
+    const res = await fetch('/stats');
+    if (!res.ok) return;
+    const d = await res.json();
+
+    $('s-total').textContent   = d.total_documents_processed ?? '—';
+    $('s-success').textContent = d.by_status?.success ?? '—';
+    $('s-conf').textContent    = d.average_confidence != null ? `${(d.average_confidence*100).toFixed(1)}%` : '—';
+    $('s-latency').textContent = d.average_latency_seconds?.total != null ? d.average_latency_seconds.total.toFixed(2) : '—';
+
+    // Type breakdown bars
+    const typeEl = $('type-bars');
+    typeEl.innerHTML = '';
+    const types = d.by_document_type || {};
+    const max = Math.max(...Object.values(types), 1);
+    for (const [name, count] of Object.entries(types).sort((a,b) => b[1]-a[1])) {
+      const pct = Math.round((count / max) * 100);
+      typeEl.innerHTML += `
+        <div class="type-row">
+          <span class="type-name">${name.replace('_',' ')}</span>
+          <div class="type-track"><div class="type-fill" style="width:${pct}%"></div></div>
+          <span class="type-count">${count}</span>
+        </div>`;
+    }
+  } catch(_) {}
+}
+
+// ── Logs ───────────────────────────────────────────────────────────────────
+async function loadLogs() {
+  try {
+    const res = await fetch('/logs?limit=20');
+    if (!res.ok) return;
+    const rows = await res.json();
+    const tbody = $('logs-tbody');
+
+    if (!rows.length) {
+      tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;color:var(--muted);padding:2rem;">No documents processed yet</td></tr>';
+      return;
+    }
+
+    tbody.innerHTML = rows.map(r => `
+      <tr>
+        <td title="${escHtml(r.filename)}" style="max-width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${escHtml(r.filename)}</td>
+        <td><span class="doc-pill ${r.document_type}">${r.document_type.replace('_',' ')}</span></td>
+        <td><span class="status-dot ${r.status}">${r.status}</span></td>
+        <td>${r.confidence != null ? (r.confidence*100).toFixed(1)+'%' : '—'}</td>
+        <td class="mono">${r.latency?.total_seconds != null ? r.latency.total_seconds.toFixed(3) : '—'}</td>
+        <td>${fmtBytes(r.file_size_bytes)}</td>
+        <td style="color:var(--muted);">${timeAgo(r.created_at)}</td>
+      </tr>`).join('');
+  } catch(_) {}
+}
+
+$('refresh-logs-btn').addEventListener('click', () => { loadLogs(); loadStats(); });
+
+// ── Init ───────────────────────────────────────────────────────────────────
+loadStats();
+loadLogs();
+setInterval(() => { loadLogs(); loadStats(); }, 30_000);
+</script>
+</body>
+</html>

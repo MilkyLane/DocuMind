@@ -1,0 +1,32 @@
+# railway.toml
+# Defines two services built from the same Dockerfile.
+# Deploy via: railway up
+#
+# In the Railway dashboard you must also add:
+#   - a Postgres plugin  → DATABASE_URL is injected automatically
+#   - a Redis plugin     → REDIS_URL is injected automatically
+#   - the remaining env vars from .env.example
+
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile"
+
+# ── Web (FastAPI) ─────────────────────────────────────────────────────────────
+[[services]]
+name = "web"
+startCommand = "uvicorn api.main:app --host 0.0.0.0 --port $PORT"
+
+[services.deploy]
+healthcheckPath = "/health"
+healthcheckTimeout = 30
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
+
+# ── Worker (ARQ) ──────────────────────────────────────────────────────────────
+[[services]]
+name = "worker"
+startCommand = "arq api.worker.WorkerSettings"
+
+[services.deploy]
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
