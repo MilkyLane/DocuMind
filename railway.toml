@@ -1,32 +1,24 @@
 # railway.toml
-# Defines two services built from the same Dockerfile.
-# Deploy via: railway up
+# Configuration for the web (FastAPI) service.
+# The worker service is a second Railway service pointing to the same repo
+# with startCommand = "arq api.worker.WorkerSettings" set in the dashboard.
 #
-# In the Railway dashboard you must also add:
-#   - a Postgres plugin  → DATABASE_URL is injected automatically
-#   - a Redis plugin     → REDIS_URL is injected automatically
-#   - the remaining env vars from .env.example
+# Required environment variables (set in Railway dashboard for both services):
+#   DATABASE_URL  — injected automatically by the Postgres plugin
+#   REDIS_URL     — injected automatically by the Redis plugin
+#   RATE_LIMIT_REQUESTS=60
+#   RATE_LIMIT_WINDOW_SECONDS=60
+#   JOB_FILE_TTL_SECONDS=60
+#   JOB_RESULT_TTL_SECONDS=300
+#   INLINE_WAIT_SECONDS=12.0
 
 [build]
 builder = "dockerfile"
 dockerfilePath = "Dockerfile"
 
-# ── Web (FastAPI) ─────────────────────────────────────────────────────────────
-[[services]]
-name = "web"
-startCommand = "uvicorn api.main:app --host 0.0.0.0 --port $PORT"
-
-[services.deploy]
+[deploy]
+startCommand = "uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}"
 healthcheckPath = "/health"
 healthcheckTimeout = 30
-restartPolicyType = "on_failure"
-restartPolicyMaxRetries = 3
-
-# ── Worker (ARQ) ──────────────────────────────────────────────────────────────
-[[services]]
-name = "worker"
-startCommand = "arq api.worker.WorkerSettings"
-
-[services.deploy]
 restartPolicyType = "on_failure"
 restartPolicyMaxRetries = 3

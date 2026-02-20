@@ -45,6 +45,5 @@ COPY frontend/  ./frontend/
 RUN useradd -m appuser && chown -R appuser /app
 USER appuser
 
-# The actual start command is overridden per-service in docker-compose /
-# railway.toml, so this is just a safe default.
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Use shell form so $PORT is expanded at runtime (Railway injects PORT env var)
+CMD uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}
