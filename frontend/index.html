@@ -359,6 +359,355 @@
     }
     .field-val.empty { color: var(--muted); font-style: italic; }
 
+    /* ── Explainability panel ───────────────────────────────────────────── */
+    #explain-section {
+      margin-top: 1.25rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1.25rem;
+    }
+    #explain-section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: .85rem;
+    }
+    .section-label {
+      font-size: .72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: .45rem;
+    }
+    .section-label svg { color: var(--accent); }
+    #explain-loading {
+      font-size: .8rem;
+      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+    .spinner {
+      width: 14px;
+      height: 14px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #explain-features {
+      display: flex;
+      flex-direction: column;
+      gap: .45rem;
+    }
+    .explain-row {
+      display: flex;
+      align-items: center;
+      gap: .7rem;
+      font-size: .8rem;
+    }
+    .explain-term {
+      width: 160px;
+      flex-shrink: 0;
+      color: var(--text);
+      font-family: 'Fira Code', 'Cascadia Code', monospace;
+      font-size: .75rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .explain-bar-track {
+      flex: 1;
+      height: 8px;
+      background: var(--surface2);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .explain-bar-fill {
+      height: 100%;
+      border-radius: 99px;
+      min-width: 2px;
+    }
+    .explain-bar-fill.for     { background: var(--green); }
+    .explain-bar-fill.against { background: var(--red); }
+    .explain-weight {
+      width: 52px;
+      text-align: right;
+      font-size: .7rem;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+    .explain-dir {
+      width: 52px;
+      font-size: .68rem;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+    .explain-dir.for     { color: var(--green); }
+    .explain-dir.against { color: var(--red); }
+
+    /* ── Fraud flags panel ──────────────────────────────────────────────── */
+    #fraud-section {
+      margin-top: 1.25rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1.25rem;
+    }
+    #fraud-risk-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: .85rem;
+    }
+    .risk-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      font-size: .72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      padding: .25rem .65rem;
+      border-radius: 99px;
+    }
+    .risk-badge.low    { background: rgba(34,197,94,.12);  color: #86efac; }
+    .risk-badge.medium { background: rgba(245,158,11,.15); color: #fcd34d; }
+    .risk-badge.high   { background: rgba(239,68,68,.15);  color: #fca5a5; }
+
+    .fraud-flags-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: .65rem;
+    }
+    .fraud-flag-card {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .85rem 1rem;
+    }
+    .fraud-flag-card.high   { border-left: 3px solid var(--red); }
+    .fraud-flag-card.medium { border-left: 3px solid var(--amber); }
+    .fraud-flag-card.low    { border-left: 3px solid var(--accent); }
+    .fraud-flag-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: .45rem;
+    }
+    .fraud-flag-name {
+      font-size: .82rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .sev-chip {
+      font-size: .65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      padding: .15rem .5rem;
+      border-radius: 4px;
+    }
+    .sev-chip.high   { background: rgba(239,68,68,.2);  color: #fca5a5; }
+    .sev-chip.medium { background: rgba(245,158,11,.2); color: #fcd34d; }
+    .sev-chip.low    { background: rgba(59,130,246,.2); color: #93c5fd; }
+    .fraud-flag-detail {
+      font-size: .78rem;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .fraud-score-bar {
+      margin-top: .6rem;
+      height: 3px;
+      background: var(--border);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .fraud-score-fill {
+      height: 100%;
+      border-radius: 99px;
+    }
+    .fraud-score-fill.high   { background: var(--red); }
+    .fraud-score-fill.medium { background: var(--amber); }
+    .fraud-score-fill.low    { background: var(--accent); }
+
+    .fraud-meta {
+      margin-top: .6rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: .7rem;
+      color: var(--muted);
+    }
+    .fraud-meta span { color: var(--text); font-weight: 500; }
+
+    /* ── Feedback panel ─────────────────────────────────────────────────── */
+    #feedback-section {
+      margin-top: 1.25rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: .75rem;
+    }
+    .feedback-row {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      flex-wrap: wrap;
+    }
+    .feedback-label {
+      font-size: .78rem;
+      color: var(--muted);
+      font-weight: 500;
+    }
+    .thumb-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      font-size: .78rem;
+      font-weight: 600;
+      padding: .35rem .75rem;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--surface2);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .thumb-btn:hover { border-color: var(--accent); color: var(--text); }
+    .thumb-btn.active-up   { border-color: var(--green); color: var(--green); background: rgba(34,197,94,.08); }
+    .thumb-btn.active-down { border-color: var(--red);   color: var(--red);   background: rgba(239,68,68,.08); }
+
+    #correction-form {
+      display: none;
+      flex-direction: column;
+      gap: .6rem;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .85rem 1rem;
+    }
+    #correction-form label {
+      font-size: .75rem;
+      color: var(--muted);
+      font-weight: 500;
+    }
+    #correction-form select,
+    #correction-form textarea {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: .82rem;
+      padding: .4rem .65rem;
+      width: 100%;
+      outline: none;
+    }
+    #correction-form select:focus,
+    #correction-form textarea:focus { border-color: var(--accent); }
+    #correction-form textarea { resize: vertical; min-height: 56px; font-family: var(--font); }
+
+    /* ── Metrics card ───────────────────────────────────────────────────── */
+    #metrics-card { grid-column: 1 / 3; grid-row: 4; }
+
+    .metrics-header-row {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.1rem;
+    }
+    .metric-chip {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .5rem .9rem;
+      font-size: .8rem;
+    }
+    .metric-chip .mc-val {
+      font-size: 1.25rem;
+      font-weight: 700;
+      display: block;
+      line-height: 1.2;
+    }
+    .metric-chip .mc-label {
+      color: var(--muted);
+      font-size: .68rem;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+    .metric-chip.good  .mc-val { color: var(--green); }
+    .metric-chip.warn  .mc-val { color: var(--amber); }
+    .metric-chip.bad   .mc-val { color: var(--red); }
+    .metric-chip.neutral .mc-val { color: var(--text); }
+
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+    }
+    @media (max-width: 760px) { .metrics-grid { grid-template-columns: 1fr; } }
+
+    .metrics-sub-title {
+      font-size: .7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+      margin-bottom: .65rem;
+    }
+
+    /* Per-class F1 bars */
+    .cls-row {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      margin-bottom: .5rem;
+      font-size: .8rem;
+    }
+    .cls-name { width: 120px; flex-shrink: 0; }
+    .cls-bar-track {
+      flex: 1;
+      height: 10px;
+      background: var(--surface2);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .cls-bar-fill {
+      height: 100%;
+      border-radius: 99px;
+      transition: width .4s ease;
+    }
+    .cls-f1-val { width: 40px; text-align: right; color: var(--muted); font-size: .72rem; font-variant-numeric: tabular-nums; }
+
+    /* Confusion matrix */
+    .confusion-wrap { overflow-x: auto; }
+    .confusion-table {
+      border-collapse: collapse;
+      font-size: .72rem;
+    }
+    .confusion-table th, .confusion-table td {
+      border: 1px solid var(--border);
+      padding: .3rem .5rem;
+      text-align: center;
+      min-width: 52px;
+    }
+    .confusion-table th { background: var(--surface2); color: var(--muted); font-weight: 600; }
+    .confusion-table .diag { background: rgba(59,130,246,.15); color: var(--accent-hi); font-weight: 700; }
+    .confusion-table .offdiag-high { background: rgba(239,68,68,.15); color: #fca5a5; }
+    .confusion-table .row-label { text-align: right; color: var(--text); font-weight: 500; background: var(--surface2); }
+
+    #metrics-empty {
+      text-align: center;
+      padding: 2.5rem 1rem;
+      color: var(--muted);
+      font-size: .85rem;
+      line-height: 1.7;
+    }
+
     /* JSON viewer */
     #json-view {
       display: none;
@@ -380,7 +729,7 @@
     #json-view .jb { color: #f472b6; }  /* bool/null */
 
     /* ── Logs table ─────────────────────────────────────────────────────── */
-    #logs-card { grid-column: 1 / 3; grid-row: 3; }
+    #logs-card { grid-column: 1 / 3; grid-row: 5; }
 
     .table-wrap { overflow-x: auto; }
     table {
@@ -477,10 +826,11 @@
     /* ── Responsive ─────────────────────────────────────────────────────── */
     @media (max-width: 760px) {
       main { grid-template-columns: 1fr; padding: 1.25rem 1rem 3rem; }
-      #upload-card, #stats-card, #result-card, #logs-card { grid-column: 1; }
-      #stats-card { grid-row: 2; }
-      #result-card { grid-row: 3; }
-      #logs-card   { grid-row: 4; }
+      #upload-card, #stats-card, #result-card, #metrics-card, #logs-card { grid-column: 1; }
+      #stats-card    { grid-row: 2; }
+      #result-card   { grid-row: 3; }
+      #metrics-card  { grid-row: 4; }
+      #logs-card     { grid-row: 5; }
       .nav-links { display: none; }
     }
   </style>
@@ -499,6 +849,7 @@
   </div>
   <nav class="nav-links">
     <a href="#" onclick="scrollTo(0,0);return false;">Analyse</a>
+    <a href="#metrics-card">Metrics</a>
     <a href="#logs-card">Logs</a>
     <a href="/docs" target="_blank">API Docs</a>
   </nav>
@@ -574,6 +925,10 @@
           <span class="confidence-chip">Confidence: <span id="r-conf">—</span></span>
         </div>
         <div class="result-actions">
+          <button class="btn-sm" id="explain-btn" style="display:none;">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            Explain
+          </button>
           <button class="btn-sm" id="toggle-json-btn">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
             Raw JSON
@@ -588,7 +943,102 @@
       <div class="latency-row" id="r-latency"></div>
 
       <div class="fields-grid" id="r-fields"></div>
+
+      <!-- ── Explainability panel ──────────────────────────────────── -->
+      <div id="explain-section" style="display:none;">
+        <div id="explain-section-header">
+          <div class="section-label">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            Why this classification?
+          </div>
+          <div id="explain-loading" style="display:none;">
+            <div class="spinner"></div>
+            <span>Explaining…</span>
+          </div>
+        </div>
+        <div id="explain-features"></div>
+      </div>
+
+      <!-- ── Fraud flags panel ─────────────────────────────────────── -->
+      <div id="fraud-section" style="display:none;">
+        <div id="fraud-risk-header">
+          <div class="section-label">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+            Fraud Risk Indicators
+          </div>
+          <div id="fraud-overall-badge"></div>
+        </div>
+        <div class="fraud-flags-grid" id="fraud-flags-grid"></div>
+        <div id="fraud-clean" style="display:none; font-size:.82rem; color:var(--green); margin-top:.25rem;">
+          ✓ No anomalies detected in transaction data
+        </div>
+      </div>
+
+      <!-- ── Feedback panel ────────────────────────────────────────── -->
+      <div id="feedback-section" style="display:none;">
+        <div class="feedback-row">
+          <span class="feedback-label">Was this classification correct?</span>
+          <button class="thumb-btn" id="thumb-up-btn">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3H14z"/><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>
+            Correct
+          </button>
+          <button class="thumb-btn" id="thumb-down-btn">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3H10z"/><path d="M17 2h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"/></svg>
+            Wrong label
+          </button>
+        </div>
+        <div id="correction-form">
+          <label for="correction-select">What is the correct document type?</label>
+          <select id="correction-select">
+            <option value="">— select —</option>
+            <option value="bank_statement">Bank Statement</option>
+            <option value="invoice">Invoice</option>
+            <option value="form">Form</option>
+            <option value="resume">Resume</option>
+            <option value="utility">Utility Bill</option>
+          </select>
+          <label for="correction-note">Note <span style="color:var(--muted);font-weight:400;">(optional)</span></label>
+          <textarea id="correction-note" placeholder="e.g. This is a 3-month mobile statement, not an invoice"></textarea>
+          <button class="btn-sm primary" id="submit-feedback-btn" style="align-self:flex-start;">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+            Submit correction
+          </button>
+        </div>
+      </div>
+
       <pre id="json-view"></pre>
+    </div>
+  </div>
+
+  <!-- Metrics card -->
+  <div class="card" id="metrics-card">
+    <div class="card-title" style="justify-content:space-between;">
+      <span style="display:flex;align-items:center;gap:.5rem;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        Model Performance Metrics
+      </span>
+      <button class="btn-sm" id="refresh-metrics-btn" style="font-size:.7rem;">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+        Refresh
+      </button>
+    </div>
+    <div id="metrics-empty" style="display:none;">
+      <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" style="margin-bottom:.75rem;color:var(--border)"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+      <div>No feedback submitted yet.</div>
+      <div style="margin-top:.35rem;">After each prediction, use the <strong>✓ Correct</strong> / <strong>✗ Wrong label</strong> buttons<br>to teach the system. Metrics appear here automatically.</div>
+    </div>
+    <div id="metrics-content" style="display:none;">
+      <div class="metrics-header-row" id="metrics-chips"></div>
+      <div class="metrics-grid">
+        <div>
+          <div class="metrics-sub-title">Per-class F1 Score</div>
+          <div id="metrics-f1-bars"></div>
+        </div>
+        <div>
+          <div class="metrics-sub-title">Confusion Matrix <span style="font-weight:400;color:var(--muted);">(actual → predicted)</span></div>
+          <div class="confusion-wrap" id="metrics-confusion"></div>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -707,6 +1157,7 @@ function setFile(f) {
     return;
   }
   selectedFile = f;
+  lastFile = f;
   const prev = $('file-preview');
   prev.innerHTML = `
     <div class="file-selected">
@@ -773,6 +1224,7 @@ function showProgress(on) {
 
 // ── Render result ──────────────────────────────────────────────────────────
 let lastResult = null;
+let lastFile   = null;   // keep reference to re-send for /explain
 
 function renderResult(data) {
   lastResult = data;
@@ -809,6 +1261,9 @@ function renderResult(data) {
     }
   } else {
     for (const [k, v] of Object.entries(fields)) {
+      // Skip fraud_analysis — rendered in its own section
+      if (k === 'fraud_analysis') continue;
+
       // Each field may be a plain value OR {value, confidence} object
       let display, fieldConf;
       if (v !== null && typeof v === 'object' && !Array.isArray(v) && 'value' in v) {
@@ -832,15 +1287,130 @@ function renderResult(data) {
     }
   }
 
+  // Show explain button for successful classifications
+  const isSuccess = data.status === 'success';
+  $('explain-btn').style.display = isSuccess ? '' : 'none';
+  // Reset explain panel
+  $('explain-section').style.display = 'none';
+  $('explain-features').innerHTML = '';
+
+  // Show feedback panel for successful classifications
+  if (isSuccess && data.job_id) {
+    showFeedbackPanel(data.job_id);
+  } else {
+    $('feedback-section').style.display = 'none';
+  }
+
+  // Fraud analysis section (bank statements only)
+  renderFraud(fields.fraud_analysis, type);
+
   // JSON view
   $('json-view').innerHTML = syntaxHighlight(data);
   $('json-view').style.display = 'none';
-  $('toggle-json-btn').textContent = '';
   $('toggle-json-btn').innerHTML = `
     <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
     Raw JSON`;
 
   toast(`Classified as ${type.replace('_',' ')} · ${conf != null ? (conf*100).toFixed(1)+'% confidence' : ''}`);
+}
+
+// ── Fraud rendering ────────────────────────────────────────────────────────
+function renderFraud(analysis, docType) {
+  const section = $('fraud-section');
+  if (docType !== 'bank_statement' || !analysis) {
+    section.style.display = 'none';
+    return;
+  }
+  section.style.display = 'block';
+
+  const risk = analysis.overall_risk || 'low';
+  const riskIcons = { low: '✓', medium: '⚠', high: '🔴' };
+  $('fraud-overall-badge').innerHTML = `
+    <span class="risk-badge ${risk}">${riskIcons[risk] || '⚠'} ${risk} risk · score ${(analysis.risk_score * 100).toFixed(0)}%</span>`;
+
+  const flags  = analysis.flags || [];
+  const grid   = $('fraud-flags-grid');
+  const clean  = $('fraud-clean');
+  grid.innerHTML = '';
+
+  if (flags.length === 0) {
+    clean.style.display = 'block';
+    return;
+  }
+  clean.style.display = 'none';
+
+  for (const f of flags) {
+    const sev = f.severity || 'low';
+    grid.innerHTML += `
+      <div class="fraud-flag-card ${sev}">
+        <div class="fraud-flag-title">
+          <span class="fraud-flag-name">${escHtml(f.title || f.check)}</span>
+          <span class="sev-chip ${sev}">${sev}</span>
+        </div>
+        <div class="fraud-flag-detail">${escHtml(f.detail || '')}</div>
+        <div class="fraud-score-bar">
+          <div class="fraud-score-fill ${sev}" style="width:${Math.round((f.score||0)*100)}%"></div>
+        </div>
+        <div class="fraud-meta">
+          Anomaly score <span>${Math.round((f.score||0)*100)}%</span>
+        </div>
+      </div>`;
+  }
+}
+
+// ── Explain ────────────────────────────────────────────────────────────────
+$('explain-btn').addEventListener('click', async () => {
+  if (!lastFile) { toast('Re-upload the file to explain', 'error'); return; }
+
+  const section = $('explain-section');
+  section.style.display = 'block';
+  $('explain-loading').style.display = 'flex';
+  $('explain-features').innerHTML = '';
+  $('explain-btn').disabled = true;
+
+  try {
+    const form = new FormData();
+    form.append('file', lastFile);
+    const res  = await fetch('/explain', { method: 'POST', body: form });
+    const data = await res.json();
+
+    if (!res.ok || data.status === 'error') {
+      $('explain-features').innerHTML = `<span style="color:var(--red);font-size:.8rem;">${data.detail || 'Explanation failed'}</span>`;
+      return;
+    }
+
+    renderExplain(data);
+  } catch(e) {
+    $('explain-features').innerHTML = `<span style="color:var(--red);font-size:.8rem;">Network error</span>`;
+  } finally {
+    $('explain-loading').style.display = 'none';
+    $('explain-btn').disabled = false;
+  }
+});
+
+function renderExplain(data) {
+  const features = data.top_features || [];
+  const container = $('explain-features');
+  if (!features.length) {
+    container.innerHTML = '<span style="color:var(--muted);font-size:.8rem;">No feature data available</span>';
+    return;
+  }
+
+  const maxW = Math.max(...features.map(f => Math.abs(f.weight)), 0.001);
+
+  container.innerHTML = features.map(f => {
+    const pct   = Math.round((Math.abs(f.weight) / maxW) * 100);
+    const dir   = f.direction === 'for' ? 'for' : 'against';
+    return `
+      <div class="explain-row">
+        <span class="explain-term" title="${escHtml(f.term)}">${escHtml(f.term)}</span>
+        <div class="explain-bar-track">
+          <div class="explain-bar-fill ${dir}" style="width:${pct}%"></div>
+        </div>
+        <span class="explain-weight">${f.weight.toFixed(3)}</span>
+        <span class="explain-dir ${dir}">${dir}</span>
+      </div>`;
+  }).join('');
 }
 
 $('toggle-json-btn').addEventListener('click', () => {
@@ -927,6 +1497,180 @@ $('refresh-logs-btn').addEventListener('click', () => { loadLogs(); loadStats();
 loadStats();
 loadLogs();
 setInterval(() => { loadLogs(); loadStats(); }, 30_000);
+
+// ── Feedback ───────────────────────────────────────────────────────────────
+let feedbackJobId    = null;
+let feedbackState    = null;   // null | 'up' | 'down'
+
+function resetFeedback() {
+  feedbackState = null;
+  $('thumb-up-btn').className   = 'thumb-btn';
+  $('thumb-down-btn').className = 'thumb-btn';
+  $('correction-form').style.display = 'none';
+  $('correction-select').value = '';
+  $('correction-note').value   = '';
+}
+
+// Show feedback panel when a successful result arrives (called from renderResult)
+function showFeedbackPanel(jobId) {
+  feedbackJobId = jobId;
+  resetFeedback();
+  $('feedback-section').style.display = 'flex';
+}
+
+$('thumb-up-btn').addEventListener('click', async () => {
+  if (!feedbackJobId) return;
+  if (feedbackState === 'up') return; // already submitted
+  feedbackState = 'up';
+  $('thumb-up-btn').className   = 'thumb-btn active-up';
+  $('thumb-down-btn').className = 'thumb-btn';
+  $('correction-form').style.display = 'none';
+  await postFeedback(true, null, null);
+});
+
+$('thumb-down-btn').addEventListener('click', () => {
+  if (!feedbackJobId) return;
+  feedbackState = 'down';
+  $('thumb-up-btn').className   = 'thumb-btn';
+  $('thumb-down-btn').className = 'thumb-btn active-down';
+  $('correction-form').style.display = 'flex';
+  $('correction-select').focus();
+});
+
+$('submit-feedback-btn').addEventListener('click', async () => {
+  const label = $('correction-select').value;
+  if (!label) { toast('Please select the correct document type', 'error'); return; }
+  const note = $('correction-note').value.trim() || null;
+  await postFeedback(false, label, note);
+  $('correction-form').style.display = 'none';
+});
+
+async function postFeedback(isCorrect, correctLabel, note) {
+  try {
+    const body = { job_id: feedbackJobId, is_correct: isCorrect };
+    if (!isCorrect) { body.correct_label = correctLabel; body.user_note = note; }
+    const res = await fetch('/feedback', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    if (res.ok) {
+      toast(isCorrect ? '✓ Thanks — marked as correct' : '✓ Correction recorded — thank you!');
+      loadMetrics();
+    } else {
+      const d = await res.json();
+      toast(d.detail || 'Feedback error', 'error');
+    }
+  } catch(e) {
+    toast('Could not submit feedback', 'error');
+  }
+}
+
+// ── Metrics ────────────────────────────────────────────────────────────────
+async function loadMetrics() {
+  try {
+    const res = await fetch('/metrics');
+    if (!res.ok) return;
+    const d = await res.json();
+    renderMetrics(d);
+  } catch(_) {}
+}
+
+function renderMetrics(d) {
+  const empty   = $('metrics-empty');
+  const content = $('metrics-content');
+
+  if (!d.total_feedback) {
+    empty.style.display   = 'block';
+    content.style.display = 'none';
+    return;
+  }
+  empty.style.display   = 'none';
+  content.style.display = 'block';
+
+  // ── Chips ────────────────────────────────────────────────────────────
+  const agr = d.agreement_rate;
+  const mf1 = d.macro_f1;
+  const agrPct = agr != null ? `${(agr * 100).toFixed(1)}%` : '—';
+  const mf1Val = mf1 != null ? mf1.toFixed(3) : '—';
+
+  const agrClass  = agr == null ? 'neutral' : agr >= 0.85 ? 'good' : agr >= 0.65 ? 'warn' : 'bad';
+  const mf1Class  = mf1 == null ? 'neutral' : mf1 >= 0.85 ? 'good' : mf1 >= 0.65 ? 'warn' : 'bad';
+
+  $('metrics-chips').innerHTML = `
+    <div class="metric-chip neutral">
+      <span class="mc-val">${d.total_feedback}</span>
+      <span class="mc-label">Feedback submitted</span>
+    </div>
+    <div class="metric-chip ${agrClass}">
+      <span class="mc-val">${agrPct}</span>
+      <span class="mc-label">Agreement rate</span>
+    </div>
+    <div class="metric-chip ${mf1Class}">
+      <span class="mc-val">${mf1Val}</span>
+      <span class="mc-label">Macro F1</span>
+    </div>`;
+
+  // ── Per-class F1 bars ────────────────────────────────────────────────
+  const barsEl = $('metrics-f1-bars');
+  barsEl.innerHTML = '';
+  const classes = d.classes || [];
+  for (const cls of classes) {
+    const m    = d.per_class[cls] || {};
+    const f1   = m.f1;
+    const pct  = f1 != null ? Math.round(f1 * 100) : 0;
+    const col  = f1 == null ? 'var(--border)' : f1 >= 0.85 ? 'var(--green)' : f1 >= 0.65 ? 'var(--amber)' : 'var(--red)';
+    const label = cls.replace('_', ' ');
+    barsEl.innerHTML += `
+      <div class="cls-row">
+        <span class="cls-name" title="${cls}">${label}</span>
+        <div class="cls-bar-track">
+          <div class="cls-bar-fill" style="width:${pct}%;background:${col};"></div>
+        </div>
+        <span class="cls-f1-val">${f1 != null ? f1.toFixed(2) : '—'}</span>
+      </div>
+      <div style="font-size:.68rem;color:var(--muted);padding-left:127px;margin-top:-4px;margin-bottom:.35rem;">
+        P:${m.precision != null ? m.precision.toFixed(2) : '—'} &nbsp;
+        R:${m.recall    != null ? m.recall.toFixed(2)    : '—'} &nbsp;
+        n:${m.support ?? 0}
+      </div>`;
+  }
+
+  // ── Confusion matrix ─────────────────────────────────────────────────
+  const cm = d.confusion_matrix || {};
+  if (!classes.length) { $('metrics-confusion').innerHTML = ''; return; }
+
+  let html = '<table class="confusion-table"><thead><tr><th>actual ↓ / pred →</th>';
+  for (const c of classes) html += `<th>${c.replace('_',' ')}</th>`;
+  html += '</tr></thead><tbody>';
+
+  for (const actual of classes) {
+    html += `<tr><td class="row-label">${actual.replace('_',' ')}</td>`;
+    const rowTotal = classes.reduce((s, p) => s + (cm[actual]?.[p] ?? 0), 0);
+    for (const pred of classes) {
+      const v = cm[actual]?.[pred] ?? 0;
+      let cls = '';
+      if (actual === pred && v > 0)                        cls = 'diag';
+      else if (actual !== pred && rowTotal > 0 && v / rowTotal > 0.2) cls = 'offdiag-high';
+      html += `<td class="${cls}">${v || ''}</td>`;
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  $('metrics-confusion').innerHTML = html;
+}
+
+$('refresh-metrics-btn').addEventListener('click', loadMetrics);
+
+// ── Patch renderResult to hook up feedback panel ──────────────────────────
+// (feedback panel is now wired directly inside renderResult above)
+
+// ── Init ───────────────────────────────────────────────────────────────────
+loadStats();
+loadLogs();
+loadMetrics();
+setInterval(() => { loadLogs(); loadStats(); }, 30_000);
+setInterval(loadMetrics, 60_000);
 </script>
 </body>
 </html>

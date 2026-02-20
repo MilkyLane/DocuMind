@@ -32,7 +32,11 @@ def classify(text: str):
     classes = pipeline.classes_
 
     idx = np.argmax(probs)
-    return classes[idx], float(probs[idx])
+    # Normalise label to lowercase_with_underscores regardless of how the
+    # model was trained (e.g. "Bank Statement" → "bank_statement")
+    raw_label = str(classes[idx])
+    label = raw_label.lower().replace(" ", "_")
+    return label, float(probs[idx])
 
 def predict(file_path: str):
     start_total = time.perf_counter()

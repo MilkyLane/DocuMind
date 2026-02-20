@@ -4,12 +4,13 @@ from typing import Any
 from sqlalchemy import select, func, text
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from src.db.models import DocumentLog
+from src.db.models import DocumentLog, FeedbackLog
 
 
 async def insert_document_log(
     db: AsyncSession,
     *,
+    id: str | None = None,
     filename: str,
     file_extension: str,
     document_type: str,
@@ -23,7 +24,11 @@ async def insert_document_log(
     error_message: str | None = None,
     client_ip: str | None = None,
 ) -> DocumentLog:
+    kwargs: dict = {}
+    if id is not None:
+        kwargs["id"] = id
     log = DocumentLog(
+        **kwargs,
         filename=filename,
         file_extension=file_extension,
         document_type=document_type,
@@ -110,4 +115,127 @@ async def get_stats(db: AsyncSession) -> dict[str, Any]:
             "extraction": round(avg.avg_ext, 3) if avg.avg_ext else None,
             "total": round(avg.avg_total, 3) if avg.avg_total else None,
         },
+    }
+
+
+# ---------------------------------------------------------------------------
+# Feedback
+# ---------------------------------------------------------------------------
+
+async def insert_feedback(
+    db: AsyncSession,
+    *,
+    doc_log_id: str,
+    predicted_label: str,
+    correct_label: str,
+    is_correct: bool,
+    user_note: str | None = None,
+) -> FeedbackLog:
+    row = FeedbackLog(
+        doc_log_id=doc_log_id,
+        predicted_label=predicted_label,
+        correct_label=correct_label,
+        is_correct=is_correct,
+        user_note=user_note,
+    )
+    db.add(row)
+    await db.commit()
+    await db.refresh(row)
+    return row
+
+
+async def get_model_metrics(db: AsyncSession) -> dict[str, Any]:
+    """
+    Compute live precision / recall / F1 per class from FeedbackLog rows.
+
+    Each feedback row represents one human-verified prediction:
+    - predicted_label = what the model said
+    - correct_label   = what it actually was (= predicted_label when is_correct)
+
+    We build a confusion matrix from these and derive per-class metrics.
+    """
+    rows = await db.execute(
+        select(
+            FeedbackLog.predicted_label,
+            FeedbackLog.correct_label,
+            FeedbackLog.is_correct,
+        )
+    )
+    feedback = rows.all()
+
+    total_feedback = len(feedback)
+    if total_feedback == 0:
+        return {
+            "total_feedback": 0,
+            "agreement_rate": None,
+            "per_class": {},
+            "confusion_matrix": {},
+            "message": "No feedback submitted yet. Use the thumbs-up/down buttons after each prediction.",
+        }
+
+    # ── Aggregate into confusion matrix ──────────────────────────────────────
+    # confusion[actual][predicted] = count
+    confusion: dict[str, dict[str, int]] = {}
+    classes: set[str] = set()
+
+    for row in feedback:
+        actual    = row.correct_label
+        predicted = row.predicted_label
+        classes.add(actual)
+        classes.add(predicted)
+        confusion.setdefault(actual, {})
+        confusion[actual][predicted] = confusion[actual].get(predicted, 0) + 1
+
+    sorted_classes = sorted(classes)
+
+    # ── Per-class precision / recall / F1 ────────────────────────────────────
+    per_class: dict[str, Any] = {}
+    total_correct = sum(1 for r in feedback if r.is_correct)
+
+    for cls in sorted_classes:
+        # TP: predicted cls AND actual cls
+        tp = confusion.get(cls, {}).get(cls, 0)
+        # FP: predicted cls but actual was something else
+        fp = sum(
+            confusion.get(actual, {}).get(cls, 0)
+            for actual in sorted_classes if actual != cls
+        )
+        # FN: actual cls but predicted something else
+        fn = sum(confusion.get(cls, {}).get(pred, 0)
+                 for pred in sorted_classes if pred != cls)
+
+        precision = tp / (tp + fp) if (tp + fp) > 0 else None
+        recall    = tp / (tp + fn) if (tp + fn) > 0 else None
+        f1 = (
+            2 * precision * recall / (precision + recall)
+            if (precision is not None and recall is not None
+                and (precision + recall) > 0)
+            else None
+        )
+        support = tp + fn   # total actual instances of this class
+
+        per_class[cls] = {
+            "precision": round(precision, 4) if precision is not None else None,
+            "recall":    round(recall, 4)    if recall is not None    else None,
+            "f1":        round(f1, 4)        if f1 is not None        else None,
+            "support":   support,
+            "tp": tp, "fp": fp, "fn": fn,
+        }
+
+    agreement_rate = total_correct / total_feedback if total_feedback else None
+
+    # Macro-average F1 (only classes with support > 0)
+    f1_scores = [v["f1"] for v in per_class.values() if v["f1"] is not None]
+    macro_f1 = round(sum(f1_scores) / len(f1_scores), 4) if f1_scores else None
+
+    return {
+        "total_feedback":  total_feedback,
+        "agreement_rate":  round(agreement_rate, 4) if agreement_rate is not None else None,
+        "macro_f1":        macro_f1,
+        "per_class":       per_class,
+        "confusion_matrix": {
+            actual: {pred: confusion[actual].get(pred, 0) for pred in sorted_classes}
+            for actual in sorted_classes
+        },
+        "classes": sorted_classes,
     }

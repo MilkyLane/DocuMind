@@ -15,12 +15,12 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from src.db.crud import get_logs, get_stats, insert_document_log
+from src.db.crud import get_logs, get_stats, insert_document_log, insert_feedback, get_model_metrics
 from src.db.database import Base, engine, get_db
-from src.db.models import DocumentLog  # noqa: F401 — ensures model is registered
+from src.db.models import DocumentLog, FeedbackLog  # noqa: F401 — ensures models are registered
 from src.middleware.rate_limit import get_client_ip, rate_limit
 from src.utils.logging import get_logger
-from api.worker import FILE_KEY_PREFIX, RESULT_KEY_PREFIX, RESULT_TTL_SECONDS
+from api.worker import FILE_KEY_PREFIX, RESULT_KEY_PREFIX, RESULT_TTL_SECONDS, explain_document_task
 
 load_dotenv()
 logger = get_logger()
@@ -172,6 +172,55 @@ async def get_prediction_result(job_id: str, request: Request):
     return {"job_id": job_id, **result}
 
 
+@app.post("/explain", dependencies=[Depends(rate_limit)])
+async def explain_document(
+    request: Request,
+    file: UploadFile = File(...),
+):
+    """
+    OCR the uploaded document and return the top TF-IDF features that drove
+    the classification decision — i.e. *why* the model chose that class.
+
+    Response shape:
+    {
+        "job_id": str,
+        "status": "success",
+        "predicted_class": str,
+        "confidence": float,
+        "top_features": [{"term": str, "weight": float, "direction": "for"|"against"}, ...],
+        "all_classes": [str, ...]
+    }
+    """
+    suffix = Path(file.filename).suffix.lower()
+    if suffix not in ALLOWED_EXTENSIONS:
+        raise HTTPException(status_code=400, detail="Unsupported file type")
+
+    file_bytes = await file.read()
+    job_id = str(uuid.uuid4())
+    arq = request.app.state.arq
+
+    await arq.set(f"{FILE_KEY_PREFIX}{job_id}", file_bytes, ex=FILE_TTL_SECONDS)
+    await arq.enqueue_job(
+        "explain_document_task",
+        job_id=job_id,
+        filename=file.filename,
+        _job_id=job_id,
+    )
+
+    logger.info(f"EXPLAIN_ENQUEUED job_id={job_id} file={file.filename}")
+
+    # Inline wait — explain is fast (no extraction step)
+    elapsed = 0.0
+    while elapsed < INLINE_WAIT_SECONDS:
+        await asyncio.sleep(INLINE_POLL_INTERVAL)
+        elapsed += INLINE_POLL_INTERVAL
+        raw: bytes | None = await arq.get(f"{RESULT_KEY_PREFIX}{job_id}")
+        if raw is not None:
+            return {"job_id": job_id, **json.loads(raw)}
+
+    return {"job_id": job_id, "status": "queued"}
+
+
 @app.get("/logs", dependencies=[Depends(rate_limit)])
 async def list_logs(
     db: AsyncSession = Depends(get_db),
@@ -215,7 +264,100 @@ async def stats(db: AsyncSession = Depends(get_db)):
     """Aggregate statistics: totals, breakdown by type/status, avg latencies."""
     return await get_stats(db)
 
-@app.get("/stats")
-async def stats(db: AsyncSession = Depends(get_db)):
-    """Aggregate statistics: totals, breakdown by type/status, avg latencies."""
-    return await get_stats(db)
+
+# Known document classes — used to validate feedback labels
+KNOWN_CLASSES = {"invoice", "resume", "form", "bank_statement", "utility"}
+
+
+@app.post("/feedback", dependencies=[Depends(rate_limit)])
+async def submit_feedback(
+    request: Request,
+    db: AsyncSession = Depends(get_db),
+):
+    """
+    Record human feedback on a classification result.
+
+    Expected JSON body:
+    {
+        "job_id":        str,            -- the prediction's job_id
+        "is_correct":    bool,           -- thumbs-up (true) or thumbs-down (false)
+        "correct_label": str | null,     -- required when is_correct=false
+        "user_note":     str | null      -- optional free-text comment
+    }
+
+    The job_id must match a row in document_logs.  On thumbs-up the
+    correct_label defaults to the predicted label (no correction needed).
+    """
+    body = await request.json()
+    job_id       = body.get("job_id")
+    is_correct   = body.get("is_correct")
+    correct_label = body.get("correct_label")
+    user_note    = body.get("user_note")
+
+    if not job_id or is_correct is None:
+        raise HTTPException(status_code=422, detail="job_id and is_correct are required")
+
+    # Look up the original prediction
+    from sqlalchemy import select as sa_select
+    result = await db.execute(
+        sa_select(DocumentLog).where(DocumentLog.id == job_id)
+    )
+    doc = result.scalar_one_or_none()
+    if doc is None:
+        raise HTTPException(
+            status_code=404,
+            detail=f"No prediction found for job_id={job_id}. "
+                   "Feedback can only be submitted for successful predictions.",
+        )
+
+    if is_correct:
+        # Thumbs-up — model was right, correct label = predicted label
+        correct_label = doc.document_type
+    else:
+        if not correct_label:
+            raise HTTPException(
+                status_code=422,
+                detail="correct_label is required when is_correct=false",
+            )
+        correct_label = correct_label.lower().replace(" ", "_")
+        if correct_label not in KNOWN_CLASSES:
+            raise HTTPException(
+                status_code=422,
+                detail=f"Unknown label '{correct_label}'. "
+                       f"Valid options: {sorted(KNOWN_CLASSES)}",
+            )
+
+    fb = await insert_feedback(
+        db,
+        doc_log_id=job_id,
+        predicted_label=doc.document_type,
+        correct_label=correct_label,
+        is_correct=bool(is_correct),
+        user_note=user_note,
+    )
+
+    logger.info(
+        f"FEEDBACK job_id={job_id} predicted={doc.document_type} "
+        f"correct={correct_label} is_correct={is_correct}"
+    )
+
+    return {
+        "feedback_id": fb.id,
+        "job_id": job_id,
+        "predicted_label": doc.document_type,
+        "correct_label": correct_label,
+        "is_correct": fb.is_correct,
+        "created_at": fb.created_at.isoformat(),
+    }
+
+
+@app.get("/metrics")
+async def model_metrics(db: AsyncSession = Depends(get_db)):
+    """
+    Live model performance metrics derived from user feedback.
+
+    Returns per-class precision, recall, F1, support, a confusion matrix,
+    overall agreement rate, and macro-averaged F1.  All computed from
+    FeedbackLog rows — i.e. real-world human corrections, not held-out data.
+    """
+    return await get_model_metrics(db)

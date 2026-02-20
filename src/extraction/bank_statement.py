@@ -1,5 +1,7 @@
 import re
 
+from src.analysis.fraud import run_fraud_analysis
+
 
 def extract_bank_statement_fields(text: str) -> dict:
     fields = {}
@@ -18,6 +20,9 @@ def extract_bank_statement_fields(text: str) -> dict:
     fields["closing_balance"] = _regex(
         text, r"(?:closing|ending)\s*balance[:\s\$]*([0-9,]+\.\d{2})", group=1
     )
+
+    # Fraud analysis — returned as a plain dict (not {value, confidence})
+    fields["fraud_analysis"] = run_fraud_analysis(text)
 
     return fields
 

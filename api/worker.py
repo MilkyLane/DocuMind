@@ -24,6 +24,8 @@ from dotenv import load_dotenv
 from src.db.crud import insert_document_log
 from src.db.database import AsyncSessionLocal
 from src.inference.predict import predict
+from src.inference.explain import explain
+from src.ocr.ocr_utils import extract_text
 from src.utils.logging import get_logger
 
 load_dotenv()
@@ -101,6 +103,7 @@ async def predict_document_task(
     async with AsyncSessionLocal() as db:
         await insert_document_log(
             db,
+            id=job_id,
             filename=filename,
             file_extension=file_extension,
             document_type=result.get("document_type", "unknown"),
@@ -117,10 +120,51 @@ async def predict_document_task(
 
 
 # ---------------------------------------------------------------------------
+# Explain task — OCR + explainability only (no extraction, no DB log)
+# ---------------------------------------------------------------------------
+async def explain_document_task(
+    ctx: dict,
+    *,
+    job_id: str,
+    filename: str,
+) -> None:
+    """
+    Runs OCR on the stored file bytes then calls explain() to return the
+    top TF-IDF features that drove the classification.
+    Result is stored in Redis under the same RESULT_KEY_PREFIX as predict.
+    """
+    redis: ArqRedis = ctx["redis"]
+
+    raw: bytes | None = await redis.get(f"{FILE_KEY_PREFIX}{job_id}")
+    if raw is None:
+        result = {"status": "error", "reason": "File bytes expired before processing"}
+        await redis.set(f"{RESULT_KEY_PREFIX}{job_id}", json.dumps(result), ex=RESULT_TTL_SECONDS)
+        return
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        tmp_path = Path(tmpdir) / filename
+        tmp_path.write_bytes(raw)
+        try:
+            text = extract_text(tmp_path)
+            if len(text.strip()) < 100:
+                result = {"status": "ocr_failed", "reason": "OCR produced insufficient text"}
+            else:
+                explanation = explain(text)
+                result = {"status": "success", **explanation}
+        except Exception as exc:
+            logger.error(f"WORKER explain error job_id={job_id} error={exc}")
+            result = {"status": "error", "reason": str(exc)}
+
+    await redis.set(f"{RESULT_KEY_PREFIX}{job_id}", json.dumps(result), ex=RESULT_TTL_SECONDS)
+    await redis.delete(f"{FILE_KEY_PREFIX}{job_id}")
+    logger.info(f"WORKER explain done job_id={job_id} status={result.get('status')}")
+
+
+# ---------------------------------------------------------------------------
 # Worker settings — used by: arq api.worker.WorkerSettings
 # ---------------------------------------------------------------------------
 class WorkerSettings:
-    functions = [predict_document_task]
+    functions = [predict_document_task, explain_document_task]
     redis_settings = RedisSettings.from_dsn(REDIS_URL)
 
     @staticmethod
