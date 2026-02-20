@@ -66,12 +66,31 @@ async def create_test_tables():
 
 
 # ---------------------------------------------------------------------------
-# Per-test DB session (rolls back after each test)
+# Per-test DB session — each test gets its own connection that is rolled
+# back at the end, so rows never bleed between tests.
 # ---------------------------------------------------------------------------
 @pytest_asyncio.fixture
 async def db_session() -> AsyncGenerator[AsyncSession, None]:
-    async with TestSessionLocal() as session:
-        yield session
+    async with test_engine.connect() as conn:
+        await conn.begin()
+        # Open a SAVEPOINT so that commit() calls inside CRUD only flush to
+        # the savepoint, not to the real transaction.
+        await conn.begin_nested()
+        session = AsyncSession(bind=conn, expire_on_commit=False)
+
+        # Patch commit → flush so CRUD's commit() doesn't close the outer txn
+        original_commit = session.commit
+        async def _safe_commit():
+            await session.flush()
+            # Re-open the savepoint so the next CRUD call still works
+            await conn.begin_nested()
+        session.commit = _safe_commit  # type: ignore[method-assign]
+
+        try:
+            yield session
+        finally:
+            await session.close()
+            await conn.rollback()
 
 
 # ---------------------------------------------------------------------------
@@ -117,7 +136,8 @@ async def client(db_session, mock_arq, mock_redis) -> AsyncGenerator[AsyncClient
     from api.main import app
     from src.db.database import get_db
 
-    # Override the DB dependency
+    # Every request uses the SAME db_session so inserts made by the endpoint
+    # are visible to the test (and rolled back afterwards).
     async def override_get_db():
         yield db_session
 
@@ -153,7 +173,7 @@ async def seed_document(db_session):
         status: str = "success",
         job_id: str | None = None,
     ):
-        return await insert_document_log(
+        doc = await insert_document_log(
             db_session,
             id=job_id or str(uuid.uuid4()),
             filename="test_doc.pdf",
@@ -164,5 +184,6 @@ async def seed_document(db_session):
             total_seconds=1.0,
             file_size_bytes=1024,
         )
+        return doc
 
     return _seed
