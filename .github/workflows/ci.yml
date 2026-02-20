@@ -15,8 +15,8 @@ jobs:
       # Dummy values — tests use SQLite + mocked Redis, so these are never
       # actually connected to.  They must exist so database.py / main.py
       # don't crash on import.
-      DATABASE_URL: sqlite+aiosqlite:///:memory:
-      REDIS_URL: redis://localhost:6379
+      DATABASE_URL: "sqlite+aiosqlite:///:memory:"
+      REDIS_URL: "redis://localhost:6379"
       INLINE_WAIT_SECONDS: "0.1"
 
     steps:
