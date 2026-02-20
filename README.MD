@@ -1,5 +1,7 @@
 # DocuMind
 
+[![CI](https://github.com/MilkyLane/DocuMind/actions/workflows/ci.yml/badge.svg)](https://github.com/MilkyLane/DocuMind/actions/workflows/ci.yml)
+
 An end-to-end document intelligence system. Upload a PDF, image, or scan — DocuMind OCRs it, classifies the document type, extracts structured fields, runs a statistical fraud analysis (on bank statements), and explains why the model made its decision. Every prediction can be rated by a human, and live model metrics are computed from those ratings in real time.
 
 ---
