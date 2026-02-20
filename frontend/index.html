@@ -881,12 +881,15 @@
       .badge { display: none; }
       .nav-links { display: none; }
 
-      /* Layout: single column */
+      /* Layout: single column, prevent cards blowing out grid */
       main {
-        grid-template-columns: 1fr;
+        grid-template-columns: minmax(0, 1fr);
         padding: 1rem .85rem 3rem;
         gap: 1rem;
+        width: 100%;
+        box-sizing: border-box;
       }
+      .card { min-width: 0; overflow: hidden; }
       #upload-card  { grid-column: 1; grid-row: 1; }
       #stats-card   { grid-column: 1; grid-row: 2; }
       #result-card  { grid-column: 1; grid-row: 3; }
@@ -905,8 +908,9 @@
       .result-actions { flex-wrap: wrap; width: 100%; }
       .result-actions .btn-sm { flex: 1; justify-content: center; }
 
-      /* Fields: single column */
+      /* Fields: single column, prevent value overflow */
       .fields-grid { grid-template-columns: 1fr; }
+      .field-value { word-break: break-word; overflow-wrap: anywhere; }
 
       /* Explainability: shrink term width */
       .explain-term { width: 110px; font-size: .7rem; }
@@ -925,14 +929,14 @@
       .metrics-header-row { gap: .5rem; }
       .metric-chip { flex: 1; min-width: 0; }
 
-      /* Confusion matrix: allow horizontal scroll */
-      .confusion-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      /* Confusion matrix: scroll inside the card only */
+      .confusion-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; }
       .confusion-table { font-size: .65rem; }
       .confusion-table th, .confusion-table td { min-width: 40px; padding: .25rem .35rem; }
 
-      /* Logs table: horizontal scroll */
-      .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-      table { min-width: 560px; }
+      /* Logs table: scroll inside the card only, not the page */
+      .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; }
+      .table-wrap table { min-width: 560px; }
 
       /* Toast: full width at bottom */
       #toast { left: .75rem; right: .75rem; bottom: 1rem; justify-content: center; }
