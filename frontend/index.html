@@ -823,15 +823,125 @@
       align-items: center;
     }
 
+    /* ── Hamburger menu (mobile nav) ────────────────────────────────────── */
+    #hamburger {
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 36px;
+      height: 36px;
+      padding: 6px;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    #hamburger span {
+      display: block;
+      height: 2px;
+      background: var(--text);
+      border-radius: 2px;
+      transition: transform .2s, opacity .2s;
+    }
+    #mobile-nav {
+      display: none;
+      flex-direction: column;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: .5rem 1rem 1rem;
+      gap: .1rem;
+    }
+    #mobile-nav a {
+      display: block;
+      padding: .65rem .5rem;
+      font-size: .9rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+    }
+    #mobile-nav a:last-child { border-bottom: none; }
+    #mobile-nav a:hover { color: var(--text); text-decoration: none; }
+    #mobile-nav.open { display: flex; }
+
+    @media (max-width: 760px) {
+      #hamburger { display: flex; }
+    }
+
     /* ── Responsive ─────────────────────────────────────────────────────── */
     @media (max-width: 760px) {
-      main { grid-template-columns: 1fr; padding: 1.25rem 1rem 3rem; }
-      #upload-card, #stats-card, #result-card, #metrics-card, #logs-card { grid-column: 1; }
-      #stats-card    { grid-row: 2; }
-      #result-card   { grid-row: 3; }
-      #metrics-card  { grid-row: 4; }
-      #logs-card     { grid-row: 5; }
+      html { font-size: 14px; }
+
+      /* Header */
+      header { padding: 0 1rem; height: 54px; }
+      .badge { display: none; }
       .nav-links { display: none; }
+
+      /* Layout: single column */
+      main {
+        grid-template-columns: 1fr;
+        padding: 1rem .85rem 3rem;
+        gap: 1rem;
+      }
+      #upload-card  { grid-column: 1; grid-row: 1; }
+      #stats-card   { grid-column: 1; grid-row: 2; }
+      #result-card  { grid-column: 1; grid-row: 3; }
+      #metrics-card { grid-column: 1; grid-row: 4; }
+      #logs-card    { grid-column: 1; grid-row: 5; }
+
+      /* Drop zone */
+      #drop-zone { padding: 2rem 1rem; }
+
+      /* Stats grid — 2 cols still fine on mobile */
+      .stat-grid { grid-template-columns: 1fr 1fr; }
+      .stat-value { font-size: 1.35rem; }
+
+      /* Result header: stack vertically */
+      .result-header { flex-direction: column; align-items: flex-start; gap: .6rem; }
+      .result-actions { flex-wrap: wrap; width: 100%; }
+      .result-actions .btn-sm { flex: 1; justify-content: center; }
+
+      /* Fields: single column */
+      .fields-grid { grid-template-columns: 1fr; }
+
+      /* Explainability: shrink term width */
+      .explain-term { width: 110px; font-size: .7rem; }
+      .explain-dir  { width: 38px; font-size: .62rem; }
+      .explain-weight { width: 40px; }
+
+      /* Fraud: single column */
+      .fraud-flags-grid { grid-template-columns: 1fr; }
+
+      /* Feedback buttons: full width */
+      .feedback-row { flex-direction: column; align-items: flex-start; }
+      .thumb-btn { width: 100%; justify-content: center; }
+
+      /* Metrics grid: single column */
+      .metrics-grid { grid-template-columns: 1fr; }
+      .metrics-header-row { gap: .5rem; }
+      .metric-chip { flex: 1; min-width: 0; }
+
+      /* Confusion matrix: allow horizontal scroll */
+      .confusion-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .confusion-table { font-size: .65rem; }
+      .confusion-table th, .confusion-table td { min-width: 40px; padding: .25rem .35rem; }
+
+      /* Logs table: horizontal scroll */
+      .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      table { min-width: 560px; }
+
+      /* Toast: full width at bottom */
+      #toast { left: .75rem; right: .75rem; bottom: 1rem; justify-content: center; }
+
+      /* Footer: stack */
+      footer { flex-direction: column; gap: .35rem; text-align: center; padding: .85rem 1rem; }
+    }
+
+    /* Very small screens (≤400px) */
+    @media (max-width: 400px) {
+      .stat-grid { grid-template-columns: 1fr; }
+      .stat-value { font-size: 1.5rem; }
+      .explain-term { width: 90px; }
+      .cls-name { width: 90px; }
     }
   </style>
 </head>
@@ -853,7 +963,18 @@
     <a href="#logs-card">Logs</a>
     <a href="/docs" target="_blank">API Docs</a>
   </nav>
+  <button id="hamburger" aria-label="Open menu" onclick="document.getElementById('mobile-nav').classList.toggle('open')">
+    <span></span><span></span><span></span>
+  </button>
 </header>
+
+<!-- ── Mobile nav ─────────────────────────────────────────────────────────── -->
+<div id="mobile-nav">
+  <a href="#" onclick="scrollTo(0,0);document.getElementById('mobile-nav').classList.remove('open');return false;">Analyse</a>
+  <a href="#metrics-card" onclick="document.getElementById('mobile-nav').classList.remove('open')">Metrics</a>
+  <a href="#logs-card" onclick="document.getElementById('mobile-nav').classList.remove('open')">Logs</a>
+  <a href="/docs" target="_blank" onclick="document.getElementById('mobile-nav').classList.remove('open')">API Docs ↗</a>
+</div>
 
 <!-- ── Main ───────────────────────────────────────────────────────────────── -->
 <main>
