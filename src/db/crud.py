@@ -234,7 +234,7 @@ async def get_model_metrics(db: AsyncSession) -> dict[str, Any]:
         "macro_f1":        macro_f1,
         "per_class":       per_class,
         "confusion_matrix": {
-            actual: {pred: confusion[actual].get(pred, 0) for pred in sorted_classes}
+            actual: {pred: confusion.get(actual, {}).get(pred, 0) for pred in sorted_classes}
             for actual in sorted_classes
         },
         "classes": sorted_classes,
