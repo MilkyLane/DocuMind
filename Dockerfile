@@ -46,4 +46,4 @@ RUN useradd -m appuser && chown -R appuser /app
 USER appuser
 
 # Use shell form so $PORT is expanded at runtime (Railway injects PORT env var)
-CMD uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}
+CMD ["sh", "-c", "uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
